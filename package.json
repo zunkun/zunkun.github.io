@@ -1,0 +1,20 @@
+{
+  "name": "note",
+  "version": "1.0.0",
+  "description": "note",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "author": "zunkun",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-plugin-vue": "^9.9.0",
+    "prettier": "^2.8.4",
+    "vitepress": "^1.0.0-alpha.46",
+    "vue": "^3.2.47"
+  }
+}
