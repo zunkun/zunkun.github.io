@@ -1,7 +1,7 @@
 {
-  "name": "note",
+  "name": "notebook",
   "version": "1.0.0",
-  "description": "note",
+  "description": "得時笔记，记录工作和生活",
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev docs",
