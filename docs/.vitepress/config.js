@@ -13,7 +13,6 @@ import themeConfig from './config/themeConfig';
 const config = {
   title: '得時笔记',
   description: '记录工作，计算机技术',
-  lastUpdated: true,
   // plugins: [SearchPlugin(searchOptions)],
   themeConfig,
 };
