@@ -94,6 +94,7 @@ export function getAndSetTopics(options = {}) {
   const entries = sync('docs/topics/**', {
     onlyDirectories: true,
     objectMode: true,
+    deep: 1,
     ignore: ignoreNames,
     ...options,
   });
@@ -101,9 +102,11 @@ export function getAndSetTopics(options = {}) {
   const topics = [];
 
   entries.forEach(entry => {
+    console.log(entry);
     topics.push({
       name: entry.name,
       path: `/topics/${entry.name}/`,
+      // path: entry.path.slice(4),
     });
   });
 
