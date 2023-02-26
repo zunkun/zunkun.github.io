@@ -1,7 +1,10 @@
 // import { SearchPlugin } from 'vitepress-plugin-search';
 
 import './init';
+import mathjax3 from 'markdown-it-mathjax3';
 import themeConfig from './config/themeConfig';
+
+const customElements = ['mjx-container', 'mo', 'math', 'mn', 'mi', 'mjx-assistive-mml', 'mrow'];
 
 // default options
 // var searchOptions = {
@@ -11,11 +14,29 @@ import themeConfig from './config/themeConfig';
 // };
 
 const config = {
-  lang: 'zh_CN',
+  lang: 'zh-CN',
   title: '得時笔记',
   description: '记录工作，计算机技术',
+  lastUpdated: true,
   // plugins: [SearchPlugin(searchOptions)],
   themeConfig,
+  head: [
+    ['script', { src: 'https://cdn.bootcdn.net/ajax/libs/medium-zoom/1.0.8/medium-zoom.min.js' }],
+  ],
+  markdown: {
+    lineNumbers: true,
+    config: md => {
+      // use more markdown-it plugins!
+      md.use(mathjax3);
+    },
+  },
+  vue: {
+    template: {
+      compilerOptions: {
+        isCustomElement: tag => customElements.includes(tag),
+      },
+    },
+  },
 };
 
 export default config;
