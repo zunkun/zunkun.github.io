@@ -1,7 +1,9 @@
 import { sync } from 'fast-glob';
 import path from 'path';
+import { readFileSync, writeFileSync, existsSync } from 'fs';
 
 const ignoreNames = ['index.md', '草稿'];
+const topicPath = 'docs/topics/topic.json';
 
 /** 获取目录路径 */
 export function getDirPath(itemPath) {
@@ -81,4 +83,45 @@ export function getItemsByNum(itemPath, options = {}) {
     items.push(item);
   });
   return items;
+}
+
+/**
+ * 生成专题目录
+ */
+export function getAndSetTopics(options = {}) {
+  console.log('生成专题目录配置文件');
+
+  const entries = sync('docs/topics/**', {
+    onlyDirectories: true,
+    objectMode: true,
+    ignore: ignoreNames,
+    ...options,
+  });
+
+  const topics = [];
+
+  entries.forEach(entry => {
+    topics.push({
+      name: entry.name,
+      path: `/topics/${entry.name}/`,
+    });
+  });
+
+  writeFileSync(topicPath, JSON.stringify(topics, null, '\t'));
+
+  return topics;
+}
+
+export function getTopics() {
+  const fileExist = existsSync(topicPath);
+  if (!fileExist) {
+    const topics = getAndSetTopics();
+    return topics;
+  }
+
+  const fileData = readFileSync(topicPath, 'utf-8');
+
+  const topics = JSON.parse(fileData || '[]');
+
+  return topics;
 }

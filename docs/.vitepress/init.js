@@ -1,6 +1,6 @@
 import fs from 'fs';
 import { sync } from 'fast-glob';
-import { parseNameAndLink } from './config/utils';
+import { getAndSetTopics, parseNameAndLink } from './config/utils';
 
 const ignoreNames = ['.vitepress', '*.json', '*.index.md'];
 
@@ -43,7 +43,7 @@ function initFolers(itemPath, options = {}) {
 /**
  * 整理文档和目录
  */
-export default function initDocs() {
+export function initDocs() {
   console.log('-------------------------------');
   console.log('开始整理文档目录');
 
@@ -52,4 +52,9 @@ export default function initDocs() {
   console.log('结束整理文档目录');
 }
 
-initDocs();
+export default function init() {
+  initDocs();
+  getAndSetTopics();
+}
+
+init();
