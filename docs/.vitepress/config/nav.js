@@ -36,6 +36,11 @@ const nav = [
     link: '/tags',
     activeMatch: '/tags',
   },
+  {
+    text: '生活感悟',
+    link: '/ideas/',
+    activeMatch: '/ideas/',
+  },
 ];
 
 export default nav;

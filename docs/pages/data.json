@@ -12,6 +12,37 @@
 		"path": "/categories/"
 	},
 	{
+		"title": "生活感悟",
+		"date": "2023-02-27",
+		"udate": "2023-02-27",
+		"year": 2023,
+		"month": "02",
+		"ym": "2023-02",
+		"ymd": "2023-02-27",
+		"fileName": "index.md",
+		"filePath": "docs/ideas/index.md",
+		"path": "/ideas/"
+	},
+	{
+		"title": "动手去做",
+		"date": "2021-01-03T20:36:46.000Z",
+		"toc": true,
+		"categories": [
+			"知识学习"
+		],
+		"tags": [
+			"格言"
+		],
+		"udate": "2023-02-27",
+		"year": 2021,
+		"month": "01",
+		"ym": "2021-01",
+		"ymd": "2021-01-04",
+		"fileName": "动手去做.md",
+		"filePath": "docs/ideas/动手去做.md",
+		"path": "/ideas/动手去做"
+	},
+	{
 		"title": "网络",
 		"date": "2023-02-25",
 		"udate": "2023-02-25",
@@ -300,6 +331,47 @@
 		"path": "/categories/Tools/"
 	},
 	{
+		"title": "Window上Redis替代方案-Memurai",
+		"date": "2021-01-27T18:04:26.000Z",
+		"toc": true,
+		"categories": [
+			"知识学习",
+			"技术"
+		],
+		"tags": [
+			"Redis"
+		],
+		"udate": "2023-02-27",
+		"year": 2021,
+		"month": "01",
+		"ym": "2021-01",
+		"ymd": "2021-01-28",
+		"fileName": "RedisOnWindows.md",
+		"filePath": "docs/categories/Tools/RedisOnWindows.md",
+		"path": "/categories/Tools/RedisOnWindows"
+	},
+	{
+		"title": "Redis分布式锁",
+		"date": "2021-01-27T20:35:45.000Z",
+		"toc": true,
+		"profile": false,
+		"categories": [
+			"知识学习",
+			"技术"
+		],
+		"tags": [
+			"Redis"
+		],
+		"udate": "2023-02-27",
+		"year": 2021,
+		"month": "01",
+		"ym": "2021-01",
+		"ymd": "2021-01-28",
+		"fileName": "Redis分布式锁.md",
+		"filePath": "docs/categories/Tools/Redis分布式锁.md",
+		"path": "/categories/Tools/Redis分布式锁"
+	},
+	{
 		"title": "测试",
 		"date": "2023-02-25",
 		"udate": "2023-02-25",
@@ -538,6 +610,56 @@
 		"fileName": "index.md",
 		"filePath": "docs/categories/CSS/垂直居中/index.md",
 		"path": "/categories/CSS/垂直居中/"
+	},
+	{
+		"title": "LeetCode",
+		"date": "2023-02-27",
+		"udate": "2023-02-27",
+		"year": 2023,
+		"month": "02",
+		"ym": "2023-02",
+		"ymd": "2023-02-27",
+		"fileName": "index.md",
+		"filePath": "docs/topics/基础算法/LeetCode/index.md",
+		"path": "/topics/基础算法/LeetCode/"
+	},
+	{
+		"title": "Leetcode1-两数之和",
+		"date": "2021-02-04T20:36:46.000Z",
+		"toc": true,
+		"categories": [
+			"leetcode"
+		],
+		"tags": [
+			"leetcode"
+		],
+		"udate": "2023-02-27",
+		"year": 2021,
+		"month": "02",
+		"ym": "2021-02",
+		"ymd": "2021-02-05",
+		"fileName": "Leetcode1-两数之和.md",
+		"filePath": "docs/topics/基础算法/LeetCode/Leetcode1-两数之和.md",
+		"path": "/topics/基础算法/LeetCode/Leetcode1-两数之和"
+	},
+	{
+		"title": "Leetcode351:两个数组交集",
+		"date": "2021-02-05T19:48:05.000Z",
+		"toc": true,
+		"categories": [
+			"leetcode"
+		],
+		"tags": [
+			"leetcode"
+		],
+		"udate": "2023-02-27",
+		"year": 2021,
+		"month": "02",
+		"ym": "2021-02",
+		"ymd": "2021-02-06",
+		"fileName": "Leetcode351-两个数组交集.md",
+		"filePath": "docs/topics/基础算法/LeetCode/Leetcode351-两个数组交集.md",
+		"path": "/topics/基础算法/LeetCode/Leetcode351-两个数组交集"
 	},
 	{
 		"title": "排序",

@@ -11,6 +11,7 @@ function getSidebar() {
     '/categories/JavaScript': getItemsByNum('/categories/JavaScript'),
     '/categories/CSS': getItemsByNum('/categories/CSS'),
     '/categories/Tools': getItemsByNum('/categories/Tools'),
+    '/ideas': getItemsByNum('/ideas'),
 
     // // 专题
     // '/topics/基础算法': getItemsByNum('/topics/基础算法'),

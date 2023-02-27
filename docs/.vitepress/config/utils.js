@@ -72,9 +72,13 @@ export function parseNameAndLink(entryPath, isDirectory) {
   }
 
   const pathData = path.parse(entryPath);
-  const { dir, name } = pathData;
+  let { dir, name } = pathData;
   let linkPath = dir.startsWith('docs/') ? dir.slice(5) : dir;
   linkPath = isDirectory ? `${linkPath}/${name}/` : `${linkPath}/${name}`;
+
+  if (name === 'index') {
+    name = '解释说明';
+  }
 
   return {
     name,
