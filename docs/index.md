@@ -13,6 +13,6 @@ hero:
       link: /pages/
     - theme: alt
       text: 专题列表
-      link:  /topics/
+      link: /topics/
 ---
 
