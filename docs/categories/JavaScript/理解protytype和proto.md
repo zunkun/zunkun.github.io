@@ -5,10 +5,10 @@ title: 理解protytype和proto
 # 理解protytype和proto
 
 先上图
-![图1](/protovsprototype.jpg)
+![图1](/protovsprototype.jpg){zoom}
 另一张
 
-![图3](/protoaa.png)
+![图3](/protoaa.png){zoom}
 
 
 ## 总结：
@@ -29,7 +29,7 @@ title: 理解protytype和proto
 
 ### 示例1
 
-![图2](/proto2.png)
+![图2](/proto2.png){zoom}
 
 
 ```js

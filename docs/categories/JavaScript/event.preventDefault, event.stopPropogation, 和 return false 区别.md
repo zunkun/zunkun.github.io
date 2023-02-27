@@ -11,7 +11,7 @@ title: event.preventDefault, event.stopPropogation, 和 return false 区别
 
 在此之前，先复习一下事件机制。dom事件通常会有三种情况：捕获阶段：从外向里依次查找元素。目标阶段：从当前事件源本身的操作冒泡阶段：从内到外依次触发相关的行为。
 
-![事件捕获](/public/事件捕获.png)
+![事件捕获](/事件捕获.png){zoom}
 
 
 从图中可知，有些情况我们不让父元素触发子元素所带来的事件。所以ev.preventDefault()和ev.stopPropagation()以及return false就出来了。
@@ -69,7 +69,7 @@ function stopDefault( e ) {
 
 点击child的结果会触发事件冒泡。结果如下：
 
-![事件冒泡](/事件冒泡.png)
+![事件冒泡](/事件冒泡.png){zoom}
 
 如果要实现只出现child，那么就要用到ev.stopPropagation() 了。
 
@@ -93,7 +93,7 @@ function stopDefault( e ) {
 
 结果如下：点击child只出现child。
 
-![事件冒泡](/事件冒泡2.png)
+![事件冒泡](/事件冒泡2.png){zoom}
 
 这个有兼容性， IE8 及以前版本都不支持，IE 的事件对象包含特有的属性
 

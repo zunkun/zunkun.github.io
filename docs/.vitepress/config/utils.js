@@ -102,7 +102,6 @@ export function getAndSetTopics(options = {}) {
   const topics = [];
 
   entries.forEach(entry => {
-    console.log(entry);
     topics.push({
       name: entry.name,
       path: `/topics/${entry.name}/`,

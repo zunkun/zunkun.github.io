@@ -20,9 +20,7 @@ const config = {
   lastUpdated: true,
   // plugins: [SearchPlugin(searchOptions)],
   themeConfig,
-  head: [
-    ['script', { src: 'https://cdn.bootcdn.net/ajax/libs/medium-zoom/1.0.8/medium-zoom.min.js' }],
-  ],
+  head: [['link', { rel: 'stylesheet', href: '/global.css' }]],
   markdown: {
     lineNumbers: true,
     config: md => {

@@ -50,13 +50,13 @@ export function EntryNodeOfLoop(pHead: ListNode): ListNode {
 
 ## **为什么ptr和slow相遇的节点一定是入环点？**
 
-![BM7-1](/BM7-1.jpg)
+![BM7-1](/BM7-1.jpg){zoom}
 
 如图所示，假设环外部分长度为a，slow指针进入环后，又走了b的距离与fast相遇。此时，fast指针已经走完了环的n圈，因此它走过的总距离为： a+n(b+c)+b=a+(n+1)b+nc
 
 任意时刻，fast指针走过的距离都为slow指针的2倍，而且由问题2的解答，我们已经知道，slow指针是不可能绕环超过一圈的，即相遇时，flow走的距离为a+b。因此得出关系式：
 
-![BM7](/BM7.svg)
+![BM7](/BM7.svg){zoom}
 
 a=c+(n−1)(b+c)这个等量关系特别重要，其中c表示slow与fast指针相遇位置到入环点的距离，而(n−1)(b+c)则是 n-1圈的环长。
 

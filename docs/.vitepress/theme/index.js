@@ -1,11 +1,10 @@
 // .vitepress/theme/index.js
 import DefaultTheme from 'vitepress/theme';
-import mediumZoom from 'medium-zoom';
+// import mediumZoom from 'medium-zoom';
+import mediumZoom from 'https://cdn.bootcdn.net/ajax/libs/medium-zoom/1.0.8/medium-zoom.esm.min.js';
 import { onMounted } from 'vue';
 import Layout from './Layout.vue';
 import TopicList from './TopicList.vue';
-
-import './index.css';
 
 export default {
   ...DefaultTheme,
@@ -18,6 +17,7 @@ export default {
   },
   setup() {
     onMounted(() => {
+      console.log(mediumZoom);
       mediumZoom('[zoom]', {
         scrollOffset: undefined,
         background: '#00000073',

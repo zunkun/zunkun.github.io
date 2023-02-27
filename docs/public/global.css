@@ -14,3 +14,16 @@ mjx-container > svg {
 .medium-zoom-image {
   z-index: 1000 !important;
 }
+
+body {
+  height: 100vh !important;
+}
+
+#app {
+  height: 100%;
+}
+
+
+img {
+  cursor: pointer;
+}

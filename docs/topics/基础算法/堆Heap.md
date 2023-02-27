@@ -10,7 +10,7 @@ title: 堆Heap
 
 堆通常是一个可以被看做一棵完全二叉树的数组对象，如下图：
 
-![heap1.png](/heap1.png)
+![heap1.png](/heap1.png){zoom}
 
 总是满足下列性质：
 
@@ -26,7 +26,7 @@ title: 堆Heap
 
 堆的元素存储方式，按照完全二叉树的顺序存储方式存储在一个一维数组中，如下图：
 
-![heap11.png](/heap11.png)
+![heap11.png](/heap11.png){zoom}
 
 
 用一维数组存储则如下：
@@ -51,7 +51,7 @@ title: 堆Heap
 
 如下图所示，22节点是新插入的元素，然后进行上移操作：
 
-![heap2.png][/heap2.png)
+![heap2.png][/heap2.png){zoom}
 
 ## 删除
 
@@ -61,7 +61,7 @@ title: 堆Heap
 
 整体如下图操作：
 
-![heap3.png](/heap3.png)
+![heap3.png](/heap3.png){zoom}
 
 最小堆
 
