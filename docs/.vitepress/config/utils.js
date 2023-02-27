@@ -77,7 +77,7 @@ export function parseNameAndLink(entryPath, isDirectory) {
   linkPath = isDirectory ? `${linkPath}/${name}/` : `${linkPath}/${name}`;
 
   if (name === 'index') {
-    name = '解释说明';
+    name = '文章说明';
   }
 
   return {
