@@ -1,5 +1,7 @@
 ---
 title: Promise实现
+date: '2023-02-25'
+udate: '2023-02-25'
 ---
 
 # Promise实现

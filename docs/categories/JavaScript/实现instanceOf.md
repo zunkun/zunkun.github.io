@@ -1,5 +1,7 @@
 ---
 title: 实现instanceOf
+date: '2023-02-26'
+udate: '2023-02-26'
 ---
 
 # 实现instanceOf

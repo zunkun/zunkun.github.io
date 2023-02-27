@@ -2,8 +2,46 @@ import { sync } from 'fast-glob';
 import path from 'path';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 
-const ignoreNames = ['index.md', '草稿'];
+const ignoreNames = ['*index.md', '*.json', 'pages', '草稿', 'home', 'public'];
 const topicPath = 'docs/topics/topic.json';
+
+export function getDateInfo(date = new Date()) {
+  // eslint-disable-next-line no-param-reassign
+  date = new Date(date);
+  const year = date.getFullYear();
+  const month = date.getMonth() + 1;
+  const day = date.getDate();
+
+  const monthStr = month < 10 ? `0${month}` : month;
+  const dayStr = day < 10 ? `0${day}` : day;
+
+  return {
+    year,
+    month: monthStr,
+    ym: `${year}-${monthStr}`,
+    ymd: `${year}-${monthStr}-${dayStr}`,
+  };
+}
+
+/**
+ * 获取文章标题
+ * @param {object} param file entry
+ * @returns
+ */
+export function getFileTitle({ name, path: filePath }) {
+  if (name !== 'index.md') return name.split('.')[0];
+
+  const arr = filePath.split('/');
+
+  // eslint-disable-next-line no-plusplus
+  for (let i = arr.length - 1; i--; i >= 0) {
+    if (arr[i] !== 'index.md') {
+      return arr[i].split('.')[0];
+    }
+  }
+
+  return name;
+}
 
 /** 获取目录路径 */
 export function getDirPath(itemPath) {
@@ -44,6 +82,21 @@ export function parseNameAndLink(entryPath, isDirectory) {
   };
 }
 
+export function getFilePath(sourceFilePath = '') {
+  let targetFilePath = sourceFilePath;
+  if (targetFilePath.startsWith('docs/')) {
+    targetFilePath = targetFilePath.slice(4);
+  }
+  if (targetFilePath.endsWith('index.md')) {
+    targetFilePath = targetFilePath.slice(0, targetFilePath.length - 8);
+  }
+
+  if (targetFilePath.endsWith('.md')) {
+    targetFilePath = targetFilePath.slice(0, targetFilePath.length - 3);
+  }
+  return targetFilePath;
+}
+
 /**
  * @param {string} itemPath item path
  * 根据数字顺序获取sidebar列表
@@ -59,7 +112,7 @@ export function getItemsByNum(itemPath, options = {}) {
     objectMode: true,
     stats: true,
     markDirectories: true,
-    ignore: ['*index.md', '草稿'],
+    ignore: ignoreNames,
     ...options,
   });
 

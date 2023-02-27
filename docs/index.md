@@ -1,18 +1,18 @@
 ---
 layout: home
-
+title: 首页
+date: '2023-02-26'
+udate: '2023-02-26'
 hero:
   name: 得時笔记
   text: 一马当先，马不停蹄
-  tagline: 个人学习、工作感悟，技术整理。
-  # image:
-  #   src: /logo.png
-  #   alt: Logo
-#   actions:
-#     - theme: brand
-#       text: 马上浏览
-#       link: /categories/JavaScript/
-#     - theme: alt
-#       text: GitHub查看
-#       link: https://github.com/zunkun/zunkun.github.io
-# ---
+  tagline: 个人学习、工作感悟，技术整理
+  actions:
+    - theme: brand
+      text: 文章列表
+      link: /pages/
+    - theme: alt
+      text: 专题列表
+      link:  /topics/
+---
+

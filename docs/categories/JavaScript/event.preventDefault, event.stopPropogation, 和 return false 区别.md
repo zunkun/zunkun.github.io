@@ -1,5 +1,7 @@
 ---
-title: event.preventDefault, event.stopPropogation, 和 return false 区别
+title: 'event.preventDefault, event.stopPropogation, 和 return false 区别'
+date: '2023-02-26'
+udate: '2023-02-26'
 ---
 # event.preventDefault, event.stopPropogation, 和 return false 区别
 

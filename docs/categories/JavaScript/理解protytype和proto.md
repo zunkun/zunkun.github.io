@@ -1,5 +1,7 @@
 ---
 title: 理解protytype和proto
+date: '2023-02-26'
+udate: '2023-02-26'
 ---
 
 # 理解protytype和proto

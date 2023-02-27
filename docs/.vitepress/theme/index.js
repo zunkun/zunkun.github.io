@@ -5,6 +5,7 @@ import mediumZoom from 'https://cdn.bootcdn.net/ajax/libs/medium-zoom/1.0.8/medi
 import { onMounted } from 'vue';
 import Layout from './Layout.vue';
 import TopicList from './TopicList.vue';
+import PageList from './PageList.vue';
 
 export default {
   ...DefaultTheme,
@@ -14,6 +15,7 @@ export default {
   enhanceApp(ctx) {
     DefaultTheme.enhanceApp(ctx);
     ctx.app.component('TopicList', TopicList);
+    ctx.app.component('PageList', PageList);
   },
   setup() {
     onMounted(() => {

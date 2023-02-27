@@ -1,5 +1,7 @@
 ---
 title: 实现call、apply 及 bind 函数
+date: '2023-02-26'
+udate: '2023-02-26'
 ---
 
 # 实现call、apply 及 bind 函数

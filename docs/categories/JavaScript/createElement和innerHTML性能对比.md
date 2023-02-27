@@ -1,5 +1,7 @@
 ---
 title: createElement和innerHTML性能对比
+date: '2023-02-26'
+udate: '2023-02-26'
 ---
 
 # createElement和innerHTML性能对比
