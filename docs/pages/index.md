@@ -8,7 +8,7 @@ udate: '2023-02-27'
 <PageList :list="pageslist" />
 
 <script setup>
-import pageslist from './data.json';
+import pageslist from '/data/pages.json';
 
 </script>
 

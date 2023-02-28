@@ -1,7 +1,7 @@
 <template>
  <div class="topics">
   <div class="topic" v-for="topic in props.topics" :key="topic.name">
-    <a :href="topic.path">{{ topic.name }}</a>
+    <a :href="topic.link">{{ topic.name }}</a>
   </div>
 
  </div>

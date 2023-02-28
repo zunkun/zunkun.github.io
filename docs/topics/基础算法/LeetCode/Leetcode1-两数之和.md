@@ -13,7 +13,7 @@ udate: '2023-02-27'
 ## 题目
 Leetcode towsum 题目，题号 1
 
-![towsum](/towsum1.jpg)
+![towsum](/img/towsum1.jpg)
 
 <!-- more -->
 

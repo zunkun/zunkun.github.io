@@ -12,7 +12,7 @@ udate: '2023-02-26'
 
 堆通常是一个可以被看做一棵完全二叉树的数组对象，如下图：
 
-![heap1.png](/heap1.png){zoom}
+![heap1.png](/img/heap1.png){zoom}
 
 总是满足下列性质：
 
@@ -28,7 +28,7 @@ udate: '2023-02-26'
 
 堆的元素存储方式，按照完全二叉树的顺序存储方式存储在一个一维数组中，如下图：
 
-![heap11.png](/heap11.png){zoom}
+![heap11.png](/img/heap11.png){zoom}
 
 
 用一维数组存储则如下：
@@ -63,7 +63,7 @@ udate: '2023-02-26'
 
 整体如下图操作：
 
-![heap3.png](/heap3.png){zoom}
+![heap3.png](/img/heap3.png){zoom}
 
 最小堆
 

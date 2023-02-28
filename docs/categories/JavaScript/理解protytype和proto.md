@@ -7,10 +7,10 @@ udate: '2023-02-26'
 # 理解protytype和proto
 
 先上图
-![图1](/protovsprototype.jpg){zoom}
+![图1](/img/protovsprototype.jpg){zoom}
 另一张
 
-![图3](/protoaa.png){zoom}
+![图3](/img/protoaa.png){zoom}
 
 
 ## 总结：
@@ -31,7 +31,7 @@ udate: '2023-02-26'
 
 ### 示例1
 
-![图2](/proto2.png){zoom}
+![图2](/img/proto2.png){zoom}
 
 
 ```js

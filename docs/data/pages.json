@@ -9,7 +9,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "index.md",
 		"filePath": "docs/categories/index.md",
-		"path": "/categories/"
+		"link": "/categories/"
 	},
 	{
 		"title": "生活感悟",
@@ -21,7 +21,7 @@
 		"ymd": "2023-02-27",
 		"fileName": "index.md",
 		"filePath": "docs/ideas/index.md",
-		"path": "/ideas/"
+		"link": "/ideas/"
 	},
 	{
 		"title": "动手去做",
@@ -40,7 +40,7 @@
 		"ymd": "2021-01-04",
 		"fileName": "动手去做.md",
 		"filePath": "docs/ideas/动手去做.md",
-		"path": "/ideas/动手去做"
+		"link": "/ideas/动手去做"
 	},
 	{
 		"title": "网络",
@@ -52,19 +52,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "index.md",
 		"filePath": "docs/network/index.md",
-		"path": "/network/"
-	},
-	{
-		"title": "文章列表",
-		"date": "2023-02-27T00:00:00.000Z",
-		"udate": "2023-02-27",
-		"year": 2023,
-		"month": "02",
-		"ym": "2023-02",
-		"ymd": "2023-02-27",
-		"fileName": "index.md",
-		"filePath": "docs/pages/index.md",
-		"path": "/pages/"
+		"link": "/network/"
 	},
 	{
 		"title": "专题",
@@ -76,7 +64,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "index.md",
 		"filePath": "docs/topics/index.md",
-		"path": "/topics/"
+		"link": "/topics/"
 	},
 	{
 		"date": "2023-02-25",
@@ -88,7 +76,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "index.md",
 		"filePath": "docs/前端笔记/index.md",
-		"path": "/前端笔记/"
+		"link": "/前端笔记/"
 	},
 	{
 		"title": "CSS整理",
@@ -100,7 +88,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "index.md",
 		"filePath": "docs/categories/CSS/index.md",
-		"path": "/categories/CSS/"
+		"link": "/categories/CSS/"
 	},
 	{
 		"date": "2023-02-25",
@@ -112,7 +100,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "01-判断类型.md",
 		"filePath": "docs/categories/JavaScript/01-判断类型.md",
-		"path": "/categories/JavaScript/01-判断类型"
+		"link": "/categories/JavaScript/01-判断类型"
 	},
 	{
 		"title": "Promise实现",
@@ -124,7 +112,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "02-Promise实现.md",
 		"filePath": "docs/categories/JavaScript/02-Promise实现.md",
-		"path": "/categories/JavaScript/02-Promise实现"
+		"link": "/categories/JavaScript/02-Promise实现"
 	},
 	{
 		"title": "Proxy代理对象",
@@ -136,7 +124,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "03-Proxy代理对象.md",
 		"filePath": "docs/categories/JavaScript/03-Proxy代理对象.md",
-		"path": "/categories/JavaScript/03-Proxy代理对象"
+		"link": "/categories/JavaScript/03-Proxy代理对象"
 	},
 	{
 		"title": "createElement和innerHTML性能对比",
@@ -148,7 +136,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "createElement和innerHTML性能对比.md",
 		"filePath": "docs/categories/JavaScript/createElement和innerHTML性能对比.md",
-		"path": "/categories/JavaScript/createElement和innerHTML性能对比"
+		"link": "/categories/JavaScript/createElement和innerHTML性能对比"
 	},
 	{
 		"title": "createElement和innerHTML性能对比2",
@@ -160,7 +148,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "createElement和innerHTML性能对比2.md",
 		"filePath": "docs/categories/JavaScript/createElement和innerHTML性能对比2.md",
-		"path": "/categories/JavaScript/createElement和innerHTML性能对比2"
+		"link": "/categories/JavaScript/createElement和innerHTML性能对比2"
 	},
 	{
 		"title": "event.preventDefault, event.stopPropogation, 和 return false 区别",
@@ -172,7 +160,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "event.preventDefault, event.stopPropogation, 和 return false 区别.md",
 		"filePath": "docs/categories/JavaScript/event.preventDefault, event.stopPropogation, 和 return false 区别.md",
-		"path": "/categories/JavaScript/event.preventDefault, event.stopPropogation, 和 return false 区别"
+		"link": "/categories/JavaScript/event.preventDefault, event.stopPropogation, 和 return false 区别"
 	},
 	{
 		"title": "JavaScript笔记",
@@ -184,7 +172,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "index.md",
 		"filePath": "docs/categories/JavaScript/index.md",
-		"path": "/categories/JavaScript/"
+		"link": "/categories/JavaScript/"
 	},
 	{
 		"title": "判断数组方法",
@@ -196,7 +184,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "判断数组方法.md",
 		"filePath": "docs/categories/JavaScript/判断数组方法.md",
-		"path": "/categories/JavaScript/判断数组方法"
+		"link": "/categories/JavaScript/判断数组方法"
 	},
 	{
 		"title": "判断类型",
@@ -208,7 +196,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "判断类型.md",
 		"filePath": "docs/categories/JavaScript/判断类型.md",
-		"path": "/categories/JavaScript/判断类型"
+		"link": "/categories/JavaScript/判断类型"
 	},
 	{
 		"title": "实现call、apply 及 bind 函数",
@@ -220,7 +208,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "实现call、apply 及 bind 函数.md",
 		"filePath": "docs/categories/JavaScript/实现call、apply 及 bind 函数.md",
-		"path": "/categories/JavaScript/实现call、apply 及 bind 函数"
+		"link": "/categories/JavaScript/实现call、apply 及 bind 函数"
 	},
 	{
 		"title": "实现instanceOf",
@@ -232,7 +220,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "实现instanceOf.md",
 		"filePath": "docs/categories/JavaScript/实现instanceOf.md",
-		"path": "/categories/JavaScript/实现instanceOf"
+		"link": "/categories/JavaScript/实现instanceOf"
 	},
 	{
 		"title": "实现Map",
@@ -244,7 +232,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "实现Map.md",
 		"filePath": "docs/categories/JavaScript/实现Map.md",
-		"path": "/categories/JavaScript/实现Map"
+		"link": "/categories/JavaScript/实现Map"
 	},
 	{
 		"title": "实现Object.create",
@@ -256,7 +244,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "实现Object.create.md",
 		"filePath": "docs/categories/JavaScript/实现Object.create.md",
-		"path": "/categories/JavaScript/实现Object.create"
+		"link": "/categories/JavaScript/实现Object.create"
 	},
 	{
 		"title": "微任务和宏任务",
@@ -268,7 +256,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "微任务和宏任务.md",
 		"filePath": "docs/categories/JavaScript/微任务和宏任务.md",
-		"path": "/categories/JavaScript/微任务和宏任务"
+		"link": "/categories/JavaScript/微任务和宏任务"
 	},
 	{
 		"title": "查找文章中出现最多的单词",
@@ -280,7 +268,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "查找文章中最多的词.md",
 		"filePath": "docs/categories/JavaScript/查找文章中最多的词.md",
-		"path": "/categories/JavaScript/查找文章中最多的词"
+		"link": "/categories/JavaScript/查找文章中最多的词"
 	},
 	{
 		"title": "浅拷贝和深拷贝",
@@ -292,7 +280,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "浅拷贝和深拷贝.md",
 		"filePath": "docs/categories/JavaScript/浅拷贝和深拷贝.md",
-		"path": "/categories/JavaScript/浅拷贝和深拷贝"
+		"link": "/categories/JavaScript/浅拷贝和深拷贝"
 	},
 	{
 		"title": "理解protytype和proto",
@@ -304,7 +292,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "理解protytype和proto.md",
 		"filePath": "docs/categories/JavaScript/理解protytype和proto.md",
-		"path": "/categories/JavaScript/理解protytype和proto"
+		"link": "/categories/JavaScript/理解protytype和proto"
 	},
 	{
 		"title": "防抖和节流",
@@ -316,7 +304,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "防抖和节流.md",
 		"filePath": "docs/categories/JavaScript/防抖和节流.md",
-		"path": "/categories/JavaScript/防抖和节流"
+		"link": "/categories/JavaScript/防抖和节流"
 	},
 	{
 		"title": "工具整理",
@@ -328,7 +316,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "index.md",
 		"filePath": "docs/categories/Tools/index.md",
-		"path": "/categories/Tools/"
+		"link": "/categories/Tools/"
 	},
 	{
 		"title": "Window上Redis替代方案-Memurai",
@@ -348,7 +336,7 @@
 		"ymd": "2021-01-28",
 		"fileName": "RedisOnWindows.md",
 		"filePath": "docs/categories/Tools/RedisOnWindows.md",
-		"path": "/categories/Tools/RedisOnWindows"
+		"link": "/categories/Tools/RedisOnWindows"
 	},
 	{
 		"title": "Redis分布式锁",
@@ -369,7 +357,7 @@
 		"ymd": "2021-01-28",
 		"fileName": "Redis分布式锁.md",
 		"filePath": "docs/categories/Tools/Redis分布式锁.md",
-		"path": "/categories/Tools/Redis分布式锁"
+		"link": "/categories/Tools/Redis分布式锁"
 	},
 	{
 		"title": "测试",
@@ -381,7 +369,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "index.md",
 		"filePath": "docs/categories/测试/index.md",
-		"path": "/categories/测试/"
+		"link": "/categories/测试/"
 	},
 	{
 		"title": "图片水印",
@@ -393,7 +381,7 @@
 		"ymd": "2023-02-27",
 		"fileName": "index.md",
 		"filePath": "docs/network/图片水印/index.md",
-		"path": "/network/图片水印/"
+		"link": "/network/图片水印/"
 	},
 	{
 		"title": "网络安全",
@@ -405,7 +393,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "index.md",
 		"filePath": "docs/network/网络安全/index.md",
-		"path": "/network/网络安全/"
+		"link": "/network/网络安全/"
 	},
 	{
 		"title": "React",
@@ -417,7 +405,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "index.md",
 		"filePath": "docs/topics/React/index.md",
-		"path": "/topics/React/"
+		"link": "/topics/React/"
 	},
 	{
 		"title": "Vue",
@@ -429,7 +417,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "index.md",
 		"filePath": "docs/topics/Vue/index.md",
-		"path": "/topics/Vue/"
+		"link": "/topics/Vue/"
 	},
 	{
 		"title": "基础算法",
@@ -441,7 +429,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "index.md",
 		"filePath": "docs/topics/基础算法/index.md",
-		"path": "/topics/基础算法/"
+		"link": "/topics/基础算法/"
 	},
 	{
 		"title": "堆Heap",
@@ -453,7 +441,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "堆Heap.md",
 		"filePath": "docs/topics/基础算法/堆Heap.md",
-		"path": "/topics/基础算法/堆Heap"
+		"link": "/topics/基础算法/堆Heap"
 	},
 	{
 		"title": "测试",
@@ -465,7 +453,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "index.md",
 		"filePath": "docs/topics/测试/index.md",
-		"path": "/topics/测试/"
+		"link": "/topics/测试/"
 	},
 	{
 		"title": "设计模式",
@@ -477,7 +465,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "index.md",
 		"filePath": "docs/topics/设计模式/index.md",
-		"path": "/topics/设计模式/"
+		"link": "/topics/设计模式/"
 	},
 	{
 		"title": "单例模式",
@@ -489,7 +477,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "单例模式.md",
 		"filePath": "docs/topics/设计模式/单例模式.md",
-		"path": "/topics/设计模式/单例模式"
+		"link": "/topics/设计模式/单例模式"
 	},
 	{
 		"title": "跨域",
@@ -501,7 +489,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "index.md",
 		"filePath": "docs/topics/跨域/index.md",
-		"path": "/topics/跨域/"
+		"link": "/topics/跨域/"
 	},
 	{
 		"title": "jsonp",
@@ -513,7 +501,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "jsonp.md",
 		"filePath": "docs/topics/跨域/jsonp.md",
-		"path": "/topics/跨域/jsonp"
+		"link": "/topics/跨域/jsonp"
 	},
 	{
 		"title": "通信安全",
@@ -525,7 +513,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "index.md",
 		"filePath": "docs/topics/通信安全/index.md",
-		"path": "/topics/通信安全/"
+		"link": "/topics/通信安全/"
 	},
 	{
 		"date": "2023-02-23",
@@ -537,7 +525,7 @@
 		"ymd": "2023-02-23",
 		"fileName": "index.md",
 		"filePath": "docs/前端笔记/CSS/index.md",
-		"path": "/前端笔记/CSS/"
+		"link": "/前端笔记/CSS/"
 	},
 	{
 		"date": "2023-02-23",
@@ -549,7 +537,7 @@
 		"ymd": "2023-02-23",
 		"fileName": "index.md",
 		"filePath": "docs/前端笔记/JavaScript/index.md",
-		"path": "/前端笔记/JavaScript/"
+		"link": "/前端笔记/JavaScript/"
 	},
 	{
 		"date": "2023-02-23",
@@ -561,7 +549,7 @@
 		"ymd": "2023-02-23",
 		"fileName": "index.md",
 		"filePath": "docs/前端笔记/React/index.md",
-		"path": "/前端笔记/React/"
+		"link": "/前端笔记/React/"
 	},
 	{
 		"date": "2023-02-23",
@@ -573,7 +561,7 @@
 		"ymd": "2023-02-23",
 		"fileName": "index.md",
 		"filePath": "docs/前端笔记/Vue/index.md",
-		"path": "/前端笔记/Vue/"
+		"link": "/前端笔记/Vue/"
 	},
 	{
 		"title": "JavaScript",
@@ -585,7 +573,7 @@
 		"ymd": "2023-02-23",
 		"fileName": "index.md",
 		"filePath": "docs/前端笔记/前端工具/index.md",
-		"path": "/前端笔记/前端工具/"
+		"link": "/前端笔记/前端工具/"
 	},
 	{
 		"date": "2023-02-25",
@@ -597,7 +585,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "index.md",
 		"filePath": "docs/categories/CSS/CSS样式/index.md",
-		"path": "/categories/CSS/CSS样式/"
+		"link": "/categories/CSS/CSS样式/"
 	},
 	{
 		"title": "垂直居中",
@@ -609,7 +597,7 @@
 		"ymd": "2023-02-25",
 		"fileName": "index.md",
 		"filePath": "docs/categories/CSS/垂直居中/index.md",
-		"path": "/categories/CSS/垂直居中/"
+		"link": "/categories/CSS/垂直居中/"
 	},
 	{
 		"title": "LeetCode",
@@ -621,7 +609,7 @@
 		"ymd": "2023-02-27",
 		"fileName": "index.md",
 		"filePath": "docs/topics/基础算法/LeetCode/index.md",
-		"path": "/topics/基础算法/LeetCode/"
+		"link": "/topics/基础算法/LeetCode/"
 	},
 	{
 		"title": "Leetcode1-两数之和",
@@ -640,7 +628,7 @@
 		"ymd": "2021-02-05",
 		"fileName": "Leetcode1-两数之和.md",
 		"filePath": "docs/topics/基础算法/LeetCode/Leetcode1-两数之和.md",
-		"path": "/topics/基础算法/LeetCode/Leetcode1-两数之和"
+		"link": "/topics/基础算法/LeetCode/Leetcode1-两数之和"
 	},
 	{
 		"title": "Leetcode351:两个数组交集",
@@ -659,7 +647,7 @@
 		"ymd": "2021-02-06",
 		"fileName": "Leetcode351-两个数组交集.md",
 		"filePath": "docs/topics/基础算法/LeetCode/Leetcode351-两个数组交集.md",
-		"path": "/topics/基础算法/LeetCode/Leetcode351-两个数组交集"
+		"link": "/topics/基础算法/LeetCode/Leetcode351-两个数组交集"
 	},
 	{
 		"title": "排序",
@@ -671,7 +659,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "index.md",
 		"filePath": "docs/topics/基础算法/排序/index.md",
-		"path": "/topics/基础算法/排序/"
+		"link": "/topics/基础算法/排序/"
 	},
 	{
 		"title": "冒泡排序",
@@ -683,7 +671,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "冒泡排序.md",
 		"filePath": "docs/topics/基础算法/排序/冒泡排序.md",
-		"path": "/topics/基础算法/排序/冒泡排序"
+		"link": "/topics/基础算法/排序/冒泡排序"
 	},
 	{
 		"title": "基数排序",
@@ -695,7 +683,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "基数排序.md",
 		"filePath": "docs/topics/基础算法/排序/基数排序.md",
-		"path": "/topics/基础算法/排序/基数排序"
+		"link": "/topics/基础算法/排序/基数排序"
 	},
 	{
 		"date": "2023-02-26",
@@ -707,7 +695,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "堆排序.md",
 		"filePath": "docs/topics/基础算法/排序/堆排序.md",
-		"path": "/topics/基础算法/排序/堆排序"
+		"link": "/topics/基础算法/排序/堆排序"
 	},
 	{
 		"title": "希尔排序",
@@ -719,7 +707,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "希尔排序.md",
 		"filePath": "docs/topics/基础算法/排序/希尔排序.md",
-		"path": "/topics/基础算法/排序/希尔排序"
+		"link": "/topics/基础算法/排序/希尔排序"
 	},
 	{
 		"title": "归并排序",
@@ -731,7 +719,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "归并排序.md",
 		"filePath": "docs/topics/基础算法/排序/归并排序.md",
-		"path": "/topics/基础算法/排序/归并排序"
+		"link": "/topics/基础算法/排序/归并排序"
 	},
 	{
 		"title": "快排",
@@ -743,7 +731,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "快排.md",
 		"filePath": "docs/topics/基础算法/排序/快排.md",
-		"path": "/topics/基础算法/排序/快排"
+		"link": "/topics/基础算法/排序/快排"
 	},
 	{
 		"date": "2023-02-26",
@@ -755,7 +743,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "插入排序.md",
 		"filePath": "docs/topics/基础算法/排序/插入排序.md",
-		"path": "/topics/基础算法/排序/插入排序"
+		"link": "/topics/基础算法/排序/插入排序"
 	},
 	{
 		"title": "树形选择排序",
@@ -767,7 +755,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "树形选择排序.md",
 		"filePath": "docs/topics/基础算法/排序/树形选择排序.md",
-		"path": "/topics/基础算法/排序/树形选择排序"
+		"link": "/topics/基础算法/排序/树形选择排序"
 	},
 	{
 		"title": "桶排序",
@@ -779,7 +767,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "桶排序.md",
 		"filePath": "docs/topics/基础算法/排序/桶排序.md",
-		"path": "/topics/基础算法/排序/桶排序"
+		"link": "/topics/基础算法/排序/桶排序"
 	},
 	{
 		"title": "选择排序",
@@ -791,7 +779,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "选择排序.md",
 		"filePath": "docs/topics/基础算法/排序/选择排序.md",
-		"path": "/topics/基础算法/排序/选择排序"
+		"link": "/topics/基础算法/排序/选择排序"
 	},
 	{
 		"title": "BM11 链表相加(二)",
@@ -803,7 +791,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "BM11 链表相加(二).md",
 		"filePath": "docs/topics/基础算法/牛客算法/BM11 链表相加(二).md",
-		"path": "/topics/基础算法/牛客算法/BM11 链表相加(二)"
+		"link": "/topics/基础算法/牛客算法/BM11 链表相加(二)"
 	},
 	{
 		"title": "BM13 判断一个链表是否为回文结构",
@@ -815,7 +803,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "BM13 判断一个链表是否为回文结构.md",
 		"filePath": "docs/topics/基础算法/牛客算法/BM13 判断一个链表是否为回文结构.md",
-		"path": "/topics/基础算法/牛客算法/BM13 判断一个链表是否为回文结构"
+		"link": "/topics/基础算法/牛客算法/BM13 判断一个链表是否为回文结构"
 	},
 	{
 		"title": "BM6 判断链表中是否有环",
@@ -827,7 +815,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "BM6 判断链表中是否有环.md",
 		"filePath": "docs/topics/基础算法/牛客算法/BM6 判断链表中是否有环.md",
-		"path": "/topics/基础算法/牛客算法/BM6 判断链表中是否有环"
+		"link": "/topics/基础算法/牛客算法/BM6 判断链表中是否有环"
 	},
 	{
 		"title": "BM7 链表中环的入口结点",
@@ -839,7 +827,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "BM7 链表中环的入口结点.md",
 		"filePath": "docs/topics/基础算法/牛客算法/BM7 链表中环的入口结点.md",
-		"path": "/topics/基础算法/牛客算法/BM7 链表中环的入口结点"
+		"link": "/topics/基础算法/牛客算法/BM7 链表中环的入口结点"
 	},
 	{
 		"title": "牛客算法",
@@ -851,7 +839,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "index.md",
 		"filePath": "docs/topics/基础算法/牛客算法/index.md",
-		"path": "/topics/基础算法/牛客算法/"
+		"link": "/topics/基础算法/牛客算法/"
 	},
 	{
 		"title": "字符集合",
@@ -863,7 +851,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "字符集合.md",
 		"filePath": "docs/topics/基础算法/牛客算法/字符集合.md",
-		"path": "/topics/基础算法/牛客算法/字符集合"
+		"link": "/topics/基础算法/牛客算法/字符集合"
 	},
 	{
 		"title": "汽水瓶",
@@ -875,7 +863,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "汽水瓶.md",
 		"filePath": "docs/topics/基础算法/牛客算法/汽水瓶.md",
-		"path": "/topics/基础算法/牛客算法/汽水瓶"
+		"link": "/topics/基础算法/牛客算法/汽水瓶"
 	},
 	{
 		"title": "进制转换",
@@ -887,7 +875,7 @@
 		"ymd": "2023-02-26",
 		"fileName": "进制转换.md",
 		"filePath": "docs/topics/基础算法/牛客算法/进制转换.md",
-		"path": "/topics/基础算法/牛客算法/进制转换"
+		"link": "/topics/基础算法/牛客算法/进制转换"
 	},
 	{
 		"title": "随机数",
@@ -899,6 +887,6 @@
 		"ymd": "2023-02-26",
 		"fileName": "随机数.md",
 		"filePath": "docs/topics/基础算法/牛客算法/随机数.md",
-		"path": "/topics/基础算法/牛客算法/随机数"
+		"link": "/topics/基础算法/牛客算法/随机数"
 	}
 ]

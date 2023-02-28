@@ -1,7 +1,7 @@
 <template>
   <div class="pages">
    <div class="pageitem" v-for="pageInfo in props.list" :key="pageInfo.title">
-     <div class="title"><a :href="pageInfo.path">{{ pageInfo.title }}</a></div>
+     <div class="title"><a :href="pageInfo.link">{{ pageInfo.title }}</a></div>
      <div class="subs">
       <div class="subitem">{{ pageInfo.date }}</div>
      </div>

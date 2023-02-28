@@ -9,6 +9,6 @@ udate: '2023-02-26'
 <TopicList :topics="topics" />
 
 <script setup>
-import topics from './topic.json';
+import topics from '/data/topics.json';
 
 </script>
