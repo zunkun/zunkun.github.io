@@ -98,7 +98,7 @@ export function getDirPath(itemPath) {
  * @param {string} itemPath item path
  * 根据数字顺序获取sidebar列表
  */
-export function getSidebarLists(itemPath) {
+export function getSidebarLists(itemPath, parentLink) {
   if (!itemPath) return [];
   const targetPath = getDirPath(itemPath);
 
@@ -108,30 +108,43 @@ export function getSidebarLists(itemPath) {
     onlyFiles: false,
     objectMode: true,
     stats: true,
+    deep: 2,
     markDirectories: true,
     ignore: [...fileIgnoreNames, ...folderIgnoreNames],
   });
+
+  let indexItem;
 
   entries.forEach(entry => {
     // 过滤 index.md 和 草稿目录
     const isDirectory = entry.dirent.isDirectory();
 
-    const name = getFileTitle(entry);
+    const title = getFileTitle(entry);
     const link = getPageLink(entry.path);
 
+    if (parentLink === link) return;
+
     const item = {
-      text: name,
+      text: title,
       link,
     };
+
     if (isDirectory) {
-      const subItems = getSidebarLists(entry.path);
+      const subItems = getSidebarLists(entry.path, link);
       if (subItems.length) {
+        item.collapsed = true;
         item.items = subItems;
       }
     }
 
-    items.push(item);
+    if (entry.name === 'index.md') {
+      indexItem = item;
+    } else {
+      items.push(item);
+    }
   });
+
+  if (indexItem) items.unshift(indexItem);
   return items;
 }
 

@@ -10,7 +10,7 @@ const pageService = {
   /**
    * 检查目录下文档是否信息完整
    */
-  check() {
+  start() {
     console.log('-----------------------------------');
     console.log('检查目录下文档是否信息完整');
     const items = [];

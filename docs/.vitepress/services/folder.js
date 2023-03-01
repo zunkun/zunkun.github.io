@@ -8,7 +8,7 @@ const folderService = {
   /**
    * 检查目录文件夹，生成默认文档
    */
-  check() {
+  start() {
     console.log('-----------------------------------');
     console.log('检查目录文件夹，生成默认文档');
 

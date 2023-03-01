@@ -5,10 +5,10 @@ import { folderIgnoreNames, getPageLink, getSidebarLists } from './utils';
 const categoryFilePath = 'docs/data/categories.json';
 
 const categoryService = {
-  check() {
-    console.log('生成分类目录配置文件');
+  start() {
+    console.log('整理分类目录配置文件');
     const entries = sync('docs/categories/**', {
-      deep: 2,
+      deep: 1,
       onlyDirectories: true,
       objectMode: true,
       markDirectories: true,
@@ -31,7 +31,7 @@ const categoryService = {
   getCategories() {
     const fileExist = existsSync(categoryFilePath);
     if (!fileExist) {
-      this.check();
+      this.start();
     }
 
     const fileData = readFileSync(categoryFilePath, 'utf-8');

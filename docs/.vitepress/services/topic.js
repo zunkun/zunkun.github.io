@@ -5,7 +5,7 @@ import { folderIgnoreNames, getPageLink, getSidebarLists } from './utils';
 const topicFilePath = 'docs/data/topics.json';
 
 const topicService = {
-  check() {
+  start() {
     console.log('生成专题目录配置文件');
     const entries = sync('docs/topics/**', {
       deep: 2,
@@ -31,7 +31,7 @@ const topicService = {
   getTopics() {
     const fileExist = existsSync(topicFilePath);
     if (!fileExist) {
-      this.check();
+      this.start();
     }
 
     const fileData = readFileSync(topicFilePath, 'utf-8');
