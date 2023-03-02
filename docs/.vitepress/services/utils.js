@@ -40,7 +40,13 @@ export function getDateStr(date) {
   // eslint-disable-next-line no-param-reassign
   date = new Date(date);
   const year = date.getFullYear();
-  return year;
+  const month = date.getMonth() + 1;
+  const day = date.getDate();
+
+  const monthStr = month < 10 ? `0${month}` : month;
+  const dayStr = day < 10 ? `0${day}` : day;
+
+  return `${year}-${monthStr}-${dayStr}`;
 }
 
 /**

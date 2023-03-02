@@ -19,8 +19,6 @@ const props = defineProps({
   list: Array,
 });
 
-console.log(3, 4, 5);
-
 const pageList = reactive({
   list: [],
   page: 0,

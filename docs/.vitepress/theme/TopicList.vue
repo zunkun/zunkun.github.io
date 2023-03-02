@@ -20,21 +20,34 @@ const props = defineProps({
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 20px 20px;
 
-  .topic {
-    height: 60px;
+}
+
+.topic {
     cursor: pointer;
     border-radius: 4px;
     border: 1px solid #99CC99;
 
     text-align: center;
     font-size: 20px;
-    line-height: 60px;
+    line-height: 50px;
 
-    box-shadow:  0px 1px 4px #10b981;
+    box-shadow:  0px 1px 4px #10b981 inset;
 
     a {
       display: block;
     }
+  }
+
+@media only screen
+and (min-device-width : 768px){
+  .topics {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+@media only screen
+and (max-device-width : 768px) {
+  .topics {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 

@@ -13,7 +13,7 @@ const pageService = {
   start() {
     console.log('-----------------------------------');
     console.log('检查目录下文档是否信息完整');
-    const items = [];
+    let items = [];
 
     const entries = sync('docs/**/*.md', {
       onlyFiles: true,
@@ -55,6 +55,8 @@ const pageService = {
 
       writeFileSync(entry.path, matter.stringify(mtObj));
     });
+
+    items = items.sort((a, b) => new Date(b.date) - new Date(a.date));
 
     writeFileSync(pageFilePath, JSON.stringify(items, null, '\t'));
   },
