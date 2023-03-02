@@ -16,6 +16,7 @@ const themeConfig = {
   },
   sidebarMenuLabel: '菜单',
   returnToTopLabel: '回到顶部',
+  darkModeSwitchLabel: '深色模式',
   nav,
   sidebar: sidebarService.getSidebar(),
   lastUpdatedText: '更新时间',
