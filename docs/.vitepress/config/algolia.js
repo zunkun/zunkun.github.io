@@ -2,9 +2,9 @@
  * algolia 搜索配置
  */
 const algolia = {
-  appId: '4KDS0MOC33',
-  apiKey: '4a99e9fa97e5185437397465c366f07c',
-  indexName: 'zk',
+  appId: '7PQ5ZNQ8Y9',
+  apiKey: '04a2ad0d7a6cee4e48db57a5f450681e',
+  indexName: 'liuzunkun',
   locales: {
     placeholder: '搜索文档',
     translations: {
