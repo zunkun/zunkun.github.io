@@ -17,18 +17,25 @@ const props = defineProps({
 
 </script>
 
- <style scoped lang="less">
+<style scoped lang="less">
 .pages {
-  .page {
-    border-top: 1px solid #ccc;
+  .pageitem {
+    // padding: 10px 0px 0px;
+    border-top: 1px solid #efefef;
     .title {
       font-size: 20px;
-      line-height: 24px;
+      line-height: 30px;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      word-break: break-all;
+      white-space: nowrap;
     }
 
     .subs  {
       .subitem {
-        color: #eee;
+        color: #aaa;
+        font-size: 14px;
+        line-height: 20px;
       }
     }
   }
