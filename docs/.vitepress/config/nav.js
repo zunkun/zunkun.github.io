@@ -6,6 +6,11 @@ const nav = [
     text: '分类',
     items: [
       {
+        text: '分类列表',
+        link: '/categories/',
+        activeMatch: '/categories/',
+      },
+      {
         text: 'JavaScript笔记',
         link: '/categories/JavaScript/',
         activeMatch: '/categories/JavaScript/',

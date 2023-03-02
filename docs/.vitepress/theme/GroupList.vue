@@ -1,7 +1,7 @@
 <template>
- <div class="topics">
-  <div class="topic" v-for="topic in props.topics" :key="topic.name">
-    <a :href="topic.link">{{ topic.name }}</a>
+ <div class="items">
+  <div class="itembox" v-for="item in props.list" :key="item.name">
+    <a :href="item.link">{{ item.name }}</a>
   </div>
 
  </div>
@@ -9,20 +9,20 @@
 
 <script setup>
 const props = defineProps({
-  topics: Array,
+  list: Array,
 });
 
 </script>
 
 <style scoped lang="less">
-.topics {
+.items {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-gap: 20px 20px;
 
 }
 
-.topic {
+.itembox {
     cursor: pointer;
     border-radius: 4px;
     border: 1px solid #99CC99;
@@ -40,13 +40,13 @@ const props = defineProps({
 
 @media only screen
 and (min-device-width : 768px){
-  .topics {
+  .items {
     grid-template-columns: repeat(4, 1fr);
   }
 }
 @media only screen
 and (max-device-width : 768px) {
-  .topics {
+  .items {
     grid-template-columns: repeat(2, 1fr);
   }
 }

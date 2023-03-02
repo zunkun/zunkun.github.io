@@ -1,7 +1,7 @@
 // .vitepress/theme/index.js
 import DefaultTheme from 'vitepress/theme';
 import Layout from './Layout.vue';
-import TopicList from './TopicList.vue';
+import GroupList from './GroupList.vue';
 import PageList from './PageList.vue';
 
 export default {
@@ -11,7 +11,7 @@ export default {
   Layout,
   enhanceApp(ctx) {
     DefaultTheme.enhanceApp(ctx);
-    ctx.app.component('TopicList', TopicList);
+    ctx.app.component('GroupList', GroupList);
     ctx.app.component('PageList', PageList);
   },
 };
