@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>image</title>
+  </head>
+  <body>
+    <h1>图片水印</h1>
+    <div id="imgcanvas">
+      <img alt="图片水印" id="img1" />
+    </div>
+
+    <script>
+      const canvas = document.createElement('canvas');
+
+      const ctx = canvas.getContext('2d');
+
+      const img = new Image();
+
+      img.src = '/img/flower.jpg';
+
+      img.onload = function () {
+        const clientWidth = document.body.clientWidth;
+        const clientHeight = document.body.clientHeight;
+
+        canvas.width = clientWidth || img.width;
+        canvas.height = clientHeight || img.height;
+
+        console.log(canvas.width, canvas.height);
+
+        ctx.font = '30px Microsoft Yahei';
+
+        ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+
+        const originalData = ctx.getImageData(0, 0, ctx.canvas.width, ctx.canvas.height);
+
+        let x = 20;
+        let y = 20;
+
+        ctx.font = '16px serif';
+        ctx.fillStyle = 'rgba(0, 0, 0, 0.6)';
+        // ctx.fillStyle = 'red';
+        const textContent = '禁止转载';
+
+        const textData = ctx.getImageData(0, 0, ctx.canvas.width, ctx.canvas.height);
+
+        while (x < canvas.width && y < canvas.height) {
+          ctx.fillText(textContent, x, y);
+
+          x = x + 100 > canvas.width ? 20 : x + 100;
+
+          y = x === 20 ? y + 30 : y;
+        }
+
+        console.log({
+          textData,
+          originalData,
+        });
+
+        const imgSrc = canvas.toDataURL();
+
+        const img1 = document.getElementById('img1');
+        img1.setAttribute('src', imgSrc);
+      };
+    </script>
+    <style>
+      body {
+        height: 100vh;
+      }
+    </style>
+  </body>
+</html>

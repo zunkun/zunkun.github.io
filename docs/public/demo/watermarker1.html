@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>canvas水印</title>
+  </head>
+  <body>
+    <div>页面内容</div>
+
+    <script>
+      function canvasWM({
+        container = document.body,
+        width = 200,
+        height = 100,
+        text = '请勿泄露',
+        zIndex = 1000,
+        rotate = -14,
+        fillStyle = 'rgba(184, 184, 184, 0.4)',
+      }) {
+        console.log(`渲染水印`);
+        const args = arguments[0];
+        // 创建画布
+        const canvas = document.createElement('canvas');
+
+        // 设置画布样式
+        canvas.setAttribute('width', width);
+        canvas.setAttribute('height', height);
+        // canvas.setAttribute('display', 'none');
+
+        const ctx = canvas.getContext('2d');
+        // 设置内容样式
+        ctx.font = '20px Microsoft YaHei';
+        // 文本横向对齐方式
+        ctx.textAlign = 'left';
+        // 文本纵向对齐方式
+        ctx.textBaseline = 'middle';
+
+        ctx.fillStyle = fillStyle;
+
+        ctx.rotate((Math.PI / 180) * rotate);
+        // 设置文本内容
+        ctx.fillText(text, canvas.width / 3, canvas.height / 2);
+
+        // 获取页面水印元素，替换样式
+
+        const base64URL = canvas.toDataURL();
+
+        let wm = document.querySelector('.wm');
+        const wmDiv = wm || document.createElement('div');
+
+        const wmStyle = `
+          position: fixed;
+          top: 0;
+          left: 0;
+          right: 0;
+          right: 0;
+          width: 100%;
+          height: 100%;
+          z-index: ${zIndex},
+          pointer-events:none;
+          background-image: url('${base64URL}');
+          background-repeat: repeat;
+        `;
+
+        wmDiv.setAttribute('style', wmStyle);
+        wmDiv.classList.add('wm');
+
+        if (!wm) {
+          container.insertBefore(wmDiv, container.firstChild);
+        }
+
+        const MutationObserver = window.MutationObserver;
+
+        if (MutationObserver) {
+          // 观察器的配置（需要观察什么变动）
+          const config = { attributes: true, childList: true, subtree: true };
+
+          // 当观察到变动时执行的回调函数
+          const callback = function (mutationsList, observer) {
+            // Use traditional 'for loops' for IE 11
+            for (let mutation of mutationsList) {
+              if (mutation.type === 'childList') {
+                console.log('A child node has been added or removed.');
+              } else if (mutation.type === 'attributes') {
+                console.log('The ' + mutation.attributeName + ' attribute was modified.');
+              }
+            }
+
+            // 之后，可停止观察, 避免重复调用
+            observer.disconnect();
+
+            canvasWM(JSON.parse(JSON.stringify(args)));
+          };
+
+          // 创建一个观察器实例并传入回调函数
+          const observer = new MutationObserver(callback);
+
+          // 以上述配置开始观察目标节点
+          observer.observe(container, config);
+        }
+      }
+
+      canvasWM({});
+    </script>
+    <style>
+      body {
+        height: 100vh;
+      }
+    </style>
+  </body>
+</html>

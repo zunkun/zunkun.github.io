@@ -9,7 +9,7 @@ export const folderIgnoreNames = [
   '**/草稿/**',
 ];
 
-export const fileIgnoreNames = ['*index.md', '*.json'];
+export const fileIgnoreNames = ['**/*index.md', '**/*.json', '**/*.html'];
 
 export const topicPath = 'docs/topics/**';
 
@@ -122,6 +122,9 @@ export function getSidebarLists(itemPath, parentLink) {
   let indexItem;
 
   entries.forEach(entry => {
+    if (entry.name === 'canvas.html') {
+      console.log({ entry, ignore: [...fileIgnoreNames, ...folderIgnoreNames] });
+    }
     // 过滤 index.md 和 草稿目录
     const isDirectory = entry.dirent.isDirectory();
 

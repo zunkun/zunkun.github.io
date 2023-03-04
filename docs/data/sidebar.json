@@ -1,10 +1,6 @@
 {
 	"/categories/CSS/": [
 		{
-			"text": "CSS",
-			"link": "/categories/CSS/"
-		},
-		{
 			"text": "CSS样式",
 			"link": "/categories/CSS/CSS样式/",
 			"collapsed": true,
@@ -25,10 +21,6 @@
 		}
 	],
 	"/categories/JavaScript/": [
-		{
-			"text": "JavaScript",
-			"link": "/categories/JavaScript/"
-		},
 		{
 			"text": "01-判断类型",
 			"link": "/categories/JavaScript/01-判断类型"
@@ -100,10 +92,6 @@
 	],
 	"/categories/Tools/": [
 		{
-			"text": "Tools",
-			"link": "/categories/Tools/"
-		},
-		{
 			"text": "RedisOnWindows",
 			"link": "/categories/Tools/RedisOnWindows"
 		},
@@ -112,29 +100,38 @@
 			"link": "/categories/Tools/Redis分布式锁"
 		}
 	],
-	"/categories/测试/": [
+	"/categories/前端/": [
 		{
-			"text": "测试",
-			"link": "/categories/测试/"
-		}
-	],
-	"/topics/React/": [
-		{
-			"text": "React",
-			"link": "/topics/React/"
-		}
-	],
-	"/topics/Vue/": [
-		{
-			"text": "Vue",
-			"link": "/topics/Vue/"
-		}
-	],
-	"/topics/基础算法/": [
-		{
-			"text": "基础算法",
-			"link": "/topics/基础算法/"
+			"text": "水印",
+			"link": "/categories/前端/水印/",
+			"collapsed": true,
+			"items": [
+				{
+					"text": "图片水印",
+					"link": "/categories/前端/水印/图片水印"
+				},
+				{
+					"text": "网页背景水印",
+					"link": "/categories/前端/水印/网页背景水印"
+				}
+			]
 		},
+		{
+			"text": "网络安全",
+			"link": "/categories/前端/网络安全/",
+			"collapsed": true,
+			"items": [
+				{
+					"text": "如何防止CSRF攻击",
+					"link": "/categories/前端/网络安全/如何防止CSRF攻击"
+				}
+			]
+		}
+	],
+	"/categories/测试/": [],
+	"/topics/React/": [],
+	"/topics/Vue/": [],
+	"/topics/基础算法/": [
 		{
 			"text": "LeetCode",
 			"link": "/topics/基础算法/LeetCode/",
@@ -241,17 +238,8 @@
 			]
 		}
 	],
-	"/topics/测试/": [
-		{
-			"text": "测试",
-			"link": "/topics/测试/"
-		}
-	],
+	"/topics/测试/": [],
 	"/topics/设计模式/": [
-		{
-			"text": "设计模式",
-			"link": "/topics/设计模式/"
-		},
 		{
 			"text": "单例模式",
 			"link": "/topics/设计模式/单例模式"
@@ -259,25 +247,12 @@
 	],
 	"/topics/跨域/": [
 		{
-			"text": "跨域",
-			"link": "/topics/跨域/"
-		},
-		{
 			"text": "jsonp",
 			"link": "/topics/跨域/jsonp"
 		}
 	],
-	"/topics/通信安全/": [
-		{
-			"text": "通信安全",
-			"link": "/topics/通信安全/"
-		}
-	],
+	"/topics/通信安全/": [],
 	"/topics/基础算法/LeetCode/": [
-		{
-			"text": "LeetCode",
-			"link": "/topics/基础算法/LeetCode/"
-		},
 		{
 			"text": "Leetcode1-两数之和",
 			"link": "/topics/基础算法/LeetCode/Leetcode1-两数之和"
@@ -288,10 +263,6 @@
 		}
 	],
 	"/topics/基础算法/排序/": [
-		{
-			"text": "排序",
-			"link": "/topics/基础算法/排序/"
-		},
 		{
 			"text": "冒泡排序",
 			"link": "/topics/基础算法/排序/冒泡排序"
@@ -334,10 +305,6 @@
 		}
 	],
 	"/topics/基础算法/牛客算法/": [
-		{
-			"text": "牛客算法",
-			"link": "/topics/基础算法/牛客算法/"
-		},
 		{
 			"text": "BM11 链表相加(二)",
 			"link": "/topics/基础算法/牛客算法/BM11 链表相加(二)"
