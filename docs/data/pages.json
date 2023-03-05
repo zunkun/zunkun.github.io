@@ -1,5 +1,17 @@
 [
 	{
+		"title": "数字水印",
+		"date": "2023-03-05",
+		"udate": "2023-03-05",
+		"year": 2023,
+		"month": "03",
+		"ym": "2023-03",
+		"ymd": "2023-03-05",
+		"fileName": "数字水印.md",
+		"filePath": "docs/categories/前端/水印/数字水印.md",
+		"link": "/categories/前端/水印/数字水印"
+	},
+	{
 		"title": "图片水印",
 		"date": "2023-03-04",
 		"udate": "2023-03-04",

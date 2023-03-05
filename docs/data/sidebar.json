@@ -111,6 +111,10 @@
 					"link": "/categories/前端/水印/图片水印"
 				},
 				{
+					"text": "数字水印",
+					"link": "/categories/前端/水印/数字水印"
+				},
+				{
 					"text": "网页背景水印",
 					"link": "/categories/前端/水印/网页背景水印"
 				}

@@ -10,7 +10,10 @@ const config = {
   description: '记录工作，计算机技术',
   lastUpdated: true,
   themeConfig,
-  head: [['link', { rel: 'stylesheet', href: '/style/global.css' }]],
+  head: [
+    ['link', { rel: 'stylesheet', href: '/style/global.css' }],
+    ['script', { src: '/js/global.js' }],
+  ],
   markdown: {
     lineNumbers: true,
     config: md => {

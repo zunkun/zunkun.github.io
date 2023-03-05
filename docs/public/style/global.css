@@ -27,3 +27,24 @@ body {
 img {
   cursor: pointer;
 }
+
+@media print {
+  body{
+    display:block;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+  }
+
+  header .container .content {
+    display: none;
+  }
+
+  .VPLocalNav {
+    display: none !important;
+  }
+
+  .prev-next {
+    display: none;
+  }
+}
