@@ -22,16 +22,32 @@
 	],
 	"/categories/JavaScript/": [
 		{
-			"text": "01-判断类型",
-			"link": "/categories/JavaScript/01-判断类型"
+			"text": "01-判断数据类型",
+			"link": "/categories/JavaScript/01-判断数据类型"
 		},
 		{
-			"text": "02-Promise实现",
-			"link": "/categories/JavaScript/02-Promise实现"
+			"text": "02-判断数组方法",
+			"link": "/categories/JavaScript/02-判断数组方法"
 		},
 		{
-			"text": "03-Proxy代理对象",
-			"link": "/categories/JavaScript/03-Proxy代理对象"
+			"text": "03-原型链和继承",
+			"link": "/categories/JavaScript/03-原型链和继承"
+		},
+		{
+			"text": "04-原型链和继承2",
+			"link": "/categories/JavaScript/04-原型链和继承2"
+		},
+		{
+			"text": "05-对象属性获取",
+			"link": "/categories/JavaScript/05-对象属性获取"
+		},
+		{
+			"text": "06-链式调用",
+			"link": "/categories/JavaScript/06-链式调用"
+		},
+		{
+			"text": "07-Promise原理",
+			"link": "/categories/JavaScript/07-Promise原理"
 		},
 		{
 			"text": "createElement和innerHTML性能对比",
@@ -46,12 +62,12 @@
 			"link": "/categories/JavaScript/event.preventDefault, event.stopPropogation, 和 return false 区别"
 		},
 		{
-			"text": "判断数组方法",
-			"link": "/categories/JavaScript/判断数组方法"
+			"text": "Promise实现",
+			"link": "/categories/JavaScript/Promise实现"
 		},
 		{
-			"text": "判断类型",
-			"link": "/categories/JavaScript/判断类型"
+			"text": "Proxy代理对象",
+			"link": "/categories/JavaScript/Proxy代理对象"
 		},
 		{
 			"text": "实现call、apply 及 bind 函数",
@@ -80,10 +96,6 @@
 		{
 			"text": "浅拷贝和深拷贝",
 			"link": "/categories/JavaScript/浅拷贝和深拷贝"
-		},
-		{
-			"text": "理解protytype和proto",
-			"link": "/categories/JavaScript/理解protytype和proto"
 		},
 		{
 			"text": "防抖和节流",
@@ -132,7 +144,6 @@
 			]
 		}
 	],
-	"/categories/测试/": [],
 	"/topics/React/": [],
 	"/topics/Vue/": [],
 	"/topics/基础算法/": [

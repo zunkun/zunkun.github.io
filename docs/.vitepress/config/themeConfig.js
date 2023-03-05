@@ -9,6 +9,7 @@ const themeConfig = {
   siteTitle: '得時笔记',
   // aside: false,
   // logo: '/img/logo.png',
+  outline: 'deep',
   outlineTitle: '文档章节',
   docFooter: {
     prev: '上一篇',

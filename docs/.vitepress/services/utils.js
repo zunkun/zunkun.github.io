@@ -9,7 +9,7 @@ export const folderIgnoreNames = [
   '**/草稿/**',
 ];
 
-export const fileIgnoreNames = ['**/*index.md', '**/*.json', '**/*.html'];
+export const fileIgnoreNames = ['**/*index.md', '**/*.json', '**/*.html', '**/*.js'];
 
 export const topicPath = 'docs/topics/**';
 

@@ -37,9 +37,9 @@ const nav = [
     ],
   },
   {
-    text: '标签',
-    link: '/tags',
-    activeMatch: '/tags',
+    text: '面试题',
+    link: '/interview/',
+    activeMatch: '/interview/',
   },
   {
     text: '生活感悟',
