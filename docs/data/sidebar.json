@@ -148,6 +148,10 @@
 	"/topics/Vue/": [],
 	"/topics/基础算法/": [
 		{
+			"text": "Diff算法",
+			"link": "/topics/基础算法/Diff算法"
+		},
+		{
 			"text": "LeetCode",
 			"link": "/topics/基础算法/LeetCode/",
 			"collapsed": true,
@@ -165,6 +169,10 @@
 		{
 			"text": "堆Heap",
 			"link": "/topics/基础算法/堆Heap"
+		},
+		{
+			"text": "异或",
+			"link": "/topics/基础算法/异或"
 		},
 		{
 			"text": "排序",

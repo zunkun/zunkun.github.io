@@ -1,5 +1,29 @@
 [
 	{
+		"title": "Diff算法",
+		"date": "2023-03-06",
+		"udate": "2023-03-06",
+		"year": 2023,
+		"month": "03",
+		"ym": "2023-03",
+		"ymd": "2023-03-06",
+		"fileName": "Diff算法.md",
+		"filePath": "docs/topics/基础算法/Diff算法.md",
+		"link": "/topics/基础算法/Diff算法"
+	},
+	{
+		"title": "异或",
+		"date": "2023-03-06",
+		"udate": "2023-03-06",
+		"year": 2023,
+		"month": "03",
+		"ym": "2023-03",
+		"ymd": "2023-03-06",
+		"fileName": "异或.md",
+		"filePath": "docs/topics/基础算法/异或.md",
+		"link": "/topics/基础算法/异或"
+	},
+	{
 		"title": "面试题",
 		"date": "2023-03-05",
 		"udate": "2023-03-05",
