@@ -1,5 +1,17 @@
 [
 	{
+		"title": "手写Promise",
+		"date": "2023-03-16",
+		"udate": "2023-03-16",
+		"year": 2023,
+		"month": "03",
+		"ym": "2023-03",
+		"ymd": "2023-03-16",
+		"fileName": "08-手写Promise.md",
+		"filePath": "docs/categories/JavaScript/08-手写Promise.md",
+		"link": "/categories/JavaScript/08-手写Promise"
+	},
+	{
 		"title": "Diff算法",
 		"date": "2023-03-06",
 		"udate": "2023-03-06",
@@ -702,6 +714,18 @@
 		"link": "/categories/JavaScript/01-判断数据类型"
 	},
 	{
+		"title": "Promise手写实现",
+		"date": "2023-02-25",
+		"udate": "2023-02-25",
+		"year": 2023,
+		"month": "02",
+		"ym": "2023-02",
+		"ymd": "2023-02-25",
+		"fileName": "09-Promise手写实现.md",
+		"filePath": "docs/categories/JavaScript/09-Promise手写实现.md",
+		"link": "/categories/JavaScript/09-Promise手写实现"
+	},
+	{
 		"title": "JavaScript笔记",
 		"date": "2023-02-25",
 		"udate": "2023-02-25",
@@ -712,18 +736,6 @@
 		"fileName": "index.md",
 		"filePath": "docs/categories/JavaScript/index.md",
 		"link": "/categories/JavaScript/"
-	},
-	{
-		"title": "Promise实现",
-		"date": "2023-02-25",
-		"udate": "2023-02-25",
-		"year": 2023,
-		"month": "02",
-		"ym": "2023-02",
-		"ymd": "2023-02-25",
-		"fileName": "Promise实现.md",
-		"filePath": "docs/categories/JavaScript/Promise实现.md",
-		"link": "/categories/JavaScript/Promise实现"
 	},
 	{
 		"title": "Proxy代理对象",

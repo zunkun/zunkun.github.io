@@ -50,6 +50,14 @@
 			"link": "/categories/JavaScript/07-Promise原理"
 		},
 		{
+			"text": "08-手写Promise",
+			"link": "/categories/JavaScript/08-手写Promise"
+		},
+		{
+			"text": "09-Promise手写实现",
+			"link": "/categories/JavaScript/09-Promise手写实现"
+		},
+		{
 			"text": "createElement和innerHTML性能对比",
 			"link": "/categories/JavaScript/createElement和innerHTML性能对比"
 		},
@@ -60,10 +68,6 @@
 		{
 			"text": "event",
 			"link": "/categories/JavaScript/event.preventDefault, event.stopPropogation, 和 return false 区别"
-		},
-		{
-			"text": "Promise实现",
-			"link": "/categories/JavaScript/Promise实现"
 		},
 		{
 			"text": "Proxy代理对象",
