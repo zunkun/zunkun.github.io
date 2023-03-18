@@ -12,7 +12,7 @@ udate: '2023-02-26'
 
 instanceOf运算符的语法如下所示：
 
-```
+```js
 object instanceOf constructor
 
 ```
@@ -25,7 +25,7 @@ instanceOf运算符的实现依赖于原型链。当我们使用instanceOf运算
 
 下面是实现instanceOf运算符的示例代码：
 
-```
+```js
 function myInstanceOf(obj, constructor) {
   let prototype = Object.getPrototypeOf(obj);
   while (prototype !== null) {
@@ -45,7 +45,7 @@ function myInstanceOf(obj, constructor) {
 
 下面是使用myInstanceOf函数来检查一个对象是否是特定构造函数的实例的示例代码：
 
-```
+```js
 function Person(name) {
   this.name = name;
 }

@@ -20,7 +20,7 @@ udate: '2023-02-26'
 Function.prototype.myCall = function(context) {
   // 判断调用对象
   if (typeof this !== "function") {
-    console.error("type error");
+    throw new TypeError('caller must be a function')
   }
   // 获取参数
   let args = [...arguments].slice(1),
@@ -51,7 +51,7 @@ Function.prototype.myCall = function(context) {
 Function.prototype.myApply = function(context) {
   // 判断调用对象是否为函数
   if (typeof this !== "function") {
-    throw new TypeError("Error");
+     throw new TypeError('caller must be a function')
   }
   let result = null;
   // 判断 context 是否存在，如果未传入则为 window
@@ -81,7 +81,7 @@ Function.prototype.myApply = function(context) {
 Function.prototype.myBind = function(context) {
   // 判断调用对象是否为函数
   if (typeof this !== "function") {
-    throw new TypeError("Error");
+    throw new TypeError('caller must be a function')
   }
   // 获取参数
   var args = [...arguments].slice(1),
