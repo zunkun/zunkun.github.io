@@ -54,56 +54,44 @@
 			"link": "/categories/JavaScript/08-手写Promise"
 		},
 		{
-			"text": "09-Promise手写实现",
-			"link": "/categories/JavaScript/09-Promise手写实现"
+			"text": "09-实现Object-create",
+			"link": "/categories/JavaScript/09-实现Object-create"
 		},
 		{
-			"text": "createElement和innerHTML性能对比",
-			"link": "/categories/JavaScript/createElement和innerHTML性能对比"
+			"text": "10-实现call、apply 及 bind 函数",
+			"link": "/categories/JavaScript/10-实现call、apply 及 bind 函数"
 		},
 		{
-			"text": "createElement和innerHTML性能对比2",
-			"link": "/categories/JavaScript/createElement和innerHTML性能对比2"
+			"text": "11-实现instanceOf",
+			"link": "/categories/JavaScript/11-实现instanceOf"
 		},
 		{
-			"text": "event",
-			"link": "/categories/JavaScript/event.preventDefault, event.stopPropogation, 和 return false 区别"
+			"text": "12-微任务和宏任务",
+			"link": "/categories/JavaScript/12-微任务和宏任务"
 		},
 		{
-			"text": "Proxy代理对象",
-			"link": "/categories/JavaScript/Proxy代理对象"
+			"text": "13-Proxy和Reflect",
+			"link": "/categories/JavaScript/13-Proxy和Reflect"
 		},
 		{
-			"text": "实现call、apply 及 bind 函数",
-			"link": "/categories/JavaScript/实现call、apply 及 bind 函数"
+			"text": "14-浅拷贝和深拷贝",
+			"link": "/categories/JavaScript/14-浅拷贝和深拷贝"
 		},
 		{
-			"text": "实现instanceOf",
-			"link": "/categories/JavaScript/实现instanceOf"
+			"text": "15-防抖和节流",
+			"link": "/categories/JavaScript/15-防抖和节流"
 		},
 		{
-			"text": "实现Map",
-			"link": "/categories/JavaScript/实现Map"
+			"text": "16-preventDefault和stopPropogation的区别",
+			"link": "/categories/JavaScript/16-preventDefault和stopPropogation的区别"
 		},
 		{
-			"text": "实现Object",
-			"link": "/categories/JavaScript/实现Object.create"
+			"text": "17-createElement和innerHTML性能对比",
+			"link": "/categories/JavaScript/17-createElement和innerHTML性能对比"
 		},
 		{
-			"text": "微任务和宏任务",
-			"link": "/categories/JavaScript/微任务和宏任务"
-		},
-		{
-			"text": "查找文章中最多的词",
-			"link": "/categories/JavaScript/查找文章中最多的词"
-		},
-		{
-			"text": "浅拷贝和深拷贝",
-			"link": "/categories/JavaScript/浅拷贝和深拷贝"
-		},
-		{
-			"text": "防抖和节流",
-			"link": "/categories/JavaScript/防抖和节流"
+			"text": "18-createElement和innerHTML性能对比2",
+			"link": "/categories/JavaScript/18-createElement和innerHTML性能对比2"
 		}
 	],
 	"/categories/Tools/": [
@@ -224,6 +212,10 @@
 					"link": "/topics/基础算法/排序/选择排序"
 				}
 			]
+		},
+		{
+			"text": "查找文章中最多的词",
+			"link": "/topics/基础算法/查找文章中最多的词"
 		},
 		{
 			"text": "牛客算法",
