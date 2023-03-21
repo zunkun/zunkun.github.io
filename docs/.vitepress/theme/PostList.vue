@@ -1,12 +1,12 @@
 <template>
-  <div class="pages">
-   <div class="pageitem" v-for="pageInfo in pageList.list" :key="pageInfo.title">
-     <div class="title"><a :href="pageInfo.link">{{ pageInfo.title }}</a></div>
+  <div class="posts">
+   <div class="postitem" v-for="postInfo in postList.list" :key="postInfo.title">
+     <div class="title"><a :href="postInfo.link">{{ postInfo.title }}</a></div>
      <div class="subs">
-      <div class="subitem">{{ pageInfo.date }}</div>
+      <div class="subitem">{{ postInfo.date }}</div>
      </div>
    </div>
-   <div class="moreline" v-if="pageList.hasMore">
+   <div class="moreline" v-if="postList.hasMore">
       <div class="morebox" @click="onLoad">加载更多...</div>
    </div>
   </div>
@@ -19,9 +19,9 @@ const props = defineProps({
   list: Array,
 });
 
-const pageList = reactive({
+const postList = reactive({
   list: [],
-  page: 0,
+  post: 0,
   size: 10,
   hasMore: true,
 });
@@ -29,13 +29,13 @@ const pageList = reactive({
 function onLoad() {
   const total = props?.list?.length || 0;
 
-  if (pageList.list.length < total) {
-    pageList.page += 1;
-    pageList.list = props?.list?.slice(0, 10 * pageList.page);
+  if (postList.list.length < total) {
+    postList.post += 1;
+    postList.list = props?.list?.slice(0, 10 * postList.post);
   }
 
-  if (pageList.list.length >= total) {
-    pageList.hasMore = false;
+  if (postList.list.length >= total) {
+    postList.hasMore = false;
   }
 }
 
@@ -44,8 +44,8 @@ onLoad();
 </script>
 
 <style scoped lang="less">
-.pages {
-  .pageitem {
+.posts {
+  .postitem {
     // padding: 10px 0px 0px;
     border-top: 1px solid #efefef;
     .title {

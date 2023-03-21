@@ -1,6 +1,7 @@
 import categoryService from './category';
 import folderService from './folder';
-import pageService from './page';
+import ideaService from './idea';
+import postService from './post';
 import sidebarService from './sidebar';
 import topicService from './topic';
 
@@ -14,13 +15,15 @@ const initService = {
     // 检查目录文件夹，生成默认文档
     folderService.start();
     // 检查文件文档
-    pageService.start();
+    postService.start();
     // 检查专题文档列表
     topicService.start();
     // 分类整理
     categoryService.start();
     // sidebar整理
     sidebarService.start();
+    // idea整理
+    ideaService.start();
   },
 };
 

@@ -5,7 +5,7 @@ export const folderIgnoreNames = [
   '**/public/**',
   '**/data/**',
   'home',
-  '**/pages/**',
+  '**/posts/**',
   '**/草稿/**',
 ];
 

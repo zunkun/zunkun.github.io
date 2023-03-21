@@ -4,9 +4,9 @@ import { folderIgnoreNames, getDateInfo, getDateStr, getFileTitle, getPageLink }
 
 const matter = require('gray-matter');
 
-const pageFilePath = 'docs/data/pages.json';
+const postFilePath = 'docs/data/posts.json';
 
-const pageService = {
+const postService = {
   /**
    * 检查目录下文档是否信息完整
    */
@@ -58,8 +58,8 @@ const pageService = {
 
     items = items.sort((a, b) => new Date(b.date) - new Date(a.date));
 
-    writeFileSync(pageFilePath, JSON.stringify(items, null, '\t'));
+    writeFileSync(postFilePath, JSON.stringify(items, null, '\t'));
   },
 };
 
-export default pageService;
+export default postService;
