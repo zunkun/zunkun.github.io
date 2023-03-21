@@ -23,6 +23,10 @@
 		{
 			"text": "06-CSS选择器",
 			"link": "/categories/CSS/06-CSS选择器"
+		},
+		{
+			"text": "07-NormalizeCSS",
+			"link": "/categories/CSS/07-NormalizeCSS"
 		}
 	],
 	"/categories/JavaScript/": [
@@ -299,14 +303,12 @@
 			]
 		}
 	],
-	"/topics/测试/": [],
 	"/topics/设计模式/": [
 		{
 			"text": "单例模式",
 			"link": "/topics/设计模式/单例模式"
 		}
 	],
-	"/topics/通信安全/": [],
 	"/topics/基础算法/LeetCode/": [
 		{
 			"text": "Leetcode1-两数之和",
