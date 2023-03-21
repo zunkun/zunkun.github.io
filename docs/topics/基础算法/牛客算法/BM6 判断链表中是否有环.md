@@ -20,7 +20,7 @@ udate: '2023-02-26'
 
 可以看出环的入口结点为从头结点开始的第1个结点（注：头结点为第0个结点），所以输出true。
 
-```jsx
+```ts
 class ListNode {
       val: number
       next: ListNode | null
@@ -34,7 +34,7 @@ class ListNode {
 
 ## 使用表记录
 
-```jsx
+```ts
 export function hasCycle(head: ListNode): boolean {
     // write code here
     var visitedArray = []

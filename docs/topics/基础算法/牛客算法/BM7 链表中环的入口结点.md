@@ -6,7 +6,7 @@ udate: '2023-02-26'
 # BM7 链表中环的入口结点
 参考BM6
 
-```jsx
+```ts
 /*class ListNode {
  *     val: number
  *     next: ListNode | null
