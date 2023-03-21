@@ -2,7 +2,7 @@
 import DefaultTheme from 'vitepress/theme';
 import Layout from './Layout.vue';
 import GroupList from './GroupList.vue';
-import PageList from './PageList.vue';
+import PostList from './PostList.vue';
 
 export default {
   ...DefaultTheme,
@@ -12,6 +12,6 @@ export default {
   enhanceApp(ctx) {
     DefaultTheme.enhanceApp(ctx);
     ctx.app.component('GroupList', GroupList);
-    ctx.app.component('PageList', PageList);
+    ctx.app.component('PostList', PostList);
   },
 };

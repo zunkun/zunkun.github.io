@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: 文章列表
-      link: /pages/
+      link: /posts/
     - theme: alt
       text: 专题列表
       link: /topics/

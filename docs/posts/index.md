@@ -5,10 +5,10 @@ udate: '2023-02-27'
 ---
 # 文章列表
 
-<PageList :list="pageslist" />
+<PostList :list="postslist" />
 
 <script setup>
-import pageslist from '/data/pages.json';
+import postslist from '/data/posts.json';
 
 </script>
 
