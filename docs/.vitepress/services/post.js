@@ -52,8 +52,6 @@ const postService = {
       if (mtObj.data.layout !== 'home' && item.title !== 'public') {
         items.push(item);
       }
-
-      writeFileSync(entry.path, matter.stringify(mtObj));
     });
 
     items = items.sort((a, b) => new Date(b.date) - new Date(a.date));

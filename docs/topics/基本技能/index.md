@@ -1,6 +1,6 @@
 ---
 title: 基本技能
-date: NaN-NaN-NaN
-udate: NaN-NaN-NaN
+date: 2023-01-01
+udate: 2023-01-01
 ---
 这是整理的基本技能文档
