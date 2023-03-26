@@ -7,6 +7,7 @@ export const folderIgnoreNames = [
   'home',
   '**/posts/**',
   '**/草稿/**',
+  '**/code/**',
 ];
 
 export const fileIgnoreNames = ['**/*index.md', '**/*.json', '**/*.html', '**/*.js'];
