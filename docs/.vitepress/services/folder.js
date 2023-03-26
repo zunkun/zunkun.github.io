@@ -20,9 +20,11 @@ const folderService = {
       ignore: folderIgnoreNames,
     });
 
-    entries.forEach(entry => {
-      this.checkFolderDesc(entry);
+    entries.forEach(async entry => {
+      await this.checkFolderDesc(entry);
     });
+
+    return Promise.resolve();
   },
 
   /**
@@ -50,6 +52,8 @@ const folderService = {
       };
       writeFileSync(filepath, matter.stringify(mtobj));
     }
+
+    return Promise.resolve();
   },
 };
 

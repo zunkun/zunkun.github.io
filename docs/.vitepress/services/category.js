@@ -25,6 +25,7 @@ const categoryService = {
     });
 
     writeFileSync(categoryFilePath, JSON.stringify(categories, null, '\t'));
+    return Promise.resolve();
   },
 
   // 获取分类列表

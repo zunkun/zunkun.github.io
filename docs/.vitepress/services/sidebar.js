@@ -22,6 +22,7 @@ const sidebarService = {
     Object.assign(sidebar, ideaSidebarMap);
 
     writeFileSync(sidebarFilePath, JSON.stringify(sidebar, null, '\t'));
+    return Promise.resolve();
   },
 
   getSidebar() {

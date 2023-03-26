@@ -12,18 +12,23 @@ import topicService from './topic';
 const initService = {
   // 启动数据初始化工作
   start() {
-    // 检查目录文件夹，生成默认文档
-    folderService.start();
-    // 检查文件文档
-    postService.start();
-    // 检查专题文档列表
-    topicService.start();
-    // 分类整理
-    categoryService.start();
-    // sidebar整理
-    sidebarService.start();
-    // idea整理
-    ideaService.start();
+    const services = [
+      // 检查目录文件夹，生成默认文档
+      folderService,
+      // 检查文件文档
+      postService,
+      // 检查专题文档列表
+      topicService,
+      // 分类整理
+      categoryService,
+      // sidebar整理
+      sidebarService,
+      // idea整理
+      ideaService,
+    ];
+    services.forEach(async service => {
+      await service.start();
+    });
   },
 };
 

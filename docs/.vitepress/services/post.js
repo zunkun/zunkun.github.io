@@ -57,6 +57,8 @@ const postService = {
     items = items.sort((a, b) => new Date(b.date) - new Date(a.date));
 
     writeFileSync(postFilePath, JSON.stringify(items, null, '\t'));
+
+    return Promise.resolve();
   },
 };
 

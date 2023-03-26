@@ -25,6 +25,7 @@ const topicService = {
     });
 
     writeFileSync(topicFilePath, JSON.stringify(topics, null, '\t'));
+    return Promise.resolve();
   },
 
   // 获取专题列表

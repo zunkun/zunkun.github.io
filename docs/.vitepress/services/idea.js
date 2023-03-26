@@ -25,6 +25,7 @@ const ideaService = {
     });
 
     writeFileSync(ideaFilePath, JSON.stringify(ideas, null, '\t'));
+    return Promise.resolve();
   },
 
   // 获取专题列表
