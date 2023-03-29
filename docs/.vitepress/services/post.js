@@ -27,19 +27,19 @@ const postService = {
       console.log(`检查文章 ${entry.path}`);
 
       const mtObj = matter.read(entry.path);
+      if (entry.path === 'docs/categories/JavaScript/19-globalThis是什么.md') {
+        console.log(mtObj);
+      }
       if (!mtObj) return;
 
       if (!mtObj.data.title) {
         mtObj.data.title = getFileTitle(entry);
       }
 
-      if (!mtObj.data.date) {
-        mtObj.data.date = getDateStr(entry.stats.ctime);
-      }
+      mtObj.data.date = getDateStr(mtObj.data.date || entry.stats.ctime);
+      mtObj.data.udate = getDateStr(mtObj.data.udate || entry.stats.mtime);
 
-      if (!mtObj.data.udate) {
-        mtObj.data.udate = getDateStr(entry.stats.mtime);
-      }
+      writeFileSync(entry.path, matter.stringify(mtObj));
 
       const item = {
         ...mtObj.data,

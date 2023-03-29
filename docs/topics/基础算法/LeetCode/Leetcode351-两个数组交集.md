@@ -1,6 +1,6 @@
 ---
 title: 'Leetcode351:两个数组交集'
-date: 2021-02-05T19:48:05.000Z
+date: '2021-02-06'
 toc: true
 categories:
   - leetcode

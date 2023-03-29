@@ -101,6 +101,10 @@
 		{
 			"text": "18-createElement和innerHTML性能对比2",
 			"link": "/categories/JavaScript/18-createElement和innerHTML性能对比2"
+		},
+		{
+			"text": "19-globalThis是什么",
+			"link": "/categories/JavaScript/19-globalThis是什么"
 		}
 	],
 	"/categories/Tools/": [
