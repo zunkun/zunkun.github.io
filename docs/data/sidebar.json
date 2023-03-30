@@ -105,6 +105,10 @@
 		{
 			"text": "19-globalThis是什么",
 			"link": "/categories/JavaScript/19-globalThis是什么"
+		},
+		{
+			"text": "20-this指向",
+			"link": "/categories/JavaScript/20-this指向"
 		}
 	],
 	"/categories/Tools/": [

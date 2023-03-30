@@ -1,5 +1,17 @@
 [
 	{
+		"title": "this指向",
+		"date": "2023-03-30",
+		"udate": "2023-03-30",
+		"year": 2023,
+		"month": "03",
+		"ym": "2023-03",
+		"ymd": "2023-03-30",
+		"fileName": "20-this指向.md",
+		"filePath": "docs/categories/JavaScript/20-this指向.md",
+		"link": "/categories/JavaScript/20-this指向"
+	},
+	{
 		"title": "globalThis是什么",
 		"date": "2023-03-29",
 		"udate": "2023-03-29",
