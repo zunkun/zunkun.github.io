@@ -109,6 +109,10 @@
 		{
 			"text": "20-this指向",
 			"link": "/categories/JavaScript/20-this指向"
+		},
+		{
+			"text": "22-Range和Selection",
+			"link": "/categories/JavaScript/22-Range和Selection"
 		}
 	],
 	"/categories/Tools/": [
@@ -381,8 +385,8 @@
 			"link": "/topics/设计模式/02-多态"
 		},
 		{
-			"text": "单例模式",
-			"link": "/topics/设计模式/单例模式"
+			"text": "03-单例模式",
+			"link": "/topics/设计模式/03-单例模式"
 		}
 	],
 	"/topics/基础算法/LeetCode/": [

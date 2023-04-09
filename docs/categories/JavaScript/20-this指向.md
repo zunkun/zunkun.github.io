@@ -138,10 +138,6 @@ print.call(obj);
 
 
 
-## 参考
-1. JavaScript 设计模式以与开发实践
-2. [This | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/this)
-
 ## 类构造函数中 this
 JS 中 类是语法糖，构造函数要么需要显式返回一个对象obj 作为 this，要么什么都不返回，this指向调用的对象
 
@@ -200,4 +196,6 @@ const MyFunc = function (name) {
 
 ```
 
-
+## 参考
+1. JavaScript 设计模式以与开发实践
+2. [This | MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/this)
