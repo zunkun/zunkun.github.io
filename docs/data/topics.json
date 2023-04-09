@@ -4,10 +4,6 @@
 		"link": "/topics/React/"
 	},
 	{
-		"name": "Vue",
-		"link": "/topics/Vue/"
-	},
-	{
 		"name": "基本技能",
 		"link": "/topics/基本技能/"
 	},
@@ -18,17 +14,5 @@
 	{
 		"name": "设计模式",
 		"link": "/topics/设计模式/"
-	},
-	{
-		"name": "LeetCode",
-		"link": "/topics/基础算法/LeetCode/"
-	},
-	{
-		"name": "排序",
-		"link": "/topics/基础算法/排序/"
-	},
-	{
-		"name": "牛客算法",
-		"link": "/topics/基础算法/牛客算法/"
 	}
 ]

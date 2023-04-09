@@ -31,15 +31,9 @@ const nav = [
     text: '专题',
     items: [
       { text: '专题列表', link: '/topics/' },
-      { text: '通信安全', link: '/topics/通信安全/' },
       { text: '基础算法', link: '/topics/基础算法/' },
       { text: 'React', link: '/topics/React/' },
     ],
-  },
-  {
-    text: '面试题',
-    link: '/interview/',
-    activeMatch: '/interview/',
   },
   {
     text: '生活感悟',

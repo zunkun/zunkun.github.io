@@ -8,7 +8,7 @@ const topicService = {
   start() {
     console.log('生成专题目录配置文件');
     const entries = sync('docs/topics/**', {
-      deep: 2,
+      deep: 1,
       onlyDirectories: true,
       objectMode: true,
       markDirectories: true,

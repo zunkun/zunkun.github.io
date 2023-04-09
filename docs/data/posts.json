@@ -690,18 +690,6 @@
 		"link": "/categories/JavaScript/18-createElement和innerHTML性能对比2"
 	},
 	{
-		"title": "Vue",
-		"date": "2023-02-26",
-		"udate": "2023-02-26",
-		"year": 2023,
-		"month": "02",
-		"ym": "2023-02",
-		"ymd": "2023-02-26",
-		"fileName": "index.md",
-		"filePath": "docs/topics/Vue/index.md",
-		"link": "/topics/Vue/"
-	},
-	{
 		"title": "堆Heap",
 		"date": "2023-02-26",
 		"udate": "2023-02-26",
