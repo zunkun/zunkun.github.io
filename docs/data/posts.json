@@ -12,6 +12,18 @@
 		"link": "/categories/JavaScript/22-Range和Selection"
 	},
 	{
+		"title": "IntersectionObserver",
+		"date": "2023-04-09",
+		"udate": "2023-04-09",
+		"year": 2023,
+		"month": "04",
+		"ym": "2023-04",
+		"ymd": "2023-04-09",
+		"fileName": "23-IntersectionObserver用法.md",
+		"filePath": "docs/categories/JavaScript/23-IntersectionObserver用法.md",
+		"link": "/categories/JavaScript/23-IntersectionObserver用法"
+	},
+	{
 		"title": "this指向",
 		"date": "2023-03-30",
 		"udate": "2023-03-30",

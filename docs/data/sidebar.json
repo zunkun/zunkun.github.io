@@ -113,6 +113,10 @@
 		{
 			"text": "22-Range和Selection",
 			"link": "/categories/JavaScript/22-Range和Selection"
+		},
+		{
+			"text": "23-IntersectionObserver用法",
+			"link": "/categories/JavaScript/23-IntersectionObserver用法"
 		}
 	],
 	"/categories/Tools/": [
