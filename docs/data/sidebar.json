@@ -191,6 +191,10 @@
 		{
 			"text": "01-Antd InputTextArea联想输入",
 			"link": "/topics/React/01-Antd InputTextArea联想输入"
+		},
+		{
+			"text": "02-React静态文件生成",
+			"link": "/topics/React/02-React静态文件生成"
 		}
 	],
 	"/topics/基本技能/": [
