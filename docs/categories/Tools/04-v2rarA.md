@@ -1,5 +1,7 @@
 ---
 title: v2rarA安装
+date: '2023-04-18'
+udate: '2023-04-18'
 ---
 # v2rarA安装
 系统: Ubuntu 22.04.2 LTS

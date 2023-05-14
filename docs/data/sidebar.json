@@ -117,16 +117,32 @@
 		{
 			"text": "23-IntersectionObserver用法",
 			"link": "/categories/JavaScript/23-IntersectionObserver用法"
+		},
+		{
+			"text": "24-iframe中postMessage通信",
+			"link": "/categories/JavaScript/24-iframe中postMessage通信"
+		},
+		{
+			"text": "25-浏览器跨tab通信BroadcastChannel",
+			"link": "/categories/JavaScript/25-浏览器跨tab通信BroadcastChannel"
 		}
 	],
 	"/categories/Tools/": [
 		{
-			"text": "RedisOnWindows",
-			"link": "/categories/Tools/RedisOnWindows"
+			"text": "01-Redis分布式锁",
+			"link": "/categories/Tools/01-Redis分布式锁"
 		},
 		{
-			"text": "Redis分布式锁",
-			"link": "/categories/Tools/Redis分布式锁"
+			"text": "02-RedisOnWindows",
+			"link": "/categories/Tools/02-RedisOnWindows"
+		},
+		{
+			"text": "03-vscode国内下载",
+			"link": "/categories/Tools/03-vscode国内下载"
+		},
+		{
+			"text": "04-v2rarA",
+			"link": "/categories/Tools/04-v2rarA"
 		}
 	],
 	"/categories/前端/": [
