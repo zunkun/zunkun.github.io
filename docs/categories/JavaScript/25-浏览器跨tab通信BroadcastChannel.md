@@ -1,5 +1,7 @@
 ---
 title: 浏览器跨tab通信BroadcastChannel
+date: '2023-05-14'
+udate: '2023-05-14'
 ---
 # 浏览器跨tab通信BroadcastChannel
 假设我们有个服务，拥有窗口 `window1` ,新开了一个浏览器tab `window2`， 在新的tab页面我们做了一些数据修改，保存操作，我们想要在原先的浏览器窗口 `window1`中显示最新的数据状态。

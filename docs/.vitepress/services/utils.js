@@ -37,7 +37,7 @@ export function getDateInfo(date = new Date()) {
  * @param {date} date DATE
  * @returns
  */
-export function getDateStr(date) {
+export function getDateStr(date = new Date()) {
   // eslint-disable-next-line no-param-reassign
   date = new Date(date);
   const year = date.getFullYear();

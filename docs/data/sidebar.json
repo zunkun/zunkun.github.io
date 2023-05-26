@@ -211,6 +211,10 @@
 		{
 			"text": "02-React静态文件生成",
 			"link": "/topics/React/02-React静态文件生成"
+		},
+		{
+			"text": "03-useEffect副作用函数实现",
+			"link": "/topics/React/03-useEffect副作用函数实现"
 		}
 	],
 	"/topics/基本技能/": [
