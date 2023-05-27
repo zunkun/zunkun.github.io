@@ -31,13 +31,10 @@ div.addEventListener('click', () => alert('hello, world'));
 
 ## 虚拟DOM
 Vue 综合声明式描述UI的可维护性和命令式的高效，采用了虚拟DOM方式。
-Vue声明UI ---编译器--->   虚拟 DOM   ---渲染器---> 真实UI
 
 <pre class="mermaid">
-sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    John-->>Alice: Great!
-    Alice-)John: See you later!
+flowchart LR
+  Vue声明UI-- 编译器 --> 虚拟DOM-- 渲染器 -->真实UI
 </pre>
 
 Vue模板通过编译器生成虚拟DOM，虚拟DOM 通过渲染器生成真实的UI，这样在更新的时候，可以通过更新虚拟DOM，再渲染出来即可。
