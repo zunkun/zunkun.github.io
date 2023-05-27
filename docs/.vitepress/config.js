@@ -1,5 +1,6 @@
 import './services/initialization';
 import mathjax3 from 'markdown-it-mathjax3';
+// import markdownItMermaid from '@wekanteam/markdown-it-mermaid';
 
 import themeConfig from './config/themeConfig';
 
@@ -13,16 +14,19 @@ const config = {
   themeConfig,
   head: [
     ['link', { rel: 'stylesheet', href: '/style/global.css' }],
-    ['script', { src: '/js/global.js' }],
+    // ['script', { src: 'https://cdn.jsdelivr.net/npm/mermaid@10.2.0/dist/mermaid.min.js' }],
+    ['script', { type: 'module', src: '/js/lazyload.js' }],
+    ['script', { type: 'module', src: '/js/global.js' }],
+    ['script', { type: 'module', src: '/js/mermaid.js' }],
   ],
   markdown: {
     lineNumbers: true,
     config: md => {
       // use more markdown-it plugins!
+      // md.use(markdownItMermaid);
       md.use(mathjax3);
     },
   },
-  mermaid: {},
   vue: {
     template: {
       compilerOptions: {

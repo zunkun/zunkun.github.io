@@ -1,3 +1,5 @@
+// import mermaid from 'mermaid';
+
 // open closed details elements for printing
 window.addEventListener('beforeprint', () => {
   const allDetails = document.body.querySelectorAll('details');
@@ -21,3 +23,6 @@ window.addEventListener('afterprint', () => {
     }
   }
 });
+
+// mermaid.initialize({ startOnLoad: true });
+// console.log({ mermaid });
