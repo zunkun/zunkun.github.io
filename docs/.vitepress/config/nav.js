@@ -33,6 +33,7 @@ const nav = [
       { text: '专题列表', link: '/topics/' },
       { text: '基础算法', link: '/topics/基础算法/' },
       { text: 'React', link: '/topics/React/' },
+      { text: 'Vue', link: '/topics/Vue/' },
     ],
   },
   {

@@ -1,5 +1,6 @@
 import './services/initialization';
 import mathjax3 from 'markdown-it-mathjax3';
+
 import themeConfig from './config/themeConfig';
 
 const customElements = ['mjx-container', 'mo', 'math', 'mn', 'mi', 'mjx-assistive-mml', 'mrow'];
@@ -21,6 +22,7 @@ const config = {
       md.use(mathjax3);
     },
   },
+  mermaid: {},
   vue: {
     template: {
       compilerOptions: {
