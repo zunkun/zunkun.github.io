@@ -148,3 +148,45 @@ function mountComponent(vnode, container)  {
 }
 
 ```
+
+## 测试
+预览链接 <a href="/vuejs/demo/renderer1.html" target="_blank">网页预览打开</a>
+
+```js
+import { renderer } from './renderer1.js';
+
+function NameComponent() {
+  return {
+    tag: 'h1',
+    children: `姓名: liuzunkun`,
+  };
+}
+
+const skillVnode = {
+  render() {
+    return {
+      tag: 'div',
+      children: '技能: Vue, React',
+    };
+  },
+};
+
+const vnode = {
+  tag: 'div',
+  // children: 'hello, world'
+  props: {
+    style: 'border: 1px solid red;',
+  },
+  children: [
+    {
+      tag: NameComponent,
+    },
+    {
+      tag: skillVnode,
+    },
+  ],
+};
+
+renderer(vnode, document.body);
+
+```
