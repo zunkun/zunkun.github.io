@@ -221,6 +221,10 @@
 		{
 			"text": "01-Vue思想整理",
 			"link": "/topics/Vue/01-Vue思想整理"
+		},
+		{
+			"text": "02-effect响应式1",
+			"link": "/topics/Vue/02-effect响应式1"
 		}
 	],
 	"/topics/基本技能/": [
