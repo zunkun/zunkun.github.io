@@ -379,29 +379,135 @@ function effect(fn) {
   // 调用时执行
   effectFn();
 }
+```
 
-const data = {
-  name: 'liuzunkun',
-  skill: 'react,vue',
-};
+## 测试
+### 1. 简单测试
+```js
+const data1 = { name: 'liuzunkun', city: 'xinyang', skill: 'react' };
+const data2 = { name: 'deshi', city: 'shanghai', gender: 'male', age: 30 };
 
-const obj = reactive(data);
+const obj1 = reactive(data1);
+const obj2 = reactive(data2);
 
-console.log(obj.name);
-obj.name = 'deshi';
-console.log(obj.name);
-
-effect(() => {
-  console.log(obj.name, obj.skill);
+effect(function effectFn1() {
+  console.log(`effectFn1: obj1.name=`, obj1.name);
 });
 
-effect(() => {
-  console.log(obj.skill);
+effect(function effectFn2() {
+  console.log(`effectFn2: obj1.name=`, obj1.name);
+  console.log(`effectFn2: obj2.name=`, obj2.name);
 });
 
-obj.name = 'wenshu';
+effect(function effectFn3() {
+  console.log(`effectFn3: obj1.city=`, obj1.city);
+});
 
-obj.skill = 'sss';
+function splitlog(text = '') {
+  console.log('------------------------------------------');
+  console.log(text);
+}
 
+splitlog('测试设置: obj1.name = zunkun.liu');
+obj1.name = 'zunkun liu';
+
+splitlog('测试设置: obj2.name = deshi.liu');
+obj2.name = 'deshi.liu';
+
+splitlog('测试设置: obj1.city = shanghai');
+obj1.city = 'shanghai';
+
+splitlog('测试设置: obj1.city2 = shanghai');
+obj1.city2 = 'shanghai';
+
+splitlog('测试嵌套 effect');
+
+effect(function effectFn4() {
+  console.log(`effectFn4: obj2.gender=`, obj2.gender);
+  effect(function effectFn5() {
+    console.log(`effectFn5: obj1.gender=`, obj1.gender);
+    console.log(`effectFn5: obj2.gender=`, obj2.gender);
+  });
+});
+
+splitlog('测试设置obj2.gender=M');
+obj2.gender = 'M';
+
+splitlog('测试effect中循环设置');
+effect(function effectFn6() {
+  console.log(`effectFn6, obj2.age=`, obj2.age);
+  // obj2.age += 1;
+  obj2.age = obj2.age + 1;
+});
 
 ```
+执行结果
+
+```shell
+effectFn1: obj1.name= liuzunkun
+effectFn2: obj1.name= liuzunkun
+effectFn2: obj2.name= deshi
+effectFn3: obj1.city= xinyang
+------------------------------------------
+测试设置: obj1.name = zunkun.liu
+effectFn1: obj1.name= zunkun liu
+effectFn2: obj1.name= zunkun liu
+effectFn2: obj2.name= deshi
+------------------------------------------
+测试设置: obj2.name = deshi.liu
+effectFn2: obj1.name= zunkun liu
+effectFn2: obj2.name= deshi.liu
+------------------------------------------
+测试设置: obj1.city = shanghai
+effectFn3: obj1.city= shanghai
+------------------------------------------
+测试设置: obj1.city2 = shanghai
+------------------------------------------
+测试嵌套 effect
+effectFn4: obj2.gender= male
+effectFn5: obj1.gender= undefined
+effectFn5: obj2.gender= male
+------------------------------------------
+测试设置obj2.gender=M
+effectFn4: obj2.gender= M
+effectFn5: obj1.gender= undefined
+effectFn5: obj2.gender= M
+effectFn5: obj1.gender= undefined
+effectFn5: obj2.gender= M
+------------------------------------------
+测试effect中循环设置
+effectFn6, obj2.age= 30
+
+```
+### 2. 循环嵌套设置bug
+::: danger bug说明
+循环嵌套读取设置，现在还有bug，需要优化解决
+:::
+
+```js
+splitlog('测试嵌套effect中循环设置， 测试失败');
+
+effect(function effectFn7() {
+  console.log(`effectFn7, obj2.age=`, obj2.age);
+  effect(function effectFn8() {
+    console.log(`effectFn8, obj2.age=`, obj2.age);
+    // obj2.age += 1;
+    obj2.age = 'dd';
+  });
+});
+
+```
+上面的测试会导致 `effectStackFn` 栈溢出，原因是在 effectFn8 中执行了 读取和设置 obj2.age, 这个并不是问题，问题出在上层 effectFn7 也同样读取 obj2.age, 建立了依赖关系， 而 effectFn7 的执行又会执行下层 effectFn8, 如此循环往复，造成栈溢出，需要防范上面的写法。
+
+然而，可以修改上面的代码, 将 上层 effectFn7 读取 obj2.age 放在 effectFn8 后面，则依赖关系解除。
+```js
+splitlog('测试嵌套effect中循环设置， 测试失败');
+
+effect(function effectFn7() {
+  effect(function effectFn8() {
+    console.log(`effectFn8, obj2.age=`, obj2.age);
+    // obj2.age += 1;
+    obj2.age = 'dd';
+  });
+  console.log(`effectFn7, obj2.age=`, obj2.age);
+});
