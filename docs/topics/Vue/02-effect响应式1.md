@@ -206,12 +206,12 @@ function trigger(target, key) {
   // 2. 为防止 effectFn 中 trigger 的 effectFn 与当前 activeEffectFn 相同，无限递归
   // 比如 effect(() => obj.num +=1)
   // const effectFns = new Set(effects);
-  const effectFns = [];
-  for (const effectFn of [...effects]) {
+  const effectFns = new Set();
+  effects.forEach(effectFn => {
     if (effectFn !== activeEffectFn) {
-      effectFns.push(effectFn);
+      effectFns.add(effectFn);
     }
-  }
+  });
 
   effectFns.forEach(effectFn => effectFn());
 }
@@ -311,13 +311,12 @@ function trigger(target, key) {
   // 2. 为防止 effectFn 中 trigger 的 effectFn 与当前 activeEffectFn 相同，无限递归
   // 比如 effect(() => obj.num +=1)
   // const effectFns = new Set(effects);
-  const effectFns = [];
-  for (const effectFn of [...effects]) {
+  const effectFns = new Set();
+  effects.forEach(effectFn => {
     if (effectFn !== activeEffectFn) {
-      effectFns.push(effectFn);
+      effectFns.add(effectFn);
     }
-  }
-
+  });
   effectFns.forEach(effectFn => effectFn());
 }
 
