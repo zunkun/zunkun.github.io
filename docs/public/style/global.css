@@ -1,6 +1,7 @@
-code {
-  white-space: pre-wrap !important;
-}
+/* code {
+  white-space: pre-line !important;
+  word-wrap: break-word !important;
+} */
 
 mjx-container > svg {
   display: inline-block;
@@ -46,5 +47,10 @@ img {
 
   .prev-next {
     display: none;
+  }
+  
+  code {
+    white-space: pre-line !important;
+    word-wrap: break-word !important;
   }
 }

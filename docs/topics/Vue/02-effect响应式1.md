@@ -322,7 +322,8 @@ function trigger(target, key) {
 
 // 清除 effectFn 的所有依赖关系
 function cleanup(effectFn) {
-  // effectFn.deps 中存储了所有与当前 effectFn 相关联的 target, key 的所有 effectFn deps 列表
+  // effectFn.deps 中存储了所有与当前 effectFn 相关联的
+  // target, key 的所有 effectFn deps 列表
   for (const deps of effectFn.deps) {
     deps.delete(effectFn);
   }
@@ -355,8 +356,11 @@ function reactive(data) {
 function effect(fn) {
   const effectFn = () => {
     // 清除所有与当前effectFn的关联关系, 防止
-    // 1. effectFn重新执行时，旧的依赖关系已经变化， 比如 effectFn 和 obj1.key1, obj2.key2 建立关系，当前可能和ojb2.key2 不再有关系，所以需要清除
-    // 2. 当前依赖关系可能已经不存在了，清除该关系, 比如 effectFn 和 obj1.key1 有关系，此时可能关系不在
+    // 1. effectFn重新执行时，旧的依赖关系已经变化， 
+    // 比如 effectFn 和 obj1.key1, obj2.key2 建立关系，
+    // 当前可能和ojb2.key2 不再有关系，所以需要清除
+    // 2. 当前依赖关系可能已经不存在了，清除该关系, 
+    // 比如 effectFn 和 obj1.key1 有关系，此时可能关系不在
     cleanup(effectFn);
 
     try {

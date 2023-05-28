@@ -1,5 +1,7 @@
 ---
 title: effect任务调度
+date: '2023-05-28'
+udate: '2023-05-28'
 ---
 # effect任务调度
 effect任务调度, 发生在 trigger 阶段执行 effectFn。
@@ -14,8 +16,11 @@ effect任务调度, 发生在 trigger 阶段执行 effectFn。
 function effect(fn, options = {}) {
   const effectFn = () => {
     // 清除所有与当前effectFn的关联关系, 防止
-    // 1. effectFn重新执行时，旧的依赖关系已经变化， 比如 effectFn 和 obj1.key1, obj2.key2 建立关系，当前可能和ojb2.key2 不再有关系，所以需要清除
-    // 2. 当前依赖关系可能已经不存在了，清除该关系, 比如 effectFn 和 obj1.key1 有关系，此时可能关系不在
+    // 1. effectFn重新执行时，旧的依赖关系已经变化， 
+    // 比如 effectFn 和 obj1.key1, obj2.key2 建立关系，
+    // 当前可能和ojb2.key2 不再有关系，所以需要清除
+    // 2. 当前依赖关系可能已经不存在了，清除该关系, 
+    // 比如 effectFn 和 obj1.key1 有关系，此时可能关系不在
     cleanup(effectFn);
 
     try {

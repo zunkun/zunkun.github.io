@@ -225,6 +225,14 @@
 		{
 			"text": "02-effect响应式1",
 			"link": "/topics/Vue/02-effect响应式1"
+		},
+		{
+			"text": "03-effect任务调度",
+			"link": "/topics/Vue/03-effect任务调度"
+		},
+		{
+			"text": "04-lazy和computed",
+			"link": "/topics/Vue/04-lazy和computed"
 		}
 	],
 	"/topics/基本技能/": [
