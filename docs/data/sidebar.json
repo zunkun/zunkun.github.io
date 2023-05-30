@@ -233,6 +233,10 @@
 		{
 			"text": "04-lazy和computed",
 			"link": "/topics/Vue/04-lazy和computed"
+		},
+		{
+			"text": "05-watch实现",
+			"link": "/topics/Vue/05-watch实现"
 		}
 	],
 	"/topics/基本技能/": [
