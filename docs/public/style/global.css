@@ -12,9 +12,23 @@ mjx-container > svg {
   z-index: 1000 !important;
 }
 
-.medium-zoom-image {
+
+
+.medium-zoom--opened .VPContent {
+  height: 100vh;
+  overflow: hidden;
+}
+
+.medium-zoom-image--opened {
   z-index: 1000 !important;
 }
+
+.medium-zoom--opened .medium-zoom-image {
+  
+  transform: scale(1.5) !important;
+  max-width: 100vw !important;
+}
+
 
 body {
   height: 100vh !important;
@@ -25,9 +39,9 @@ body {
 }
 
 
-img {
+/* img {
   cursor: pointer;
-}
+} */
 
 @media print {
   body{

@@ -147,6 +147,10 @@
 	],
 	"/categories/前端/": [
 		{
+			"text": "单点登录",
+			"link": "/categories/前端/单点登录/"
+		},
+		{
 			"text": "正则",
 			"link": "/categories/前端/正则/",
 			"collapsed": true,

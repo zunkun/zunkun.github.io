@@ -1,5 +1,17 @@
 [
 	{
+		"title": "单点登录",
+		"date": "2023-05-31",
+		"udate": "2023-05-31",
+		"year": 2023,
+		"month": "05",
+		"ym": "2023-05",
+		"ymd": "2023-05-31",
+		"fileName": "index.md",
+		"filePath": "docs/categories/前端/单点登录/index.md",
+		"link": "/categories/前端/单点登录/"
+	},
+	{
 		"title": "watch实现",
 		"date": "2023-05-30",
 		"udate": "2023-05-30",
