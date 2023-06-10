@@ -148,7 +148,14 @@
 	"/categories/前端/": [
 		{
 			"text": "单点登录",
-			"link": "/categories/前端/单点登录/"
+			"link": "/categories/前端/单点登录/",
+			"collapsed": true,
+			"items": [
+				{
+					"text": "01-项目搭建",
+					"link": "/categories/前端/单点登录/01-项目搭建"
+				}
+			]
 		},
 		{
 			"text": "正则",
