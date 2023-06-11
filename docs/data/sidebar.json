@@ -148,22 +148,11 @@
 	"/categories/前端/": [
 		{
 			"text": "单点登录",
-			"link": "/categories/前端/单点登录/"
+			"link": "/categories/前端/单点登录"
 		},
 		{
 			"text": "正则",
-			"link": "/categories/前端/正则/",
-			"collapsed": true,
-			"items": [
-				{
-					"text": "常用正则匹配",
-					"link": "/categories/前端/正则/常用正则匹配"
-				},
-				{
-					"text": "特殊用法",
-					"link": "/categories/前端/正则/特殊用法"
-				}
-			]
+			"link": "/categories/前端/正则"
 		},
 		{
 			"text": "水印",
