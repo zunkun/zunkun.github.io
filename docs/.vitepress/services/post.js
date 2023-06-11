@@ -27,9 +27,6 @@ const postService = {
       console.log(`检查文章 ${entry.path}`);
 
       const mtObj = matter.read(entry.path);
-      if (entry.path === 'docs/categories/JavaScript/19-globalThis是什么.md') {
-        console.log(mtObj);
-      }
       if (!mtObj) return;
 
       if (!mtObj.data.title) {

@@ -11,6 +11,11 @@ const nav = [
         activeMatch: '/categories/',
       },
       {
+        text: '前端笔记',
+        link: '/categories/前端/',
+        activeMatch: '/categories/前端/',
+      },
+      {
         text: 'JavaScript笔记',
         link: '/categories/JavaScript/',
         activeMatch: '/categories/JavaScript/',

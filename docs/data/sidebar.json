@@ -147,51 +147,55 @@
 	],
 	"/categories/前端/": [
 		{
-			"text": "单点登录",
-			"link": "/categories/前端/单点登录"
+			"text": "01-HTTP Location处理",
+			"link": "/categories/前端/01-HTTP Location处理"
 		},
 		{
-			"text": "正则",
-			"link": "/categories/前端/正则"
+			"text": "02-正则",
+			"link": "/categories/前端/02-正则"
 		},
 		{
-			"text": "水印",
-			"link": "/categories/前端/水印/",
-			"collapsed": true,
-			"items": [
-				{
-					"text": "图片水印",
-					"link": "/categories/前端/水印/图片水印"
-				},
-				{
-					"text": "数字水印",
-					"link": "/categories/前端/水印/数字水印"
-				},
-				{
-					"text": "网页背景水印",
-					"link": "/categories/前端/水印/网页背景水印"
-				}
-			]
+			"text": "03-单点登录",
+			"link": "/categories/前端/03-单点登录"
 		},
 		{
-			"text": "网络安全",
-			"link": "/categories/前端/网络安全/",
+			"text": "04-网络安全",
+			"link": "/categories/前端/04-网络安全/",
 			"collapsed": true,
 			"items": [
 				{
 					"text": "如何防止CSRF攻击",
-					"link": "/categories/前端/网络安全/如何防止CSRF攻击"
+					"link": "/categories/前端/04-网络安全/如何防止CSRF攻击"
 				}
 			]
 		},
 		{
-			"text": "跨域",
-			"link": "/categories/前端/跨域/",
+			"text": "05-跨域",
+			"link": "/categories/前端/05-跨域/",
 			"collapsed": true,
 			"items": [
 				{
 					"text": "jsonp",
-					"link": "/categories/前端/跨域/jsonp"
+					"link": "/categories/前端/05-跨域/jsonp"
+				}
+			]
+		},
+		{
+			"text": "06-水印",
+			"link": "/categories/前端/06-水印/",
+			"collapsed": true,
+			"items": [
+				{
+					"text": "图片水印",
+					"link": "/categories/前端/06-水印/图片水印"
+				},
+				{
+					"text": "数字水印",
+					"link": "/categories/前端/06-水印/数字水印"
+				},
+				{
+					"text": "网页背景水印",
+					"link": "/categories/前端/06-水印/网页背景水印"
 				}
 			]
 		}
