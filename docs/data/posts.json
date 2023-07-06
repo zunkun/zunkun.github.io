@@ -1,5 +1,17 @@
 [
 	{
+		"title": "CORS",
+		"date": "2023-07-06",
+		"udate": "2023-07-06",
+		"year": 2023,
+		"month": "07",
+		"ym": "2023-07",
+		"ymd": "2023-07-06",
+		"fileName": "CORS.md",
+		"filePath": "docs/categories/前端/05-跨域/CORS.md",
+		"link": "/categories/前端/05-跨域/CORS"
+	},
+	{
 		"title": "HTTP Location 处理",
 		"date": "2023-06-11",
 		"udate": "2023-06-11",

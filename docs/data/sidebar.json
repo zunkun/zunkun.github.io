@@ -175,6 +175,10 @@
 			"collapsed": true,
 			"items": [
 				{
+					"text": "CORS",
+					"link": "/categories/前端/05-跨域/CORS"
+				},
+				{
 					"text": "jsonp",
 					"link": "/categories/前端/05-跨域/jsonp"
 				}
