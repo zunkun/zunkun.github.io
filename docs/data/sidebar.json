@@ -125,6 +125,10 @@
 		{
 			"text": "25-浏览器跨tab通信BroadcastChannel",
 			"link": "/categories/JavaScript/25-浏览器跨tab通信BroadcastChannel"
+		},
+		{
+			"text": "26-setTimeout和setInterval最小delay时间",
+			"link": "/categories/JavaScript/26-setTimeout和setInterval最小delay时间"
 		}
 	],
 	"/categories/Tools/": [
