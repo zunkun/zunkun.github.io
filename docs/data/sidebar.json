@@ -179,20 +179,20 @@
 			"collapsed": true,
 			"items": [
 				{
-					"text": "CORS",
-					"link": "/categories/前端/05-跨域/CORS"
+					"text": "01-jsonp",
+					"link": "/categories/前端/05-跨域/01-jsonp"
 				},
 				{
-					"text": "jsonp",
-					"link": "/categories/前端/05-跨域/jsonp"
+					"text": "02-正向代理",
+					"link": "/categories/前端/05-跨域/02-正向代理"
 				},
 				{
-					"text": "反向代理",
-					"link": "/categories/前端/05-跨域/反向代理"
+					"text": "03-反向代理",
+					"link": "/categories/前端/05-跨域/03-反向代理"
 				},
 				{
-					"text": "正向代理",
-					"link": "/categories/前端/05-跨域/正向代理"
+					"text": "04-CORS",
+					"link": "/categories/前端/05-跨域/04-CORS"
 				}
 			]
 		},
