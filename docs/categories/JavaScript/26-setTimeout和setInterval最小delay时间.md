@@ -12,7 +12,7 @@ udate: '2023-07-09'
 
 ```js
 let last = Date.now();
-let times = 10;
+let times = 100;
 let timer = setInterval(() => {
   const now = Date.now();
   console.log(`last: ${last}, now: ${now}, delay: ${now - last}`);

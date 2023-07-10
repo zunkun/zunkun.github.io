@@ -1,5 +1,29 @@
 [
 	{
+		"title": "反向代理",
+		"date": "2023-07-10",
+		"udate": "2023-07-10",
+		"year": 2023,
+		"month": "07",
+		"ym": "2023-07",
+		"ymd": "2023-07-10",
+		"fileName": "反向代理.md",
+		"filePath": "docs/categories/前端/05-跨域/反向代理.md",
+		"link": "/categories/前端/05-跨域/反向代理"
+	},
+	{
+		"title": "正向代理",
+		"date": "2023-07-10",
+		"udate": "2023-07-10",
+		"year": 2023,
+		"month": "07",
+		"ym": "2023-07",
+		"ymd": "2023-07-10",
+		"fileName": "正向代理.md",
+		"filePath": "docs/categories/前端/05-跨域/正向代理.md",
+		"link": "/categories/前端/05-跨域/正向代理"
+	},
+	{
 		"title": "setTimeout和setInterval最小delay时间",
 		"date": "2023-07-09",
 		"udate": "2023-07-09",

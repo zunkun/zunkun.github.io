@@ -6,15 +6,15 @@ udate: '2023-02-26'
 
 # 跨域
 
-跨域是指一个域下的文档或脚本试图去请求另一个域下的资源，这里跨域是广义的。
+跨域是浏览器限制一个域向另一个域发送 Ajax 请求。跨域存在于浏览器中。跨域的核心是浏览器的同源策略。
 
 ## 同源策略
 
-同源策略是一种约定，由 Netscape 公司 1995 年引入浏览器，它是浏览器最核心也最基本的安全功能，如果缺少了同源策略，浏览器很容易受到 XSS、CSFR 等攻击。所谓同源是指"协议+域名+端口"三者相同，即便两个不同的域名指向同一个 ip 地址，也非同源。
+决定一个源的因素有
 
-URL 组成：
-
-![https://alliance-communityfile-drcn.dbankcdn.com/FileServer/getFile/cmtybbs/132/978/613/0220086000132978613.20210421101110.21363055064459837253856369170386:50530615083431:2800:85BE90BB1245D23C3140ADAE16D9E623EFD0EFE38AB7E9FD4C5662112022E88F.png](https://alliance-communityfile-drcn.dbankcdn.com/FileServer/getFile/cmtybbs/132/978/613/0220086000132978613.20210421101110.21363055064459837253856369170386:50530615083431:2800:85BE90BB1245D23C3140ADAE16D9E623EFD0EFE38AB7E9FD4C5662112022E88F.png){zoom}
+1. 域名，比如 `a.liuzunkun.com` 和 `b.liuzunkun.com` 跨域
+2. 端口，比如 `http://liuzunkun.com:80` 和 `http://liuzunkun.com:8080` 跨域
+3. 协议，`https` 和 `http` 跨域，比如 `https://liuzunkun.com` 和 `http://liuzunkun.com` 跨域
 
 同源策略限制以下几种行为：
 
@@ -22,7 +22,15 @@ URL 组成：
 - DOM 和 JS 对象无法获得
 - AJAX 请求不能发送
 
-## 跨域比较令人困惑的地方是
+## 跨域常用解决方案
+
+1. jsonp 方案
+2. 接口正向代理， 比如 nodejs 中的 `http-proxy-middleware`
+3. nginx 方向代理, `proxy_pass`
+4. CORS 方案
+
+## 跨域注意事项
 
 1. 跨域发生在浏览器端，如果通过其他方式请求，比如 postman 则接口能正常使用
 2. 跨域被浏览器阻止了，但是服务端可能已经返回了正确的结果
+3. 跨域是对脚本请求的限制，而静态资源请求，则没有限制

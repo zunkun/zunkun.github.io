@@ -185,6 +185,14 @@
 				{
 					"text": "jsonp",
 					"link": "/categories/前端/05-跨域/jsonp"
+				},
+				{
+					"text": "反向代理",
+					"link": "/categories/前端/05-跨域/反向代理"
+				},
+				{
+					"text": "正向代理",
+					"link": "/categories/前端/05-跨域/正向代理"
 				}
 			]
 		},
