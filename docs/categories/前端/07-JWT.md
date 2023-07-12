@@ -82,15 +82,15 @@ const payload = {
   userName: 'liuzunkun',
 };
 
-function base64UrlEncode(str) {
+function base64urlEncoding(str) {
   return Buffer.from(str).toString('base64url');
 }
 
 // 密钥
 const secret = 'liuzunkun';
 
-const base64Header = base64UrlEncode(JSON.stringify(header));
-const base64Payload = base64UrlEncode(JSON.stringify(payload));
+const base64Header = base64urlEncoding(JSON.stringify(header));
+const base64Payload = base64urlEncoding(JSON.stringify(payload));
 
 const data = `${base64Header}.${base64Payload}`;
 var reg = new RegExp('/', 'g');
