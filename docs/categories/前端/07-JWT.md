@@ -72,32 +72,30 @@ HMAC_SHA256(secret, base64urlEncoding(header) + '.' + base64urlEncoding(payload)
 ```js
 const crypto = require('crypto');
 
-const header = {
-  alg: 'HS256',
-  typ: 'JWT',
-};
-
-const payload = {
-  userId: '10000',
-  userName: 'liuzunkun',
-};
-
 function base64urlEncoding(str) {
   return Buffer.from(str).toString('base64url');
 }
 
-// 密钥
-const secret = 'liuzunkun';
+function sign(payload) {
+  const header = {
+    alg: 'HS256',
+    typ: 'JWT',
+  };
 
-const base64Header = base64urlEncoding(JSON.stringify(header));
-const base64Payload = base64urlEncoding(JSON.stringify(payload));
+  // 密钥
+  const secret = 'liuzunkun';
 
-const data = `${base64Header}.${base64Payload}`;
-var reg = new RegExp('/', 'g');
-// 计算 HMAC-SHA256 摘要
-const signature = crypto.createHmac('sha256', secret).update(data).digest('base64url');
+  const base64Header = base64urlEncoding(JSON.stringify(header));
+  const base64Payload = base64urlEncoding(JSON.stringify(payload));
 
-const token = `${base64Header}.${base64Payload}.${signature}`;
+  const signature = crypto
+    .createHmac('sha256', secret)
+    .update(`${base64Header}.${base64Payload}`)
+    .digest('base64url');
+
+  const token = `${base64Header}.${base64Payload}.${signature}`;
+  return token;
+}
 ```
 
 ## 参考
