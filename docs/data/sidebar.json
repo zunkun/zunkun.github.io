@@ -193,6 +193,10 @@
 				{
 					"text": "04-CORS",
 					"link": "/categories/前端/05-跨域/04-CORS"
+				},
+				{
+					"text": "05-postMessage通信",
+					"link": "/categories/前端/05-跨域/05-postMessage通信"
 				}
 			]
 		},
@@ -214,6 +218,10 @@
 					"link": "/categories/前端/06-水印/网页背景水印"
 				}
 			]
+		},
+		{
+			"text": "07-JWT",
+			"link": "/categories/前端/07-JWT"
 		}
 	],
 	"/topics/React/": [

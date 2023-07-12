@@ -1,5 +1,7 @@
 ---
 title: postMessage通信
+date: '2023-07-10'
+udate: '2023-07-10'
 ---
 
 # postMessage 通信
