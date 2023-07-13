@@ -72,30 +72,99 @@ HMAC_SHA256(secret, base64urlEncoding(header) + '.' + base64urlEncoding(payload)
 ```js
 const crypto = require('crypto');
 
-function base64urlEncoding(str) {
-  return Buffer.from(str).toString('base64url');
-}
+function JWT(options = {}) {
+  const { secret = 'liuzunkun.com', exp = 60 * 60 * 1000 } = options;
 
-function sign(payload) {
   const header = {
     alg: 'HS256',
     typ: 'JWT',
   };
 
-  // 密钥
-  const secret = 'liuzunkun';
+  function base64urlEncoding(str) {
+    return Buffer.from(str).toString('base64url');
+  }
 
-  const base64Header = base64urlEncoding(JSON.stringify(header));
-  const base64Payload = base64urlEncoding(JSON.stringify(payload));
+  function sign(data) {
+    if (Object.prototype.toString.call(data) !== '[object Object]') {
+      throw new Error('data must be an object');
+    }
+    const payload = {
+      ...data,
+      exp: Date.now() + parseInt(exp, 10),
+    };
 
-  const signature = crypto
-    .createHmac('sha256', secret)
-    .update(`${base64Header}.${base64Payload}`)
-    .digest('base64url');
+    // 密钥
+    const base64Header = base64urlEncoding(JSON.stringify(header));
+    const base64Payload = base64urlEncoding(JSON.stringify(payload));
 
-  const token = `${base64Header}.${base64Payload}.${signature}`;
-  return token;
+    console.log({
+      base64Header,
+      base64Payload,
+    });
+
+    const signature = crypto
+      .createHmac('sha256', secret)
+      .update(`${base64Header}.${base64Payload}`)
+      .digest('base64url');
+
+    const token = `${base64Header}.${base64Payload}.${signature}`;
+    return token;
+  }
+
+  function validate(token) {
+    if (typeof token !== 'string') {
+      throw new Error('token must be a string');
+    }
+
+    if (token.indexOf('Bearer ') === 0) token = token.slice(7);
+
+    const tokenArr = token.split('.');
+
+    if (tokenArr.length !== 3) {
+      throw new Error('Invalid token');
+    }
+
+    const base64Header = tokenArr[0];
+    const base64Payload = tokenArr[1];
+    const signature = tokenArr[2];
+
+    const targetSignature = crypto
+      .createHmac('sha256', secret)
+      .update(`${base64Header}.${base64Payload}`)
+      .digest('base64url');
+
+    if (targetSignature !== signature) {
+      throw new Error('Invalid token');
+    }
+
+    const payloadStr = Buffer.from(base64Payload, 'base64url').toString('utf-8');
+    const data = JSON.parse(payloadStr);
+
+    if (parseInt(data.exp, 10) < Date.now()) {
+      throw new Error('token has expired');
+    }
+
+    return data;
+  }
+
+  return {
+    sign,
+    validate,
+  };
 }
+
+const secret = 'liuzunkun';
+const data = { userId: '10000', userName: 'liuzunkun' };
+
+const jwt = new JWT({ secret });
+
+const token = jwt.sign(data);
+
+console.log({ token });
+
+const data2 = jwt.validate(token);
+
+console.log({ data2 });
 ```
 
 ## 参考
