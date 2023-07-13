@@ -97,11 +97,6 @@ function JWT(options = {}) {
     const base64Header = base64urlEncoding(JSON.stringify(header));
     const base64Payload = base64urlEncoding(JSON.stringify(payload));
 
-    console.log({
-      base64Header,
-      base64Payload,
-    });
-
     const signature = crypto
       .createHmac('sha256', secret)
       .update(`${base64Header}.${base64Payload}`)
