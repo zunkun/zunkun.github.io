@@ -954,16 +954,16 @@
 		"link": "/topics/设计模式/"
 	},
 	{
-		"title": "jsonp",
+		"title": "JSONP",
 		"date": "2023-02-26",
 		"udate": "2023-02-26",
 		"year": 2023,
 		"month": "02",
 		"ym": "2023-02",
 		"ymd": "2023-02-26",
-		"fileName": "01-jsonp.md",
-		"filePath": "docs/categories/前端/05-跨域/01-jsonp.md",
-		"link": "/categories/前端/05-跨域/01-jsonp"
+		"fileName": "01-JSONP.md",
+		"filePath": "docs/categories/前端/05-跨域/01-JSONP.md",
+		"link": "/categories/前端/05-跨域/01-JSONP"
 	},
 	{
 		"title": "跨域",
