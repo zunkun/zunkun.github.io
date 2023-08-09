@@ -222,6 +222,14 @@
 		{
 			"text": "07-JWT",
 			"link": "/categories/前端/07-JWT"
+		},
+		{
+			"text": "08-Cookie要点",
+			"link": "/categories/前端/08-Cookie要点"
+		},
+		{
+			"text": "09-前端控制重复请求",
+			"link": "/categories/前端/09-前端控制重复请求"
 		}
 	],
 	"/topics/React/": [
