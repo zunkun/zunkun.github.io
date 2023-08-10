@@ -244,6 +244,10 @@
 		{
 			"text": "03-useEffect副作用函数实现",
 			"link": "/topics/React/03-useEffect副作用函数实现"
+		},
+		{
+			"text": "04-setState是同步还是异步",
+			"link": "/topics/React/04-setState是同步还是异步"
 		}
 	],
 	"/topics/Vue/": [
