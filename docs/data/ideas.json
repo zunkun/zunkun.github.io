@@ -1,18 +1,22 @@
 [
 	{
+		"name": "01-做个有志气的人.md",
+		"link": "/ideas/01-做个有志气的人"
+	},
+	{
+		"name": "02-动手去做.md",
+		"link": "/ideas/02-动手去做"
+	},
+	{
+		"name": "03-人生笑话.md",
+		"link": "/ideas/03-人生笑话"
+	},
+	{
+		"name": "04-2023年秋季安排.md",
+		"link": "/ideas/04-2023年秋季安排"
+	},
+	{
 		"name": "index.md",
 		"link": "/ideas/"
-	},
-	{
-		"name": "人生笑话.md",
-		"link": "/ideas/人生笑话"
-	},
-	{
-		"name": "做个有志气的人.md",
-		"link": "/ideas/做个有志气的人"
-	},
-	{
-		"name": "动手去做.md",
-		"link": "/ideas/动手去做"
 	}
 ]

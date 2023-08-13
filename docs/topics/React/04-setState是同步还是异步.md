@@ -1,5 +1,7 @@
 ---
 title: setState是同步还是异步
+date: '2023-08-12'
+udate: '2023-08-12'
 ---
 # setState是同步还是异步
 ## 背景

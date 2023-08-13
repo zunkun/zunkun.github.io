@@ -168,6 +168,10 @@
 			"collapsed": true,
 			"items": [
 				{
+					"text": "XSS要点",
+					"link": "/categories/前端/04-网络安全/XSS要点"
+				},
+				{
 					"text": "如何防止CSRF攻击",
 					"link": "/categories/前端/04-网络安全/如何防止CSRF攻击"
 				}
@@ -471,21 +475,26 @@
 			"link": "/topics/设计模式/03-单例模式"
 		}
 	],
+	"/ideas/01-做个有志气的人": [],
+	"/ideas/02-动手去做": [],
+	"/ideas/03-人生笑话": [],
+	"/ideas/04-2023年秋季安排": [],
 	"/ideas/": [
 		{
-			"text": "人生笑话",
-			"link": "/ideas/人生笑话"
+			"text": "01-做个有志气的人",
+			"link": "/ideas/01-做个有志气的人"
 		},
 		{
-			"text": "做个有志气的人",
-			"link": "/ideas/做个有志气的人"
+			"text": "02-动手去做",
+			"link": "/ideas/02-动手去做"
 		},
 		{
-			"text": "动手去做",
-			"link": "/ideas/动手去做"
+			"text": "03-人生笑话",
+			"link": "/ideas/03-人生笑话"
+		},
+		{
+			"text": "04-2023年秋季安排",
+			"link": "/ideas/04-2023年秋季安排"
 		}
-	],
-	"/ideas/人生笑话": [],
-	"/ideas/做个有志气的人": [],
-	"/ideas/动手去做": []
+	]
 }

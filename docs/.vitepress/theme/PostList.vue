@@ -45,9 +45,12 @@ onLoad();
 
 <style scoped lang="less">
 .posts {
+  margin-top: 20px;
   .postitem {
     // padding: 10px 0px 0px;
-    border-top: 1px solid #efefef;
+    border-bottom: 1px solid #efefef;
+
+    padding: 4px;
     .title {
       font-size: 20px;
       line-height: 30px;
@@ -66,7 +69,12 @@ onLoad();
     }
   }
 
+  .postitem:first-child {
+    border-top: 1px solid #efefef;
+  }
+
   .moreline {
+    margin-top: 10px;
     text-align: center;
     cursor: pointer;
 
