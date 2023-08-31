@@ -6,7 +6,7 @@ udate: '2023-08-31'
 
 # AOP 面相切面编程
 
-AOP(Aspect-Oriented Programming) 面相切面编程。同过将核心的业务封装，将其他任务比如权限校验，日志等操作提起出来，在方法执行前注入，可以使代码清晰，好维护。举个例子
+AOP(Aspect-Oriented Programming) 面相切面编程。通过将核心的业务封装，将其他任务比如权限校验，日志等操作提起出来，在方法执行前注入，可以使代码清晰，好维护。举个例子
 
 假设 `add, minus` 方法中先执行权限校验，然后执行核心业务代码，最后要执行日志记录操作。可以经 `authValidate 和 logHandle` 提取出来，分别在核心代码执行之前和之后注入，代码结构就清晰了。
 
@@ -33,7 +33,7 @@ var obj = {
 };
 ```
 
-注入之后，如
+注入之后，执行顺序如
 
 ```js
 newObj.validateAuth().add().logHandle();
@@ -45,16 +45,23 @@ newObj.validateAuth().add().logHandle();
 
 ```js
 Function.prototype.before = function (beforeFn) {
+  // 原函数引用
   var self = this;
 
+  // 返回一个 新封装的函数，通过这个函数执行原函数和注入的代码
   return function () {
+    // 注入 beforeFn 执行
     beforeFn.apply(this, arguments);
 
+    // 原函数执行结果返回
     return self.apply(this, arguments);
   };
 };
 
 Function.prototype.after = function (afterFn) {
+  // 这个是原函数自身，或者是已经执行过before 的函数对象
+  // 如果是 fn().before() 此时 self 指向 fn 自身。
+  // 如果是  fn().before().after()，指向fn().before()
   var self = this;
 
   return function () {
