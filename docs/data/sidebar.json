@@ -481,6 +481,10 @@
 		{
 			"text": "05-currying柯里化函数",
 			"link": "/topics/设计模式/05-currying柯里化函数"
+		},
+		{
+			"text": "06-分时函数",
+			"link": "/topics/设计模式/06-分时函数"
 		}
 	],
 	"/ideas/01-做个有志气的人": [],
