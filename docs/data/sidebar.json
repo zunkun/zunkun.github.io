@@ -477,6 +477,10 @@
 		{
 			"text": "04-AOP面相切面编程",
 			"link": "/topics/设计模式/04-AOP面相切面编程"
+		},
+		{
+			"text": "05-currying柯里化函数",
+			"link": "/topics/设计模式/05-currying柯里化函数"
 		}
 	],
 	"/ideas/01-做个有志气的人": [],
