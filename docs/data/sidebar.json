@@ -485,6 +485,14 @@
 		{
 			"text": "06-分时函数",
 			"link": "/topics/设计模式/06-分时函数"
+		},
+		{
+			"text": "08-懒加载函数",
+			"link": "/topics/设计模式/08-懒加载函数"
+		},
+		{
+			"text": "TextAreaHelper",
+			"link": "/topics/设计模式/TextAreaHelper.jsx"
 		}
 	],
 	"/ideas/01-做个有志气的人": [],
