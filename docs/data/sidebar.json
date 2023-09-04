@@ -471,36 +471,36 @@
 			"link": "/topics/设计模式/02-多态"
 		},
 		{
-			"text": "03-单例模式",
-			"link": "/topics/设计模式/03-单例模式"
+			"text": "03-AOP面相切面编程",
+			"link": "/topics/设计模式/03-AOP面相切面编程"
 		},
 		{
-			"text": "04-AOP面相切面编程",
-			"link": "/topics/设计模式/04-AOP面相切面编程"
+			"text": "04-currying柯里化函数",
+			"link": "/topics/设计模式/04-currying柯里化函数"
 		},
 		{
-			"text": "05-currying柯里化函数",
-			"link": "/topics/设计模式/05-currying柯里化函数"
+			"text": "05-分时函数",
+			"link": "/topics/设计模式/05-分时函数"
 		},
 		{
-			"text": "06-分时函数",
-			"link": "/topics/设计模式/06-分时函数"
+			"text": "06-懒加载函数",
+			"link": "/topics/设计模式/06-懒加载函数"
 		},
 		{
-			"text": "08-懒加载函数",
-			"link": "/topics/设计模式/08-懒加载函数"
+			"text": "07-单例模式",
+			"link": "/topics/设计模式/07-单例模式"
 		},
 		{
-			"text": "09-策略模式",
-			"link": "/topics/设计模式/09-策略模式"
+			"text": "08-策略模式",
+			"link": "/topics/设计模式/08-策略模式"
 		},
 		{
-			"text": "10-代理模式",
-			"link": "/topics/设计模式/10-代理模式"
+			"text": "09-代理模式",
+			"link": "/topics/设计模式/09-代理模式"
 		},
 		{
-			"text": "11-发布订阅模式",
-			"link": "/topics/设计模式/11-发布订阅模式"
+			"text": "10-发布订阅模式",
+			"link": "/topics/设计模式/10-发布订阅模式"
 		}
 	],
 	"/ideas/01-做个有志气的人": [],
