@@ -50,8 +50,8 @@ Function.prototype.before = function (beforeFn) {
 
   // 返回一个 新封装的函数，通过这个函数执行原函数和注入的代码
   return function () {
-    // 注入 beforeFn 执行
-    beforeFn.apply(this, arguments);
+    // 注入 beforeFn 执行 ，如果返回 false 则不再执行原函数
+    if (beforeFn.apply(this, arguments) === false) return;
 
     // 原函数执行结果返回
     return self.apply(this, arguments);
@@ -105,6 +105,7 @@ var newFn3 = log.around(
     console.log('newFn3 after called');
   },
 );
+injectBefore;
 
 newFn3(33);
 ```
