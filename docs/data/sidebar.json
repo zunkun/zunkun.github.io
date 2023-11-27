@@ -254,6 +254,20 @@
 			"link": "/topics/React/04-setState是同步还是异步"
 		}
 	],
+	"/topics/Rust笔记/": [
+		{
+			"text": "01-工程创建",
+			"link": "/topics/Rust笔记/01-工程创建"
+		},
+		{
+			"text": "02-基本数据类型",
+			"link": "/topics/Rust笔记/02-基本数据类型"
+		},
+		{
+			"text": "03-所有权",
+			"link": "/topics/Rust笔记/03-所有权"
+		}
+	],
 	"/topics/Vue/": [
 		{
 			"text": "01-Vue思想整理",
