@@ -1,17 +1,20 @@
 # 得時笔记
+
 得時笔记，记录工作和生活
 
 [https://liuzunkun.com](https://liuzunkun.com)
 
 ## 技术方案
+
 vitepress
 
 ## 配置
+
 文档在 `docs/` 目录下，新建文件夹自行生成 `index.md` 文件
 
 ### github action 配置
 
-``` yml
+```yml
 name: Deploy
 on:
   workflow_dispatch: {}
@@ -45,7 +48,4 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v1
-
-
 ```
-

@@ -5,6 +5,7 @@ udate: '2023-02-25'
 ---
 
 # 分类列表
+
 这里是分类列表
 
 <GroupList :list="categories" />

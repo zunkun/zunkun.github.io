@@ -266,6 +266,10 @@
 		{
 			"text": "03-所有权",
 			"link": "/topics/Rust笔记/03-所有权"
+		},
+		{
+			"text": "04-枚举和结构体",
+			"link": "/topics/Rust笔记/04-枚举和结构体"
 		}
 	],
 	"/topics/Vue/": [
