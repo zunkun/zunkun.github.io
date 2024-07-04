@@ -17,10 +17,4 @@ udate: '2023-02-25'
 
 <hr />
 
-
-<!-- <GroupList :list="categories" />
-
-<script setup>
-import categories from '/data/categories.json';
-
-</script> -->
+访问地址： [御定全唐詩錄](/qtsl/traditional/)
