@@ -4,6 +4,7 @@ import ideaService from './idea';
 import postService from './post';
 import sidebarService from './sidebar';
 import topicService from './topic';
+import qtslService from './qtsl';
 
 /**
  * 数据初始化工作
@@ -25,6 +26,7 @@ const initService = {
       sidebarService,
       // idea整理
       ideaService,
+      qtslService,
     ];
     services.forEach(async service => {
       await service.start();

@@ -51,6 +51,8 @@ const topicService = {
       topicSidebarMap[topic.link] = getSidebarLists(topic.link);
     });
 
+    console.log({ topicSidebarMap });
+
     return topicSidebarMap;
   },
 };

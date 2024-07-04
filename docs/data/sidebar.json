@@ -558,5 +558,133 @@
 			"text": "04-2023年秋季安排",
 			"link": "/ideas/04-2023年秋季安排"
 		}
+	],
+	"/qtsl/traditional/": [
+		{
+			"text": "御定全唐詩錄",
+			"link": "/qtsl/traditional/",
+			"items": [
+				{
+					"chapternum": 1,
+					"text": "卷一",
+					"link": "/qtsl/traditional/poem1.md",
+					"items": []
+				},
+				{
+					"chapternum": 2,
+					"text": "卷二",
+					"link": "/qtsl/traditional/poem2.md",
+					"items": []
+				},
+				{
+					"chapternum": 3,
+					"text": "卷三",
+					"link": "/qtsl/traditional/poem3.md",
+					"items": []
+				},
+				{
+					"chapternum": 4,
+					"text": "卷四",
+					"link": "/qtsl/traditional/poem4.md",
+					"items": []
+				},
+				{
+					"chapternum": 5,
+					"text": "卷五",
+					"link": "/qtsl/traditional/poem5.md",
+					"items": []
+				},
+				{
+					"chapternum": 6,
+					"text": "卷六",
+					"link": "/qtsl/traditional/poem6.md",
+					"items": []
+				},
+				{
+					"chapternum": 7,
+					"text": "卷七",
+					"link": "/qtsl/traditional/poem7.md",
+					"items": []
+				},
+				{
+					"chapternum": 8,
+					"text": "卷八",
+					"link": "/qtsl/traditional/poem8.md",
+					"items": []
+				},
+				{
+					"chapternum": 9,
+					"text": "卷九",
+					"link": "/qtsl/traditional/poem9.md",
+					"items": []
+				},
+				{
+					"chapternum": 10,
+					"text": "卷十",
+					"link": "/qtsl/traditional/poem10.md",
+					"items": []
+				},
+				{
+					"chapternum": 11,
+					"text": "卷十一",
+					"link": "/qtsl/traditional/poem11.md",
+					"items": []
+				},
+				{
+					"chapternum": 12,
+					"text": "卷十二",
+					"link": "/qtsl/traditional/poem12.md",
+					"items": []
+				},
+				{
+					"chapternum": 13,
+					"text": "卷十三",
+					"link": "/qtsl/traditional/poem13.md",
+					"items": []
+				},
+				{
+					"chapternum": 14,
+					"text": "卷十四",
+					"link": "/qtsl/traditional/poem14.md",
+					"items": []
+				},
+				{
+					"chapternum": 15,
+					"text": "卷十五",
+					"link": "/qtsl/traditional/poem15.md",
+					"items": []
+				},
+				{
+					"chapternum": 16,
+					"text": "卷十六",
+					"link": "/qtsl/traditional/poem16.md",
+					"items": []
+				},
+				{
+					"chapternum": 17,
+					"text": "卷十七",
+					"link": "/qtsl/traditional/poem17.md",
+					"items": []
+				},
+				{
+					"chapternum": 18,
+					"text": "卷十八",
+					"link": "/qtsl/traditional/poem18.md",
+					"items": []
+				},
+				{
+					"chapternum": 19,
+					"text": "卷十九",
+					"link": "/qtsl/traditional/poem19.md",
+					"items": []
+				},
+				{
+					"chapternum": 20,
+					"text": "卷二十",
+					"link": "/qtsl/traditional/poem20.md",
+					"items": []
+				}
+			]
+		}
 	]
 }

@@ -6,6 +6,7 @@ import mediumZoom from 'medium-zoom';
 import Layout from './Layout.vue';
 import GroupList from './GroupList.vue';
 import PostList from './PostList.vue';
+import PoemList from './PoemList.vue';
 
 export default {
   ...DefaultTheme,
@@ -16,6 +17,7 @@ export default {
     DefaultTheme.enhanceApp(ctx);
     ctx.app.component('GroupList', GroupList);
     ctx.app.component('PostList', PostList);
+    ctx.app.component('PoemList', PoemList);
   },
 
   setup() {
