@@ -1,6 +1,6 @@
 <template>
  <div class="poemlists">
-  <div class="poem" v-for="(poem, index) in props.list" :key="poem.id">
+  <div class="poem" v-for="(poem, index) in props?.list" :key="poem.id">
     <div class="title">
       <a :id="`${poem.title}`" :href="`#${poem.title}`">[{{ poem.poemindex }}] {{ poem.title  }}</a>
     </div>
