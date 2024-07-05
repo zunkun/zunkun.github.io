@@ -2,10 +2,11 @@
  <div class="poemlists">
   <div class="poem" v-for="(poem, index) in props.list" :key="poem.id">
     <div class="title">
-      <a :href="`#${poem.title}`">[{{ index+1 }}] {{ poem.title  }}</a>
+      <a :id="`${poem.title}`" :href="`#${poem.title}`">[{{ poem.poemindex }}] {{ poem.title  }}</a>
     </div>
-    <div class="author">{{ poem.author  }}</div>
-    <div class="authordesc">{{ props?.authorMap?.[poem?.author]?.authordesc }}</div>
+    <div class="author">
+      <a :href="`author.html#${poem.author}`"   class="authorlink">{{ poem.author  }}</a>
+    </div>
     <div class="desc">{{ poem.titledesc  }}</div>
     <div class="content">{{ poem.content }}</div>
   </div>
@@ -35,12 +36,19 @@ const props = defineProps({
       line-height: 1.4;
       font-size: 24px;
       cursor: pointer;
+            line-height: 2;
     }
 
     .author {
+        color: #9966cc;
+        line-height: 2;
+    }
+
+    .authorlink {
       line-height: 1.4;
       font-size: 16px;
       margin: 4px 0px;
+              color: #9966cc;
     }
 
     .authordesc {
@@ -51,6 +59,7 @@ const props = defineProps({
 
     .content {
       font-size: 16px;
+      line-height: 2;
     }
   }
 

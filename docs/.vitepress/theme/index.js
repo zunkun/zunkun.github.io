@@ -7,6 +7,8 @@ import Layout from './Layout.vue';
 import GroupList from './GroupList.vue';
 import PostList from './PostList.vue';
 import PoemList from './PoemList.vue';
+import AuthorPage from './AuthorPage.vue';
+import LinePage from './LinePage.vue';
 
 export default {
   ...DefaultTheme,
@@ -18,6 +20,8 @@ export default {
     ctx.app.component('GroupList', GroupList);
     ctx.app.component('PostList', PostList);
     ctx.app.component('PoemList', PoemList);
+    ctx.app.component('AuthorPage', AuthorPage);
+    ctx.app.component('LinePage', LinePage);
   },
 
   setup() {

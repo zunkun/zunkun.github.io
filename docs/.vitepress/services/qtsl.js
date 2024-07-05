@@ -1,4 +1,5 @@
-import { existsSync, readFileSync, writeFileSync, readdirSync } from 'fs';
+import { mkdirSync, readFileSync, writeFileSync, readdirSync } from 'fs';
+import { getDateStr } from './utils';
 
 const qtslDir = 'docs/data/qtsl';
 const qtslTargetDir = 'docs/qtsl/traditional';
@@ -12,23 +13,38 @@ const qtslService = {
       if (fileName.indexOf('卷') === 0) {
         const chapter = fileName;
         const chapternum = parseInt(chapterList.indexOf(chapter), 10) + 1;
-
-        this.poemFileCreate(chapter, chapternum);
+        // chapter dir path
+        const chapterDir = `${qtslTargetDir}/chapter${chapternum}`;
+        this.createChpterDir(chapterDir);
+        // crate poem page
+        this.poemFileCreate(chapterDir, chapter, chapternum);
+        this.lineFileCreate(chapterDir, chapter, chapternum);
+        this.authorFileCreate(chapterDir, chapter, chapternum);
       }
     });
   },
-  poemFileCreate(chapter, chapternum) {
-    const poemFilePath = `${qtslTargetDir}/poem${chapternum}.md`;
+  createChpterDir(chapterDir) {
+    try {
+      console.log(`创建目录：${chapterDir}`);
+      mkdirSync(chapterDir, { recursive: true });
+    } catch (error) {
+      console.log(`创建目录失败：${error}`);
+    }
+  },
+
+  poemFileCreate(chapterDir, chapter, chapternum) {
+    const filePath = `${chapterDir}/poem.md`;
+    const dateStr = getDateStr();
+    const title = `御定全唐詩錄${chapter}诗歌列表`;
 
     const content = `---
-title: 全唐诗录诗歌列表
-date: '2023-02-26'
-udate: '2023-02-26'
+title: ${title}
+date: '${dateStr}'
+udate: '${dateStr}'
 ---
-# 御定全唐詩錄${chapter}
+# ${title}
 
-<PoemList :list="poems" :authorMap="authorMap" />
-
+<PoemList :list="poems" :authorMap="authorMap" :chapternum="${chapternum}" />
 
 <script setup>
 const chapter = '${chapter}';
@@ -37,7 +53,53 @@ import authorMap from '/data/qtsl/${chapter}/author.json'
 </script>
 `;
 
-    writeFileSync(poemFilePath, content, 'utf-8');
+    writeFileSync(filePath, content, 'utf-8');
+  },
+
+  lineFileCreate(chapterDir, chapter, chapternum) {
+    const filePath = `${chapterDir}/line.md`;
+    const dateStr = getDateStr();
+    const title = `御定全唐詩錄${chapter}按行分析`;
+
+    const content = `---
+title: ${title}
+date: '${dateStr}'
+udate: '${dateStr}'
+---
+# ${title}
+
+<LinePage :list="lines" :chapternum="${chapternum}" />
+
+<script setup>
+const chapter = '${chapter}';
+import lines from '/data/qtsl/${chapter}/lines.json'
+</script>
+`;
+
+    writeFileSync(filePath, content, 'utf-8');
+  },
+
+  authorFileCreate(chapterDir, chapter, chapternum) {
+    const filePath = `${chapterDir}/author.md`;
+    const dateStr = getDateStr();
+    const title = `御定全唐詩錄${chapter}诗人作者`;
+
+    const content = `---
+title: ${title}
+date: '${dateStr}'
+udate: '${dateStr}'
+---
+# ${title}
+
+<AuthorPage :authorMap="authorMap" :chapternum="${chapternum}" />
+
+<script setup>
+const chapter = '${chapter}';
+import authorMap from '/data/qtsl/${chapter}/author.json'
+</script>
+`;
+
+    writeFileSync(filePath, content, 'utf-8');
   },
 
   getSidebarMap() {
@@ -51,12 +113,28 @@ import authorMap from '/data/qtsl/${chapter}/author.json'
       if (fileName.indexOf('卷') === 0) {
         const chapter = fileName;
         const chapternum = parseInt(chapterList.indexOf(chapter), 10) + 1;
-        items.push({
+
+        const chapterItem = {
           chapternum,
           text: chapter,
-          link: `${prePath}poem${chapternum}.md`,
-          items: [],
-        });
+          collapsed: true,
+          items: [
+            {
+              text: `${chapter}诗歌列表`,
+              link: `${prePath}chapter${chapternum}/poem`,
+            },
+            {
+              text: `${chapter}按行分析`,
+              link: `${prePath}chapter${chapternum}/line`,
+            },
+            {
+              text: `${chapter}诗人作者`,
+              link: `${prePath}chapter${chapternum}/author`,
+            },
+          ],
+        };
+
+        items.push(chapterItem);
       }
     });
 
