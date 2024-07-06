@@ -1133,6 +1133,63 @@
 							"link": "/qtsl/traditional/chapter30/author"
 						}
 					]
+				},
+				{
+					"chapternum": 31,
+					"text": "卷三十一",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷三十一诗歌列表",
+							"link": "/qtsl/traditional/chapter31/poem"
+						},
+						{
+							"text": "卷三十一按行分析",
+							"link": "/qtsl/traditional/chapter31/line"
+						},
+						{
+							"text": "卷三十一诗人作者",
+							"link": "/qtsl/traditional/chapter31/author"
+						}
+					]
+				},
+				{
+					"chapternum": 32,
+					"text": "卷三十二",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷三十二诗歌列表",
+							"link": "/qtsl/traditional/chapter32/poem"
+						},
+						{
+							"text": "卷三十二按行分析",
+							"link": "/qtsl/traditional/chapter32/line"
+						},
+						{
+							"text": "卷三十二诗人作者",
+							"link": "/qtsl/traditional/chapter32/author"
+						}
+					]
+				},
+				{
+					"chapternum": 33,
+					"text": "卷三十三",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷三十三诗歌列表",
+							"link": "/qtsl/traditional/chapter33/poem"
+						},
+						{
+							"text": "卷三十三按行分析",
+							"link": "/qtsl/traditional/chapter33/line"
+						},
+						{
+							"text": "卷三十三诗人作者",
+							"link": "/qtsl/traditional/chapter33/author"
+						}
+					]
 				}
 			]
 		}
