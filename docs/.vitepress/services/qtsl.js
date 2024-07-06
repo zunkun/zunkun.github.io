@@ -41,6 +41,7 @@ const qtslService = {
 title: ${title}
 date: '${dateStr}'
 udate: '${dateStr}'
+aside: false
 ---
 # ${title}
 
@@ -65,6 +66,7 @@ import authorMap from '/data/qtsl/${chapter}/author.json'
 title: ${title}
 date: '${dateStr}'
 udate: '${dateStr}'
+aside: false
 ---
 # ${title}
 
@@ -88,6 +90,7 @@ import lines from '/data/qtsl/${chapter}/lines.json'
 title: ${title}
 date: '${dateStr}'
 udate: '${dateStr}'
+aside: false
 ---
 # ${title}
 
