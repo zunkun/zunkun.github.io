@@ -1190,6 +1190,139 @@
 							"link": "/qtsl/traditional/chapter33/author"
 						}
 					]
+				},
+				{
+					"chapternum": 34,
+					"text": "卷三十四",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷三十四诗歌列表",
+							"link": "/qtsl/traditional/chapter34/poem"
+						},
+						{
+							"text": "卷三十四按行分析",
+							"link": "/qtsl/traditional/chapter34/line"
+						},
+						{
+							"text": "卷三十四诗人作者",
+							"link": "/qtsl/traditional/chapter34/author"
+						}
+					]
+				},
+				{
+					"chapternum": 35,
+					"text": "卷三十五",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷三十五诗歌列表",
+							"link": "/qtsl/traditional/chapter35/poem"
+						},
+						{
+							"text": "卷三十五按行分析",
+							"link": "/qtsl/traditional/chapter35/line"
+						},
+						{
+							"text": "卷三十五诗人作者",
+							"link": "/qtsl/traditional/chapter35/author"
+						}
+					]
+				},
+				{
+					"chapternum": 36,
+					"text": "卷三十六",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷三十六诗歌列表",
+							"link": "/qtsl/traditional/chapter36/poem"
+						},
+						{
+							"text": "卷三十六按行分析",
+							"link": "/qtsl/traditional/chapter36/line"
+						},
+						{
+							"text": "卷三十六诗人作者",
+							"link": "/qtsl/traditional/chapter36/author"
+						}
+					]
+				},
+				{
+					"chapternum": 37,
+					"text": "卷三十七",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷三十七诗歌列表",
+							"link": "/qtsl/traditional/chapter37/poem"
+						},
+						{
+							"text": "卷三十七按行分析",
+							"link": "/qtsl/traditional/chapter37/line"
+						},
+						{
+							"text": "卷三十七诗人作者",
+							"link": "/qtsl/traditional/chapter37/author"
+						}
+					]
+				},
+				{
+					"chapternum": 38,
+					"text": "卷三十八",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷三十八诗歌列表",
+							"link": "/qtsl/traditional/chapter38/poem"
+						},
+						{
+							"text": "卷三十八按行分析",
+							"link": "/qtsl/traditional/chapter38/line"
+						},
+						{
+							"text": "卷三十八诗人作者",
+							"link": "/qtsl/traditional/chapter38/author"
+						}
+					]
+				},
+				{
+					"chapternum": 39,
+					"text": "卷三十九",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷三十九诗歌列表",
+							"link": "/qtsl/traditional/chapter39/poem"
+						},
+						{
+							"text": "卷三十九按行分析",
+							"link": "/qtsl/traditional/chapter39/line"
+						},
+						{
+							"text": "卷三十九诗人作者",
+							"link": "/qtsl/traditional/chapter39/author"
+						}
+					]
+				},
+				{
+					"chapternum": 40,
+					"text": "卷四十",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷四十诗歌列表",
+							"link": "/qtsl/traditional/chapter40/poem"
+						},
+						{
+							"text": "卷四十按行分析",
+							"link": "/qtsl/traditional/chapter40/line"
+						},
+						{
+							"text": "卷四十诗人作者",
+							"link": "/qtsl/traditional/chapter40/author"
+						}
+					]
 				}
 			]
 		}
