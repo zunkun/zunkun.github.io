@@ -943,6 +943,25 @@
 							"link": "/qtsl/traditional/chapter20/author"
 						}
 					]
+				},
+				{
+					"chapternum": 21,
+					"text": "卷二十一",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷二十一诗歌列表",
+							"link": "/qtsl/traditional/chapter21/poem"
+						},
+						{
+							"text": "卷二十一按行分析",
+							"link": "/qtsl/traditional/chapter21/line"
+						},
+						{
+							"text": "卷二十一诗人作者",
+							"link": "/qtsl/traditional/chapter21/author"
+						}
+					]
 				}
 			]
 		}

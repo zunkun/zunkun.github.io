@@ -2,7 +2,7 @@
   <div class="page">
     <div class="authorlist" v-for="(author, key) in props.authorMap" :key="key">
       <div class="author" :id="author.author">
-        <a :href="`#${author.author}`" class="authorlink" >{{ author.author }}</a>
+        <a :href="`#${author.author}`" class="authorlink">{{ author.author }}</a>
       </div>
       <div class="authordesc">{{ author.authordesc }}</div>
       <div class="title2">诗文列表</div>
@@ -10,11 +10,7 @@
         <div class="charstyle">{{ charstyle }}</div>
 
         <div class="poemlist" v-for="(poem, key) in poems" :key="key">
-          <a
-            class="poemtitle"
-            :href="`poem.html#${poem.title}`"
-            >{{ poem.title }}</a
-          >
+          <a class="poemtitle" :href="`poem.html#${poem.title}`">{{ poem.title }}</a>
         </div>
       </div>
     </div>
@@ -54,6 +50,7 @@ const props = defineProps({
   color: #cc99cc;
   line-height: 2;
   font-style: italic;
+  white-space: pre-wrap;
 }
 
 .title2 {
@@ -61,6 +58,7 @@ const props = defineProps({
   line-height: 2;
   font-weight: 600;
   color: #009999;
+        white-space: pre-wrap;
 }
 
 .charstylelist {
@@ -74,5 +72,6 @@ const props = defineProps({
   cursor: pointer;
   padding-left: 2rem;
   line-height: 2;
+        white-space: pre-wrap;
 }
 </style>

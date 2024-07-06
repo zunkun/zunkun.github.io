@@ -11,9 +11,9 @@
       <tbody>
         <tr class="line" v-for="(line, index) in props.list" :key="line.id">
           <td class="linenum">
-            <a :id="`line-${index+1}`" :href="`#line-${index+1}`">{{ index + 1 }}</a>
+            <a :id="`line-${index + 1}`" :href="`#line-${index + 1}`">{{ index + 1 }}</a>
           </td>
-          <td :class="`type linetype-${line.linetype}` ">{{ line.type }}</td>
+          <td :class="`type linetype-${line.linetype}`">{{ line.type }}</td>
           <td class="content">{{ line.content }}</td>
         </tr>
       </tbody>
@@ -45,16 +45,16 @@ const props = defineProps({
     color: #0aa344;
   }
 
-  .linetype-author  {
-    color: #9966CC;
+  .linetype-author {
+    color: #9966cc;
   }
 
   .linetype-authordesc {
-    color: #CC99CC;
+    color: #cc99cc;
   }
 
   .linetype-charstyle {
-    color:#ff7500;
+    color: #ff7500;
   }
 
   .linetype-title {
@@ -66,11 +66,12 @@ const props = defineProps({
   }
 
   .linetype-content {
-    color: #3366CC;
+    color: #3366cc;
   }
 
   .content {
     flex: 1;
+    white-space: pre-wrap;
   }
 }
 </style>
