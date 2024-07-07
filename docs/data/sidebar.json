@@ -1551,6 +1551,120 @@
 							"link": "/qtsl/traditional/chapter52/author"
 						}
 					]
+				},
+				{
+					"chapternum": 53,
+					"text": "卷五十三",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷五十三诗歌列表",
+							"link": "/qtsl/traditional/chapter53/poem"
+						},
+						{
+							"text": "卷五十三按行分析",
+							"link": "/qtsl/traditional/chapter53/line"
+						},
+						{
+							"text": "卷五十三诗人作者",
+							"link": "/qtsl/traditional/chapter53/author"
+						}
+					]
+				},
+				{
+					"chapternum": 54,
+					"text": "卷五十四",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷五十四诗歌列表",
+							"link": "/qtsl/traditional/chapter54/poem"
+						},
+						{
+							"text": "卷五十四按行分析",
+							"link": "/qtsl/traditional/chapter54/line"
+						},
+						{
+							"text": "卷五十四诗人作者",
+							"link": "/qtsl/traditional/chapter54/author"
+						}
+					]
+				},
+				{
+					"chapternum": 55,
+					"text": "卷五十五",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷五十五诗歌列表",
+							"link": "/qtsl/traditional/chapter55/poem"
+						},
+						{
+							"text": "卷五十五按行分析",
+							"link": "/qtsl/traditional/chapter55/line"
+						},
+						{
+							"text": "卷五十五诗人作者",
+							"link": "/qtsl/traditional/chapter55/author"
+						}
+					]
+				},
+				{
+					"chapternum": 56,
+					"text": "卷五十六",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷五十六诗歌列表",
+							"link": "/qtsl/traditional/chapter56/poem"
+						},
+						{
+							"text": "卷五十六按行分析",
+							"link": "/qtsl/traditional/chapter56/line"
+						},
+						{
+							"text": "卷五十六诗人作者",
+							"link": "/qtsl/traditional/chapter56/author"
+						}
+					]
+				},
+				{
+					"chapternum": 57,
+					"text": "卷五十七",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷五十七诗歌列表",
+							"link": "/qtsl/traditional/chapter57/poem"
+						},
+						{
+							"text": "卷五十七按行分析",
+							"link": "/qtsl/traditional/chapter57/line"
+						},
+						{
+							"text": "卷五十七诗人作者",
+							"link": "/qtsl/traditional/chapter57/author"
+						}
+					]
+				},
+				{
+					"chapternum": 58,
+					"text": "卷五十八",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷五十八诗歌列表",
+							"link": "/qtsl/traditional/chapter58/poem"
+						},
+						{
+							"text": "卷五十八按行分析",
+							"link": "/qtsl/traditional/chapter58/line"
+						},
+						{
+							"text": "卷五十八诗人作者",
+							"link": "/qtsl/traditional/chapter58/author"
+						}
+					]
 				}
 			]
 		}
