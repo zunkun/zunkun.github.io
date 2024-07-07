@@ -1323,6 +1323,196 @@
 							"link": "/qtsl/traditional/chapter40/author"
 						}
 					]
+				},
+				{
+					"chapternum": 41,
+					"text": "卷四十一",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷四十一诗歌列表",
+							"link": "/qtsl/traditional/chapter41/poem"
+						},
+						{
+							"text": "卷四十一按行分析",
+							"link": "/qtsl/traditional/chapter41/line"
+						},
+						{
+							"text": "卷四十一诗人作者",
+							"link": "/qtsl/traditional/chapter41/author"
+						}
+					]
+				},
+				{
+					"chapternum": 42,
+					"text": "卷四十二",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷四十二诗歌列表",
+							"link": "/qtsl/traditional/chapter42/poem"
+						},
+						{
+							"text": "卷四十二按行分析",
+							"link": "/qtsl/traditional/chapter42/line"
+						},
+						{
+							"text": "卷四十二诗人作者",
+							"link": "/qtsl/traditional/chapter42/author"
+						}
+					]
+				},
+				{
+					"chapternum": 43,
+					"text": "卷四十三",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷四十三诗歌列表",
+							"link": "/qtsl/traditional/chapter43/poem"
+						},
+						{
+							"text": "卷四十三按行分析",
+							"link": "/qtsl/traditional/chapter43/line"
+						},
+						{
+							"text": "卷四十三诗人作者",
+							"link": "/qtsl/traditional/chapter43/author"
+						}
+					]
+				},
+				{
+					"chapternum": 44,
+					"text": "卷四十四",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷四十四诗歌列表",
+							"link": "/qtsl/traditional/chapter44/poem"
+						},
+						{
+							"text": "卷四十四按行分析",
+							"link": "/qtsl/traditional/chapter44/line"
+						},
+						{
+							"text": "卷四十四诗人作者",
+							"link": "/qtsl/traditional/chapter44/author"
+						}
+					]
+				},
+				{
+					"chapternum": 45,
+					"text": "卷四十五",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷四十五诗歌列表",
+							"link": "/qtsl/traditional/chapter45/poem"
+						},
+						{
+							"text": "卷四十五按行分析",
+							"link": "/qtsl/traditional/chapter45/line"
+						},
+						{
+							"text": "卷四十五诗人作者",
+							"link": "/qtsl/traditional/chapter45/author"
+						}
+					]
+				},
+				{
+					"chapternum": 46,
+					"text": "卷四十六",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷四十六诗歌列表",
+							"link": "/qtsl/traditional/chapter46/poem"
+						},
+						{
+							"text": "卷四十六按行分析",
+							"link": "/qtsl/traditional/chapter46/line"
+						},
+						{
+							"text": "卷四十六诗人作者",
+							"link": "/qtsl/traditional/chapter46/author"
+						}
+					]
+				},
+				{
+					"chapternum": 47,
+					"text": "卷四十七",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷四十七诗歌列表",
+							"link": "/qtsl/traditional/chapter47/poem"
+						},
+						{
+							"text": "卷四十七按行分析",
+							"link": "/qtsl/traditional/chapter47/line"
+						},
+						{
+							"text": "卷四十七诗人作者",
+							"link": "/qtsl/traditional/chapter47/author"
+						}
+					]
+				},
+				{
+					"chapternum": 48,
+					"text": "卷四十八",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷四十八诗歌列表",
+							"link": "/qtsl/traditional/chapter48/poem"
+						},
+						{
+							"text": "卷四十八按行分析",
+							"link": "/qtsl/traditional/chapter48/line"
+						},
+						{
+							"text": "卷四十八诗人作者",
+							"link": "/qtsl/traditional/chapter48/author"
+						}
+					]
+				},
+				{
+					"chapternum": 49,
+					"text": "卷四十九",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷四十九诗歌列表",
+							"link": "/qtsl/traditional/chapter49/poem"
+						},
+						{
+							"text": "卷四十九按行分析",
+							"link": "/qtsl/traditional/chapter49/line"
+						},
+						{
+							"text": "卷四十九诗人作者",
+							"link": "/qtsl/traditional/chapter49/author"
+						}
+					]
+				},
+				{
+					"chapternum": 50,
+					"text": "卷五十",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷五十诗歌列表",
+							"link": "/qtsl/traditional/chapter50/poem"
+						},
+						{
+							"text": "卷五十按行分析",
+							"link": "/qtsl/traditional/chapter50/line"
+						},
+						{
+							"text": "卷五十诗人作者",
+							"link": "/qtsl/traditional/chapter50/author"
+						}
+					]
 				}
 			]
 		}
