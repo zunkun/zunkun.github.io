@@ -28,4 +28,5 @@ docs/.vitepress/cache/*
 
 test/*
 code/*
-docs/qtsl/*
+docs/qtsl/traditional/chapter*
+docs/qtsl/simplified/chapter*
