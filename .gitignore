@@ -28,3 +28,4 @@ docs/.vitepress/cache/*
 
 test/*
 code/*
+docs/qtsl/*
