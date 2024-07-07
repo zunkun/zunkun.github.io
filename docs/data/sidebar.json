@@ -1513,6 +1513,44 @@
 							"link": "/qtsl/traditional/chapter50/author"
 						}
 					]
+				},
+				{
+					"chapternum": 51,
+					"text": "卷五十一",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷五十一诗歌列表",
+							"link": "/qtsl/traditional/chapter51/poem"
+						},
+						{
+							"text": "卷五十一按行分析",
+							"link": "/qtsl/traditional/chapter51/line"
+						},
+						{
+							"text": "卷五十一诗人作者",
+							"link": "/qtsl/traditional/chapter51/author"
+						}
+					]
+				},
+				{
+					"chapternum": 52,
+					"text": "卷五十二",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷五十二诗歌列表",
+							"link": "/qtsl/traditional/chapter52/poem"
+						},
+						{
+							"text": "卷五十二按行分析",
+							"link": "/qtsl/traditional/chapter52/line"
+						},
+						{
+							"text": "卷五十二诗人作者",
+							"link": "/qtsl/traditional/chapter52/author"
+						}
+					]
 				}
 			]
 		}
