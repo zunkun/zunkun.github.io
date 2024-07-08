@@ -1703,6 +1703,101 @@
 							"link": "/qtsl/traditional/chapter60/author"
 						}
 					]
+				},
+				{
+					"chapternum": 61,
+					"text": "卷六十一",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷六十一诗歌列表",
+							"link": "/qtsl/traditional/chapter61/poem"
+						},
+						{
+							"text": "卷六十一按行分析",
+							"link": "/qtsl/traditional/chapter61/line"
+						},
+						{
+							"text": "卷六十一诗人作者",
+							"link": "/qtsl/traditional/chapter61/author"
+						}
+					]
+				},
+				{
+					"chapternum": 62,
+					"text": "卷六十二",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷六十二诗歌列表",
+							"link": "/qtsl/traditional/chapter62/poem"
+						},
+						{
+							"text": "卷六十二按行分析",
+							"link": "/qtsl/traditional/chapter62/line"
+						},
+						{
+							"text": "卷六十二诗人作者",
+							"link": "/qtsl/traditional/chapter62/author"
+						}
+					]
+				},
+				{
+					"chapternum": 63,
+					"text": "卷六十三",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷六十三诗歌列表",
+							"link": "/qtsl/traditional/chapter63/poem"
+						},
+						{
+							"text": "卷六十三按行分析",
+							"link": "/qtsl/traditional/chapter63/line"
+						},
+						{
+							"text": "卷六十三诗人作者",
+							"link": "/qtsl/traditional/chapter63/author"
+						}
+					]
+				},
+				{
+					"chapternum": 64,
+					"text": "卷六十四",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷六十四诗歌列表",
+							"link": "/qtsl/traditional/chapter64/poem"
+						},
+						{
+							"text": "卷六十四按行分析",
+							"link": "/qtsl/traditional/chapter64/line"
+						},
+						{
+							"text": "卷六十四诗人作者",
+							"link": "/qtsl/traditional/chapter64/author"
+						}
+					]
+				},
+				{
+					"chapternum": 65,
+					"text": "卷六十五",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷六十五诗歌列表",
+							"link": "/qtsl/traditional/chapter65/poem"
+						},
+						{
+							"text": "卷六十五按行分析",
+							"link": "/qtsl/traditional/chapter65/line"
+						},
+						{
+							"text": "卷六十五诗人作者",
+							"link": "/qtsl/traditional/chapter65/author"
+						}
+					]
 				}
 			]
 		}
