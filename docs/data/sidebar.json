@@ -1665,6 +1665,44 @@
 							"link": "/qtsl/traditional/chapter58/author"
 						}
 					]
+				},
+				{
+					"chapternum": 59,
+					"text": "卷五十九",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷五十九诗歌列表",
+							"link": "/qtsl/traditional/chapter59/poem"
+						},
+						{
+							"text": "卷五十九按行分析",
+							"link": "/qtsl/traditional/chapter59/line"
+						},
+						{
+							"text": "卷五十九诗人作者",
+							"link": "/qtsl/traditional/chapter59/author"
+						}
+					]
+				},
+				{
+					"chapternum": 60,
+					"text": "卷六十",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "卷六十诗歌列表",
+							"link": "/qtsl/traditional/chapter60/poem"
+						},
+						{
+							"text": "卷六十按行分析",
+							"link": "/qtsl/traditional/chapter60/line"
+						},
+						{
+							"text": "卷六十诗人作者",
+							"link": "/qtsl/traditional/chapter60/author"
+						}
+					]
 				}
 			]
 		}
