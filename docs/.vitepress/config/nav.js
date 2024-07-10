@@ -4,20 +4,8 @@
 const nav = [
   {
     text: '全唐诗录',
-    link: '/qtsl/',
-    activeMatch: '/qtsl/',
-    items: [
-      {
-        text: '全唐诗录',
-        link: '/qtsl/',
-        activeMatch: '/qtsl/',
-      },
-      {
-        text: '全唐诗录-前端',
-        link: '/qtsl/前端/',
-        activeMatch: '/qtsl/前端/',
-      },
-    ],
+    link: '/qtsl/traditional/',
+    activeMatch: '/qtsl/traditional/',
   },
   {
     text: '分类',
