@@ -69,6 +69,10 @@ const props = defineProps({
     color: #3366cc;
   }
 
+  .linetype-contentgroup {
+    color: red;
+  }
+
   .content {
     flex: 1;
     white-space: pre-wrap;

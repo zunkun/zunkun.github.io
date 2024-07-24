@@ -1,18 +1,17 @@
-import { mkdirSync, readFileSync, writeFileSync, readdirSync } from 'fs';
+import { mkdirSync, writeFileSync, readdirSync } from 'fs';
 import { getDateStr } from './utils';
+import qtslchapters from './qtslchapters';
 
 const qtslDir = 'docs/data/qtsl';
 const qtslTargetDir = 'docs/qtsl/traditional';
-const chapterListPath = 'docs/data/qtsl/chapterList.json';
 
 const qtslService = {
   start() {
-    const chapterList = JSON.parse(readFileSync(chapterListPath, 'utf-8') || '[]') || {};
     const fileNames = readdirSync(qtslDir);
     fileNames.forEach(fileName => {
       if (fileName.indexOf('卷') === 0) {
         const chapter = fileName;
-        const chapternum = parseInt(chapterList.indexOf(chapter), 10) + 1;
+        const chapternum = parseInt(qtslchapters.indexOf(chapter), 10) + 1;
         // chapter dir path
         const chapterDir = `${qtslTargetDir}/chapter${chapternum}`;
         this.createChpterDir(chapterDir);
@@ -110,12 +109,11 @@ import authorMap from '/data/qtsl/${chapter}/author.json'
 
     let items = [];
 
-    const chapterList = JSON.parse(readFileSync(chapterListPath, 'utf-8') || '[]') || {};
     const fileNames = readdirSync(qtslDir);
     fileNames.forEach(fileName => {
       if (fileName.indexOf('卷') === 0) {
         const chapter = fileName;
-        const chapternum = parseInt(chapterList.indexOf(chapter), 10) + 1;
+        const chapternum = parseInt(qtslchapters.indexOf(chapter), 10) + 1;
 
         const chapterItem = {
           chapternum,

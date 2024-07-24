@@ -10,7 +10,7 @@
         <div class="charstyle">{{ charstyle }}</div>
 
         <div class="poemlist" v-for="(poem, key) in poems" :key="key">
-          <a class="poemtitle" :href="`poem.html#${poem.title}`">{{ poem.title }}</a>
+          <a class="poemtitle" :href="`poem.html#P${poem.id}`">{{ poem.title }}</a>
         </div>
       </div>
     </div>
@@ -73,5 +73,9 @@ const props = defineProps({
   padding-left: 2rem;
   line-height: 2;
         white-space: pre-wrap;
+}
+
+.contentgroup {
+  color: red;
 }
 </style>
