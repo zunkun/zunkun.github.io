@@ -1,4 +1,4 @@
-import { mkdirSync, writeFileSync, readdirSync } from 'fs';
+import { mkdirSync, writeFileSync, readdirSync, link } from 'fs';
 import { getDateStr } from './utils';
 import qtslchapters from './qtslchapters';
 
@@ -141,12 +141,29 @@ import authorMap from '/data/qtsl/${chapter}/author.json'
 
     items = items.sort((a, b) => a.chapternum - b.chapternum);
 
+    const statistics = [
+      {
+        text: '统计数据',
+        collapsed: true,
+        items: [
+          {
+            text: '数据总览',
+            link: `${prePath}statistics/`,
+          },
+          {
+            text: '章节详细',
+            link: `${prePath}statistics/章节详细统计`,
+          },
+        ],
+      },
+    ];
+
     const sidebarMap = {
       [prePath]: [
         {
           text: '御定全唐詩錄',
           link: prePath,
-          items,
+          items: statistics.concat(items),
         },
       ],
     };

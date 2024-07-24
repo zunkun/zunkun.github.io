@@ -3951,6 +3951,30 @@
 		"link": "/qtsl/traditional/chapter99/poem"
 	},
 	{
+		"title": "总览",
+		"date": "2024-07-24",
+		"udate": "2024-07-24",
+		"year": 2024,
+		"month": "07",
+		"ym": "2024-07",
+		"ymd": "2024-07-24",
+		"fileName": "index.md",
+		"filePath": "docs/qtsl/traditional/statistics/index.md",
+		"link": "/qtsl/traditional/statistics/"
+	},
+	{
+		"title": "章节详细统计",
+		"date": "2024-07-24",
+		"udate": "2024-07-24",
+		"year": 2024,
+		"month": "07",
+		"ym": "2024-07",
+		"ymd": "2024-07-24",
+		"fileName": "章节详细统计.md",
+		"filePath": "docs/qtsl/traditional/statistics/章节详细统计.md",
+		"link": "/qtsl/traditional/statistics/章节详细统计"
+	},
+	{
 		"title": "chapter100",
 		"date": "2024-07-10",
 		"udate": "2024-07-10",

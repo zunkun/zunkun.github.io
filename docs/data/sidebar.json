@@ -565,6 +565,20 @@
 			"link": "/qtsl/traditional/",
 			"items": [
 				{
+					"text": "统计数据",
+					"collapsed": true,
+					"items": [
+						{
+							"text": "数据总览",
+							"link": "/qtsl/traditional/statistics/"
+						},
+						{
+							"text": "章节详细",
+							"link": "/qtsl/traditional/statistics/章节详细统计"
+						}
+					]
+				},
+				{
 					"chapternum": 1,
 					"text": "卷一",
 					"collapsed": true,
