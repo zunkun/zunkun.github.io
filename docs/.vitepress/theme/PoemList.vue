@@ -1,25 +1,77 @@
 <template>
   <div class="poemlists">
-    <div class="poem" v-for="(poem, index) in props?.list" :key="poem.id"
-    >
-      <div class="title" :id="`P${poem.id}`">
-        <a  :href="`#P${poem.id}`"
-          >[{{ poem.poemindex }}] {{ poem.title }}</a
-        >
+    <div v-for="group in groups" :key="group.key">
+      <div class="group" :id="`G${group.key}`" v-if="group.type === 'collection'">
+        <a :href="`#G${group.key}`" class="collection">{{ group.collection }}</a>
+        <div class="collectiondesc">{{ group.collectiondesc }}</div>
+
+        <div v-for="poem in group.list" :key="poem.key" class="grouppoems">
+          <div class="poem" :id="`P${poem.key}`">
+            <div class="title">
+              <a :href="`#P${poem.key}`">[{{ poem.poemindex }}] {{ poem.title }}</a>
+            </div>
+            <div class="author">
+              <a :href="`author.html#${poem.author}`" class="authorlink">{{ poem.author }}</a>
+            </div>
+            <div class="titledesc" v-if="poem.titledesc">{{ poem.titledesc }}</div>
+            <div class="content">{{ poem.content }}</div>
+          </div>
+        </div>
       </div>
-      <div class="author">
-        <a :href="`author.html#${poem.author}`" class="authorlink">{{ poem.author }}</a>
+
+      <div class="poem"  :id="`P${group.key}`" v-if="group.type === 'poem'">
+        <div class="title">
+          <a :href="`#P${group.key}`">[{{ group.poemindex }}] {{ group.title }}</a>
+        </div>
+        <div class="author">
+          <a :href="`author.html#${group.author}`" class="authorlink">{{ group.author }}</a>
+        </div>
+        <div class="titledesc" v-if="group.titledesc">{{ group.titledesc }}</div>
+        <div class="content">{{ group.content }}</div>
       </div>
-      <div class="desc">{{ poem.titledesc }}</div>
-      <div class="content">{{ poem.content }}</div>
     </div>
   </div>
 </template>
 
 <script setup>
+import { reactive } from 'vue';
+
 const props = defineProps({
   list: Array,
   authorMap: Object,
+});
+
+const groups = reactive([]);
+
+let collectionGroup = null;
+
+props?.list?.forEach(poem => {
+  if (poem.collection) {
+    if (!collectionGroup) {
+      collectionGroup = {
+        type: 'collection',
+        key: poem.collection,
+        collection: poem.collection,
+        collectiondesc: poem.collectiondesc,
+        list: [],
+      };
+
+      groups.push(collectionGroup);
+    }
+
+    poem.type = 'poem';
+    poem.key = poem.id;
+    poem.collectionnum = collectionGroup.list.length + 1;
+    collectionGroup.list.push(poem);
+  } else {
+    if (collectionGroup) {
+      collectionGroup = null;
+    }
+
+    poem.type = 'poem';
+    poem.key = poem.id;
+    groups.push(poem);
+  }
 });
 </script>
 
@@ -28,41 +80,69 @@ const props = defineProps({
   margin-top: 30px;
 }
 
+.group,
 .poem {
   margin-bottom: 30px;
   border-top: 1px solid #ccc;
   padding: 10px 0px;
+}
 
-  .title {
-    line-height: 1.4;
-    font-size: 24px;
-    cursor: pointer;
-    line-height: 2;
-  }
+.grouppoems {
+  padding-left: 2rem;
+}
 
-  .author {
-    color: #9966cc;
-    line-height: 2;
-  }
+.collection {
+  line-height: 1.4;
+  font-size: 24px;
+  cursor: pointer;
+  line-height: 2;
+  // color: red;
+}
 
-  .authorlink {
-    line-height: 1.4;
-    font-size: 16px;
-    margin: 4px 0px;
-    color: #9966cc;
-  }
+.collectiondesc {
+  font-style: italic;
+  font-size: 14px;
+  line-height: 2;
+}
 
-  .authordesc {
-    margin: 6px 0px;
-    color: #9896f1;
-    font-style: italic;
-    white-space: pre-wrap;
-  }
+.title {
+  line-height: 1.4;
+  font-size: 20px;
+  cursor: pointer;
+  line-height: 2;
+}
 
-  .content {
-    font-size: 16px;
-    line-height: 2;
-    white-space: pre-wrap;
-  }
+.titledesc {
+  font-style: italic;
+  font-size: 14px;
+  line-height: 2;
+  margin-bottom: 10px;
+      color: #3366cc;
+}
+
+.author {
+  color: #9966cc;
+  line-height: 2;
+}
+
+.authorlink {
+  line-height: 1.4;
+  font-size: 16px;
+  margin: 4px 0px;
+  color: #9966cc;
+}
+
+.authordesc {
+  margin: 6px 0px;
+  color: #9896f1;
+  font-style: italic;
+  white-space: pre-wrap;
+}
+
+.content {
+  font-size: 16px;
+  line-height: 2;
+  white-space: pre-wrap;
+
 }
 </style>
