@@ -3,12 +3,16 @@
     <div v-for="group in groups" :key="group.key">
       <div class="group" :id="`G${group.key}`" v-if="group.type === 'collection'">
         <a :href="`#G${group.key}`" class="collection">{{ group.collection }}</a>
-        <div class="collectiondesc">{{ group.collectiondesc }}</div>
+        <div class="collectiondesc" v-if="group.collectiondesc">{{ group.collectiondesc }}</div>
 
         <div v-for="poem in group.list" :key="poem.key" class="grouppoems">
           <div class="poem" :id="`P${poem.key}`">
             <div class="title">
-              <a :href="`#P${poem.key}`">[{{ poem.poemindex }}] {{ poem.title }}</a>
+              <a :href="`#P${poem.key}`"
+                >[{{ poem.poemindex }}]
+                <span v-if="poem.collection">{{ poem.collection }}</span>
+                {{ poem.title }}</a
+              >
             </div>
             <div class="author">
               <a :href="`author.html#${poem.author}`" class="authorlink">{{ poem.author }}</a>
@@ -19,7 +23,7 @@
         </div>
       </div>
 
-      <div class="poem"  :id="`P${group.key}`" v-if="group.type === 'poem'">
+      <div class="poem" :id="`P${group.key}`" v-if="group.type === 'poem'">
         <div class="title">
           <a :href="`#P${group.key}`">[{{ group.poemindex }}] {{ group.title }}</a>
         </div>
@@ -117,7 +121,7 @@ props?.list?.forEach(poem => {
   font-size: 14px;
   line-height: 2;
   margin-bottom: 10px;
-      color: #3366cc;
+  color: #3366cc;
 }
 
 .author {
@@ -143,6 +147,5 @@ props?.list?.forEach(poem => {
   font-size: 16px;
   line-height: 2;
   white-space: pre-wrap;
-
 }
 </style>
