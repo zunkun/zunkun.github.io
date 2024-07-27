@@ -1,0 +1,58 @@
+[
+  {
+    "id": 58507,
+    "uid": "poem-13-38",
+    "chapter": "卷十三",
+    "chapternum": 13,
+    "charstyle": "古體詩",
+    "title": "隴頭吟",
+    "titledesc": "",
+    "collection": "",
+    "collectiondesc": "",
+    "poemindex": 38,
+    "author": "王維",
+    "content": "長城少年遊俠客夜上戍樓㸔太白隴頭明月迥臨關隴上行人夜吹笛關西老將不勝愁駐馬聽之雙淚流身經大小百餘戰麾下偏禆萬户侯蘇武纔為典屬國節旄空盡海西頭"
+  },
+  {
+    "id": 58521,
+    "uid": "poem-13-52",
+    "chapter": "卷十三",
+    "chapternum": 13,
+    "charstyle": "古體詩",
+    "title": "送神曲",
+    "titledesc": "",
+    "collection": "魚山神女祠歌",
+    "collectiondesc": "",
+    "poemindex": 52,
+    "author": "王維",
+    "content": "紛進拜兮堂前目眷眷兮瓊筵來不語兮意不傳作暮雨兮愁空山悲急管思繁絃靈之駕兮儼欲旋倐雲收兮雨歇山青青兮水潺潺"
+  },
+  {
+    "id": 58616,
+    "uid": "poem-13-147",
+    "chapter": "卷十三",
+    "chapternum": 13,
+    "charstyle": "近體詩",
+    "title": "田園",
+    "titledesc": "",
+    "collection": "",
+    "collectiondesc": "",
+    "poemindex": 147,
+    "author": "王維",
+    "content": "山下孤煙逺村天邉獨樹高原一瓢顔囘陋巷五栁先生對門"
+  },
+  {
+    "id": 58618,
+    "uid": "poem-13-149",
+    "chapter": "卷十三",
+    "chapternum": 13,
+    "charstyle": "近體詩",
+    "title": "田園",
+    "titledesc": "",
+    "collection": "",
+    "collectiondesc": "",
+    "poemindex": 149,
+    "author": "王維",
+    "content": "酌酒㑹臨泉水抱琴好倚長松南園露葵朝折東谷黄粱夜舂"
+  }
+]
