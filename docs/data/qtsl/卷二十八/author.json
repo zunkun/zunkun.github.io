@@ -1,1 +1,318 @@
-{"杜甫":{"author":"杜甫","authordesc":"","charstyleMap":{"古體詩":[{"id":59811,"title":"陪王侍御同登東山最髙頂宴姚通泉晩攜酒泛江","titledesc":"","poemindex":1},{"id":59812,"title":"春日戯題惱郝使君兄","titledesc":"","poemindex":2},{"id":59813,"title":"短歌行〈贈王郎司直〉","titledesc":"","poemindex":3},{"id":59814,"title":"桃竹杖引〈贈章留後〉","titledesc":"","poemindex":4},{"id":59815,"title":"韋諷錄事宅觀曹將軍畫馬圗","titledesc":"","poemindex":5},{"id":59816,"title":"丹青引〈贈曹將軍霸〉","titledesc":"","poemindex":6},{"id":59817,"title":"憶昔","titledesc":"","poemindex":7},{"id":59818,"title":"冬狩行〈時梓州刺史章彛兼侍御史留後東川〉","titledesc":"","poemindex":8},{"id":59819,"title":"閬山歌","titledesc":"","poemindex":9},{"id":59820,"title":"閬水歌","titledesc":"","poemindex":10},{"id":59821,"title":"莫相疑行","titledesc":"","poemindex":11},{"id":59822,"title":"蠶穀行","titledesc":"","poemindex":12},{"id":59823,"title":"折檻行","titledesc":"","poemindex":13},{"id":59824,"title":"古栢行","titledesc":"","poemindex":14},{"id":59825,"title":"縛雞行","titledesc":"","poemindex":15},{"id":59826,"title":"負薪行","titledesc":"","poemindex":16},{"id":59827,"title":"最能行","titledesc":"","poemindex":17},{"id":59828,"title":"可歎","titledesc":"","poemindex":18},{"id":59829,"title":"觀公孫大娘弟子舞劒器行〈并序〉","titledesc":"大厯二年十月十九日夔府别駕元持宅見臨潁李十二娘舞劒器壯其蔚跂問其所師曰余公孫大娘弟子也開元三載余尚童穉記於郾城觀公孫氏舞劒器渾脱瀏灕頓挫獨出冠時自髙頭宜春梨園二伎坊内人洎外供奉曉是舞者聖文神武皇帝初公孫一人而已玉貌錦衣况余白首今兹弟子亦匪盛顔既辨其由来知波瀾莫二撫事慷慨聊為劒器行往者吴人張旭善草書書帖數常於鄴縣見公孫大娘舞西河劒器自此草書長進豪蕩感激即公孫可知矣","poemindex":19},{"id":59830,"title":"李潮八分小篆歌","titledesc":"","poemindex":20},{"id":59831,"title":"荆南兵馬使太常卿趙公大食刀歌","titledesc":"","poemindex":21},{"id":59832,"title":"王兵馬使二角鷹","titledesc":"","poemindex":22},{"id":59833,"title":"狄明府","titledesc":"","poemindex":23},{"id":59834,"title":"秋風","titledesc":"","poemindex":24},{"id":59835,"title":"久雨期王將軍不至","titledesc":"","poemindex":25},{"id":59836,"title":"别李秘書始興寺所居","titledesc":"","poemindex":26},{"id":59837,"title":"錦樹行","titledesc":"","poemindex":27},{"id":59838,"title":"赤霄行","titledesc":"","poemindex":28},{"id":59839,"title":"復陰","titledesc":"","poemindex":29},{"id":59840,"title":"夜歸","titledesc":"","poemindex":30},{"id":59841,"title":"醉為馬墜諸公攜酒相看","titledesc":"","poemindex":31},{"id":59842,"title":"君不見簡蘇徯","titledesc":"","poemindex":32},{"id":59843,"title":"憶昔行","titledesc":"","poemindex":33},{"id":59844,"title":"魏將軍歌","titledesc":"","poemindex":34},{"id":59845,"title":"朱鳳行","titledesc":"","poemindex":35},{"id":59846,"title":"醉歌行贈公安顔少府請顧八題壁","titledesc":"","poemindex":36},{"id":59847,"title":"夜聞觱篥","titledesc":"","poemindex":37},{"id":59848,"title":"發劉郎浦","titledesc":"","poemindex":38},{"id":59849,"title":"風雨看舟前落花戯為新句","titledesc":"","poemindex":39},{"id":59850,"title":"岳麓山道林二寺行","titledesc":"","poemindex":40},{"id":59851,"title":"暮秋枉裴道州手札率爾遣興寄近呈蘇渙侍御","titledesc":"","poemindex":41},{"id":59852,"title":"嵗晏行","titledesc":"","poemindex":42},{"id":59853,"title":"追酬故髙蜀州人日見寄〈并序〉","titledesc":"開文書帙中檢所遺忘因得故髙常侍適往居在成都時髙任蜀州刺史人日相憶見寄詩淚灑行間讀終篇末自枉詩又十餘年莫記存歿又六七年矣老病懐舊生意可知今海内忘形故人獨漢中王瑀與昭州敬使君超先在愛而不見情見乎辭大厯五年正月二十一日却追酬髙公此作因寄王及敬弟","poemindex":43},{"id":59854,"title":"狂歌行贈四兄","titledesc":"","poemindex":44}]}}}
+{
+  "杜甫": {
+    "author": "杜甫",
+    "authordesc": "",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 59811,
+          "uid": "poem-28-1",
+          "title": "陪王侍御同登東山最髙頂宴姚通泉晩攜酒泛江",
+          "titledesc": "",
+          "poemindex": 1
+        },
+        {
+          "id": 59812,
+          "uid": "poem-28-2",
+          "title": "春日戯題惱郝使君兄",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 59813,
+          "uid": "poem-28-3",
+          "title": "短歌行〈贈王郎司直〉",
+          "titledesc": "",
+          "poemindex": 3
+        },
+        {
+          "id": 59814,
+          "uid": "poem-28-4",
+          "title": "桃竹杖引〈贈章留後〉",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 59815,
+          "uid": "poem-28-5",
+          "title": "韋諷錄事宅觀曹將軍畫馬圗",
+          "titledesc": "",
+          "poemindex": 5
+        },
+        {
+          "id": 59816,
+          "uid": "poem-28-6",
+          "title": "丹青引〈贈曹將軍霸〉",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 59817,
+          "uid": "poem-28-7",
+          "title": "憶昔",
+          "titledesc": "",
+          "poemindex": 7
+        },
+        {
+          "id": 59818,
+          "uid": "poem-28-8",
+          "title": "冬狩行〈時梓州刺史章彛兼侍御史留後東川〉",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 59819,
+          "uid": "poem-28-9",
+          "title": "閬山歌",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 59820,
+          "uid": "poem-28-10",
+          "title": "閬水歌",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 59821,
+          "uid": "poem-28-11",
+          "title": "莫相疑行",
+          "titledesc": "",
+          "poemindex": 11
+        },
+        {
+          "id": 59822,
+          "uid": "poem-28-12",
+          "title": "蠶穀行",
+          "titledesc": "",
+          "poemindex": 12
+        },
+        {
+          "id": 59823,
+          "uid": "poem-28-13",
+          "title": "折檻行",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 59824,
+          "uid": "poem-28-14",
+          "title": "古栢行",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 59825,
+          "uid": "poem-28-15",
+          "title": "縛雞行",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 59826,
+          "uid": "poem-28-16",
+          "title": "負薪行",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 59827,
+          "uid": "poem-28-17",
+          "title": "最能行",
+          "titledesc": "",
+          "poemindex": 17
+        },
+        {
+          "id": 59828,
+          "uid": "poem-28-18",
+          "title": "可歎",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 59829,
+          "uid": "poem-28-19",
+          "title": "觀公孫大娘弟子舞劒器行〈并序〉",
+          "titledesc": "大厯二年十月十九日夔府别駕元持宅見臨潁李十二娘舞劒器壯其蔚跂問其所師曰余公孫大娘弟子也開元三載余尚童穉記於郾城觀公孫氏舞劒器渾脱瀏灕頓挫獨出冠時自髙頭宜春梨園二伎坊内人洎外供奉曉是舞者聖文神武皇帝初公孫一人而已玉貌錦衣况余白首今兹弟子亦匪盛顔既辨其由来知波瀾莫二撫事慷慨聊為劒器行往者吴人張旭善草書書帖數常於鄴縣見公孫大娘舞西河劒器自此草書長進豪蕩感激即公孫可知矣",
+          "poemindex": 19
+        },
+        {
+          "id": 59830,
+          "uid": "poem-28-20",
+          "title": "李潮八分小篆歌",
+          "titledesc": "",
+          "poemindex": 20
+        },
+        {
+          "id": 59831,
+          "uid": "poem-28-21",
+          "title": "荆南兵馬使太常卿趙公大食刀歌",
+          "titledesc": "",
+          "poemindex": 21
+        },
+        {
+          "id": 59832,
+          "uid": "poem-28-22",
+          "title": "王兵馬使二角鷹",
+          "titledesc": "",
+          "poemindex": 22
+        },
+        {
+          "id": 59833,
+          "uid": "poem-28-23",
+          "title": "狄明府",
+          "titledesc": "",
+          "poemindex": 23
+        },
+        {
+          "id": 59834,
+          "uid": "poem-28-24",
+          "title": "秋風",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 59835,
+          "uid": "poem-28-25",
+          "title": "久雨期王將軍不至",
+          "titledesc": "",
+          "poemindex": 25
+        },
+        {
+          "id": 59836,
+          "uid": "poem-28-26",
+          "title": "别李秘書始興寺所居",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 59837,
+          "uid": "poem-28-27",
+          "title": "錦樹行",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 59838,
+          "uid": "poem-28-28",
+          "title": "赤霄行",
+          "titledesc": "",
+          "poemindex": 28
+        },
+        {
+          "id": 59839,
+          "uid": "poem-28-29",
+          "title": "復陰",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 59840,
+          "uid": "poem-28-30",
+          "title": "夜歸",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 59841,
+          "uid": "poem-28-31",
+          "title": "醉為馬墜諸公攜酒相看",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 59842,
+          "uid": "poem-28-32",
+          "title": "君不見簡蘇徯",
+          "titledesc": "",
+          "poemindex": 32
+        },
+        {
+          "id": 59843,
+          "uid": "poem-28-33",
+          "title": "憶昔行",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 59844,
+          "uid": "poem-28-34",
+          "title": "魏將軍歌",
+          "titledesc": "",
+          "poemindex": 34
+        },
+        {
+          "id": 59845,
+          "uid": "poem-28-35",
+          "title": "朱鳳行",
+          "titledesc": "",
+          "poemindex": 35
+        },
+        {
+          "id": 59846,
+          "uid": "poem-28-36",
+          "title": "醉歌行贈公安顔少府請顧八題壁",
+          "titledesc": "",
+          "poemindex": 36
+        },
+        {
+          "id": 59847,
+          "uid": "poem-28-37",
+          "title": "夜聞觱篥",
+          "titledesc": "",
+          "poemindex": 37
+        },
+        {
+          "id": 59848,
+          "uid": "poem-28-38",
+          "title": "發劉郎浦",
+          "titledesc": "",
+          "poemindex": 38
+        },
+        {
+          "id": 59849,
+          "uid": "poem-28-39",
+          "title": "風雨看舟前落花戯為新句",
+          "titledesc": "",
+          "poemindex": 39
+        },
+        {
+          "id": 59850,
+          "uid": "poem-28-40",
+          "title": "岳麓山道林二寺行",
+          "titledesc": "",
+          "poemindex": 40
+        },
+        {
+          "id": 59851,
+          "uid": "poem-28-41",
+          "title": "暮秋枉裴道州手札率爾遣興寄近呈蘇渙侍御",
+          "titledesc": "",
+          "poemindex": 41
+        },
+        {
+          "id": 59852,
+          "uid": "poem-28-42",
+          "title": "嵗晏行",
+          "titledesc": "",
+          "poemindex": 42
+        },
+        {
+          "id": 59853,
+          "uid": "poem-28-43",
+          "title": "追酬故髙蜀州人日見寄〈并序〉",
+          "titledesc": "開文書帙中檢所遺忘因得故髙常侍適往居在成都時髙任蜀州刺史人日相憶見寄詩淚灑行間讀終篇末自枉詩又十餘年莫記存歿又六七年矣老病懐舊生意可知今海内忘形故人獨漢中王瑀與昭州敬使君超先在愛而不見情見乎辭大厯五年正月二十一日却追酬髙公此作因寄王及敬弟",
+          "poemindex": 43
+        },
+        {
+          "id": 59854,
+          "uid": "poem-28-44",
+          "title": "狂歌行贈四兄",
+          "titledesc": "",
+          "poemindex": 44
+        }
+      ]
+    }
+  }
+}

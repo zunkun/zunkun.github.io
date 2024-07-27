@@ -1,1 +1,542 @@
-{"李商隠":{"author":"李商隠","authordesc":"","charstyleMap":{"近體詩":[{"id":64340,"title":"令狐舎人說昨夜西掖翫月因戲贈","titledesc":"","poemindex":1},{"id":64341,"title":"崔處士","titledesc":"","poemindex":2},{"id":64342,"title":"自喜","titledesc":"","poemindex":3},{"id":64343,"title":"歸墅","titledesc":"","poemindex":4},{"id":64344,"title":"哭劉司户","titledesc":"","poemindex":5},{"id":64345,"title":"哭劉司户","titledesc":"","poemindex":6},{"id":64346,"title":"桂林","titledesc":"","poemindex":7},{"id":64347,"title":"陳後宫","titledesc":"","poemindex":8},{"id":64348,"title":"屬疾","titledesc":"","poemindex":9},{"id":64349,"title":"楚宫","titledesc":"","poemindex":10},{"id":64350,"title":"石城","titledesc":"","poemindex":11},{"id":64351,"title":"離思","titledesc":"","poemindex":12},{"id":64352,"title":"風雨","titledesc":"","poemindex":13},{"id":64353,"title":"槿花","titledesc":"","poemindex":14},{"id":64354,"title":"槿花","titledesc":"","poemindex":15},{"id":64355,"title":"蜨","titledesc":"","poemindex":16},{"id":64356,"title":"韓翃舎人即事","titledesc":"","poemindex":17},{"id":64357,"title":"楊本勝説於長安見小男阿衮","titledesc":"","poemindex":18},{"id":64358,"title":"越燕","titledesc":"","poemindex":19},{"id":64359,"title":"越燕","titledesc":"","poemindex":20},{"id":64360,"title":"少將","titledesc":"","poemindex":21},{"id":64361,"title":"無題","titledesc":"","poemindex":22},{"id":64362,"title":"落花","titledesc":"","poemindex":23},{"id":64363,"title":"楚澤","titledesc":"","poemindex":24},{"id":64364,"title":"蟬","titledesc":"","poemindex":25},{"id":64365,"title":"鄠杜馬上念漢書","titledesc":"","poemindex":26},{"id":64366,"title":"柳","titledesc":"","poemindex":27},{"id":64367,"title":"謔柳","titledesc":"","poemindex":28},{"id":64368,"title":"無題","titledesc":"","poemindex":29},{"id":64369,"title":"蝶","titledesc":"","poemindex":30},{"id":64370,"title":"月","titledesc":"","poemindex":31},{"id":64371,"title":"李花","titledesc":"","poemindex":32},{"id":64372,"title":"寄裴衡","titledesc":"","poemindex":33},{"id":64373,"title":"即日","titledesc":"","poemindex":34},{"id":64374,"title":"晩晴","titledesc":"","poemindex":35},{"id":64375,"title":"所居","titledesc":"","poemindex":36},{"id":64376,"title":"髙松","titledesc":"","poemindex":37},{"id":64377,"title":"訪秋","titledesc":"","poemindex":38},{"id":64378,"title":"昭州","titledesc":"","poemindex":39},{"id":64379,"title":"陸發荆南始至商洛","titledesc":"","poemindex":40},{"id":64380,"title":"陳後宫","titledesc":"","poemindex":41},{"id":64381,"title":"樂遊原","titledesc":"","poemindex":42},{"id":64382,"title":"贈子直花下","titledesc":"","poemindex":43},{"id":64383,"title":"小園獨酌","titledesc":"","poemindex":44},{"id":64384,"title":"獻寄舊府開封公","titledesc":"","poemindex":45},{"id":64385,"title":"春游","titledesc":"","poemindex":46},{"id":64386,"title":"離席","titledesc":"","poemindex":47},{"id":64387,"title":"細雨","titledesc":"","poemindex":48},{"id":64388,"title":"商於新開路","titledesc":"","poemindex":49},{"id":64389,"title":"題鄭大有隠居","titledesc":"","poemindex":50},{"id":64390,"title":"夜飲","titledesc":"","poemindex":51},{"id":64391,"title":"因書","titledesc":"","poemindex":52},{"id":64392,"title":"春宵自遣","titledesc":"","poemindex":53},{"id":64393,"title":"訪隠","titledesc":"","poemindex":54},{"id":64394,"title":"寓興","titledesc":"","poemindex":55},{"id":64395,"title":"河清與趙氏昆季讌集得擬杜工部","titledesc":"","poemindex":56},{"id":64396,"title":"寓目","titledesc":"","poemindex":57},{"id":64397,"title":"登霍山驛樓","titledesc":"","poemindex":58},{"id":64398,"title":"思賢頓","titledesc":"","poemindex":59},{"id":64399,"title":"桂林路中作","titledesc":"","poemindex":60},{"id":64400,"title":"商於","titledesc":"","poemindex":61},{"id":64401,"title":"和孫樸韋蟾孔雀詠","titledesc":"","poemindex":62},{"id":64402,"title":"酬令狐郎中見寄","titledesc":"","poemindex":63},{"id":64403,"title":"碧瓦","titledesc":"","poemindex":64},{"id":64404,"title":"西溪","titledesc":"","poemindex":65},{"id":64405,"title":"元微先生","titledesc":"","poemindex":66},{"id":64406,"title":"獨居有懐","titledesc":"","poemindex":67},{"id":64407,"title":"有感〈乙卯年有感丙辰年詩成〉","titledesc":"","poemindex":68},{"id":64408,"title":"有感〈乙卯年有感丙辰年詩成〉","titledesc":"","poemindex":69},{"id":64409,"title":"鏡檻","titledesc":"","poemindex":70},{"id":64410,"title":"送千牛李將軍赴闕五十韻","titledesc":"","poemindex":71},{"id":64411,"title":"詠懐寄秘閣舊僚二十六韻","titledesc":"","poemindex":72},{"id":64412,"title":"自桂林奉使江陵途中感懐寄獻尚書","titledesc":"","poemindex":73},{"id":64413,"title":"五言述徳抒情詩一首四十韻獻上杜七兄僕射相公","titledesc":"","poemindex":74},{"id":64414,"title":"今月二日不自量度輙以詩一首四十韻干凟尊嚴伏䝉仁恩俯賜披覧奬踰其實情溢于辭顧惟疎蕪曷用酬戴輙復五言四十韻詩獻上亦詩人咏歎不足之義也","titledesc":"","poemindex":75},{"id":64415,"title":"寄太原盧司空三十韻","titledesc":"","poemindex":76}]}}}
+{
+  "李商隠": {
+    "author": "李商隠",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 64340,
+          "uid": "poem-76-1",
+          "title": "令狐舎人說昨夜西掖翫月因戲贈",
+          "titledesc": "",
+          "poemindex": 1
+        },
+        {
+          "id": 64341,
+          "uid": "poem-76-2",
+          "title": "崔處士",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 64342,
+          "uid": "poem-76-3",
+          "title": "自喜",
+          "titledesc": "",
+          "poemindex": 3
+        },
+        {
+          "id": 64343,
+          "uid": "poem-76-4",
+          "title": "歸墅",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 64344,
+          "uid": "poem-76-5",
+          "title": "哭劉司户",
+          "titledesc": "",
+          "poemindex": 5
+        },
+        {
+          "id": 64345,
+          "uid": "poem-76-6",
+          "title": "哭劉司户",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 64346,
+          "uid": "poem-76-7",
+          "title": "桂林",
+          "titledesc": "",
+          "poemindex": 7
+        },
+        {
+          "id": 64347,
+          "uid": "poem-76-8",
+          "title": "陳後宫",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 64348,
+          "uid": "poem-76-9",
+          "title": "屬疾",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 64349,
+          "uid": "poem-76-10",
+          "title": "楚宫",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 64350,
+          "uid": "poem-76-11",
+          "title": "石城",
+          "titledesc": "",
+          "poemindex": 11
+        },
+        {
+          "id": 64351,
+          "uid": "poem-76-12",
+          "title": "離思",
+          "titledesc": "",
+          "poemindex": 12
+        },
+        {
+          "id": 64352,
+          "uid": "poem-76-13",
+          "title": "風雨",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 64353,
+          "uid": "poem-76-14",
+          "title": "槿花",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 64354,
+          "uid": "poem-76-15",
+          "title": "槿花",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 64355,
+          "uid": "poem-76-16",
+          "title": "蜨",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 64356,
+          "uid": "poem-76-17",
+          "title": "韓翃舎人即事",
+          "titledesc": "",
+          "poemindex": 17
+        },
+        {
+          "id": 64357,
+          "uid": "poem-76-18",
+          "title": "楊本勝説於長安見小男阿衮",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 64358,
+          "uid": "poem-76-19",
+          "title": "越燕",
+          "titledesc": "",
+          "poemindex": 19
+        },
+        {
+          "id": 64359,
+          "uid": "poem-76-20",
+          "title": "越燕",
+          "titledesc": "",
+          "poemindex": 20
+        },
+        {
+          "id": 64360,
+          "uid": "poem-76-21",
+          "title": "少將",
+          "titledesc": "",
+          "poemindex": 21
+        },
+        {
+          "id": 64361,
+          "uid": "poem-76-22",
+          "title": "無題",
+          "titledesc": "",
+          "poemindex": 22
+        },
+        {
+          "id": 64362,
+          "uid": "poem-76-23",
+          "title": "落花",
+          "titledesc": "",
+          "poemindex": 23
+        },
+        {
+          "id": 64363,
+          "uid": "poem-76-24",
+          "title": "楚澤",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 64364,
+          "uid": "poem-76-25",
+          "title": "蟬",
+          "titledesc": "",
+          "poemindex": 25
+        },
+        {
+          "id": 64365,
+          "uid": "poem-76-26",
+          "title": "鄠杜馬上念漢書",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 64366,
+          "uid": "poem-76-27",
+          "title": "柳",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 64367,
+          "uid": "poem-76-28",
+          "title": "謔柳",
+          "titledesc": "",
+          "poemindex": 28
+        },
+        {
+          "id": 64368,
+          "uid": "poem-76-29",
+          "title": "無題",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 64369,
+          "uid": "poem-76-30",
+          "title": "蝶",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 64370,
+          "uid": "poem-76-31",
+          "title": "月",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 64371,
+          "uid": "poem-76-32",
+          "title": "李花",
+          "titledesc": "",
+          "poemindex": 32
+        },
+        {
+          "id": 64372,
+          "uid": "poem-76-33",
+          "title": "寄裴衡",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 64373,
+          "uid": "poem-76-34",
+          "title": "即日",
+          "titledesc": "",
+          "poemindex": 34
+        },
+        {
+          "id": 64374,
+          "uid": "poem-76-35",
+          "title": "晩晴",
+          "titledesc": "",
+          "poemindex": 35
+        },
+        {
+          "id": 64375,
+          "uid": "poem-76-36",
+          "title": "所居",
+          "titledesc": "",
+          "poemindex": 36
+        },
+        {
+          "id": 64376,
+          "uid": "poem-76-37",
+          "title": "髙松",
+          "titledesc": "",
+          "poemindex": 37
+        },
+        {
+          "id": 64377,
+          "uid": "poem-76-38",
+          "title": "訪秋",
+          "titledesc": "",
+          "poemindex": 38
+        },
+        {
+          "id": 64378,
+          "uid": "poem-76-39",
+          "title": "昭州",
+          "titledesc": "",
+          "poemindex": 39
+        },
+        {
+          "id": 64379,
+          "uid": "poem-76-40",
+          "title": "陸發荆南始至商洛",
+          "titledesc": "",
+          "poemindex": 40
+        },
+        {
+          "id": 64380,
+          "uid": "poem-76-41",
+          "title": "陳後宫",
+          "titledesc": "",
+          "poemindex": 41
+        },
+        {
+          "id": 64381,
+          "uid": "poem-76-42",
+          "title": "樂遊原",
+          "titledesc": "",
+          "poemindex": 42
+        },
+        {
+          "id": 64382,
+          "uid": "poem-76-43",
+          "title": "贈子直花下",
+          "titledesc": "",
+          "poemindex": 43
+        },
+        {
+          "id": 64383,
+          "uid": "poem-76-44",
+          "title": "小園獨酌",
+          "titledesc": "",
+          "poemindex": 44
+        },
+        {
+          "id": 64384,
+          "uid": "poem-76-45",
+          "title": "獻寄舊府開封公",
+          "titledesc": "",
+          "poemindex": 45
+        },
+        {
+          "id": 64385,
+          "uid": "poem-76-46",
+          "title": "春游",
+          "titledesc": "",
+          "poemindex": 46
+        },
+        {
+          "id": 64386,
+          "uid": "poem-76-47",
+          "title": "離席",
+          "titledesc": "",
+          "poemindex": 47
+        },
+        {
+          "id": 64387,
+          "uid": "poem-76-48",
+          "title": "細雨",
+          "titledesc": "",
+          "poemindex": 48
+        },
+        {
+          "id": 64388,
+          "uid": "poem-76-49",
+          "title": "商於新開路",
+          "titledesc": "",
+          "poemindex": 49
+        },
+        {
+          "id": 64389,
+          "uid": "poem-76-50",
+          "title": "題鄭大有隠居",
+          "titledesc": "",
+          "poemindex": 50
+        },
+        {
+          "id": 64390,
+          "uid": "poem-76-51",
+          "title": "夜飲",
+          "titledesc": "",
+          "poemindex": 51
+        },
+        {
+          "id": 64391,
+          "uid": "poem-76-52",
+          "title": "因書",
+          "titledesc": "",
+          "poemindex": 52
+        },
+        {
+          "id": 64392,
+          "uid": "poem-76-53",
+          "title": "春宵自遣",
+          "titledesc": "",
+          "poemindex": 53
+        },
+        {
+          "id": 64393,
+          "uid": "poem-76-54",
+          "title": "訪隠",
+          "titledesc": "",
+          "poemindex": 54
+        },
+        {
+          "id": 64394,
+          "uid": "poem-76-55",
+          "title": "寓興",
+          "titledesc": "",
+          "poemindex": 55
+        },
+        {
+          "id": 64395,
+          "uid": "poem-76-56",
+          "title": "河清與趙氏昆季讌集得擬杜工部",
+          "titledesc": "",
+          "poemindex": 56
+        },
+        {
+          "id": 64396,
+          "uid": "poem-76-57",
+          "title": "寓目",
+          "titledesc": "",
+          "poemindex": 57
+        },
+        {
+          "id": 64397,
+          "uid": "poem-76-58",
+          "title": "登霍山驛樓",
+          "titledesc": "",
+          "poemindex": 58
+        },
+        {
+          "id": 64398,
+          "uid": "poem-76-59",
+          "title": "思賢頓",
+          "titledesc": "",
+          "poemindex": 59
+        },
+        {
+          "id": 64399,
+          "uid": "poem-76-60",
+          "title": "桂林路中作",
+          "titledesc": "",
+          "poemindex": 60
+        },
+        {
+          "id": 64400,
+          "uid": "poem-76-61",
+          "title": "商於",
+          "titledesc": "",
+          "poemindex": 61
+        },
+        {
+          "id": 64401,
+          "uid": "poem-76-62",
+          "title": "和孫樸韋蟾孔雀詠",
+          "titledesc": "",
+          "poemindex": 62
+        },
+        {
+          "id": 64402,
+          "uid": "poem-76-63",
+          "title": "酬令狐郎中見寄",
+          "titledesc": "",
+          "poemindex": 63
+        },
+        {
+          "id": 64403,
+          "uid": "poem-76-64",
+          "title": "碧瓦",
+          "titledesc": "",
+          "poemindex": 64
+        },
+        {
+          "id": 64404,
+          "uid": "poem-76-65",
+          "title": "西溪",
+          "titledesc": "",
+          "poemindex": 65
+        },
+        {
+          "id": 64405,
+          "uid": "poem-76-66",
+          "title": "元微先生",
+          "titledesc": "",
+          "poemindex": 66
+        },
+        {
+          "id": 64406,
+          "uid": "poem-76-67",
+          "title": "獨居有懐",
+          "titledesc": "",
+          "poemindex": 67
+        },
+        {
+          "id": 64407,
+          "uid": "poem-76-68",
+          "title": "有感〈乙卯年有感丙辰年詩成〉",
+          "titledesc": "",
+          "poemindex": 68
+        },
+        {
+          "id": 64408,
+          "uid": "poem-76-69",
+          "title": "有感〈乙卯年有感丙辰年詩成〉",
+          "titledesc": "",
+          "poemindex": 69
+        },
+        {
+          "id": 64409,
+          "uid": "poem-76-70",
+          "title": "鏡檻",
+          "titledesc": "",
+          "poemindex": 70
+        },
+        {
+          "id": 64410,
+          "uid": "poem-76-71",
+          "title": "送千牛李將軍赴闕五十韻",
+          "titledesc": "",
+          "poemindex": 71
+        },
+        {
+          "id": 64411,
+          "uid": "poem-76-72",
+          "title": "詠懐寄秘閣舊僚二十六韻",
+          "titledesc": "",
+          "poemindex": 72
+        },
+        {
+          "id": 64412,
+          "uid": "poem-76-73",
+          "title": "自桂林奉使江陵途中感懐寄獻尚書",
+          "titledesc": "",
+          "poemindex": 73
+        },
+        {
+          "id": 64413,
+          "uid": "poem-76-74",
+          "title": "五言述徳抒情詩一首四十韻獻上杜七兄僕射相公",
+          "titledesc": "",
+          "poemindex": 74
+        },
+        {
+          "id": 64414,
+          "uid": "poem-76-75",
+          "title": "今月二日不自量度輙以詩一首四十韻干凟尊嚴伏䝉仁恩俯賜披覧奬踰其實情溢于辭顧惟疎蕪曷用酬戴輙復五言四十韻詩獻上亦詩人咏歎不足之義也",
+          "titledesc": "",
+          "poemindex": 75
+        },
+        {
+          "id": 64415,
+          "uid": "poem-76-76",
+          "title": "寄太原盧司空三十韻",
+          "titledesc": "",
+          "poemindex": 76
+        }
+      ]
+    }
+  }
+}

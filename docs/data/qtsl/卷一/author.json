@@ -1,1 +1,923 @@
-{"太宗":{"author":"太宗","authordesc":"帝姓李氏諱世民高祖第二子高祖起義兵拜右領大都督封燉煌郡公徙封趙國公高祖受禪拜尚書令右武候大將軍進封秦王海内漸平乃銳意經籍開文學館以待四方之士杜如晦等十有八人為學士與之討論雖受高祖傳位實首開創之主\n唐詩品云文皇生更隋代蚤事藝文習氣既閑神標復秀故綺發天葩輝揚内藻聲音之本不徒然矣及乎大業成就神氣充揚延攬英賢流徽四座其遊幸諸作宫徵鏗然六朝浮靡之習一變而唐雖綺麗鮮錯而雅道立矣其為一代之祖又何疑焉","charstyleMap":{"古體詩":[{"id":57361,"title":"帝京篇","titledesc":"","poemindex":1},{"id":57362,"title":"帝京篇","titledesc":"","poemindex":2},{"id":57363,"title":"帝京篇","titledesc":"","poemindex":3},{"id":57364,"title":"帝京篇","titledesc":"","poemindex":4},{"id":57365,"title":"帝京篇","titledesc":"","poemindex":5},{"id":57366,"title":"帝京篇","titledesc":"","poemindex":6},{"id":57367,"title":"帝京篇","titledesc":"","poemindex":7},{"id":57368,"title":"帝京篇","titledesc":"","poemindex":8},{"id":57369,"title":"帝京篇","titledesc":"","poemindex":9},{"id":57370,"title":"帝京篇","titledesc":"","poemindex":10},{"id":57371,"title":"正日臨朝","titledesc":"","poemindex":11},{"id":57372,"title":"幸武功慶善宫","titledesc":"","poemindex":12},{"id":57373,"title":"經破薛舉戰地","titledesc":"","poemindex":13},{"id":57374,"title":"於北平作","titledesc":"","poemindex":14},{"id":57375,"title":"春日玄武門宴羣臣","titledesc":"","poemindex":15},{"id":57376,"title":"飲馬長城窟行","titledesc":"","poemindex":16},{"id":57377,"title":"元日","titledesc":"","poemindex":17},{"id":57378,"title":"初春登樓即目觀作述懷","titledesc":"","poemindex":18},{"id":57379,"title":"初晴落景","titledesc":"","poemindex":19},{"id":57380,"title":"賦得夏首啓節","titledesc":"","poemindex":20},{"id":57381,"title":"度秋","titledesc":"","poemindex":21},{"id":57382,"title":"秋日即事","titledesc":"","poemindex":22},{"id":57383,"title":"山閣晩秋","titledesc":"","poemindex":23},{"id":57384,"title":"秋暮言志","titledesc":"","poemindex":24},{"id":57385,"title":"喜雪","titledesc":"","poemindex":25},{"id":57386,"title":"秋日斆庾信體","titledesc":"","poemindex":26},{"id":57387,"title":"謁慈恩寺題奘法師房","titledesc":"","poemindex":27},{"id":57388,"title":"望送魏徵葬","titledesc":"","poemindex":28}],"近體詩":[{"id":57389,"title":"過舊宅","titledesc":"","poemindex":29},{"id":57390,"title":"首春","titledesc":"","poemindex":30},{"id":57391,"title":"月晦","titledesc":"","poemindex":31},{"id":57392,"title":"初秋夜坐","titledesc":"","poemindex":32},{"id":57393,"title":"秋日","titledesc":"","poemindex":33},{"id":57394,"title":"秋日","titledesc":"","poemindex":34},{"id":57395,"title":"冬日臨昆明池","titledesc":"","poemindex":35},{"id":57396,"title":"望雪","titledesc":"","poemindex":36},{"id":57397,"title":"守歲","titledesc":"","poemindex":37},{"id":57398,"title":"除夜","titledesc":"","poemindex":38},{"id":57399,"title":"置酒坐飛閣","titledesc":"","poemindex":39},{"id":57400,"title":"三層閣上置音聲","titledesc":"","poemindex":40},{"id":57401,"title":"逺山澄碧霧","titledesc":"","poemindex":41},{"id":57402,"title":"賦得含峯雲","titledesc":"","poemindex":42},{"id":57403,"title":"詠風","titledesc":"","poemindex":43},{"id":57404,"title":"詠雨","titledesc":"","poemindex":44},{"id":57405,"title":"詠雪","titledesc":"","poemindex":45},{"id":57406,"title":"賦得花庭霧","titledesc":"","poemindex":46},{"id":57407,"title":"春池柳","titledesc":"","poemindex":47},{"id":57408,"title":"芳蘭","titledesc":"","poemindex":48},{"id":57409,"title":"詠桃","titledesc":"","poemindex":49},{"id":57410,"title":"賦得櫻桃","titledesc":"","poemindex":50},{"id":57411,"title":"賦得殘菊","titledesc":"","poemindex":51},{"id":57412,"title":"詠烏代陳師道","titledesc":"","poemindex":52},{"id":57413,"title":"賦得浮橋","titledesc":"","poemindex":53},{"id":57414,"title":"賦簾","titledesc":"","poemindex":54},{"id":57415,"title":"過舊宅","titledesc":"","poemindex":55},{"id":57416,"title":"還陜述懷","titledesc":"","poemindex":56},{"id":57417,"title":"入潼關","titledesc":"","poemindex":57},{"id":57418,"title":"春日登陜州城樓俯眺原野迴丹碧綴烟霞密翠斑紅芳菲花柳即目川岫聊以命篇","titledesc":"","poemindex":58},{"id":57419,"title":"出獵","titledesc":"","poemindex":59},{"id":57420,"title":"宴中山","titledesc":"","poemindex":60},{"id":57421,"title":"賦秋日懸清光賜房玄齡","titledesc":"","poemindex":61},{"id":57422,"title":"春日望海","titledesc":"","poemindex":62},{"id":57423,"title":"初夏","titledesc":"","poemindex":63},{"id":57424,"title":"謁并州興國寺","titledesc":"","poemindex":64},{"id":57425,"title":"採芙蓉","titledesc":"","poemindex":65},{"id":57426,"title":"餞中書侍郎來濟","titledesc":"","poemindex":66},{"id":57427,"title":"詠燭","titledesc":"","poemindex":67},{"id":57428,"title":"詠燭","titledesc":"","poemindex":68},{"id":57429,"title":"詠弓","titledesc":"","poemindex":69},{"id":57430,"title":"賦得臨池柳","titledesc":"","poemindex":70},{"id":57431,"title":"賦得臨池竹","titledesc":"","poemindex":71},{"id":57432,"title":"賦得弱柳鳴秋蟬","titledesc":"","poemindex":72},{"id":57433,"title":"探得李","titledesc":"","poemindex":73},{"id":57434,"title":"詠小山","titledesc":"","poemindex":74},{"id":57435,"title":"賜房玄齡","titledesc":"","poemindex":75},{"id":57436,"title":"於太原召侍臣賜宴守歲","titledesc":"","poemindex":76},{"id":57437,"title":"遼東山夜臨秋","titledesc":"","poemindex":77}]}},"高宗":{"author":"高宗","authordesc":"帝諱治太宗第九子","charstyleMap":{"古體詩":[{"id":57438,"title":"過溫湯","titledesc":"","poemindex":78},{"id":57439,"title":"九月九日","titledesc":"","poemindex":79}]}},"中宗":{"author":"中宗","authordesc":"帝諱顯高宗第七子\n紀事云景龍中於修文館置大學士四員學士八員直學士十二員象四時八節十二時凡天子饗㑹游豫唯宰相直學士得從春幸梨園並渭水祓除則賜細柳圏辟惡夏宴蒲萄園賜朱櫻秋登慈恩浮圖獻菊花酒稱壽冬幸新豐歴白鹿觀上驪山賜浴湯池給香粉蘭澤從行給翔麟馬品官黃衣各一帝有所感即賦詩學士皆屬和","charstyleMap":{"近體詩":[{"id":57440,"title":"九月九日幸臨渭亭登高〈并序〉","titledesc":"陶潛盈把既浮九醞之歡畢卓持螯須盡一生之興人題四韻同賦五言其最後成罰之引滿","poemindex":80},{"id":57441,"title":"立春日遊苑迎春","titledesc":"","poemindex":81}],"聯句詩":[{"id":57442,"title":"十月誕辰内殿宴羣臣效栢梁體聯句","titledesc":"","poemindex":82},{"id":57443,"title":"景龍四年正月五日移仗蓬萊宫御大明殿㑹吐蕃騎馬之戲因重為栢梁體聯句","titledesc":"","poemindex":83}]}},"明皇":{"author":"明皇","authordesc":"帝諱隆基睿宗第三子性英斷多藝尤知音律善八分書儀範偉麗有非常之表封楚王韋后謀傾宗社率劉幽求等誅之睿宗即位立為太子及即位樂善好賢開元中海内富實幾致刑措天寶十四年祿山陷京師車駕幸蜀肅宗立追尊太上皇","charstyleMap":{"古體詩":[{"id":57444,"title":"賜諸州刺史以題座右","titledesc":"","poemindex":84},{"id":57445,"title":"初入秦川路逢寒食","titledesc":"","poemindex":85}],"近體詩":[{"id":57446,"title":"經魯祭孔子而嘆之","titledesc":"","poemindex":86},{"id":57447,"title":"送賀知章歸四明〈并序〉","titledesc":"天寶三載太子賔客賀知章鑒止足之分抗歸老之疏解組辭榮志期入道朕以其年在遲暮用循挂冠之事俾遂赤松之遊正月五日將歸㑹稽遂餞東路乃命六卿庶尹大夫供帳青門寵行邁也豈惟崇德尚齒亦勵俗勸人無令二疏獨光漢冊乃賦詩贈行","poemindex":87},{"id":57448,"title":"軒遊宫十五夜","titledesc":"","poemindex":88},{"id":57449,"title":"幸蜀西至劒門","titledesc":"","poemindex":89},{"id":57450,"title":"春晚宴兩相及禮官麗正殿學士探得風字〈并序〉","titledesc":"朕以薄德秖膺厯數正天柱之將傾紉地維之已絶故得承奉宗廟垂拱巖廊居海内之尊處域中之大然後祖述堯典憲章禹績敦睦九族㑹同四海猶恐烝黎未乂徭戍未安禮樂之政虧師儒之道喪乃命使者衣繡服行郡縣因人所利擇其可勞所以便億兆也乃命將士擐介胄冒矢石審山川之向背應歲月之孤虚所以靜邊陲也乃命禮官考制度稽典則序文昭武穆享天地神祇所以申嚴潔也乃命學者繕落簡輯遺編纂魯壁之文章綴秦坑之煨燼所以修文教也故能使流寓返枌榆之業戎狄稱藩屏之臣神祇歆其禋祀庠序闡其經術既家六合時巡兩京函秦則委輸斯逺鼎邑則朝宗所利封畿四塞從來測景之都城闕千門自昔交風之地隂陽代謝日月相推豈可使春色虛捐韶華並歇乃置㫖酒命英賢有文苑之高才有掖垣之良佐舉杯稱慶何樂如之同吟湛露之篇宜振凌雲之藻於時歲在乙丑開元十三年三月二十七日","poemindex":90},{"id":57451,"title":"首夏花萼樓觀羣臣宴寧王山亭迴樓下又申之以賞樂賦詩〈并序〉","titledesc":"萬物莫不氣兆乎上而形視乎下鐵石異品雲蒸並濕草木無心春來咸喜故聖人弘道先王法天酒星主獻酬之義需卦陳飲食之象近命羣官欣時樂宴盡九春之麗景匝三旬之暇日暢飲桂山棹歌泌水醇以養德味以平心本將導達陽和助成長育亦朝廷多慶軍國餘閒者也前月之晦細風飄雨繁絃中止列席半醉佳辰易失絶興難追良可惋也今年帶閏節候全晚暑氣猶清芳草未歇申布雅意復敘初筵披樂善之邸坐忘憂之觀東郊跬歩南山在目足以締夏首之新賞補春餘之墜歡朕登覽上宫俯臨長陌暢衆心之怡虞懽歸騎之逶迤鼓之以琴瑟侑之以筐篚衢樽意洽場藿思苗賦我有嘉賔之詩奏君臣相悦之樂踟蹰西日吟翫乘風不知衷情發於翰墨也","poemindex":91},{"id":57452,"title":"同二相已下羣官樂遊園宴〈二相謂張説宋璟〉","titledesc":"","poemindex":92},{"id":57453,"title":"集賢書院成送張説上集賢學士賜宴得珍字","titledesc":"","poemindex":93},{"id":57454,"title":"王屋山送道士司馬承禎還天台","titledesc":"","poemindex":94},{"id":57455,"title":"早度蒲關","titledesc":"","poemindex":95},{"id":57456,"title":"南出雀鼠谷答張説","titledesc":"","poemindex":96},{"id":57457,"title":"為趙法師别造精院過院賦詩〈并序〉","titledesc":"秋九月聽政觀風存乎遊息退朝之後歷西上陽入清虚院則法師所居之地也法師得上玄之法養浩然之氣故法此仙家特建真宇紫房對聳綠竹羅生既親重其人毎經過其地以怡神洗雪進德修業何必齋心累月逺在順風因而賦詩用適其意云爾","poemindex":97},{"id":57458,"title":"左丞相説右丞相璟太子少傅乾曜同日上官命宴東堂賜詩","titledesc":"","poemindex":98},{"id":57459,"title":"早登太行山中言志","titledesc":"","poemindex":99},{"id":57460,"title":"春中興慶宫酺宴〈并序〉","titledesc":"夫抱器懷才含仁蓄德可以坐而論道者我於是乎闢重門以納之作扞四方折衝萬里可運籌帷幄者我於是乎懸重祿以待之是故外無金革之虞朝有縉紳之盛所以巖廊多暇垂拱無為不言而海外知歸不教而寰中自肅元亨之道其在兹乎况乎天地交而萬物通隂陽和而四時序所寶者粟所貴者賢故以宵旰為懷黎元在念盡力溝洫不知宫室之已卑致敬鬼神不知飲食之斯薄往以仲冬建子南至初陽爰詔司存式陳郊祀挹夷夏之誠請答人神之厚睠煙歸太乙禮備上玄足以申昭報之情足以極嚴禋之道然心融萬類歸雷雨之先春慶洽百僚象雲天而高宴歲二月地三秦水汎汎而龍池滿日遲遲而鳳樓曙青門左右軒庭映梅柳之春紫陌東西帟幕動烟霞之色撞鐘伐鼓雲起雪飛歌一聲而酒一杯舞一曲而人一醉詩以言志思吟湛露之篇樂以忘憂慙運臨汾之筆","poemindex":100},{"id":57461,"title":"送張説巡邊","titledesc":"","poemindex":101},{"id":57462,"title":"巡省途次上黨舊宫賦〈并序〉","titledesc":"朕昔在初九佐貳此州未遇扶揺之力空俟海沂之詠洎大横入兆出處斯易一揮寶劒遽履瑶圖承厯數而順謳謡着天衣而御區夏嗟乎向時沈黙駕四馬而朝京師今日逍遥乘六龍而問風俗爰因巡省途次舊居山川宛然人事無間忽其昇華周遊館宇觸目依然雖迹異漢皇而地如豐邑擊筑慷慨酌桂留連空想大風題兹短什","poemindex":102}]}},"德宗":{"author":"德宗","authordesc":"帝諱适代宗子\n紀事云帝善為詩文毎與學士言詩於浴堂殿夜分不寐幸章敬寺詩松院淨苔色竹房深磬聲時人傳誦帝晚年詩句臣下莫及毎御製奉和退而笑曰排公俗有投石之戲兩頭置標號曰排公以中不中為勝負也\n又韋綬以内相感心疾罷還第帝九日作黃菊歌顧左右曰安可不示韋綬遣使持往綬遽奉和附使進帝曰為文不已豈頤養耶勅曰自今勿復爾","charstyleMap":{"古體詩":[{"id":57463,"title":"中和節日宴百僚賜詩","titledesc":"","poemindex":103},{"id":57464,"title":"中和節賜百官讌集因示所懐","titledesc":"","poemindex":104},{"id":57465,"title":"重陽日即事","titledesc":"","poemindex":105},{"id":57466,"title":"豐年多慶九日示懷","titledesc":"","poemindex":106},{"id":57467,"title":"重陽日中外同歡以詩言志因示羣臣","titledesc":"","poemindex":107},{"id":57468,"title":"七月十五日題章敬寺","titledesc":"","poemindex":108},{"id":57469,"title":"送徐州張建封還鎮","titledesc":"","poemindex":109},{"id":57470,"title":"賜宴曲江亭〈并序〉","titledesc":"朕在位僅將十載實賴忠賢左右克致小康是以擇三令節錫兹宴賞俾大夫卿士得同歡洽也夫共其戚者同其休有其初者貴其終咨爾羣僚順朕不暇樂而能節職思其憂咸若時則庶乎理矣因重陽之㑹聊示所懷","poemindex":110}],"近體詩":[{"id":57471,"title":"九日","titledesc":"","poemindex":111}]}},"文宗":{"author":"文宗","authordesc":"帝諱昻憲宗子\n紀事云帝嘗謂左右曰若不甲夜視事乙夜觀書則何以為人君耶毎試進士多自出題目及所司進所試披覽吟詠終日忘倦常延學士於内庭討論經義較量古今令宫女以下侍茶湯飲饌李訓講周易時方盛夏遂命取水玉腰帶辟暑犀如意以賜訓曰如意足以與卿為談柄也一日延英顧問宰臣詩云呦呦鹿鳴食野之苹苹是何草時宰相楊珏楊嗣復陳夷行相顧未對珏曰臣按爾雅苹是藾蕭上曰朕看毛詩疏葉圓而花白藂生野中似非藾蕭又一日問宰臣古詩云輕衫襯跳脱跳脱是何物宰臣未對上曰即今之腕釧也真誥言安妃有斵粟金跳脱是臂飾\n又常吟杜甫曲江篇云江頭宫殿鎖千門細柳新蒲為誰綠乃知天寶以前樓臺之盛鄭注乃命神策軍淘曲江昆明二池許公卿立亭館兩軍造紫雲樓彩霞亭内出樓額賜之","charstyleMap":{"近體詩":[{"id":57472,"title":"甘露事後","titledesc":"","poemindex":112},{"id":57473,"title":"上元日","titledesc":"","poemindex":113},{"id":57474,"title":"上元日","titledesc":"","poemindex":114}]}},"宣宗":{"author":"宣宗","authordesc":"帝諱忱\n紀事云帝好進士及第毎對朝臣問及第茍有科名對者必大喜便問所試詩賦題目并主司姓名或佳人物偶不中第必歎惜移時\n又帝製秦邊陲曲其詞云海岳咸通及帝垂拱而年號咸通焉庶子裴惲進詩賀聖政有太康字帝怒曰太康失邦乃以比我户部韋澳奏云晉平呉寇改號太康雖有失邦之言乃見歸美之文曰天子大須博覽不然幾錯罪惲","charstyleMap":{"近體詩":[{"id":57475,"title":"弔白居易","titledesc":"","poemindex":115}]}},"長孫皇后":{"author":"長孫皇后","authordesc":"后長安人隋右驍衞將軍晟之女太宗后也毎多規諫嘗著女則自為之序","charstyleMap":{"近體詩":[{"id":57476,"title":"春遊曲","titledesc":"","poemindex":116}]}},"徐賢妃":{"author":"徐賢妃","authordesc":"妃名惠湖州人散騎常侍堅之姑生五月能言四歲誦論語毛詩八歲善屬文太宗納為才人遷充容時軍旅亟動宫室互興上疏極諫太宗善其言優賜甚厚卒贈賢妃","charstyleMap":{"古體詩":[{"id":57477,"title":"賦得北方有佳人","titledesc":"","poemindex":117},{"id":57478,"title":"進太宗詩","titledesc":"","poemindex":118}]}},"江妃":{"author":"江妃","authordesc":"妃興化人九歲能誦二南父竒之故名采蘋明皇大見寵幸尤善屬文自比謝女性喜梅所居悉植梅上因其好戲名梅妃妃有蕭蘭梨園梅花鳳笛玻杯剪刀綺牕八賦㑹太真寵愛日隆遷於上陽東宫帝在花萼樓有使貢珍珠者至命封一斛賜妃不受以詩付使者上覽詩悵然不樂命樂府以新聲度之號一斛珠","charstyleMap":{"近體詩":[{"id":57479,"title":"謝賜珍珠","titledesc":"","poemindex":119}]}}}
+{
+  "太宗": {
+    "author": "太宗",
+    "authordesc": "帝姓李氏諱世民高祖第二子高祖起義兵拜右領大都督封燉煌郡公徙封趙國公高祖受禪拜尚書令右武候大將軍進封秦王海内漸平乃銳意經籍開文學館以待四方之士杜如晦等十有八人為學士與之討論雖受高祖傳位實首開創之主\n唐詩品云文皇生更隋代蚤事藝文習氣既閑神標復秀故綺發天葩輝揚内藻聲音之本不徒然矣及乎大業成就神氣充揚延攬英賢流徽四座其遊幸諸作宫徵鏗然六朝浮靡之習一變而唐雖綺麗鮮錯而雅道立矣其為一代之祖又何疑焉",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 57361,
+          "uid": "poem-1-1",
+          "title": "帝京篇",
+          "titledesc": "",
+          "poemindex": 1
+        },
+        {
+          "id": 57362,
+          "uid": "poem-1-2",
+          "title": "帝京篇",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 57363,
+          "uid": "poem-1-3",
+          "title": "帝京篇",
+          "titledesc": "",
+          "poemindex": 3
+        },
+        {
+          "id": 57364,
+          "uid": "poem-1-4",
+          "title": "帝京篇",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 57365,
+          "uid": "poem-1-5",
+          "title": "帝京篇",
+          "titledesc": "",
+          "poemindex": 5
+        },
+        {
+          "id": 57366,
+          "uid": "poem-1-6",
+          "title": "帝京篇",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 57367,
+          "uid": "poem-1-7",
+          "title": "帝京篇",
+          "titledesc": "",
+          "poemindex": 7
+        },
+        {
+          "id": 57368,
+          "uid": "poem-1-8",
+          "title": "帝京篇",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 57369,
+          "uid": "poem-1-9",
+          "title": "帝京篇",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 57370,
+          "uid": "poem-1-10",
+          "title": "帝京篇",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 57371,
+          "uid": "poem-1-11",
+          "title": "正日臨朝",
+          "titledesc": "",
+          "poemindex": 11
+        },
+        {
+          "id": 57372,
+          "uid": "poem-1-12",
+          "title": "幸武功慶善宫",
+          "titledesc": "",
+          "poemindex": 12
+        },
+        {
+          "id": 57373,
+          "uid": "poem-1-13",
+          "title": "經破薛舉戰地",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 57374,
+          "uid": "poem-1-14",
+          "title": "於北平作",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 57375,
+          "uid": "poem-1-15",
+          "title": "春日玄武門宴羣臣",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 57376,
+          "uid": "poem-1-16",
+          "title": "飲馬長城窟行",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 57377,
+          "uid": "poem-1-17",
+          "title": "元日",
+          "titledesc": "",
+          "poemindex": 17
+        },
+        {
+          "id": 57378,
+          "uid": "poem-1-18",
+          "title": "初春登樓即目觀作述懷",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 57379,
+          "uid": "poem-1-19",
+          "title": "初晴落景",
+          "titledesc": "",
+          "poemindex": 19
+        },
+        {
+          "id": 57380,
+          "uid": "poem-1-20",
+          "title": "賦得夏首啓節",
+          "titledesc": "",
+          "poemindex": 20
+        },
+        {
+          "id": 57381,
+          "uid": "poem-1-21",
+          "title": "度秋",
+          "titledesc": "",
+          "poemindex": 21
+        },
+        {
+          "id": 57382,
+          "uid": "poem-1-22",
+          "title": "秋日即事",
+          "titledesc": "",
+          "poemindex": 22
+        },
+        {
+          "id": 57383,
+          "uid": "poem-1-23",
+          "title": "山閣晩秋",
+          "titledesc": "",
+          "poemindex": 23
+        },
+        {
+          "id": 57384,
+          "uid": "poem-1-24",
+          "title": "秋暮言志",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 57385,
+          "uid": "poem-1-25",
+          "title": "喜雪",
+          "titledesc": "",
+          "poemindex": 25
+        },
+        {
+          "id": 57386,
+          "uid": "poem-1-26",
+          "title": "秋日斆庾信體",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 57387,
+          "uid": "poem-1-27",
+          "title": "謁慈恩寺題奘法師房",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 57388,
+          "uid": "poem-1-28",
+          "title": "望送魏徵葬",
+          "titledesc": "",
+          "poemindex": 28
+        }
+      ],
+      "近體詩": [
+        {
+          "id": 57389,
+          "uid": "poem-1-29",
+          "title": "過舊宅",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 57390,
+          "uid": "poem-1-30",
+          "title": "首春",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 57391,
+          "uid": "poem-1-31",
+          "title": "月晦",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 57392,
+          "uid": "poem-1-32",
+          "title": "初秋夜坐",
+          "titledesc": "",
+          "poemindex": 32
+        },
+        {
+          "id": 57393,
+          "uid": "poem-1-33",
+          "title": "秋日",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 57394,
+          "uid": "poem-1-34",
+          "title": "秋日",
+          "titledesc": "",
+          "poemindex": 34
+        },
+        {
+          "id": 57395,
+          "uid": "poem-1-35",
+          "title": "冬日臨昆明池",
+          "titledesc": "",
+          "poemindex": 35
+        },
+        {
+          "id": 57396,
+          "uid": "poem-1-36",
+          "title": "望雪",
+          "titledesc": "",
+          "poemindex": 36
+        },
+        {
+          "id": 57397,
+          "uid": "poem-1-37",
+          "title": "守歲",
+          "titledesc": "",
+          "poemindex": 37
+        },
+        {
+          "id": 57398,
+          "uid": "poem-1-38",
+          "title": "除夜",
+          "titledesc": "",
+          "poemindex": 38
+        },
+        {
+          "id": 57399,
+          "uid": "poem-1-39",
+          "title": "置酒坐飛閣",
+          "titledesc": "",
+          "poemindex": 39
+        },
+        {
+          "id": 57400,
+          "uid": "poem-1-40",
+          "title": "三層閣上置音聲",
+          "titledesc": "",
+          "poemindex": 40
+        },
+        {
+          "id": 57401,
+          "uid": "poem-1-41",
+          "title": "逺山澄碧霧",
+          "titledesc": "",
+          "poemindex": 41
+        },
+        {
+          "id": 57402,
+          "uid": "poem-1-42",
+          "title": "賦得含峯雲",
+          "titledesc": "",
+          "poemindex": 42
+        },
+        {
+          "id": 57403,
+          "uid": "poem-1-43",
+          "title": "詠風",
+          "titledesc": "",
+          "poemindex": 43
+        },
+        {
+          "id": 57404,
+          "uid": "poem-1-44",
+          "title": "詠雨",
+          "titledesc": "",
+          "poemindex": 44
+        },
+        {
+          "id": 57405,
+          "uid": "poem-1-45",
+          "title": "詠雪",
+          "titledesc": "",
+          "poemindex": 45
+        },
+        {
+          "id": 57406,
+          "uid": "poem-1-46",
+          "title": "賦得花庭霧",
+          "titledesc": "",
+          "poemindex": 46
+        },
+        {
+          "id": 57407,
+          "uid": "poem-1-47",
+          "title": "春池柳",
+          "titledesc": "",
+          "poemindex": 47
+        },
+        {
+          "id": 57408,
+          "uid": "poem-1-48",
+          "title": "芳蘭",
+          "titledesc": "",
+          "poemindex": 48
+        },
+        {
+          "id": 57409,
+          "uid": "poem-1-49",
+          "title": "詠桃",
+          "titledesc": "",
+          "poemindex": 49
+        },
+        {
+          "id": 57410,
+          "uid": "poem-1-50",
+          "title": "賦得櫻桃",
+          "titledesc": "",
+          "poemindex": 50
+        },
+        {
+          "id": 57411,
+          "uid": "poem-1-51",
+          "title": "賦得殘菊",
+          "titledesc": "",
+          "poemindex": 51
+        },
+        {
+          "id": 57412,
+          "uid": "poem-1-52",
+          "title": "詠烏代陳師道",
+          "titledesc": "",
+          "poemindex": 52
+        },
+        {
+          "id": 57413,
+          "uid": "poem-1-53",
+          "title": "賦得浮橋",
+          "titledesc": "",
+          "poemindex": 53
+        },
+        {
+          "id": 57414,
+          "uid": "poem-1-54",
+          "title": "賦簾",
+          "titledesc": "",
+          "poemindex": 54
+        },
+        {
+          "id": 57415,
+          "uid": "poem-1-55",
+          "title": "過舊宅",
+          "titledesc": "",
+          "poemindex": 55
+        },
+        {
+          "id": 57416,
+          "uid": "poem-1-56",
+          "title": "還陜述懷",
+          "titledesc": "",
+          "poemindex": 56
+        },
+        {
+          "id": 57417,
+          "uid": "poem-1-57",
+          "title": "入潼關",
+          "titledesc": "",
+          "poemindex": 57
+        },
+        {
+          "id": 57418,
+          "uid": "poem-1-58",
+          "title": "春日登陜州城樓俯眺原野迴丹碧綴烟霞密翠斑紅芳菲花柳即目川岫聊以命篇",
+          "titledesc": "",
+          "poemindex": 58
+        },
+        {
+          "id": 57419,
+          "uid": "poem-1-59",
+          "title": "出獵",
+          "titledesc": "",
+          "poemindex": 59
+        },
+        {
+          "id": 57420,
+          "uid": "poem-1-60",
+          "title": "宴中山",
+          "titledesc": "",
+          "poemindex": 60
+        },
+        {
+          "id": 57421,
+          "uid": "poem-1-61",
+          "title": "賦秋日懸清光賜房玄齡",
+          "titledesc": "",
+          "poemindex": 61
+        },
+        {
+          "id": 57422,
+          "uid": "poem-1-62",
+          "title": "春日望海",
+          "titledesc": "",
+          "poemindex": 62
+        },
+        {
+          "id": 57423,
+          "uid": "poem-1-63",
+          "title": "初夏",
+          "titledesc": "",
+          "poemindex": 63
+        },
+        {
+          "id": 57424,
+          "uid": "poem-1-64",
+          "title": "謁并州興國寺",
+          "titledesc": "",
+          "poemindex": 64
+        },
+        {
+          "id": 57425,
+          "uid": "poem-1-65",
+          "title": "採芙蓉",
+          "titledesc": "",
+          "poemindex": 65
+        },
+        {
+          "id": 57426,
+          "uid": "poem-1-66",
+          "title": "餞中書侍郎來濟",
+          "titledesc": "",
+          "poemindex": 66
+        },
+        {
+          "id": 57427,
+          "uid": "poem-1-67",
+          "title": "詠燭",
+          "titledesc": "",
+          "poemindex": 67
+        },
+        {
+          "id": 57428,
+          "uid": "poem-1-68",
+          "title": "詠燭",
+          "titledesc": "",
+          "poemindex": 68
+        },
+        {
+          "id": 57429,
+          "uid": "poem-1-69",
+          "title": "詠弓",
+          "titledesc": "",
+          "poemindex": 69
+        },
+        {
+          "id": 57430,
+          "uid": "poem-1-70",
+          "title": "賦得臨池柳",
+          "titledesc": "",
+          "poemindex": 70
+        },
+        {
+          "id": 57431,
+          "uid": "poem-1-71",
+          "title": "賦得臨池竹",
+          "titledesc": "",
+          "poemindex": 71
+        },
+        {
+          "id": 57432,
+          "uid": "poem-1-72",
+          "title": "賦得弱柳鳴秋蟬",
+          "titledesc": "",
+          "poemindex": 72
+        },
+        {
+          "id": 57433,
+          "uid": "poem-1-73",
+          "title": "探得李",
+          "titledesc": "",
+          "poemindex": 73
+        },
+        {
+          "id": 57434,
+          "uid": "poem-1-74",
+          "title": "詠小山",
+          "titledesc": "",
+          "poemindex": 74
+        },
+        {
+          "id": 57435,
+          "uid": "poem-1-75",
+          "title": "賜房玄齡",
+          "titledesc": "",
+          "poemindex": 75
+        },
+        {
+          "id": 57436,
+          "uid": "poem-1-76",
+          "title": "於太原召侍臣賜宴守歲",
+          "titledesc": "",
+          "poemindex": 76
+        },
+        {
+          "id": 57437,
+          "uid": "poem-1-77",
+          "title": "遼東山夜臨秋",
+          "titledesc": "",
+          "poemindex": 77
+        }
+      ]
+    }
+  },
+  "高宗": {
+    "author": "高宗",
+    "authordesc": "帝諱治太宗第九子",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 57438,
+          "uid": "poem-1-78",
+          "title": "過溫湯",
+          "titledesc": "",
+          "poemindex": 78
+        },
+        {
+          "id": 57439,
+          "uid": "poem-1-79",
+          "title": "九月九日",
+          "titledesc": "",
+          "poemindex": 79
+        }
+      ]
+    }
+  },
+  "中宗": {
+    "author": "中宗",
+    "authordesc": "帝諱顯高宗第七子\n紀事云景龍中於修文館置大學士四員學士八員直學士十二員象四時八節十二時凡天子饗㑹游豫唯宰相直學士得從春幸梨園並渭水祓除則賜細柳圏辟惡夏宴蒲萄園賜朱櫻秋登慈恩浮圖獻菊花酒稱壽冬幸新豐歴白鹿觀上驪山賜浴湯池給香粉蘭澤從行給翔麟馬品官黃衣各一帝有所感即賦詩學士皆屬和",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 57440,
+          "uid": "poem-1-80",
+          "title": "九月九日幸臨渭亭登高〈并序〉",
+          "titledesc": "陶潛盈把既浮九醞之歡畢卓持螯須盡一生之興人題四韻同賦五言其最後成罰之引滿",
+          "poemindex": 80
+        },
+        {
+          "id": 57441,
+          "uid": "poem-1-81",
+          "title": "立春日遊苑迎春",
+          "titledesc": "",
+          "poemindex": 81
+        }
+      ],
+      "聯句詩": [
+        {
+          "id": 57442,
+          "uid": "poem-1-82",
+          "title": "十月誕辰内殿宴羣臣效栢梁體聯句",
+          "titledesc": "",
+          "poemindex": 82
+        },
+        {
+          "id": 57443,
+          "uid": "poem-1-83",
+          "title": "景龍四年正月五日移仗蓬萊宫御大明殿㑹吐蕃騎馬之戲因重為栢梁體聯句",
+          "titledesc": "",
+          "poemindex": 83
+        }
+      ]
+    }
+  },
+  "明皇": {
+    "author": "明皇",
+    "authordesc": "帝諱隆基睿宗第三子性英斷多藝尤知音律善八分書儀範偉麗有非常之表封楚王韋后謀傾宗社率劉幽求等誅之睿宗即位立為太子及即位樂善好賢開元中海内富實幾致刑措天寶十四年祿山陷京師車駕幸蜀肅宗立追尊太上皇",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 57444,
+          "uid": "poem-1-84",
+          "title": "賜諸州刺史以題座右",
+          "titledesc": "",
+          "poemindex": 84
+        },
+        {
+          "id": 57445,
+          "uid": "poem-1-85",
+          "title": "初入秦川路逢寒食",
+          "titledesc": "",
+          "poemindex": 85
+        }
+      ],
+      "近體詩": [
+        {
+          "id": 57446,
+          "uid": "poem-1-86",
+          "title": "經魯祭孔子而嘆之",
+          "titledesc": "",
+          "poemindex": 86
+        },
+        {
+          "id": 57447,
+          "uid": "poem-1-87",
+          "title": "送賀知章歸四明〈并序〉",
+          "titledesc": "天寶三載太子賔客賀知章鑒止足之分抗歸老之疏解組辭榮志期入道朕以其年在遲暮用循挂冠之事俾遂赤松之遊正月五日將歸㑹稽遂餞東路乃命六卿庶尹大夫供帳青門寵行邁也豈惟崇德尚齒亦勵俗勸人無令二疏獨光漢冊乃賦詩贈行",
+          "poemindex": 87
+        },
+        {
+          "id": 57448,
+          "uid": "poem-1-88",
+          "title": "軒遊宫十五夜",
+          "titledesc": "",
+          "poemindex": 88
+        },
+        {
+          "id": 57449,
+          "uid": "poem-1-89",
+          "title": "幸蜀西至劒門",
+          "titledesc": "",
+          "poemindex": 89
+        },
+        {
+          "id": 57450,
+          "uid": "poem-1-90",
+          "title": "春晚宴兩相及禮官麗正殿學士探得風字〈并序〉",
+          "titledesc": "朕以薄德秖膺厯數正天柱之將傾紉地維之已絶故得承奉宗廟垂拱巖廊居海内之尊處域中之大然後祖述堯典憲章禹績敦睦九族㑹同四海猶恐烝黎未乂徭戍未安禮樂之政虧師儒之道喪乃命使者衣繡服行郡縣因人所利擇其可勞所以便億兆也乃命將士擐介胄冒矢石審山川之向背應歲月之孤虚所以靜邊陲也乃命禮官考制度稽典則序文昭武穆享天地神祇所以申嚴潔也乃命學者繕落簡輯遺編纂魯壁之文章綴秦坑之煨燼所以修文教也故能使流寓返枌榆之業戎狄稱藩屏之臣神祇歆其禋祀庠序闡其經術既家六合時巡兩京函秦則委輸斯逺鼎邑則朝宗所利封畿四塞從來測景之都城闕千門自昔交風之地隂陽代謝日月相推豈可使春色虛捐韶華並歇乃置㫖酒命英賢有文苑之高才有掖垣之良佐舉杯稱慶何樂如之同吟湛露之篇宜振凌雲之藻於時歲在乙丑開元十三年三月二十七日",
+          "poemindex": 90
+        },
+        {
+          "id": 57451,
+          "uid": "poem-1-91",
+          "title": "首夏花萼樓觀羣臣宴寧王山亭迴樓下又申之以賞樂賦詩〈并序〉",
+          "titledesc": "萬物莫不氣兆乎上而形視乎下鐵石異品雲蒸並濕草木無心春來咸喜故聖人弘道先王法天酒星主獻酬之義需卦陳飲食之象近命羣官欣時樂宴盡九春之麗景匝三旬之暇日暢飲桂山棹歌泌水醇以養德味以平心本將導達陽和助成長育亦朝廷多慶軍國餘閒者也前月之晦細風飄雨繁絃中止列席半醉佳辰易失絶興難追良可惋也今年帶閏節候全晚暑氣猶清芳草未歇申布雅意復敘初筵披樂善之邸坐忘憂之觀東郊跬歩南山在目足以締夏首之新賞補春餘之墜歡朕登覽上宫俯臨長陌暢衆心之怡虞懽歸騎之逶迤鼓之以琴瑟侑之以筐篚衢樽意洽場藿思苗賦我有嘉賔之詩奏君臣相悦之樂踟蹰西日吟翫乘風不知衷情發於翰墨也",
+          "poemindex": 91
+        },
+        {
+          "id": 57452,
+          "uid": "poem-1-92",
+          "title": "同二相已下羣官樂遊園宴〈二相謂張説宋璟〉",
+          "titledesc": "",
+          "poemindex": 92
+        },
+        {
+          "id": 57453,
+          "uid": "poem-1-93",
+          "title": "集賢書院成送張説上集賢學士賜宴得珍字",
+          "titledesc": "",
+          "poemindex": 93
+        },
+        {
+          "id": 57454,
+          "uid": "poem-1-94",
+          "title": "王屋山送道士司馬承禎還天台",
+          "titledesc": "",
+          "poemindex": 94
+        },
+        {
+          "id": 57455,
+          "uid": "poem-1-95",
+          "title": "早度蒲關",
+          "titledesc": "",
+          "poemindex": 95
+        },
+        {
+          "id": 57456,
+          "uid": "poem-1-96",
+          "title": "南出雀鼠谷答張説",
+          "titledesc": "",
+          "poemindex": 96
+        },
+        {
+          "id": 57457,
+          "uid": "poem-1-97",
+          "title": "為趙法師别造精院過院賦詩〈并序〉",
+          "titledesc": "秋九月聽政觀風存乎遊息退朝之後歷西上陽入清虚院則法師所居之地也法師得上玄之法養浩然之氣故法此仙家特建真宇紫房對聳綠竹羅生既親重其人毎經過其地以怡神洗雪進德修業何必齋心累月逺在順風因而賦詩用適其意云爾",
+          "poemindex": 97
+        },
+        {
+          "id": 57458,
+          "uid": "poem-1-98",
+          "title": "左丞相説右丞相璟太子少傅乾曜同日上官命宴東堂賜詩",
+          "titledesc": "",
+          "poemindex": 98
+        },
+        {
+          "id": 57459,
+          "uid": "poem-1-99",
+          "title": "早登太行山中言志",
+          "titledesc": "",
+          "poemindex": 99
+        },
+        {
+          "id": 57460,
+          "uid": "poem-1-100",
+          "title": "春中興慶宫酺宴〈并序〉",
+          "titledesc": "夫抱器懷才含仁蓄德可以坐而論道者我於是乎闢重門以納之作扞四方折衝萬里可運籌帷幄者我於是乎懸重祿以待之是故外無金革之虞朝有縉紳之盛所以巖廊多暇垂拱無為不言而海外知歸不教而寰中自肅元亨之道其在兹乎况乎天地交而萬物通隂陽和而四時序所寶者粟所貴者賢故以宵旰為懷黎元在念盡力溝洫不知宫室之已卑致敬鬼神不知飲食之斯薄往以仲冬建子南至初陽爰詔司存式陳郊祀挹夷夏之誠請答人神之厚睠煙歸太乙禮備上玄足以申昭報之情足以極嚴禋之道然心融萬類歸雷雨之先春慶洽百僚象雲天而高宴歲二月地三秦水汎汎而龍池滿日遲遲而鳳樓曙青門左右軒庭映梅柳之春紫陌東西帟幕動烟霞之色撞鐘伐鼓雲起雪飛歌一聲而酒一杯舞一曲而人一醉詩以言志思吟湛露之篇樂以忘憂慙運臨汾之筆",
+          "poemindex": 100
+        },
+        {
+          "id": 57461,
+          "uid": "poem-1-101",
+          "title": "送張説巡邊",
+          "titledesc": "",
+          "poemindex": 101
+        },
+        {
+          "id": 57462,
+          "uid": "poem-1-102",
+          "title": "巡省途次上黨舊宫賦〈并序〉",
+          "titledesc": "朕昔在初九佐貳此州未遇扶揺之力空俟海沂之詠洎大横入兆出處斯易一揮寶劒遽履瑶圖承厯數而順謳謡着天衣而御區夏嗟乎向時沈黙駕四馬而朝京師今日逍遥乘六龍而問風俗爰因巡省途次舊居山川宛然人事無間忽其昇華周遊館宇觸目依然雖迹異漢皇而地如豐邑擊筑慷慨酌桂留連空想大風題兹短什",
+          "poemindex": 102
+        }
+      ]
+    }
+  },
+  "德宗": {
+    "author": "德宗",
+    "authordesc": "帝諱适代宗子\n紀事云帝善為詩文毎與學士言詩於浴堂殿夜分不寐幸章敬寺詩松院淨苔色竹房深磬聲時人傳誦帝晚年詩句臣下莫及毎御製奉和退而笑曰排公俗有投石之戲兩頭置標號曰排公以中不中為勝負也\n又韋綬以内相感心疾罷還第帝九日作黃菊歌顧左右曰安可不示韋綬遣使持往綬遽奉和附使進帝曰為文不已豈頤養耶勅曰自今勿復爾",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 57463,
+          "uid": "poem-1-103",
+          "title": "中和節日宴百僚賜詩",
+          "titledesc": "",
+          "poemindex": 103
+        },
+        {
+          "id": 57464,
+          "uid": "poem-1-104",
+          "title": "中和節賜百官讌集因示所懐",
+          "titledesc": "",
+          "poemindex": 104
+        },
+        {
+          "id": 57465,
+          "uid": "poem-1-105",
+          "title": "重陽日即事",
+          "titledesc": "",
+          "poemindex": 105
+        },
+        {
+          "id": 57466,
+          "uid": "poem-1-106",
+          "title": "豐年多慶九日示懷",
+          "titledesc": "",
+          "poemindex": 106
+        },
+        {
+          "id": 57467,
+          "uid": "poem-1-107",
+          "title": "重陽日中外同歡以詩言志因示羣臣",
+          "titledesc": "",
+          "poemindex": 107
+        },
+        {
+          "id": 57468,
+          "uid": "poem-1-108",
+          "title": "七月十五日題章敬寺",
+          "titledesc": "",
+          "poemindex": 108
+        },
+        {
+          "id": 57469,
+          "uid": "poem-1-109",
+          "title": "送徐州張建封還鎮",
+          "titledesc": "",
+          "poemindex": 109
+        },
+        {
+          "id": 57470,
+          "uid": "poem-1-110",
+          "title": "賜宴曲江亭〈并序〉",
+          "titledesc": "朕在位僅將十載實賴忠賢左右克致小康是以擇三令節錫兹宴賞俾大夫卿士得同歡洽也夫共其戚者同其休有其初者貴其終咨爾羣僚順朕不暇樂而能節職思其憂咸若時則庶乎理矣因重陽之㑹聊示所懷",
+          "poemindex": 110
+        }
+      ],
+      "近體詩": [
+        {
+          "id": 57471,
+          "uid": "poem-1-111",
+          "title": "九日",
+          "titledesc": "",
+          "poemindex": 111
+        }
+      ]
+    }
+  },
+  "文宗": {
+    "author": "文宗",
+    "authordesc": "帝諱昻憲宗子\n紀事云帝嘗謂左右曰若不甲夜視事乙夜觀書則何以為人君耶毎試進士多自出題目及所司進所試披覽吟詠終日忘倦常延學士於内庭討論經義較量古今令宫女以下侍茶湯飲饌李訓講周易時方盛夏遂命取水玉腰帶辟暑犀如意以賜訓曰如意足以與卿為談柄也一日延英顧問宰臣詩云呦呦鹿鳴食野之苹苹是何草時宰相楊珏楊嗣復陳夷行相顧未對珏曰臣按爾雅苹是藾蕭上曰朕看毛詩疏葉圓而花白藂生野中似非藾蕭又一日問宰臣古詩云輕衫襯跳脱跳脱是何物宰臣未對上曰即今之腕釧也真誥言安妃有斵粟金跳脱是臂飾\n又常吟杜甫曲江篇云江頭宫殿鎖千門細柳新蒲為誰綠乃知天寶以前樓臺之盛鄭注乃命神策軍淘曲江昆明二池許公卿立亭館兩軍造紫雲樓彩霞亭内出樓額賜之",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 57472,
+          "uid": "poem-1-112",
+          "title": "甘露事後",
+          "titledesc": "",
+          "poemindex": 112
+        },
+        {
+          "id": 57473,
+          "uid": "poem-1-113",
+          "title": "上元日",
+          "titledesc": "",
+          "poemindex": 113
+        },
+        {
+          "id": 57474,
+          "uid": "poem-1-114",
+          "title": "上元日",
+          "titledesc": "",
+          "poemindex": 114
+        }
+      ]
+    }
+  },
+  "宣宗": {
+    "author": "宣宗",
+    "authordesc": "帝諱忱\n紀事云帝好進士及第毎對朝臣問及第茍有科名對者必大喜便問所試詩賦題目并主司姓名或佳人物偶不中第必歎惜移時\n又帝製秦邊陲曲其詞云海岳咸通及帝垂拱而年號咸通焉庶子裴惲進詩賀聖政有太康字帝怒曰太康失邦乃以比我户部韋澳奏云晉平呉寇改號太康雖有失邦之言乃見歸美之文曰天子大須博覽不然幾錯罪惲",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 57475,
+          "uid": "poem-1-115",
+          "title": "弔白居易",
+          "titledesc": "",
+          "poemindex": 115
+        }
+      ]
+    }
+  },
+  "長孫皇后": {
+    "author": "長孫皇后",
+    "authordesc": "后長安人隋右驍衞將軍晟之女太宗后也毎多規諫嘗著女則自為之序",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 57476,
+          "uid": "poem-1-116",
+          "title": "春遊曲",
+          "titledesc": "",
+          "poemindex": 116
+        }
+      ]
+    }
+  },
+  "徐賢妃": {
+    "author": "徐賢妃",
+    "authordesc": "妃名惠湖州人散騎常侍堅之姑生五月能言四歲誦論語毛詩八歲善屬文太宗納為才人遷充容時軍旅亟動宫室互興上疏極諫太宗善其言優賜甚厚卒贈賢妃",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 57477,
+          "uid": "poem-1-117",
+          "title": "賦得北方有佳人",
+          "titledesc": "",
+          "poemindex": 117
+        },
+        {
+          "id": 57478,
+          "uid": "poem-1-118",
+          "title": "進太宗詩",
+          "titledesc": "",
+          "poemindex": 118
+        }
+      ]
+    }
+  },
+  "江妃": {
+    "author": "江妃",
+    "authordesc": "妃興化人九歲能誦二南父竒之故名采蘋明皇大見寵幸尤善屬文自比謝女性喜梅所居悉植梅上因其好戲名梅妃妃有蕭蘭梨園梅花鳳笛玻杯剪刀綺牕八賦㑹太真寵愛日隆遷於上陽東宫帝在花萼樓有使貢珍珠者至命封一斛賜妃不受以詩付使者上覽詩悵然不樂命樂府以新聲度之號一斛珠",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 57479,
+          "uid": "poem-1-119",
+          "title": "謝賜珍珠",
+          "titledesc": "",
+          "poemindex": 119
+        }
+      ]
+    }
+  }
+}

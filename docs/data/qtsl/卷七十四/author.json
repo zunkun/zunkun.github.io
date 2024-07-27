@@ -1,1 +1,635 @@
-{"杜牧":{"author":"杜牧","authordesc":"","charstyleMap":{"近體詩":[{"id":64223,"title":"長安雜題","titledesc":"","poemindex":1},{"id":64224,"title":"長安雜題","titledesc":"","poemindex":2},{"id":64225,"title":"長安雜題","titledesc":"","poemindex":3},{"id":64226,"title":"長安雜題","titledesc":"","poemindex":4},{"id":64227,"title":"長安雜題","titledesc":"","poemindex":5},{"id":64228,"title":"長安雜題","titledesc":"","poemindex":6},{"id":64229,"title":"街西長句","titledesc":"","poemindex":7},{"id":64230,"title":"懐鍾陵舊遊","titledesc":"","poemindex":8},{"id":64231,"title":"懐鍾陵舊遊","titledesc":"","poemindex":9},{"id":64232,"title":"懐鍾陵舊遊","titledesc":"","poemindex":10},{"id":64233,"title":"懐鍾陵舊遊","titledesc":"","poemindex":11},{"id":64234,"title":"潤州","titledesc":"","poemindex":12},{"id":64235,"title":"潤州","titledesc":"","poemindex":13},{"id":64236,"title":"九日齊安登髙","titledesc":"","poemindex":14},{"id":64237,"title":"登池州九峯樓寄張祜","titledesc":"","poemindex":15},{"id":64238,"title":"八月十二日得替後移居霅溪館因題長句四韻","titledesc":"","poemindex":16},{"id":64239,"title":"題青雲館","titledesc":"","poemindex":17},{"id":64240,"title":"題宣州開元寺水閣閣下宛溪夾溪居人","titledesc":"","poemindex":18},{"id":64241,"title":"寄題甘露寺北軒","titledesc":"","poemindex":19},{"id":64242,"title":"今皇帝陛下一詔徵兵不日功集河湟諸郡次第歸降臣獲覩聖功輒獻歌詠","titledesc":"","poemindex":20},{"id":64243,"title":"奉和白相公聖徳和平致兹休運嵗終功就合詠盛明呈上三相公長句四韻","titledesc":"","poemindex":21},{"id":64244,"title":"正初酬歙州刺史邢羣","titledesc":"","poemindex":22},{"id":64245,"title":"酬張祜處士見寄長句四韻","titledesc":"","poemindex":23},{"id":64246,"title":"湖南正初招李郢秀才","titledesc":"","poemindex":24},{"id":64247,"title":"初春雨中舟次和州横江裴使君見迎李趙二秀才同來因書四韻兼寄江南許渾先輩","titledesc":"","poemindex":25},{"id":64248,"title":"早鴈","titledesc":"","poemindex":26},{"id":64249,"title":"聞慶州趙縱使君與黨項戰中箭身死長句","titledesc":"","poemindex":27},{"id":64250,"title":"殘春獨來南亭因寄張祜","titledesc":"","poemindex":28},{"id":64251,"title":"送杜顗赴潤州幕","titledesc":"","poemindex":29},{"id":64252,"title":"閨情代作","titledesc":"","poemindex":30},{"id":64253,"title":"宣州留贈","titledesc":"","poemindex":31},{"id":64254,"title":"長安秋望","titledesc":"","poemindex":32},{"id":64255,"title":"江樓","titledesc":"","poemindex":33},{"id":64256,"title":"將赴吳興登樂遊原","titledesc":"","poemindex":34},{"id":64257,"title":"秋浦途中","titledesc":"","poemindex":35},{"id":64258,"title":"江南春","titledesc":"","poemindex":36},{"id":64259,"title":"齊安郡中偶題","titledesc":"","poemindex":37},{"id":64260,"title":"齊安郡中偶題","titledesc":"","poemindex":38},{"id":64261,"title":"題齊安城樓","titledesc":"","poemindex":39},{"id":64262,"title":"村舎燕","titledesc":"","poemindex":40},{"id":64263,"title":"入茶山下題水口草市","titledesc":"","poemindex":41},{"id":64264,"title":"漢江","titledesc":"","poemindex":42},{"id":64265,"title":"念昔遊","titledesc":"","poemindex":43},{"id":64266,"title":"念昔遊","titledesc":"","poemindex":44},{"id":64267,"title":"題禪院","titledesc":"","poemindex":45},{"id":64268,"title":"春申君","titledesc":"","poemindex":46},{"id":64269,"title":"題烏江亭","titledesc":"","poemindex":47},{"id":64270,"title":"登樂遊原","titledesc":"","poemindex":48},{"id":64271,"title":"赤壁","titledesc":"","poemindex":49},{"id":64272,"title":"題横江館","titledesc":"","poemindex":50},{"id":64273,"title":"泊秦淮","titledesc":"","poemindex":51},{"id":64274,"title":"過勤政樓","titledesc":"","poemindex":52},{"id":64275,"title":"過華清宫","titledesc":"","poemindex":53},{"id":64276,"title":"過華清宫","titledesc":"","poemindex":54},{"id":64277,"title":"題桃花夫人〈即息夫人〉","titledesc":"","poemindex":55},{"id":64278,"title":"題木蘭廟","titledesc":"","poemindex":56},{"id":64279,"title":"讀韓杜集","titledesc":"","poemindex":57},{"id":64280,"title":"出宫人","titledesc":"","poemindex":58},{"id":64281,"title":"鄭瓘協律","titledesc":"","poemindex":59},{"id":64282,"title":"贈朱道靈","titledesc":"","poemindex":60},{"id":64283,"title":"寄揚州韓綽判官","titledesc":"","poemindex":61},{"id":64284,"title":"送李羣玉赴舉","titledesc":"","poemindex":62},{"id":64285,"title":"送隠者","titledesc":"","poemindex":63},{"id":64286,"title":"贈别","titledesc":"","poemindex":64},{"id":64287,"title":"贈别","titledesc":"","poemindex":65},{"id":64288,"title":"宫詞","titledesc":"","poemindex":66},{"id":64289,"title":"秋夕","titledesc":"","poemindex":67},{"id":64290,"title":"山行","titledesc":"","poemindex":68},{"id":64291,"title":"南陵道中","titledesc":"","poemindex":69},{"id":64292,"title":"遊邊","titledesc":"","poemindex":70},{"id":64293,"title":"早春題真上人院","titledesc":"","poemindex":71},{"id":64294,"title":"金谷園","titledesc":"","poemindex":72},{"id":64295,"title":"華清宫","titledesc":"","poemindex":73},{"id":64296,"title":"贈獵騎","titledesc":"","poemindex":74},{"id":64297,"title":"贈漁父","titledesc":"","poemindex":75},{"id":64298,"title":"贈終南蘭若僧","titledesc":"","poemindex":76},{"id":64299,"title":"江上","titledesc":"","poemindex":77},{"id":64300,"title":"許秀才至辱李蘄州絶句問㫁酒之情因寄","titledesc":"","poemindex":78},{"id":64301,"title":"懐吳中馮秀才","titledesc":"","poemindex":79},{"id":64302,"title":"閒題","titledesc":"","poemindex":80},{"id":64303,"title":"偶見","titledesc":"","poemindex":81},{"id":64304,"title":"歎花","titledesc":"","poemindex":82},{"id":64305,"title":"李尚書席上作","titledesc":"","poemindex":83},{"id":64306,"title":"遣懐","titledesc":"","poemindex":84},{"id":64307,"title":"月","titledesc":"","poemindex":85},{"id":64308,"title":"斑竹筒簟","titledesc":"","poemindex":86},{"id":64309,"title":"邊上聞胡笳","titledesc":"","poemindex":87},{"id":64310,"title":"子規","titledesc":"","poemindex":88}],"聯句詩":[{"id":64311,"title":"同趙二十二訪張明府郊居聯句","titledesc":"","poemindex":89}]}}}
+{
+  "杜牧": {
+    "author": "杜牧",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 64223,
+          "uid": "poem-74-1",
+          "title": "長安雜題",
+          "titledesc": "",
+          "poemindex": 1
+        },
+        {
+          "id": 64224,
+          "uid": "poem-74-2",
+          "title": "長安雜題",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 64225,
+          "uid": "poem-74-3",
+          "title": "長安雜題",
+          "titledesc": "",
+          "poemindex": 3
+        },
+        {
+          "id": 64226,
+          "uid": "poem-74-4",
+          "title": "長安雜題",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 64227,
+          "uid": "poem-74-5",
+          "title": "長安雜題",
+          "titledesc": "",
+          "poemindex": 5
+        },
+        {
+          "id": 64228,
+          "uid": "poem-74-6",
+          "title": "長安雜題",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 64229,
+          "uid": "poem-74-7",
+          "title": "街西長句",
+          "titledesc": "",
+          "poemindex": 7
+        },
+        {
+          "id": 64230,
+          "uid": "poem-74-8",
+          "title": "懐鍾陵舊遊",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 64231,
+          "uid": "poem-74-9",
+          "title": "懐鍾陵舊遊",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 64232,
+          "uid": "poem-74-10",
+          "title": "懐鍾陵舊遊",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 64233,
+          "uid": "poem-74-11",
+          "title": "懐鍾陵舊遊",
+          "titledesc": "",
+          "poemindex": 11
+        },
+        {
+          "id": 64234,
+          "uid": "poem-74-12",
+          "title": "潤州",
+          "titledesc": "",
+          "poemindex": 12
+        },
+        {
+          "id": 64235,
+          "uid": "poem-74-13",
+          "title": "潤州",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 64236,
+          "uid": "poem-74-14",
+          "title": "九日齊安登髙",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 64237,
+          "uid": "poem-74-15",
+          "title": "登池州九峯樓寄張祜",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 64238,
+          "uid": "poem-74-16",
+          "title": "八月十二日得替後移居霅溪館因題長句四韻",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 64239,
+          "uid": "poem-74-17",
+          "title": "題青雲館",
+          "titledesc": "",
+          "poemindex": 17
+        },
+        {
+          "id": 64240,
+          "uid": "poem-74-18",
+          "title": "題宣州開元寺水閣閣下宛溪夾溪居人",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 64241,
+          "uid": "poem-74-19",
+          "title": "寄題甘露寺北軒",
+          "titledesc": "",
+          "poemindex": 19
+        },
+        {
+          "id": 64242,
+          "uid": "poem-74-20",
+          "title": "今皇帝陛下一詔徵兵不日功集河湟諸郡次第歸降臣獲覩聖功輒獻歌詠",
+          "titledesc": "",
+          "poemindex": 20
+        },
+        {
+          "id": 64243,
+          "uid": "poem-74-21",
+          "title": "奉和白相公聖徳和平致兹休運嵗終功就合詠盛明呈上三相公長句四韻",
+          "titledesc": "",
+          "poemindex": 21
+        },
+        {
+          "id": 64244,
+          "uid": "poem-74-22",
+          "title": "正初酬歙州刺史邢羣",
+          "titledesc": "",
+          "poemindex": 22
+        },
+        {
+          "id": 64245,
+          "uid": "poem-74-23",
+          "title": "酬張祜處士見寄長句四韻",
+          "titledesc": "",
+          "poemindex": 23
+        },
+        {
+          "id": 64246,
+          "uid": "poem-74-24",
+          "title": "湖南正初招李郢秀才",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 64247,
+          "uid": "poem-74-25",
+          "title": "初春雨中舟次和州横江裴使君見迎李趙二秀才同來因書四韻兼寄江南許渾先輩",
+          "titledesc": "",
+          "poemindex": 25
+        },
+        {
+          "id": 64248,
+          "uid": "poem-74-26",
+          "title": "早鴈",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 64249,
+          "uid": "poem-74-27",
+          "title": "聞慶州趙縱使君與黨項戰中箭身死長句",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 64250,
+          "uid": "poem-74-28",
+          "title": "殘春獨來南亭因寄張祜",
+          "titledesc": "",
+          "poemindex": 28
+        },
+        {
+          "id": 64251,
+          "uid": "poem-74-29",
+          "title": "送杜顗赴潤州幕",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 64252,
+          "uid": "poem-74-30",
+          "title": "閨情代作",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 64253,
+          "uid": "poem-74-31",
+          "title": "宣州留贈",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 64254,
+          "uid": "poem-74-32",
+          "title": "長安秋望",
+          "titledesc": "",
+          "poemindex": 32
+        },
+        {
+          "id": 64255,
+          "uid": "poem-74-33",
+          "title": "江樓",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 64256,
+          "uid": "poem-74-34",
+          "title": "將赴吳興登樂遊原",
+          "titledesc": "",
+          "poemindex": 34
+        },
+        {
+          "id": 64257,
+          "uid": "poem-74-35",
+          "title": "秋浦途中",
+          "titledesc": "",
+          "poemindex": 35
+        },
+        {
+          "id": 64258,
+          "uid": "poem-74-36",
+          "title": "江南春",
+          "titledesc": "",
+          "poemindex": 36
+        },
+        {
+          "id": 64259,
+          "uid": "poem-74-37",
+          "title": "齊安郡中偶題",
+          "titledesc": "",
+          "poemindex": 37
+        },
+        {
+          "id": 64260,
+          "uid": "poem-74-38",
+          "title": "齊安郡中偶題",
+          "titledesc": "",
+          "poemindex": 38
+        },
+        {
+          "id": 64261,
+          "uid": "poem-74-39",
+          "title": "題齊安城樓",
+          "titledesc": "",
+          "poemindex": 39
+        },
+        {
+          "id": 64262,
+          "uid": "poem-74-40",
+          "title": "村舎燕",
+          "titledesc": "",
+          "poemindex": 40
+        },
+        {
+          "id": 64263,
+          "uid": "poem-74-41",
+          "title": "入茶山下題水口草市",
+          "titledesc": "",
+          "poemindex": 41
+        },
+        {
+          "id": 64264,
+          "uid": "poem-74-42",
+          "title": "漢江",
+          "titledesc": "",
+          "poemindex": 42
+        },
+        {
+          "id": 64265,
+          "uid": "poem-74-43",
+          "title": "念昔遊",
+          "titledesc": "",
+          "poemindex": 43
+        },
+        {
+          "id": 64266,
+          "uid": "poem-74-44",
+          "title": "念昔遊",
+          "titledesc": "",
+          "poemindex": 44
+        },
+        {
+          "id": 64267,
+          "uid": "poem-74-45",
+          "title": "題禪院",
+          "titledesc": "",
+          "poemindex": 45
+        },
+        {
+          "id": 64268,
+          "uid": "poem-74-46",
+          "title": "春申君",
+          "titledesc": "",
+          "poemindex": 46
+        },
+        {
+          "id": 64269,
+          "uid": "poem-74-47",
+          "title": "題烏江亭",
+          "titledesc": "",
+          "poemindex": 47
+        },
+        {
+          "id": 64270,
+          "uid": "poem-74-48",
+          "title": "登樂遊原",
+          "titledesc": "",
+          "poemindex": 48
+        },
+        {
+          "id": 64271,
+          "uid": "poem-74-49",
+          "title": "赤壁",
+          "titledesc": "",
+          "poemindex": 49
+        },
+        {
+          "id": 64272,
+          "uid": "poem-74-50",
+          "title": "題横江館",
+          "titledesc": "",
+          "poemindex": 50
+        },
+        {
+          "id": 64273,
+          "uid": "poem-74-51",
+          "title": "泊秦淮",
+          "titledesc": "",
+          "poemindex": 51
+        },
+        {
+          "id": 64274,
+          "uid": "poem-74-52",
+          "title": "過勤政樓",
+          "titledesc": "",
+          "poemindex": 52
+        },
+        {
+          "id": 64275,
+          "uid": "poem-74-53",
+          "title": "過華清宫",
+          "titledesc": "",
+          "poemindex": 53
+        },
+        {
+          "id": 64276,
+          "uid": "poem-74-54",
+          "title": "過華清宫",
+          "titledesc": "",
+          "poemindex": 54
+        },
+        {
+          "id": 64277,
+          "uid": "poem-74-55",
+          "title": "題桃花夫人〈即息夫人〉",
+          "titledesc": "",
+          "poemindex": 55
+        },
+        {
+          "id": 64278,
+          "uid": "poem-74-56",
+          "title": "題木蘭廟",
+          "titledesc": "",
+          "poemindex": 56
+        },
+        {
+          "id": 64279,
+          "uid": "poem-74-57",
+          "title": "讀韓杜集",
+          "titledesc": "",
+          "poemindex": 57
+        },
+        {
+          "id": 64280,
+          "uid": "poem-74-58",
+          "title": "出宫人",
+          "titledesc": "",
+          "poemindex": 58
+        },
+        {
+          "id": 64281,
+          "uid": "poem-74-59",
+          "title": "鄭瓘協律",
+          "titledesc": "",
+          "poemindex": 59
+        },
+        {
+          "id": 64282,
+          "uid": "poem-74-60",
+          "title": "贈朱道靈",
+          "titledesc": "",
+          "poemindex": 60
+        },
+        {
+          "id": 64283,
+          "uid": "poem-74-61",
+          "title": "寄揚州韓綽判官",
+          "titledesc": "",
+          "poemindex": 61
+        },
+        {
+          "id": 64284,
+          "uid": "poem-74-62",
+          "title": "送李羣玉赴舉",
+          "titledesc": "",
+          "poemindex": 62
+        },
+        {
+          "id": 64285,
+          "uid": "poem-74-63",
+          "title": "送隠者",
+          "titledesc": "",
+          "poemindex": 63
+        },
+        {
+          "id": 64286,
+          "uid": "poem-74-64",
+          "title": "贈别",
+          "titledesc": "",
+          "poemindex": 64
+        },
+        {
+          "id": 64287,
+          "uid": "poem-74-65",
+          "title": "贈别",
+          "titledesc": "",
+          "poemindex": 65
+        },
+        {
+          "id": 64288,
+          "uid": "poem-74-66",
+          "title": "宫詞",
+          "titledesc": "",
+          "poemindex": 66
+        },
+        {
+          "id": 64289,
+          "uid": "poem-74-67",
+          "title": "秋夕",
+          "titledesc": "",
+          "poemindex": 67
+        },
+        {
+          "id": 64290,
+          "uid": "poem-74-68",
+          "title": "山行",
+          "titledesc": "",
+          "poemindex": 68
+        },
+        {
+          "id": 64291,
+          "uid": "poem-74-69",
+          "title": "南陵道中",
+          "titledesc": "",
+          "poemindex": 69
+        },
+        {
+          "id": 64292,
+          "uid": "poem-74-70",
+          "title": "遊邊",
+          "titledesc": "",
+          "poemindex": 70
+        },
+        {
+          "id": 64293,
+          "uid": "poem-74-71",
+          "title": "早春題真上人院",
+          "titledesc": "",
+          "poemindex": 71
+        },
+        {
+          "id": 64294,
+          "uid": "poem-74-72",
+          "title": "金谷園",
+          "titledesc": "",
+          "poemindex": 72
+        },
+        {
+          "id": 64295,
+          "uid": "poem-74-73",
+          "title": "華清宫",
+          "titledesc": "",
+          "poemindex": 73
+        },
+        {
+          "id": 64296,
+          "uid": "poem-74-74",
+          "title": "贈獵騎",
+          "titledesc": "",
+          "poemindex": 74
+        },
+        {
+          "id": 64297,
+          "uid": "poem-74-75",
+          "title": "贈漁父",
+          "titledesc": "",
+          "poemindex": 75
+        },
+        {
+          "id": 64298,
+          "uid": "poem-74-76",
+          "title": "贈終南蘭若僧",
+          "titledesc": "",
+          "poemindex": 76
+        },
+        {
+          "id": 64299,
+          "uid": "poem-74-77",
+          "title": "江上",
+          "titledesc": "",
+          "poemindex": 77
+        },
+        {
+          "id": 64300,
+          "uid": "poem-74-78",
+          "title": "許秀才至辱李蘄州絶句問㫁酒之情因寄",
+          "titledesc": "",
+          "poemindex": 78
+        },
+        {
+          "id": 64301,
+          "uid": "poem-74-79",
+          "title": "懐吳中馮秀才",
+          "titledesc": "",
+          "poemindex": 79
+        },
+        {
+          "id": 64302,
+          "uid": "poem-74-80",
+          "title": "閒題",
+          "titledesc": "",
+          "poemindex": 80
+        },
+        {
+          "id": 64303,
+          "uid": "poem-74-81",
+          "title": "偶見",
+          "titledesc": "",
+          "poemindex": 81
+        },
+        {
+          "id": 64304,
+          "uid": "poem-74-82",
+          "title": "歎花",
+          "titledesc": "",
+          "poemindex": 82
+        },
+        {
+          "id": 64305,
+          "uid": "poem-74-83",
+          "title": "李尚書席上作",
+          "titledesc": "",
+          "poemindex": 83
+        },
+        {
+          "id": 64306,
+          "uid": "poem-74-84",
+          "title": "遣懐",
+          "titledesc": "",
+          "poemindex": 84
+        },
+        {
+          "id": 64307,
+          "uid": "poem-74-85",
+          "title": "月",
+          "titledesc": "",
+          "poemindex": 85
+        },
+        {
+          "id": 64308,
+          "uid": "poem-74-86",
+          "title": "斑竹筒簟",
+          "titledesc": "",
+          "poemindex": 86
+        },
+        {
+          "id": 64309,
+          "uid": "poem-74-87",
+          "title": "邊上聞胡笳",
+          "titledesc": "",
+          "poemindex": 87
+        },
+        {
+          "id": 64310,
+          "uid": "poem-74-88",
+          "title": "子規",
+          "titledesc": "",
+          "poemindex": 88
+        }
+      ],
+      "聯句詩": [
+        {
+          "id": 64311,
+          "uid": "poem-74-89",
+          "title": "同趙二十二訪張明府郊居聯句",
+          "titledesc": "",
+          "poemindex": 89
+        }
+      ]
+    }
+  }
+}

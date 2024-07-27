@@ -1,1 +1,355 @@
-{"皮日休":{"author":"皮日休","authordesc":"日休字襲羙襄陽竟陵人性傲誕隠居鹿門自號間氣布衣咸通八年登進士第為著作佐郎崔璞守蘇辟軍事判官入朝授太常博士乾符喪亂東出關為毘陵刺史陷巢賊中賊遣為䜟文疑其譏已遂害之有文藪及松陵唱和集文藪乃咸通中居州里所編自序云發箧次類文稾緐如藪澤因以名之松陵乃從事吴門日所編自序云從大司諌清河公出牧有進士陸龜䝉以其業見造以詞誘之復之不移刻由是風雨晦冥蓬蒿翳薈未嘗不以其應為事至食寢皆輟又南陽廣文張賁潤卿隴西侍御李縠徳師旅泊之際亦以詞致師凡一年得詩若干松江吴望也别名松陵因目之為集日休陷賊中為果頭三屈律之䜟賊疑譏己髪\n拳遂見害陸游筆記以皮光業〈日休子〉墓碑辨其不然","charstyleMap":{"古體詩":[{"id":65381,"title":"橡媪嘆","titledesc":"","poemindex":1},{"id":65382,"title":"初夏即事寄魯望","titledesc":"","poemindex":2},{"id":65383,"title":"初夏遊楞伽精舍","titledesc":"","poemindex":3},{"id":65384,"title":"貧居秋日","titledesc":"","poemindex":4},{"id":65385,"title":"初入太湖〈自胥口入去州五十里〉","titledesc":"","poemindex":5},{"id":65386,"title":"曉次神景宫","titledesc":"","poemindex":6},{"id":65387,"title":"入林屋洞","titledesc":"","poemindex":7},{"id":65388,"title":"雨中遊包山精舍","titledesc":"","poemindex":8},{"id":65389,"title":"遊毛公壇","titledesc":"","poemindex":9},{"id":65390,"title":"三宿神景宫","titledesc":"","poemindex":10},{"id":65391,"title":"縹緲峯","titledesc":"","poemindex":11},{"id":65392,"title":"桃花塢","titledesc":"","poemindex":12},{"id":65393,"title":"明月灣","titledesc":"","poemindex":13},{"id":65394,"title":"孤園寺〈梁散騎常侍吴猛宅〉","titledesc":"","poemindex":14},{"id":65395,"title":"上真觀","titledesc":"","poemindex":15},{"id":65396,"title":"銷夏灣","titledesc":"","poemindex":16},{"id":65397,"title":"包山祠","titledesc":"","poemindex":17},{"id":65398,"title":"聖姑廟〈在大姑山晉王彪二女相次而殁有靈因而廟焉〉","titledesc":"","poemindex":18},{"id":65399,"title":"太湖石〈出黿頭山〉","titledesc":"","poemindex":19},{"id":65400,"title":"𡹛裏〈傍龜山下有良田二十頃〉","titledesc":"","poemindex":20},{"id":65401,"title":"石板〈在石公山前〉","titledesc":"","poemindex":21},{"id":65402,"title":"吴中苦雨因書一百韻寄魯望","titledesc":"","poemindex":22},{"id":65403,"title":"魯望讀襄陽耆舊傳見贈五百言過褒庸材靡有稱是然襄陽曩事歴歴在目夫耆舊傳所未載者漢陽王則宗社元勲孟浩然則文章大匠予次而賛之因而寄荅亦詩人無言不詶之義","titledesc":"","poemindex":23},{"id":65404,"title":"徐詩","titledesc":"","poemindex":24},{"id":65405,"title":"任詩","titledesc":"","poemindex":25},{"id":65406,"title":"網","titledesc":"","poemindex":26},{"id":65407,"title":"罩","titledesc":"","poemindex":27},{"id":65408,"title":"𠉁","titledesc":"","poemindex":28},{"id":65409,"title":"釣筒","titledesc":"","poemindex":29},{"id":65410,"title":"釣車","titledesc":"","poemindex":30},{"id":65411,"title":"漁梁","titledesc":"","poemindex":31},{"id":65412,"title":"义魚","titledesc":"","poemindex":32},{"id":65413,"title":"射魚","titledesc":"","poemindex":33},{"id":65414,"title":"鳴桹","titledesc":"","poemindex":34},{"id":65415,"title":"滬","titledesc":"","poemindex":35},{"id":65416,"title":"𥶠","titledesc":"","poemindex":36},{"id":65417,"title":"種魚","titledesc":"","poemindex":37},{"id":65418,"title":"舴艋","titledesc":"","poemindex":38},{"id":65419,"title":"笭箵","titledesc":"","poemindex":39},{"id":65420,"title":"魚菴","titledesc":"","poemindex":40},{"id":65421,"title":"釣磯","titledesc":"","poemindex":41},{"id":65422,"title":"蓑衣","titledesc":"","poemindex":42},{"id":65423,"title":"篛笠","titledesc":"","poemindex":43},{"id":65424,"title":"背篷","titledesc":"","poemindex":44},{"id":65425,"title":"苦雨雜言寄魯望","titledesc":"","poemindex":45},{"id":65426,"title":"石榴歌〈范東生本補〉","titledesc":"","poemindex":46}],"聯句詩":[{"id":65427,"title":"寒夜聯句","titledesc":"","poemindex":47},{"id":65428,"title":"開元寺樓㸔雨聯句","titledesc":"","poemindex":48},{"id":65429,"title":"北禪院避暑聯句〈院昔為戴顒宅後司勲陸郎中居之〉","titledesc":"","poemindex":49}]}}}
+{
+  "皮日休": {
+    "author": "皮日休",
+    "authordesc": "日休字襲羙襄陽竟陵人性傲誕隠居鹿門自號間氣布衣咸通八年登進士第為著作佐郎崔璞守蘇辟軍事判官入朝授太常博士乾符喪亂東出關為毘陵刺史陷巢賊中賊遣為䜟文疑其譏已遂害之有文藪及松陵唱和集文藪乃咸通中居州里所編自序云發箧次類文稾緐如藪澤因以名之松陵乃從事吴門日所編自序云從大司諌清河公出牧有進士陸龜䝉以其業見造以詞誘之復之不移刻由是風雨晦冥蓬蒿翳薈未嘗不以其應為事至食寢皆輟又南陽廣文張賁潤卿隴西侍御李縠徳師旅泊之際亦以詞致師凡一年得詩若干松江吴望也别名松陵因目之為集日休陷賊中為果頭三屈律之䜟賊疑譏己髪\n拳遂見害陸游筆記以皮光業〈日休子〉墓碑辨其不然",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 65381,
+          "uid": "poem-87-1",
+          "title": "橡媪嘆",
+          "titledesc": "",
+          "poemindex": 1
+        },
+        {
+          "id": 65382,
+          "uid": "poem-87-2",
+          "title": "初夏即事寄魯望",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 65383,
+          "uid": "poem-87-3",
+          "title": "初夏遊楞伽精舍",
+          "titledesc": "",
+          "poemindex": 3
+        },
+        {
+          "id": 65384,
+          "uid": "poem-87-4",
+          "title": "貧居秋日",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 65385,
+          "uid": "poem-87-5",
+          "title": "初入太湖〈自胥口入去州五十里〉",
+          "titledesc": "",
+          "poemindex": 5
+        },
+        {
+          "id": 65386,
+          "uid": "poem-87-6",
+          "title": "曉次神景宫",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 65387,
+          "uid": "poem-87-7",
+          "title": "入林屋洞",
+          "titledesc": "",
+          "poemindex": 7
+        },
+        {
+          "id": 65388,
+          "uid": "poem-87-8",
+          "title": "雨中遊包山精舍",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 65389,
+          "uid": "poem-87-9",
+          "title": "遊毛公壇",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 65390,
+          "uid": "poem-87-10",
+          "title": "三宿神景宫",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 65391,
+          "uid": "poem-87-11",
+          "title": "縹緲峯",
+          "titledesc": "",
+          "poemindex": 11
+        },
+        {
+          "id": 65392,
+          "uid": "poem-87-12",
+          "title": "桃花塢",
+          "titledesc": "",
+          "poemindex": 12
+        },
+        {
+          "id": 65393,
+          "uid": "poem-87-13",
+          "title": "明月灣",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 65394,
+          "uid": "poem-87-14",
+          "title": "孤園寺〈梁散騎常侍吴猛宅〉",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 65395,
+          "uid": "poem-87-15",
+          "title": "上真觀",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 65396,
+          "uid": "poem-87-16",
+          "title": "銷夏灣",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 65397,
+          "uid": "poem-87-17",
+          "title": "包山祠",
+          "titledesc": "",
+          "poemindex": 17
+        },
+        {
+          "id": 65398,
+          "uid": "poem-87-18",
+          "title": "聖姑廟〈在大姑山晉王彪二女相次而殁有靈因而廟焉〉",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 65399,
+          "uid": "poem-87-19",
+          "title": "太湖石〈出黿頭山〉",
+          "titledesc": "",
+          "poemindex": 19
+        },
+        {
+          "id": 65400,
+          "uid": "poem-87-20",
+          "title": "𡹛裏〈傍龜山下有良田二十頃〉",
+          "titledesc": "",
+          "poemindex": 20
+        },
+        {
+          "id": 65401,
+          "uid": "poem-87-21",
+          "title": "石板〈在石公山前〉",
+          "titledesc": "",
+          "poemindex": 21
+        },
+        {
+          "id": 65402,
+          "uid": "poem-87-22",
+          "title": "吴中苦雨因書一百韻寄魯望",
+          "titledesc": "",
+          "poemindex": 22
+        },
+        {
+          "id": 65403,
+          "uid": "poem-87-23",
+          "title": "魯望讀襄陽耆舊傳見贈五百言過褒庸材靡有稱是然襄陽曩事歴歴在目夫耆舊傳所未載者漢陽王則宗社元勲孟浩然則文章大匠予次而賛之因而寄荅亦詩人無言不詶之義",
+          "titledesc": "",
+          "poemindex": 23
+        },
+        {
+          "id": 65404,
+          "uid": "poem-87-24",
+          "title": "徐詩",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 65405,
+          "uid": "poem-87-25",
+          "title": "任詩",
+          "titledesc": "",
+          "poemindex": 25
+        },
+        {
+          "id": 65406,
+          "uid": "poem-87-26",
+          "title": "網",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 65407,
+          "uid": "poem-87-27",
+          "title": "罩",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 65408,
+          "uid": "poem-87-28",
+          "title": "𠉁",
+          "titledesc": "",
+          "poemindex": 28
+        },
+        {
+          "id": 65409,
+          "uid": "poem-87-29",
+          "title": "釣筒",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 65410,
+          "uid": "poem-87-30",
+          "title": "釣車",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 65411,
+          "uid": "poem-87-31",
+          "title": "漁梁",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 65412,
+          "uid": "poem-87-32",
+          "title": "义魚",
+          "titledesc": "",
+          "poemindex": 32
+        },
+        {
+          "id": 65413,
+          "uid": "poem-87-33",
+          "title": "射魚",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 65414,
+          "uid": "poem-87-34",
+          "title": "鳴桹",
+          "titledesc": "",
+          "poemindex": 34
+        },
+        {
+          "id": 65415,
+          "uid": "poem-87-35",
+          "title": "滬",
+          "titledesc": "",
+          "poemindex": 35
+        },
+        {
+          "id": 65416,
+          "uid": "poem-87-36",
+          "title": "𥶠",
+          "titledesc": "",
+          "poemindex": 36
+        },
+        {
+          "id": 65417,
+          "uid": "poem-87-37",
+          "title": "種魚",
+          "titledesc": "",
+          "poemindex": 37
+        },
+        {
+          "id": 65418,
+          "uid": "poem-87-38",
+          "title": "舴艋",
+          "titledesc": "",
+          "poemindex": 38
+        },
+        {
+          "id": 65419,
+          "uid": "poem-87-39",
+          "title": "笭箵",
+          "titledesc": "",
+          "poemindex": 39
+        },
+        {
+          "id": 65420,
+          "uid": "poem-87-40",
+          "title": "魚菴",
+          "titledesc": "",
+          "poemindex": 40
+        },
+        {
+          "id": 65421,
+          "uid": "poem-87-41",
+          "title": "釣磯",
+          "titledesc": "",
+          "poemindex": 41
+        },
+        {
+          "id": 65422,
+          "uid": "poem-87-42",
+          "title": "蓑衣",
+          "titledesc": "",
+          "poemindex": 42
+        },
+        {
+          "id": 65423,
+          "uid": "poem-87-43",
+          "title": "篛笠",
+          "titledesc": "",
+          "poemindex": 43
+        },
+        {
+          "id": 65424,
+          "uid": "poem-87-44",
+          "title": "背篷",
+          "titledesc": "",
+          "poemindex": 44
+        },
+        {
+          "id": 65425,
+          "uid": "poem-87-45",
+          "title": "苦雨雜言寄魯望",
+          "titledesc": "",
+          "poemindex": 45
+        },
+        {
+          "id": 65426,
+          "uid": "poem-87-46",
+          "title": "石榴歌〈范東生本補〉",
+          "titledesc": "",
+          "poemindex": 46
+        }
+      ],
+      "聯句詩": [
+        {
+          "id": 65427,
+          "uid": "poem-87-47",
+          "title": "寒夜聯句",
+          "titledesc": "",
+          "poemindex": 47
+        },
+        {
+          "id": 65428,
+          "uid": "poem-87-48",
+          "title": "開元寺樓㸔雨聯句",
+          "titledesc": "",
+          "poemindex": 48
+        },
+        {
+          "id": 65429,
+          "uid": "poem-87-49",
+          "title": "北禪院避暑聯句〈院昔為戴顒宅後司勲陸郎中居之〉",
+          "titledesc": "",
+          "poemindex": 49
+        }
+      ]
+    }
+  }
+}

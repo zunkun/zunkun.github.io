@@ -11,7 +11,7 @@
       <tbody>
         <tr class="line" v-for="(line, index) in props.list" :key="line.id">
           <td class="linenum">
-            <a :id="`line-${index + 1}`" :href="`#line-${index + 1}`">{{ index + 1 }}</a>
+            <a :id="line.uid" :href="`#${line.uid}`">{{ index + 1 }}</a>
           </td>
           <td :class="`type linetype-${line.linetype}`">{{ line.type }}</td>
           <td class="content">{{ line.content }}</td>

@@ -1,1 +1,1483 @@
-{"僧皎然":{"author":"僧皎然","authordesc":"皎然姓謝字清晝呉興人靈運十世孫居杼山顔真卿為刺史集文士撰韻海皎然預其論著貞元中集賢院取其集藏之于頔為序皎然嘗于舟中抒思作古體十數篇求合韋蘇州韋大不喜明日獻其舊製乃極稱賞云向不但以所工見投而猥希老夫之意人各有所得非卒得至晝大服其鑒裁之精\n皎然詩式著偷語詩例云如陳後主詩日月光天徳取傅長虞日月光太清上三字語同下二字義同偷義詩例云如沈佺期詩小池殘暑退高樹早涼歸取栁渾太液滄波起長楊高樹秋偷勢詩例云如王昌齡詩手攜雙鯉魚目送千里雁悟彼飛有適嗟此罹憂患取嵇康目送歸鴻手揮五絃俯\n仰自得游心太玄又云詩有跌宕格二品一曰越俗其道如黄鶴臨風貌逸神王杳不可羈郭景純游仙詩左挹浮丘袖右拍洪崖肩二曰駭俗其道如楚有接輿魯有原壤外示驚俗之貌内藏達人之度郭景純遊仙詩嫦娥揚妙音洪崖頷其頤王梵志道情詩我昔未生時㝠㝠無所知天公强生我生我復何為無衣使我寒無食使我饑還你天公我還我未生時賀知章放達詩云落花真好些一醉一回顛盧照隣漫作云城狐尾獨□山鬼面䟃𧽼淈沒格一品曰淡俗此道如夏姬當壚似蕩而貞吳楚之風雖俗而正古歌曰華陰山頭百尺井下有流泉徹骨冷可憐女子來照影不照其餘照斜領調笑格一品曰戲俗漢書云匡鼎來解人頤蓋説詩也此一品非雅作不足以為談笑之資矣李白狂詠女媧弄黄土摶作愚下人散在六合間濛濛若埃塵","charstyleMap":{"古體詩":[{"id":66562,"title":"偶然","titledesc":"","poemindex":1},{"id":66563,"title":"擬古","titledesc":"","poemindex":2},{"id":66564,"title":"冬日山行遇薛徴君","titledesc":"","poemindex":3},{"id":66565,"title":"訪陸處士羽","titledesc":"","poemindex":4},{"id":66566,"title":"苕溪草堂自大厯三年夏新營洎秋及春彌覺境勝紀其事簡潘丞述湯評事衡四十三韻","titledesc":"","poemindex":5},{"id":66567,"title":"答孟秀才","titledesc":"","poemindex":6},{"id":66568,"title":"妙喜寺達公禪齋寄李司直公孫房都曹徳裕裴從事方舟顔武康士騁四十二韻","titledesc":"","poemindex":7},{"id":66569,"title":"杼山禪居寄贈東溪呉處士","titledesc":"","poemindex":8},{"id":66570,"title":"冬日天井西峯張鍊師所居","titledesc":"","poemindex":9},{"id":66571,"title":"奉和陸使君長源水堂納涼効曹劉體","titledesc":"","poemindex":10},{"id":66572,"title":"秋日毘陵南寺送潘述之揚州","titledesc":"","poemindex":11},{"id":66573,"title":"雜言重送皇甫侍御曾","titledesc":"","poemindex":12},{"id":66574,"title":"山月行","titledesc":"","poemindex":13},{"id":66575,"title":"往丹陽尋陸處士不遇","titledesc":"","poemindex":14},{"id":66576,"title":"奉和顔魯公真卿落玄真子舴艋舟歌","titledesc":"","poemindex":15},{"id":66577,"title":"奉應顔尚書真卿觀玄真子置酒張樂舞陣畫洞庭三山歌","titledesc":"","poemindex":16},{"id":66578,"title":"顧渚行寄裴方舟","titledesc":"","poemindex":17},{"id":66579,"title":"陳氏童子草書歌","titledesc":"","poemindex":18},{"id":66580,"title":"觀王右丞維滄洲圖歌","titledesc":"","poemindex":19},{"id":66581,"title":"戛銅椀為龍吟歌〈并序〉","titledesc":"唐故太尉房公琯蚤嵗常隱終南山峻壁之下往往聞龍吟聲清而靜滌人邪想時有好事僧潛戛以五金寫之唯銅聲酷似他日房公偶至山寺聞林嶺間有此聲乃曰龍吟復遷於兹矣僧因出其器以吿公命戛之驚曰真龍吟也大厯十三祀秦僧傳至桐江予使童兒戛金放之亦不減秦聲也緇人或有譏者曰此達僧之事可以嬉禪爾曹無以瑣行自拘因賦龍吟歌以見其意","poemindex":20},{"id":66582,"title":"觀李中丞洪二美人唱歌軋箏歌","titledesc":"","poemindex":21}],"近體詩":[{"id":66583,"title":"勞勞山居寄呈呉處士","titledesc":"","poemindex":22},{"id":66584,"title":"早秋桐廬思歸示道彦上人","titledesc":"","poemindex":23},{"id":66585,"title":"懷舊山","titledesc":"","poemindex":24},{"id":66586,"title":"若溪春興","titledesc":"","poemindex":25},{"id":66587,"title":"陪盧中丞閒遊山寺","titledesc":"","poemindex":26},{"id":66588,"title":"晦夜李侍御萼宅集招潘述湯衡海上人飲茶賦","titledesc":"","poemindex":27},{"id":66589,"title":"沈道士新亭","titledesc":"","poemindex":28},{"id":66590,"title":"尋陸鴻漸不遇","titledesc":"","poemindex":29},{"id":66591,"title":"酬秦山人系題贈","titledesc":"","poemindex":30},{"id":66592,"title":"送陸判官歸杭州","titledesc":"","poemindex":31},{"id":66593,"title":"送贇上人還京得微字","titledesc":"","poemindex":32},{"id":66594,"title":"送重鈞上人遊天台","titledesc":"","poemindex":33},{"id":66595,"title":"送簡栖上人之建州覲使君舅","titledesc":"","poemindex":34},{"id":66596,"title":"啼猿送客","titledesc":"","poemindex":35},{"id":66597,"title":"題餘不溪廢寺","titledesc":"","poemindex":36},{"id":66598,"title":"山居示靈徹上人","titledesc":"","poemindex":37},{"id":66599,"title":"晚春尋桃源觀","titledesc":"","poemindex":38},{"id":66600,"title":"送如獻上人遊長安","titledesc":"","poemindex":39},{"id":66601,"title":"待山月","titledesc":"","poemindex":40},{"id":66602,"title":"塞下曲","titledesc":"","poemindex":41},{"id":66603,"title":"答張烏程","titledesc":"","poemindex":42},{"id":66604,"title":"答裴評事澄荻花間送梁肅拾遺","titledesc":"","poemindex":43},{"id":66605,"title":"送邢台州濟","titledesc":"","poemindex":44},{"id":66606,"title":"戲題松樹","titledesc":"","poemindex":45}]}},"僧靈一":{"author":"僧靈一","authordesc":"靈一姓呉氏廣陵人居餘杭宜豐寺精於律學每禪誦之隙輙賦詩歌與朱放張繼皇甫曾諸人為塵外之友高仲武云自齊梁迄宋道人工文多矣一公乃能尅意精妙與士大夫更唱遞和不其偉歟如泉湧堦前地雲生戸外峰道猷寳月曾何及此","charstyleMap":{"古體詩":[{"id":66607,"title":"棲霞山夜至","titledesc":"","poemindex":46},{"id":66608,"title":"溪行即事","titledesc":"","poemindex":47},{"id":66609,"title":"安公","titledesc":"","poemindex":48},{"id":66610,"title":"林公","titledesc":"","poemindex":49},{"id":66611,"title":"逺公","titledesc":"","poemindex":50}],"近體詩":[{"id":66612,"title":"春日山齋","titledesc":"","poemindex":51},{"id":66613,"title":"再還宜豐寺","titledesc":"","poemindex":52},{"id":66614,"title":"同使君宿大梁驛","titledesc":"","poemindex":53},{"id":66615,"title":"靜林寺","titledesc":"","poemindex":54},{"id":66616,"title":"自青山詣於潛道中作呈元八處士","titledesc":"","poemindex":55},{"id":66617,"title":"酬陳明府舟中見贈","titledesc":"","poemindex":56},{"id":66618,"title":"酬皇甫冉西陵見寄","titledesc":"","poemindex":57},{"id":66619,"title":"酬皇甫冉將赴無錫於雲門寺贈别","titledesc":"","poemindex":58},{"id":66620,"title":"贈别皇甫曾","titledesc":"","poemindex":59},{"id":66621,"title":"留别忠州故人","titledesc":"","poemindex":60},{"id":66622,"title":"送陳元初卜居麻源","titledesc":"","poemindex":61},{"id":66623,"title":"送别","titledesc":"","poemindex":62},{"id":66624,"title":"題韓明府别業","titledesc":"","poemindex":63},{"id":66625,"title":"題東蘭若","titledesc":"","poemindex":64},{"id":66626,"title":"江行寄張舍人","titledesc":"","poemindex":65},{"id":66627,"title":"宿靜林寺","titledesc":"","poemindex":66},{"id":66628,"title":"雨後欲尋天目山問元駱二公溪路","titledesc":"","poemindex":67},{"id":66629,"title":"題僧院","titledesc":"","poemindex":68}]}},"僧靈徹":{"author":"僧靈徹","authordesc":"靈徹姓湯氏字澄源與吳興詩僧皎然遊皎然薦之包佶李紓以是上人之名由二公而颺貞元中遊京師緇流嫉之造飛語激動中貴人浸誣得罪徙汀州後歸會稽元和十一年終於宣州劉夢得曰詩僧多出江右靈一導其源䕶國襲之清江揚其波法振㳂之如么絃孤韻瞥入人耳非大音之樂獨吳興晝公能備衆體徹公承之至如芙蓉園新寺詩曰經來白馬寺僧到赤烏年謫汀州云青蠅為弔客黄犬寄家書可謂入作者閫域豈獨雄於詩僧間耶","charstyleMap":{"近體詩":[{"id":66630,"title":"初到汀州","titledesc":"","poemindex":69}]}},"僧法振":{"author":"僧法振","authordesc":"","charstyleMap":{"近體詩":[{"id":66631,"title":"趙使君生子晬日","titledesc":"","poemindex":70},{"id":66632,"title":"送人遊閩越","titledesc":"","poemindex":71},{"id":66633,"title":"題天長院少府湖上客歸","titledesc":"","poemindex":72},{"id":66634,"title":"送韓侍御自使幕巡海北","titledesc":"","poemindex":73}]}},"僧法照":{"author":"僧法照","authordesc":"","charstyleMap":{"近體詩":[{"id":66635,"title":"送禪師歸新羅","titledesc":"","poemindex":74},{"id":66636,"title":"寄錢郎中","titledesc":"","poemindex":75}]}},"僧太易":{"author":"僧太易","authordesc":"","charstyleMap":{"近體詩":[{"id":66637,"title":"贈司空拾遺","titledesc":"","poemindex":76}]}},"僧惟審":{"author":"僧惟審","authordesc":"","charstyleMap":{"近體詩":[{"id":66638,"title":"賦得聞黄鳥啼","titledesc":"","poemindex":77}]}},"僧無本":{"author":"僧無本","authordesc":"","charstyleMap":{"近體詩":[{"id":66639,"title":"行次漢上","titledesc":"","poemindex":78}]}},"金地藏":{"author":"金地藏","authordesc":"地藏新羅國王子也至徳初落髮航海隱於池之九華山","charstyleMap":{"近體詩":[{"id":66640,"title":"送童子下山","titledesc":"","poemindex":79}]}},"僧子蘭":{"author":"僧子蘭","authordesc":"","charstyleMap":{"古體詩":[{"id":66641,"title":"飲馬長城窟","titledesc":"","poemindex":80},{"id":66642,"title":"秋日思舊山","titledesc":"","poemindex":81},{"id":66643,"title":"襄陽曲","titledesc":"","poemindex":82}],"近體詩":[{"id":66644,"title":"太平里尋兵部裴郎中","titledesc":"","poemindex":83}]}},"僧䕶國":{"author":"僧䕶國","authordesc":"","charstyleMap":{"古體詩":[{"id":66645,"title":"題醴陵玉仙觀","titledesc":"","poemindex":84}]}},"僧應物":{"author":"僧應物","authordesc":"","charstyleMap":{"近體詩":[{"id":66646,"title":"龍潭","titledesc":"","poemindex":85},{"id":66647,"title":"題化城寺","titledesc":"","poemindex":86}]}},"僧可朋":{"author":"僧可朋","authordesc":"可朋丹稜人少與延讓為風雅之友有詩千餘篇號玉壘集題洞庭詩云水涵天影濶山拔地形高贈友人曰來多不似客坐久却垂簾歐陽炯以此比孟郊賈島言其好飲酒貧無以償酒債以詩賙之可朋自號醉髠","charstyleMap":{"近體詩":[{"id":66648,"title":"賦洞庭","titledesc":"","poemindex":87}]}},"僧法宣":{"author":"僧法宣","authordesc":"法宣貞觀間人常州弘業寺沙門嘗敕召至東都","charstyleMap":{"近體詩":[{"id":66649,"title":"和趙王觀妓應教","titledesc":"","poemindex":88},{"id":66650,"title":"於冬日普光寺卧疾值雪簡諸舊遊","titledesc":"","poemindex":89}]}},"僧慧宣":{"author":"僧慧宣","authordesc":"慧宣常州法師與僧道恭同召","charstyleMap":{"古體詩":[{"id":66651,"title":"秋日遊東山寺尋殊曇二法師","titledesc":"","poemindex":90}]}},"僧辨才":{"author":"僧辨才","authordesc":"辨才姓袁氏居越州永欣寺智永弟子\n何延之蘭亭記云太宗購右軍書獨未得蘭亭真蹟初此記在右軍七代孫智永所永傳才師才鑿梁上貯之保惜甚至太宗嘗敕召才面問數四固以亡失對帝知不可奪以蕭翼多權謀令充使詐取翼改服稱山東書生攜二王雜帖數道赴越州徑造才院才一見欵宻留宿設缸面酒江東缸面猶河北稱甕頭蓋初熟酒也各探韻賦詩經旬朔談論翰墨出所攜帖示之才云此未佳因言藏有蘭亭於梁上出視之翼故疑為響搨駁辨留置几案一日伺其不在徑取之乗驛歸上太宗報命拔翼員外郎仍賜才物三千段榖三千石才驚惋嵗餘卒","charstyleMap":{"近體詩":[{"id":66652,"title":"設缸面酒欵蕭翼探得來字","titledesc":"","poemindex":91}]}},"僧虛中":{"author":"僧虛中","authordesc":"虛中宜春人也遊瀟湘山水與齊巳尚顔棲蟾為詩友住湘西栗城寺潭州馬氏子希振侍中好事每出迎納於詩閣虛中好燒火烟昏彩翠去後又復粉飾又題馬侍郎池亭云嘉魚在深處幽鳥立多時","charstyleMap":{"近體詩":[{"id":66653,"title":"寄中條司空圖侍郎","titledesc":"","poemindex":92},{"id":66654,"title":"寄中條司空圖侍郎","titledesc":"","poemindex":93},{"id":66655,"title":"經賀監舊居","titledesc":"","poemindex":94},{"id":66656,"title":"贈屏風岩棲蟾上人","titledesc":"","poemindex":95},{"id":66657,"title":"泊洞庭","titledesc":"","poemindex":96}]}},"僧貫休":{"author":"僧貫休","authordesc":"貫休姓姜氏字徳隱婺州蘭溪人與齊巳齊名有西嶽集十卷吳融為之序休每得句云只堪供養佛故懷贈武昌棲一云風清江上月霜灑月中砧得句先呈佛無人知此心","charstyleMap":{"古體詩":[{"id":66658,"title":"古意","titledesc":"","poemindex":97},{"id":66659,"title":"公子行","titledesc":"","poemindex":98},{"id":66660,"title":"野田黄雀行","titledesc":"","poemindex":99},{"id":66661,"title":"行路難","titledesc":"","poemindex":100},{"id":66662,"title":"夜夜曲","titledesc":"","poemindex":101}],"近體詩":[{"id":66663,"title":"春山行","titledesc":"","poemindex":102},{"id":66664,"title":"晚泊湘江懷古","titledesc":"","poemindex":103},{"id":66665,"title":"天台老僧","titledesc":"","poemindex":104},{"id":66666,"title":"途中逢周朴","titledesc":"","poemindex":105},{"id":66667,"title":"投錢鏐","titledesc":"","poemindex":106},{"id":66668,"title":"投王建","titledesc":"","poemindex":107},{"id":66669,"title":"山居","titledesc":"","poemindex":108},{"id":66670,"title":"山居","titledesc":"","poemindex":109},{"id":66671,"title":"山居","titledesc":"","poemindex":110}]}},"僧尚顔":{"author":"僧尚顔","authordesc":"","charstyleMap":{"近體詩":[{"id":66672,"title":"贈村公","titledesc":"","poemindex":111}]}},"僧棲白":{"author":"僧棲白","authordesc":"","charstyleMap":{"近體詩":[{"id":66673,"title":"八月十五夜月","titledesc":"","poemindex":112}]}},"僧無可":{"author":"僧無可","authordesc":"","charstyleMap":{"近體詩":[{"id":66674,"title":"金州陪姚員外遊南池","titledesc":"","poemindex":113},{"id":66675,"title":"夏日送田中丞赴蔡州","titledesc":"","poemindex":114},{"id":66676,"title":"秋夜宿西林寄賈島","titledesc":"","poemindex":115},{"id":66677,"title":"秋日寄厲玄","titledesc":"","poemindex":116},{"id":66678,"title":"廬山寺","titledesc":"","poemindex":117},{"id":66679,"title":"新年作","titledesc":"","poemindex":118},{"id":66680,"title":"贈圭峯禪師","titledesc":"","poemindex":119},{"id":66681,"title":"金州别姚合","titledesc":"","poemindex":120}]}},"僧清江":{"author":"僧清江","authordesc":"","charstyleMap":{"近體詩":[{"id":66682,"title":"贈淮西賈兵馬使","titledesc":"","poemindex":121}]}},"僧齊巳":{"author":"僧齊巳","authordesc":"齊巳本姓胡名得生住襄州謁鄭谷獻詩云高名喧省闥雅頌出吾唐疊巘供秋望無雲到夕陽自封修藥院别下著僧牀幾夢中朝事久離鴛鷺行谷覽之云請改一字方可相見經數日再謁稱巳改得詩云别掃著僧牀谷嘉賞結為詩友","charstyleMap":{"古體詩":[{"id":66683,"title":"還人詩卷","titledesc":"","poemindex":122}],"近體詩":[{"id":66684,"title":"夏日草堂作","titledesc":"","poemindex":123},{"id":66685,"title":"寄方干處士鑑湖舊居","titledesc":"","poemindex":124},{"id":66686,"title":"戊辰嵗湖中寄鄭谷郎中","titledesc":"","poemindex":125},{"id":66687,"title":"山寺喜道士至","titledesc":"","poemindex":126},{"id":66688,"title":"登祝融峯","titledesc":"","poemindex":127},{"id":66689,"title":"早行","titledesc":"","poemindex":128},{"id":66690,"title":"贈孫生","titledesc":"","poemindex":129},{"id":66691,"title":"聽李尊師先生彈琴","titledesc":"","poemindex":130},{"id":66692,"title":"聽泉","titledesc":"","poemindex":131},{"id":66693,"title":"詠鶯","titledesc":"","poemindex":132}]}},"僧棲蟾":{"author":"僧棲蟾","authordesc":"","charstyleMap":{"近體詩":[{"id":66694,"title":"牧童","titledesc":"","poemindex":133},{"id":66695,"title":"宿巴江","titledesc":"","poemindex":134}]}},"僧清塞":{"author":"僧清塞","authordesc":"","charstyleMap":{"近體詩":[{"id":66696,"title":"山舍秋思","titledesc":"","poemindex":135},{"id":66697,"title":"送耿逸人南歸","titledesc":"","poemindex":136},{"id":66698,"title":"早秋過郭勁書齋","titledesc":"","poemindex":137},{"id":66699,"title":"送康沼歸建業","titledesc":"","poemindex":138},{"id":66700,"title":"贈柏巖禪師","titledesc":"","poemindex":139},{"id":66701,"title":"岳陽樓","titledesc":"","poemindex":140},{"id":66702,"title":"晚秋江館","titledesc":"","poemindex":141},{"id":66703,"title":"贈李道士","titledesc":"","poemindex":142},{"id":66704,"title":"宿隱靜寺","titledesc":"","poemindex":143},{"id":66705,"title":"湘漢懷傑公","titledesc":"","poemindex":144},{"id":66706,"title":"重陽","titledesc":"","poemindex":145}]}},"僧無悶":{"author":"僧無悶","authordesc":"","charstyleMap":{"近體詩":[{"id":66707,"title":"暮春送人","titledesc":"","poemindex":146},{"id":66708,"title":"寒林石屏","titledesc":"","poemindex":147}]}},"僧文益":{"author":"僧文益","authordesc":"","charstyleMap":{"近體詩":[{"id":66709,"title":"看牡丹","titledesc":"","poemindex":148}]}},"僧修睦":{"author":"僧修睦","authordesc":"","charstyleMap":{"近體詩":[{"id":66710,"title":"秋日閒居","titledesc":"","poemindex":149},{"id":66711,"title":"宿岳陽開元寺","titledesc":"","poemindex":150},{"id":66712,"title":"睡起作","titledesc":"","poemindex":151},{"id":66713,"title":"賣松者","titledesc":"","poemindex":152},{"id":66714,"title":"落葉","titledesc":"","poemindex":153},{"id":66715,"title":"落花","titledesc":"","poemindex":154},{"id":66716,"title":"題東林寺","titledesc":"","poemindex":155},{"id":66717,"title":"送元泰禪師","titledesc":"","poemindex":156}]}},"僧景雲":{"author":"僧景雲","authordesc":"","charstyleMap":{"近體詩":[{"id":66718,"title":"老僧","titledesc":"","poemindex":157},{"id":66719,"title":"溪叟","titledesc":"","poemindex":158}]}},"僧棲一":{"author":"僧棲一","authordesc":"","charstyleMap":{"近體詩":[{"id":66720,"title":"武昌懷古","titledesc":"","poemindex":159}]}},"僧處黙":{"author":"僧處黙","authordesc":"","charstyleMap":{"近體詩":[{"id":66721,"title":"題聖果寺","titledesc":"","poemindex":160},{"id":66722,"title":"題棲霞僧房","titledesc":"","poemindex":161},{"id":66723,"title":"織婦","titledesc":"","poemindex":162}]}},"僧澹交":{"author":"僧澹交","authordesc":"","charstyleMap":{"近體詩":[{"id":66724,"title":"寫真","titledesc":"","poemindex":163}]}},"僧若虛":{"author":"僧若虛","authordesc":"","charstyleMap":{"近體詩":[{"id":66725,"title":"樂仙觀","titledesc":"","poemindex":164}]}},"僧曇域":{"author":"僧曇域","authordesc":"","charstyleMap":{"近體詩":[{"id":66726,"title":"懷齊巳","titledesc":"","poemindex":165}]}},"僧懷浦":{"author":"僧懷浦","authordesc":"","charstyleMap":{"近體詩":[{"id":66727,"title":"初冬旅舍早懷","titledesc":"","poemindex":166}]}},"僧慕幽":{"author":"僧慕幽","authordesc":"","charstyleMap":{"近體詩":[{"id":66728,"title":"冬日淮上别文上人","titledesc":"","poemindex":167},{"id":66729,"title":"栁","titledesc":"","poemindex":168},{"id":66730,"title":"三峽聞猿","titledesc":"","poemindex":169}]}}}
+{
+  "僧皎然": {
+    "author": "僧皎然",
+    "authordesc": "皎然姓謝字清晝呉興人靈運十世孫居杼山顔真卿為刺史集文士撰韻海皎然預其論著貞元中集賢院取其集藏之于頔為序皎然嘗于舟中抒思作古體十數篇求合韋蘇州韋大不喜明日獻其舊製乃極稱賞云向不但以所工見投而猥希老夫之意人各有所得非卒得至晝大服其鑒裁之精\n皎然詩式著偷語詩例云如陳後主詩日月光天徳取傅長虞日月光太清上三字語同下二字義同偷義詩例云如沈佺期詩小池殘暑退高樹早涼歸取栁渾太液滄波起長楊高樹秋偷勢詩例云如王昌齡詩手攜雙鯉魚目送千里雁悟彼飛有適嗟此罹憂患取嵇康目送歸鴻手揮五絃俯\n仰自得游心太玄又云詩有跌宕格二品一曰越俗其道如黄鶴臨風貌逸神王杳不可羈郭景純游仙詩左挹浮丘袖右拍洪崖肩二曰駭俗其道如楚有接輿魯有原壤外示驚俗之貌内藏達人之度郭景純遊仙詩嫦娥揚妙音洪崖頷其頤王梵志道情詩我昔未生時㝠㝠無所知天公强生我生我復何為無衣使我寒無食使我饑還你天公我還我未生時賀知章放達詩云落花真好些一醉一回顛盧照隣漫作云城狐尾獨□山鬼面䟃𧽼淈沒格一品曰淡俗此道如夏姬當壚似蕩而貞吳楚之風雖俗而正古歌曰華陰山頭百尺井下有流泉徹骨冷可憐女子來照影不照其餘照斜領調笑格一品曰戲俗漢書云匡鼎來解人頤蓋説詩也此一品非雅作不足以為談笑之資矣李白狂詠女媧弄黄土摶作愚下人散在六合間濛濛若埃塵",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 66562,
+          "uid": "poem-98-1",
+          "title": "偶然",
+          "titledesc": "",
+          "poemindex": 1
+        },
+        {
+          "id": 66563,
+          "uid": "poem-98-2",
+          "title": "擬古",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 66564,
+          "uid": "poem-98-3",
+          "title": "冬日山行遇薛徴君",
+          "titledesc": "",
+          "poemindex": 3
+        },
+        {
+          "id": 66565,
+          "uid": "poem-98-4",
+          "title": "訪陸處士羽",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 66566,
+          "uid": "poem-98-5",
+          "title": "苕溪草堂自大厯三年夏新營洎秋及春彌覺境勝紀其事簡潘丞述湯評事衡四十三韻",
+          "titledesc": "",
+          "poemindex": 5
+        },
+        {
+          "id": 66567,
+          "uid": "poem-98-6",
+          "title": "答孟秀才",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 66568,
+          "uid": "poem-98-7",
+          "title": "妙喜寺達公禪齋寄李司直公孫房都曹徳裕裴從事方舟顔武康士騁四十二韻",
+          "titledesc": "",
+          "poemindex": 7
+        },
+        {
+          "id": 66569,
+          "uid": "poem-98-8",
+          "title": "杼山禪居寄贈東溪呉處士",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 66570,
+          "uid": "poem-98-9",
+          "title": "冬日天井西峯張鍊師所居",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 66571,
+          "uid": "poem-98-10",
+          "title": "奉和陸使君長源水堂納涼効曹劉體",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 66572,
+          "uid": "poem-98-11",
+          "title": "秋日毘陵南寺送潘述之揚州",
+          "titledesc": "",
+          "poemindex": 11
+        },
+        {
+          "id": 66573,
+          "uid": "poem-98-12",
+          "title": "雜言重送皇甫侍御曾",
+          "titledesc": "",
+          "poemindex": 12
+        },
+        {
+          "id": 66574,
+          "uid": "poem-98-13",
+          "title": "山月行",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 66575,
+          "uid": "poem-98-14",
+          "title": "往丹陽尋陸處士不遇",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 66576,
+          "uid": "poem-98-15",
+          "title": "奉和顔魯公真卿落玄真子舴艋舟歌",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 66577,
+          "uid": "poem-98-16",
+          "title": "奉應顔尚書真卿觀玄真子置酒張樂舞陣畫洞庭三山歌",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 66578,
+          "uid": "poem-98-17",
+          "title": "顧渚行寄裴方舟",
+          "titledesc": "",
+          "poemindex": 17
+        },
+        {
+          "id": 66579,
+          "uid": "poem-98-18",
+          "title": "陳氏童子草書歌",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 66580,
+          "uid": "poem-98-19",
+          "title": "觀王右丞維滄洲圖歌",
+          "titledesc": "",
+          "poemindex": 19
+        },
+        {
+          "id": 66581,
+          "uid": "poem-98-20",
+          "title": "戛銅椀為龍吟歌〈并序〉",
+          "titledesc": "唐故太尉房公琯蚤嵗常隱終南山峻壁之下往往聞龍吟聲清而靜滌人邪想時有好事僧潛戛以五金寫之唯銅聲酷似他日房公偶至山寺聞林嶺間有此聲乃曰龍吟復遷於兹矣僧因出其器以吿公命戛之驚曰真龍吟也大厯十三祀秦僧傳至桐江予使童兒戛金放之亦不減秦聲也緇人或有譏者曰此達僧之事可以嬉禪爾曹無以瑣行自拘因賦龍吟歌以見其意",
+          "poemindex": 20
+        },
+        {
+          "id": 66582,
+          "uid": "poem-98-21",
+          "title": "觀李中丞洪二美人唱歌軋箏歌",
+          "titledesc": "",
+          "poemindex": 21
+        }
+      ],
+      "近體詩": [
+        {
+          "id": 66583,
+          "uid": "poem-98-22",
+          "title": "勞勞山居寄呈呉處士",
+          "titledesc": "",
+          "poemindex": 22
+        },
+        {
+          "id": 66584,
+          "uid": "poem-98-23",
+          "title": "早秋桐廬思歸示道彦上人",
+          "titledesc": "",
+          "poemindex": 23
+        },
+        {
+          "id": 66585,
+          "uid": "poem-98-24",
+          "title": "懷舊山",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 66586,
+          "uid": "poem-98-25",
+          "title": "若溪春興",
+          "titledesc": "",
+          "poemindex": 25
+        },
+        {
+          "id": 66587,
+          "uid": "poem-98-26",
+          "title": "陪盧中丞閒遊山寺",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 66588,
+          "uid": "poem-98-27",
+          "title": "晦夜李侍御萼宅集招潘述湯衡海上人飲茶賦",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 66589,
+          "uid": "poem-98-28",
+          "title": "沈道士新亭",
+          "titledesc": "",
+          "poemindex": 28
+        },
+        {
+          "id": 66590,
+          "uid": "poem-98-29",
+          "title": "尋陸鴻漸不遇",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 66591,
+          "uid": "poem-98-30",
+          "title": "酬秦山人系題贈",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 66592,
+          "uid": "poem-98-31",
+          "title": "送陸判官歸杭州",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 66593,
+          "uid": "poem-98-32",
+          "title": "送贇上人還京得微字",
+          "titledesc": "",
+          "poemindex": 32
+        },
+        {
+          "id": 66594,
+          "uid": "poem-98-33",
+          "title": "送重鈞上人遊天台",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 66595,
+          "uid": "poem-98-34",
+          "title": "送簡栖上人之建州覲使君舅",
+          "titledesc": "",
+          "poemindex": 34
+        },
+        {
+          "id": 66596,
+          "uid": "poem-98-35",
+          "title": "啼猿送客",
+          "titledesc": "",
+          "poemindex": 35
+        },
+        {
+          "id": 66597,
+          "uid": "poem-98-36",
+          "title": "題餘不溪廢寺",
+          "titledesc": "",
+          "poemindex": 36
+        },
+        {
+          "id": 66598,
+          "uid": "poem-98-37",
+          "title": "山居示靈徹上人",
+          "titledesc": "",
+          "poemindex": 37
+        },
+        {
+          "id": 66599,
+          "uid": "poem-98-38",
+          "title": "晚春尋桃源觀",
+          "titledesc": "",
+          "poemindex": 38
+        },
+        {
+          "id": 66600,
+          "uid": "poem-98-39",
+          "title": "送如獻上人遊長安",
+          "titledesc": "",
+          "poemindex": 39
+        },
+        {
+          "id": 66601,
+          "uid": "poem-98-40",
+          "title": "待山月",
+          "titledesc": "",
+          "poemindex": 40
+        },
+        {
+          "id": 66602,
+          "uid": "poem-98-41",
+          "title": "塞下曲",
+          "titledesc": "",
+          "poemindex": 41
+        },
+        {
+          "id": 66603,
+          "uid": "poem-98-42",
+          "title": "答張烏程",
+          "titledesc": "",
+          "poemindex": 42
+        },
+        {
+          "id": 66604,
+          "uid": "poem-98-43",
+          "title": "答裴評事澄荻花間送梁肅拾遺",
+          "titledesc": "",
+          "poemindex": 43
+        },
+        {
+          "id": 66605,
+          "uid": "poem-98-44",
+          "title": "送邢台州濟",
+          "titledesc": "",
+          "poemindex": 44
+        },
+        {
+          "id": 66606,
+          "uid": "poem-98-45",
+          "title": "戲題松樹",
+          "titledesc": "",
+          "poemindex": 45
+        }
+      ]
+    }
+  },
+  "僧靈一": {
+    "author": "僧靈一",
+    "authordesc": "靈一姓呉氏廣陵人居餘杭宜豐寺精於律學每禪誦之隙輙賦詩歌與朱放張繼皇甫曾諸人為塵外之友高仲武云自齊梁迄宋道人工文多矣一公乃能尅意精妙與士大夫更唱遞和不其偉歟如泉湧堦前地雲生戸外峰道猷寳月曾何及此",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 66607,
+          "uid": "poem-98-46",
+          "title": "棲霞山夜至",
+          "titledesc": "",
+          "poemindex": 46
+        },
+        {
+          "id": 66608,
+          "uid": "poem-98-47",
+          "title": "溪行即事",
+          "titledesc": "",
+          "poemindex": 47
+        },
+        {
+          "id": 66609,
+          "uid": "poem-98-48",
+          "title": "安公",
+          "titledesc": "",
+          "poemindex": 48
+        },
+        {
+          "id": 66610,
+          "uid": "poem-98-49",
+          "title": "林公",
+          "titledesc": "",
+          "poemindex": 49
+        },
+        {
+          "id": 66611,
+          "uid": "poem-98-50",
+          "title": "逺公",
+          "titledesc": "",
+          "poemindex": 50
+        }
+      ],
+      "近體詩": [
+        {
+          "id": 66612,
+          "uid": "poem-98-51",
+          "title": "春日山齋",
+          "titledesc": "",
+          "poemindex": 51
+        },
+        {
+          "id": 66613,
+          "uid": "poem-98-52",
+          "title": "再還宜豐寺",
+          "titledesc": "",
+          "poemindex": 52
+        },
+        {
+          "id": 66614,
+          "uid": "poem-98-53",
+          "title": "同使君宿大梁驛",
+          "titledesc": "",
+          "poemindex": 53
+        },
+        {
+          "id": 66615,
+          "uid": "poem-98-54",
+          "title": "靜林寺",
+          "titledesc": "",
+          "poemindex": 54
+        },
+        {
+          "id": 66616,
+          "uid": "poem-98-55",
+          "title": "自青山詣於潛道中作呈元八處士",
+          "titledesc": "",
+          "poemindex": 55
+        },
+        {
+          "id": 66617,
+          "uid": "poem-98-56",
+          "title": "酬陳明府舟中見贈",
+          "titledesc": "",
+          "poemindex": 56
+        },
+        {
+          "id": 66618,
+          "uid": "poem-98-57",
+          "title": "酬皇甫冉西陵見寄",
+          "titledesc": "",
+          "poemindex": 57
+        },
+        {
+          "id": 66619,
+          "uid": "poem-98-58",
+          "title": "酬皇甫冉將赴無錫於雲門寺贈别",
+          "titledesc": "",
+          "poemindex": 58
+        },
+        {
+          "id": 66620,
+          "uid": "poem-98-59",
+          "title": "贈别皇甫曾",
+          "titledesc": "",
+          "poemindex": 59
+        },
+        {
+          "id": 66621,
+          "uid": "poem-98-60",
+          "title": "留别忠州故人",
+          "titledesc": "",
+          "poemindex": 60
+        },
+        {
+          "id": 66622,
+          "uid": "poem-98-61",
+          "title": "送陳元初卜居麻源",
+          "titledesc": "",
+          "poemindex": 61
+        },
+        {
+          "id": 66623,
+          "uid": "poem-98-62",
+          "title": "送别",
+          "titledesc": "",
+          "poemindex": 62
+        },
+        {
+          "id": 66624,
+          "uid": "poem-98-63",
+          "title": "題韓明府别業",
+          "titledesc": "",
+          "poemindex": 63
+        },
+        {
+          "id": 66625,
+          "uid": "poem-98-64",
+          "title": "題東蘭若",
+          "titledesc": "",
+          "poemindex": 64
+        },
+        {
+          "id": 66626,
+          "uid": "poem-98-65",
+          "title": "江行寄張舍人",
+          "titledesc": "",
+          "poemindex": 65
+        },
+        {
+          "id": 66627,
+          "uid": "poem-98-66",
+          "title": "宿靜林寺",
+          "titledesc": "",
+          "poemindex": 66
+        },
+        {
+          "id": 66628,
+          "uid": "poem-98-67",
+          "title": "雨後欲尋天目山問元駱二公溪路",
+          "titledesc": "",
+          "poemindex": 67
+        },
+        {
+          "id": 66629,
+          "uid": "poem-98-68",
+          "title": "題僧院",
+          "titledesc": "",
+          "poemindex": 68
+        }
+      ]
+    }
+  },
+  "僧靈徹": {
+    "author": "僧靈徹",
+    "authordesc": "靈徹姓湯氏字澄源與吳興詩僧皎然遊皎然薦之包佶李紓以是上人之名由二公而颺貞元中遊京師緇流嫉之造飛語激動中貴人浸誣得罪徙汀州後歸會稽元和十一年終於宣州劉夢得曰詩僧多出江右靈一導其源䕶國襲之清江揚其波法振㳂之如么絃孤韻瞥入人耳非大音之樂獨吳興晝公能備衆體徹公承之至如芙蓉園新寺詩曰經來白馬寺僧到赤烏年謫汀州云青蠅為弔客黄犬寄家書可謂入作者閫域豈獨雄於詩僧間耶",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66630,
+          "uid": "poem-98-69",
+          "title": "初到汀州",
+          "titledesc": "",
+          "poemindex": 69
+        }
+      ]
+    }
+  },
+  "僧法振": {
+    "author": "僧法振",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66631,
+          "uid": "poem-98-70",
+          "title": "趙使君生子晬日",
+          "titledesc": "",
+          "poemindex": 70
+        },
+        {
+          "id": 66632,
+          "uid": "poem-98-71",
+          "title": "送人遊閩越",
+          "titledesc": "",
+          "poemindex": 71
+        },
+        {
+          "id": 66633,
+          "uid": "poem-98-72",
+          "title": "題天長院少府湖上客歸",
+          "titledesc": "",
+          "poemindex": 72
+        },
+        {
+          "id": 66634,
+          "uid": "poem-98-73",
+          "title": "送韓侍御自使幕巡海北",
+          "titledesc": "",
+          "poemindex": 73
+        }
+      ]
+    }
+  },
+  "僧法照": {
+    "author": "僧法照",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66635,
+          "uid": "poem-98-74",
+          "title": "送禪師歸新羅",
+          "titledesc": "",
+          "poemindex": 74
+        },
+        {
+          "id": 66636,
+          "uid": "poem-98-75",
+          "title": "寄錢郎中",
+          "titledesc": "",
+          "poemindex": 75
+        }
+      ]
+    }
+  },
+  "僧太易": {
+    "author": "僧太易",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66637,
+          "uid": "poem-98-76",
+          "title": "贈司空拾遺",
+          "titledesc": "",
+          "poemindex": 76
+        }
+      ]
+    }
+  },
+  "僧惟審": {
+    "author": "僧惟審",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66638,
+          "uid": "poem-98-77",
+          "title": "賦得聞黄鳥啼",
+          "titledesc": "",
+          "poemindex": 77
+        }
+      ]
+    }
+  },
+  "僧無本": {
+    "author": "僧無本",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66639,
+          "uid": "poem-98-78",
+          "title": "行次漢上",
+          "titledesc": "",
+          "poemindex": 78
+        }
+      ]
+    }
+  },
+  "金地藏": {
+    "author": "金地藏",
+    "authordesc": "地藏新羅國王子也至徳初落髮航海隱於池之九華山",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66640,
+          "uid": "poem-98-79",
+          "title": "送童子下山",
+          "titledesc": "",
+          "poemindex": 79
+        }
+      ]
+    }
+  },
+  "僧子蘭": {
+    "author": "僧子蘭",
+    "authordesc": "",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 66641,
+          "uid": "poem-98-80",
+          "title": "飲馬長城窟",
+          "titledesc": "",
+          "poemindex": 80
+        },
+        {
+          "id": 66642,
+          "uid": "poem-98-81",
+          "title": "秋日思舊山",
+          "titledesc": "",
+          "poemindex": 81
+        },
+        {
+          "id": 66643,
+          "uid": "poem-98-82",
+          "title": "襄陽曲",
+          "titledesc": "",
+          "poemindex": 82
+        }
+      ],
+      "近體詩": [
+        {
+          "id": 66644,
+          "uid": "poem-98-83",
+          "title": "太平里尋兵部裴郎中",
+          "titledesc": "",
+          "poemindex": 83
+        }
+      ]
+    }
+  },
+  "僧䕶國": {
+    "author": "僧䕶國",
+    "authordesc": "",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 66645,
+          "uid": "poem-98-84",
+          "title": "題醴陵玉仙觀",
+          "titledesc": "",
+          "poemindex": 84
+        }
+      ]
+    }
+  },
+  "僧應物": {
+    "author": "僧應物",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66646,
+          "uid": "poem-98-85",
+          "title": "龍潭",
+          "titledesc": "",
+          "poemindex": 85
+        },
+        {
+          "id": 66647,
+          "uid": "poem-98-86",
+          "title": "題化城寺",
+          "titledesc": "",
+          "poemindex": 86
+        }
+      ]
+    }
+  },
+  "僧可朋": {
+    "author": "僧可朋",
+    "authordesc": "可朋丹稜人少與延讓為風雅之友有詩千餘篇號玉壘集題洞庭詩云水涵天影濶山拔地形高贈友人曰來多不似客坐久却垂簾歐陽炯以此比孟郊賈島言其好飲酒貧無以償酒債以詩賙之可朋自號醉髠",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66648,
+          "uid": "poem-98-87",
+          "title": "賦洞庭",
+          "titledesc": "",
+          "poemindex": 87
+        }
+      ]
+    }
+  },
+  "僧法宣": {
+    "author": "僧法宣",
+    "authordesc": "法宣貞觀間人常州弘業寺沙門嘗敕召至東都",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66649,
+          "uid": "poem-98-88",
+          "title": "和趙王觀妓應教",
+          "titledesc": "",
+          "poemindex": 88
+        },
+        {
+          "id": 66650,
+          "uid": "poem-98-89",
+          "title": "於冬日普光寺卧疾值雪簡諸舊遊",
+          "titledesc": "",
+          "poemindex": 89
+        }
+      ]
+    }
+  },
+  "僧慧宣": {
+    "author": "僧慧宣",
+    "authordesc": "慧宣常州法師與僧道恭同召",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 66651,
+          "uid": "poem-98-90",
+          "title": "秋日遊東山寺尋殊曇二法師",
+          "titledesc": "",
+          "poemindex": 90
+        }
+      ]
+    }
+  },
+  "僧辨才": {
+    "author": "僧辨才",
+    "authordesc": "辨才姓袁氏居越州永欣寺智永弟子\n何延之蘭亭記云太宗購右軍書獨未得蘭亭真蹟初此記在右軍七代孫智永所永傳才師才鑿梁上貯之保惜甚至太宗嘗敕召才面問數四固以亡失對帝知不可奪以蕭翼多權謀令充使詐取翼改服稱山東書生攜二王雜帖數道赴越州徑造才院才一見欵宻留宿設缸面酒江東缸面猶河北稱甕頭蓋初熟酒也各探韻賦詩經旬朔談論翰墨出所攜帖示之才云此未佳因言藏有蘭亭於梁上出視之翼故疑為響搨駁辨留置几案一日伺其不在徑取之乗驛歸上太宗報命拔翼員外郎仍賜才物三千段榖三千石才驚惋嵗餘卒",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66652,
+          "uid": "poem-98-91",
+          "title": "設缸面酒欵蕭翼探得來字",
+          "titledesc": "",
+          "poemindex": 91
+        }
+      ]
+    }
+  },
+  "僧虛中": {
+    "author": "僧虛中",
+    "authordesc": "虛中宜春人也遊瀟湘山水與齊巳尚顔棲蟾為詩友住湘西栗城寺潭州馬氏子希振侍中好事每出迎納於詩閣虛中好燒火烟昏彩翠去後又復粉飾又題馬侍郎池亭云嘉魚在深處幽鳥立多時",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66653,
+          "uid": "poem-98-92",
+          "title": "寄中條司空圖侍郎",
+          "titledesc": "",
+          "poemindex": 92
+        },
+        {
+          "id": 66654,
+          "uid": "poem-98-93",
+          "title": "寄中條司空圖侍郎",
+          "titledesc": "",
+          "poemindex": 93
+        },
+        {
+          "id": 66655,
+          "uid": "poem-98-94",
+          "title": "經賀監舊居",
+          "titledesc": "",
+          "poemindex": 94
+        },
+        {
+          "id": 66656,
+          "uid": "poem-98-95",
+          "title": "贈屏風岩棲蟾上人",
+          "titledesc": "",
+          "poemindex": 95
+        },
+        {
+          "id": 66657,
+          "uid": "poem-98-96",
+          "title": "泊洞庭",
+          "titledesc": "",
+          "poemindex": 96
+        }
+      ]
+    }
+  },
+  "僧貫休": {
+    "author": "僧貫休",
+    "authordesc": "貫休姓姜氏字徳隱婺州蘭溪人與齊巳齊名有西嶽集十卷吳融為之序休每得句云只堪供養佛故懷贈武昌棲一云風清江上月霜灑月中砧得句先呈佛無人知此心",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 66658,
+          "uid": "poem-98-97",
+          "title": "古意",
+          "titledesc": "",
+          "poemindex": 97
+        },
+        {
+          "id": 66659,
+          "uid": "poem-98-98",
+          "title": "公子行",
+          "titledesc": "",
+          "poemindex": 98
+        },
+        {
+          "id": 66660,
+          "uid": "poem-98-99",
+          "title": "野田黄雀行",
+          "titledesc": "",
+          "poemindex": 99
+        },
+        {
+          "id": 66661,
+          "uid": "poem-98-100",
+          "title": "行路難",
+          "titledesc": "",
+          "poemindex": 100
+        },
+        {
+          "id": 66662,
+          "uid": "poem-98-101",
+          "title": "夜夜曲",
+          "titledesc": "",
+          "poemindex": 101
+        }
+      ],
+      "近體詩": [
+        {
+          "id": 66663,
+          "uid": "poem-98-102",
+          "title": "春山行",
+          "titledesc": "",
+          "poemindex": 102
+        },
+        {
+          "id": 66664,
+          "uid": "poem-98-103",
+          "title": "晚泊湘江懷古",
+          "titledesc": "",
+          "poemindex": 103
+        },
+        {
+          "id": 66665,
+          "uid": "poem-98-104",
+          "title": "天台老僧",
+          "titledesc": "",
+          "poemindex": 104
+        },
+        {
+          "id": 66666,
+          "uid": "poem-98-105",
+          "title": "途中逢周朴",
+          "titledesc": "",
+          "poemindex": 105
+        },
+        {
+          "id": 66667,
+          "uid": "poem-98-106",
+          "title": "投錢鏐",
+          "titledesc": "",
+          "poemindex": 106
+        },
+        {
+          "id": 66668,
+          "uid": "poem-98-107",
+          "title": "投王建",
+          "titledesc": "",
+          "poemindex": 107
+        },
+        {
+          "id": 66669,
+          "uid": "poem-98-108",
+          "title": "山居",
+          "titledesc": "",
+          "poemindex": 108
+        },
+        {
+          "id": 66670,
+          "uid": "poem-98-109",
+          "title": "山居",
+          "titledesc": "",
+          "poemindex": 109
+        },
+        {
+          "id": 66671,
+          "uid": "poem-98-110",
+          "title": "山居",
+          "titledesc": "",
+          "poemindex": 110
+        }
+      ]
+    }
+  },
+  "僧尚顔": {
+    "author": "僧尚顔",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66672,
+          "uid": "poem-98-111",
+          "title": "贈村公",
+          "titledesc": "",
+          "poemindex": 111
+        }
+      ]
+    }
+  },
+  "僧棲白": {
+    "author": "僧棲白",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66673,
+          "uid": "poem-98-112",
+          "title": "八月十五夜月",
+          "titledesc": "",
+          "poemindex": 112
+        }
+      ]
+    }
+  },
+  "僧無可": {
+    "author": "僧無可",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66674,
+          "uid": "poem-98-113",
+          "title": "金州陪姚員外遊南池",
+          "titledesc": "",
+          "poemindex": 113
+        },
+        {
+          "id": 66675,
+          "uid": "poem-98-114",
+          "title": "夏日送田中丞赴蔡州",
+          "titledesc": "",
+          "poemindex": 114
+        },
+        {
+          "id": 66676,
+          "uid": "poem-98-115",
+          "title": "秋夜宿西林寄賈島",
+          "titledesc": "",
+          "poemindex": 115
+        },
+        {
+          "id": 66677,
+          "uid": "poem-98-116",
+          "title": "秋日寄厲玄",
+          "titledesc": "",
+          "poemindex": 116
+        },
+        {
+          "id": 66678,
+          "uid": "poem-98-117",
+          "title": "廬山寺",
+          "titledesc": "",
+          "poemindex": 117
+        },
+        {
+          "id": 66679,
+          "uid": "poem-98-118",
+          "title": "新年作",
+          "titledesc": "",
+          "poemindex": 118
+        },
+        {
+          "id": 66680,
+          "uid": "poem-98-119",
+          "title": "贈圭峯禪師",
+          "titledesc": "",
+          "poemindex": 119
+        },
+        {
+          "id": 66681,
+          "uid": "poem-98-120",
+          "title": "金州别姚合",
+          "titledesc": "",
+          "poemindex": 120
+        }
+      ]
+    }
+  },
+  "僧清江": {
+    "author": "僧清江",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66682,
+          "uid": "poem-98-121",
+          "title": "贈淮西賈兵馬使",
+          "titledesc": "",
+          "poemindex": 121
+        }
+      ]
+    }
+  },
+  "僧齊巳": {
+    "author": "僧齊巳",
+    "authordesc": "齊巳本姓胡名得生住襄州謁鄭谷獻詩云高名喧省闥雅頌出吾唐疊巘供秋望無雲到夕陽自封修藥院别下著僧牀幾夢中朝事久離鴛鷺行谷覽之云請改一字方可相見經數日再謁稱巳改得詩云别掃著僧牀谷嘉賞結為詩友",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 66683,
+          "uid": "poem-98-122",
+          "title": "還人詩卷",
+          "titledesc": "",
+          "poemindex": 122
+        }
+      ],
+      "近體詩": [
+        {
+          "id": 66684,
+          "uid": "poem-98-123",
+          "title": "夏日草堂作",
+          "titledesc": "",
+          "poemindex": 123
+        },
+        {
+          "id": 66685,
+          "uid": "poem-98-124",
+          "title": "寄方干處士鑑湖舊居",
+          "titledesc": "",
+          "poemindex": 124
+        },
+        {
+          "id": 66686,
+          "uid": "poem-98-125",
+          "title": "戊辰嵗湖中寄鄭谷郎中",
+          "titledesc": "",
+          "poemindex": 125
+        },
+        {
+          "id": 66687,
+          "uid": "poem-98-126",
+          "title": "山寺喜道士至",
+          "titledesc": "",
+          "poemindex": 126
+        },
+        {
+          "id": 66688,
+          "uid": "poem-98-127",
+          "title": "登祝融峯",
+          "titledesc": "",
+          "poemindex": 127
+        },
+        {
+          "id": 66689,
+          "uid": "poem-98-128",
+          "title": "早行",
+          "titledesc": "",
+          "poemindex": 128
+        },
+        {
+          "id": 66690,
+          "uid": "poem-98-129",
+          "title": "贈孫生",
+          "titledesc": "",
+          "poemindex": 129
+        },
+        {
+          "id": 66691,
+          "uid": "poem-98-130",
+          "title": "聽李尊師先生彈琴",
+          "titledesc": "",
+          "poemindex": 130
+        },
+        {
+          "id": 66692,
+          "uid": "poem-98-131",
+          "title": "聽泉",
+          "titledesc": "",
+          "poemindex": 131
+        },
+        {
+          "id": 66693,
+          "uid": "poem-98-132",
+          "title": "詠鶯",
+          "titledesc": "",
+          "poemindex": 132
+        }
+      ]
+    }
+  },
+  "僧棲蟾": {
+    "author": "僧棲蟾",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66694,
+          "uid": "poem-98-133",
+          "title": "牧童",
+          "titledesc": "",
+          "poemindex": 133
+        },
+        {
+          "id": 66695,
+          "uid": "poem-98-134",
+          "title": "宿巴江",
+          "titledesc": "",
+          "poemindex": 134
+        }
+      ]
+    }
+  },
+  "僧清塞": {
+    "author": "僧清塞",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66696,
+          "uid": "poem-98-135",
+          "title": "山舍秋思",
+          "titledesc": "",
+          "poemindex": 135
+        },
+        {
+          "id": 66697,
+          "uid": "poem-98-136",
+          "title": "送耿逸人南歸",
+          "titledesc": "",
+          "poemindex": 136
+        },
+        {
+          "id": 66698,
+          "uid": "poem-98-137",
+          "title": "早秋過郭勁書齋",
+          "titledesc": "",
+          "poemindex": 137
+        },
+        {
+          "id": 66699,
+          "uid": "poem-98-138",
+          "title": "送康沼歸建業",
+          "titledesc": "",
+          "poemindex": 138
+        },
+        {
+          "id": 66700,
+          "uid": "poem-98-139",
+          "title": "贈柏巖禪師",
+          "titledesc": "",
+          "poemindex": 139
+        },
+        {
+          "id": 66701,
+          "uid": "poem-98-140",
+          "title": "岳陽樓",
+          "titledesc": "",
+          "poemindex": 140
+        },
+        {
+          "id": 66702,
+          "uid": "poem-98-141",
+          "title": "晚秋江館",
+          "titledesc": "",
+          "poemindex": 141
+        },
+        {
+          "id": 66703,
+          "uid": "poem-98-142",
+          "title": "贈李道士",
+          "titledesc": "",
+          "poemindex": 142
+        },
+        {
+          "id": 66704,
+          "uid": "poem-98-143",
+          "title": "宿隱靜寺",
+          "titledesc": "",
+          "poemindex": 143
+        },
+        {
+          "id": 66705,
+          "uid": "poem-98-144",
+          "title": "湘漢懷傑公",
+          "titledesc": "",
+          "poemindex": 144
+        },
+        {
+          "id": 66706,
+          "uid": "poem-98-145",
+          "title": "重陽",
+          "titledesc": "",
+          "poemindex": 145
+        }
+      ]
+    }
+  },
+  "僧無悶": {
+    "author": "僧無悶",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66707,
+          "uid": "poem-98-146",
+          "title": "暮春送人",
+          "titledesc": "",
+          "poemindex": 146
+        },
+        {
+          "id": 66708,
+          "uid": "poem-98-147",
+          "title": "寒林石屏",
+          "titledesc": "",
+          "poemindex": 147
+        }
+      ]
+    }
+  },
+  "僧文益": {
+    "author": "僧文益",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66709,
+          "uid": "poem-98-148",
+          "title": "看牡丹",
+          "titledesc": "",
+          "poemindex": 148
+        }
+      ]
+    }
+  },
+  "僧修睦": {
+    "author": "僧修睦",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66710,
+          "uid": "poem-98-149",
+          "title": "秋日閒居",
+          "titledesc": "",
+          "poemindex": 149
+        },
+        {
+          "id": 66711,
+          "uid": "poem-98-150",
+          "title": "宿岳陽開元寺",
+          "titledesc": "",
+          "poemindex": 150
+        },
+        {
+          "id": 66712,
+          "uid": "poem-98-151",
+          "title": "睡起作",
+          "titledesc": "",
+          "poemindex": 151
+        },
+        {
+          "id": 66713,
+          "uid": "poem-98-152",
+          "title": "賣松者",
+          "titledesc": "",
+          "poemindex": 152
+        },
+        {
+          "id": 66714,
+          "uid": "poem-98-153",
+          "title": "落葉",
+          "titledesc": "",
+          "poemindex": 153
+        },
+        {
+          "id": 66715,
+          "uid": "poem-98-154",
+          "title": "落花",
+          "titledesc": "",
+          "poemindex": 154
+        },
+        {
+          "id": 66716,
+          "uid": "poem-98-155",
+          "title": "題東林寺",
+          "titledesc": "",
+          "poemindex": 155
+        },
+        {
+          "id": 66717,
+          "uid": "poem-98-156",
+          "title": "送元泰禪師",
+          "titledesc": "",
+          "poemindex": 156
+        }
+      ]
+    }
+  },
+  "僧景雲": {
+    "author": "僧景雲",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66718,
+          "uid": "poem-98-157",
+          "title": "老僧",
+          "titledesc": "",
+          "poemindex": 157
+        },
+        {
+          "id": 66719,
+          "uid": "poem-98-158",
+          "title": "溪叟",
+          "titledesc": "",
+          "poemindex": 158
+        }
+      ]
+    }
+  },
+  "僧棲一": {
+    "author": "僧棲一",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66720,
+          "uid": "poem-98-159",
+          "title": "武昌懷古",
+          "titledesc": "",
+          "poemindex": 159
+        }
+      ]
+    }
+  },
+  "僧處黙": {
+    "author": "僧處黙",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66721,
+          "uid": "poem-98-160",
+          "title": "題聖果寺",
+          "titledesc": "",
+          "poemindex": 160
+        },
+        {
+          "id": 66722,
+          "uid": "poem-98-161",
+          "title": "題棲霞僧房",
+          "titledesc": "",
+          "poemindex": 161
+        },
+        {
+          "id": 66723,
+          "uid": "poem-98-162",
+          "title": "織婦",
+          "titledesc": "",
+          "poemindex": 162
+        }
+      ]
+    }
+  },
+  "僧澹交": {
+    "author": "僧澹交",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66724,
+          "uid": "poem-98-163",
+          "title": "寫真",
+          "titledesc": "",
+          "poemindex": 163
+        }
+      ]
+    }
+  },
+  "僧若虛": {
+    "author": "僧若虛",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66725,
+          "uid": "poem-98-164",
+          "title": "樂仙觀",
+          "titledesc": "",
+          "poemindex": 164
+        }
+      ]
+    }
+  },
+  "僧曇域": {
+    "author": "僧曇域",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66726,
+          "uid": "poem-98-165",
+          "title": "懷齊巳",
+          "titledesc": "",
+          "poemindex": 165
+        }
+      ]
+    }
+  },
+  "僧懷浦": {
+    "author": "僧懷浦",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66727,
+          "uid": "poem-98-166",
+          "title": "初冬旅舍早懷",
+          "titledesc": "",
+          "poemindex": 166
+        }
+      ]
+    }
+  },
+  "僧慕幽": {
+    "author": "僧慕幽",
+    "authordesc": "",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 66728,
+          "uid": "poem-98-167",
+          "title": "冬日淮上别文上人",
+          "titledesc": "",
+          "poemindex": 167
+        },
+        {
+          "id": 66729,
+          "uid": "poem-98-168",
+          "title": "栁",
+          "titledesc": "",
+          "poemindex": 168
+        },
+        {
+          "id": 66730,
+          "uid": "poem-98-169",
+          "title": "三峽聞猿",
+          "titledesc": "",
+          "poemindex": 169
+        }
+      ]
+    }
+  }
+}

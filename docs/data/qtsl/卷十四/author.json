@@ -1,1 +1,880 @@
-{"岑參":{"author":"岑參","authordesc":"參南陽人文本之後天寶中進士歴安西闗西節度判官試大理評事攝監察御史杜甫薦之轉左補闕起居郎累遷侍御史出為嘉州刺史杜子美嘗薦參於朝表云參識度清逺議論雅正佳名早上時輩所仰又詩云岑參多新詩性亦嗜醇醪又云髙岑殊緩步謝鮑得同行蓋岑與子美非薄交也其詩實為少陵所稱許\n京兆杜確序畧云南陽岑公早歲孤貧能自砥礪徧覽史籍尤工綴文屬辭尚清用志尚切其有所得多入佳境迥拔孤秀出於常情毎一篇絶筆則人人傳寫雖閭里士庶戎夷蠻貊莫不吟習焉後之詞人有所觀覽亦猶聆廣樂者識清商之音遊名山者仰翠微之色足以瑩徹心府發揮髙致\n殷璠云參詩語奇體俊意亦造奇至如長風吹白茅野火燒枯桑可謂逸才又山風吹空林颯颯如有人宜稱幽𦤺也","charstyleMap":{"古體詩":[{"id":58346,"title":"初過隴山途中呈宇文判官","titledesc":"","poemindex":1},{"id":58347,"title":"秋夜宿仙遊寺南凉堂呈謙道人","titledesc":"","poemindex":2},{"id":58348,"title":"宿太白東谿李老舍即事寄弟姪","titledesc":"","poemindex":3},{"id":58349,"title":"終南雲際精舍尋法澄上人不遇歸髙冠東潭石淙望秦嶺微雨作貽友人","titledesc":"","poemindex":4},{"id":58350,"title":"至大梁却寄匡城主人","titledesc":"","poemindex":5},{"id":58351,"title":"武威送劉單判官赴安西行營便呈髙開府","titledesc":"","poemindex":6},{"id":58352,"title":"送王大昌齡赴江寧","titledesc":"","poemindex":7},{"id":58353,"title":"送祁樂歸河東","titledesc":"","poemindex":8},{"id":58354,"title":"北亭貽宗學士道别","titledesc":"","poemindex":9},{"id":58355,"title":"虢州郡齋南池幽興因與閻二侍御道别","titledesc":"","poemindex":10},{"id":58356,"title":"送李翥遊江外","titledesc":"","poemindex":11},{"id":58357,"title":"送顔平原〈并序〉","titledesc":"十二年春有詔補尚書十數公為郡守上親賦詩觴羣公宴於蓬萊前殿仍贈以繒帛寵餞加等參美顔公是行為寵别章句","poemindex":12},{"id":58358,"title":"灃頭送蔣侯","titledesc":"","poemindex":13},{"id":58359,"title":"登嘉州凌雲寺作","titledesc":"","poemindex":14},{"id":58360,"title":"與髙適薛據登慈恩寺浮圖","titledesc":"","poemindex":15},{"id":58361,"title":"出關經華嶽寺訪法華雲公","titledesc":"","poemindex":16},{"id":58362,"title":"春半與羣公同遊元處士别業","titledesc":"","poemindex":17},{"id":58363,"title":"終南山雙峯草堂作","titledesc":"","poemindex":18},{"id":58364,"title":"緱山西峯草堂作","titledesc":"","poemindex":19},{"id":58365,"title":"尋鞏縣南李處士別業","titledesc":"","poemindex":20},{"id":58366,"title":"自潘陵尖還少室居止秋夕憑眺","titledesc":"","poemindex":21},{"id":58367,"title":"南池夜宿思王屋青蘿舊齋","titledesc":"","poemindex":22},{"id":58368,"title":"過王判官西津所居","titledesc":"","poemindex":23},{"id":58369,"title":"因假歸白閣西草堂","titledesc":"","poemindex":24},{"id":58370,"title":"楚夕旅泊古興","titledesc":"","poemindex":25},{"id":58371,"title":"下外江舟懷終南舊居","titledesc":"","poemindex":26},{"id":58372,"title":"暮秋山行","titledesc":"","poemindex":27},{"id":58373,"title":"江上阻風雨","titledesc":"","poemindex":28},{"id":58374,"title":"東歸發犍為至泥溪舟中作","titledesc":"","poemindex":29},{"id":58375,"title":"秋夕聽羅山人彈三峽流泉","titledesc":"","poemindex":30},{"id":58376,"title":"白雪歌送武判官歸京","titledesc":"","poemindex":31},{"id":58377,"title":"熱海行送崔侍御還京","titledesc":"","poemindex":32},{"id":58378,"title":"輪臺歌奉送封大夫出師西征","titledesc":"","poemindex":33},{"id":58379,"title":"天山雪歌送蕭治歸京","titledesc":"","poemindex":34},{"id":58380,"title":"青門歌送東臺張判官","titledesc":"","poemindex":35},{"id":58381,"title":"梁園歌送河南王說判官","titledesc":"","poemindex":36},{"id":58382,"title":"走馬川行奉送出師西征","titledesc":"","poemindex":37},{"id":58383,"title":"函谷關歌送劉評事使關西","titledesc":"","poemindex":38},{"id":58384,"title":"胡笳歌送顔真卿使赴河隴","titledesc":"","poemindex":39},{"id":58385,"title":"秦箏歌送外甥蕭正歸京","titledesc":"","poemindex":40},{"id":58386,"title":"與獨孤漸道别長句兼呈嚴八侍御","titledesc":"","poemindex":41},{"id":58387,"title":"送費子歸武昌","titledesc":"","poemindex":42},{"id":58388,"title":"凉州館中與諸判官夜集","titledesc":"","poemindex":43},{"id":58389,"title":"醉題匡城周少府㕔壁","titledesc":"","poemindex":44},{"id":58390,"title":"燉煌太守後庭歌","titledesc":"","poemindex":45},{"id":58391,"title":"喜韓樽相過","titledesc":"","poemindex":46},{"id":58392,"title":"太白胡僧歌〈并序〉","titledesc":"太白中峯絶頂有胡僧不知幾百歲眉長數寸身不製繒帛衣以草葉恒持楞伽經雲壁迥絶人迹罕到嘗東峰有鬬虎弱者將死僧杖而解之西湫有毒龍久而為患僧器而貯之商山趙叟前年采茯苓深入太白偶値此僧訪我而說予恒有獨往之意聞而恱之乃為歌曰","poemindex":47},{"id":58393,"title":"衞節度赤驃馬歌","titledesc":"","poemindex":48},{"id":58394,"title":"田使君美人舞如蓮花北鋋歌〈此曲本出北同城〉","titledesc":"","poemindex":49},{"id":58395,"title":"裴將軍宅蘆管歌","titledesc":"","poemindex":50},{"id":58396,"title":"韋貟外家花樹歌","titledesc":"","poemindex":51},{"id":58397,"title":"范公叢竹歌〈并序〉","titledesc":"職方郎中兼侍御史范公乃於陜西使院内種竹新製叢竹詩以見示美范公之清致雅操遂為歌以和之","poemindex":52},{"id":58398,"title":"玉門關蓋將軍歌","titledesc":"","poemindex":53},{"id":58399,"title":"送魏升卿擢第歸東都因懷魏校書陸渾喬潭","titledesc":"","poemindex":54},{"id":58400,"title":"偃師東與韓樽同詣景雲暉上人即事","titledesc":"","poemindex":55},{"id":58401,"title":"西亭子送李司馬","titledesc":"","poemindex":56},{"id":58402,"title":"漁父","titledesc":"","poemindex":57},{"id":58403,"title":"登古鄴城","titledesc":"","poemindex":58},{"id":58404,"title":"邯鄲客舍歌","titledesc":"","poemindex":59},{"id":58405,"title":"戎葵花歌〈戎一作蜀〉","titledesc":"","poemindex":60}],"近體詩":[{"id":58406,"title":"寄左省杜拾遺","titledesc":"","poemindex":61},{"id":58407,"title":"丘中春卧寄王子","titledesc":"","poemindex":62},{"id":58408,"title":"漢川山行呈成少尹","titledesc":"","poemindex":63},{"id":58409,"title":"江行夜宿龍吼灘臨眺思峩眉隱者兼寄幕中諸公","titledesc":"","poemindex":64},{"id":58410,"title":"敬酬李判官使院即事見呈","titledesc":"","poemindex":65},{"id":58411,"title":"酬崔十三侍御登玉壘山思故園見寄","titledesc":"","poemindex":66},{"id":58412,"title":"崔駙馬山池重送宇文眀府〈得苖字〉","titledesc":"","poemindex":67},{"id":58413,"title":"滻水東店送唐子歸嵩陽","titledesc":"","poemindex":68},{"id":58414,"title":"送杜佐下第歸陸渾别業","titledesc":"","poemindex":69},{"id":58415,"title":"送張郎中赴隴右覲省卿公〈時張卿公亦充節度留後〉","titledesc":"","poemindex":70},{"id":58416,"title":"送鄭少府赴滏陽","titledesc":"","poemindex":71},{"id":58417,"title":"還髙冠潭口留别舍弟","titledesc":"","poemindex":72},{"id":58418,"title":"送張子尉南海","titledesc":"","poemindex":73},{"id":58419,"title":"送張都尉東歸","titledesc":"","poemindex":74},{"id":58420,"title":"趙少尹南亭送鄭侍御歸東臺","titledesc":"","poemindex":75},{"id":58421,"title":"奉送李太保兼御史大夫充渭北節度使〈即太尉光弼弟〉","titledesc":"","poemindex":76},{"id":58422,"title":"虢州送天平何丞入京市馬","titledesc":"","poemindex":77},{"id":58423,"title":"送懷州吳别駕","titledesc":"","poemindex":78},{"id":58424,"title":"送楊子","titledesc":"","poemindex":79},{"id":58425,"title":"送人到安西","titledesc":"","poemindex":80},{"id":58426,"title":"發臨洮將赴北庭留别","titledesc":"","poemindex":81},{"id":58427,"title":"與鮮于庶子泛漢江","titledesc":"","poemindex":82},{"id":58428,"title":"登總持閣","titledesc":"","poemindex":83},{"id":58429,"title":"宿岐州北郭嚴給事别業","titledesc":"","poemindex":84},{"id":58430,"title":"晚過盤石寺禮鄭和尚","titledesc":"","poemindex":85},{"id":58431,"title":"虢州卧疾喜劉判官相過水亭","titledesc":"","poemindex":86},{"id":58432,"title":"武威春暮聞宇文判官西使還已到晉昌","titledesc":"","poemindex":87},{"id":58433,"title":"初授官題髙冠草堂","titledesc":"","poemindex":88},{"id":58434,"title":"過酒泉憶杜陵别業","titledesc":"","poemindex":89},{"id":58435,"title":"首秋輪臺","titledesc":"","poemindex":90},{"id":58436,"title":"北庭作","titledesc":"","poemindex":91},{"id":58437,"title":"晩發五渡","titledesc":"","poemindex":92},{"id":58438,"title":"巴南舟中夜書事","titledesc":"","poemindex":93},{"id":58439,"title":"送盧郎中除杭州赴任","titledesc":"","poemindex":94},{"id":58440,"title":"六月三十日水亭送華陰王少府還縣","titledesc":"","poemindex":95},{"id":58441,"title":"送郭僕射節制劍南","titledesc":"","poemindex":96},{"id":58442,"title":"早秋與諸子登虢州西亭觀眺","titledesc":"","poemindex":97},{"id":58443,"title":"奉和中書舍人賈至早朝大眀宫","titledesc":"","poemindex":98},{"id":58444,"title":"和祠部王員外雪後早朝即事","titledesc":"","poemindex":99},{"id":58445,"title":"奉和杜相公發益昌","titledesc":"","poemindex":100},{"id":58446,"title":"秋夕讀書幽興獻兵部李侍郎","titledesc":"","poemindex":101},{"id":58447,"title":"使君席夜送嚴河南赴長水","titledesc":"","poemindex":102},{"id":58448,"title":"暮春虢州東亭送李司馬歸扶風别廬","titledesc":"","poemindex":103},{"id":58449,"title":"西掖省即事","titledesc":"","poemindex":104},{"id":58450,"title":"首春渭西郊行呈藍田張二主簿","titledesc":"","poemindex":105},{"id":58451,"title":"赴嘉州過城固縣尋永安超禪師房","titledesc":"","poemindex":106},{"id":58452,"title":"行軍九日思長安故園〈時未收長安〉","titledesc":"","poemindex":107},{"id":58453,"title":"獻封大夫破播仙凱歌","titledesc":"","poemindex":108},{"id":58454,"title":"獻封大夫破播仙凱歌","titledesc":"","poemindex":109},{"id":58455,"title":"獻封大夫破播仙凱歌","titledesc":"","poemindex":110},{"id":58456,"title":"獻封大夫破播仙凱歌","titledesc":"","poemindex":111},{"id":58457,"title":"題苜蓿峯寄家人","titledesc":"","poemindex":112},{"id":58458,"title":"玉關寄長安李主簿","titledesc":"","poemindex":113},{"id":58459,"title":"武威送劉判官赴磧西行軍","titledesc":"","poemindex":114},{"id":58460,"title":"虢州後亭送李判官使赴晉絳〈得秋字〉","titledesc":"","poemindex":115},{"id":58461,"title":"奉送賈侍御使江外","titledesc":"","poemindex":116},{"id":58462,"title":"送崔子還京","titledesc":"","poemindex":117},{"id":58463,"title":"酒泉太守席上醉後作","titledesc":"","poemindex":118},{"id":58464,"title":"山房春事","titledesc":"","poemindex":119},{"id":58465,"title":"逢入京使","titledesc":"","poemindex":120},{"id":58466,"title":"磧中作","titledesc":"","poemindex":121},{"id":58467,"title":"赴北庭度隴思家","titledesc":"","poemindex":122},{"id":58468,"title":"趙將軍歌","titledesc":"","poemindex":123},{"id":58469,"title":"春夢","titledesc":"","poemindex":124}]}}}
+{
+  "岑參": {
+    "author": "岑參",
+    "authordesc": "參南陽人文本之後天寶中進士歴安西闗西節度判官試大理評事攝監察御史杜甫薦之轉左補闕起居郎累遷侍御史出為嘉州刺史杜子美嘗薦參於朝表云參識度清逺議論雅正佳名早上時輩所仰又詩云岑參多新詩性亦嗜醇醪又云髙岑殊緩步謝鮑得同行蓋岑與子美非薄交也其詩實為少陵所稱許\n京兆杜確序畧云南陽岑公早歲孤貧能自砥礪徧覽史籍尤工綴文屬辭尚清用志尚切其有所得多入佳境迥拔孤秀出於常情毎一篇絶筆則人人傳寫雖閭里士庶戎夷蠻貊莫不吟習焉後之詞人有所觀覽亦猶聆廣樂者識清商之音遊名山者仰翠微之色足以瑩徹心府發揮髙致\n殷璠云參詩語奇體俊意亦造奇至如長風吹白茅野火燒枯桑可謂逸才又山風吹空林颯颯如有人宜稱幽𦤺也",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 58346,
+          "uid": "poem-14-1",
+          "title": "初過隴山途中呈宇文判官",
+          "titledesc": "",
+          "poemindex": 1
+        },
+        {
+          "id": 58347,
+          "uid": "poem-14-2",
+          "title": "秋夜宿仙遊寺南凉堂呈謙道人",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 58348,
+          "uid": "poem-14-3",
+          "title": "宿太白東谿李老舍即事寄弟姪",
+          "titledesc": "",
+          "poemindex": 3
+        },
+        {
+          "id": 58349,
+          "uid": "poem-14-4",
+          "title": "終南雲際精舍尋法澄上人不遇歸髙冠東潭石淙望秦嶺微雨作貽友人",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 58350,
+          "uid": "poem-14-5",
+          "title": "至大梁却寄匡城主人",
+          "titledesc": "",
+          "poemindex": 5
+        },
+        {
+          "id": 58351,
+          "uid": "poem-14-6",
+          "title": "武威送劉單判官赴安西行營便呈髙開府",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 58352,
+          "uid": "poem-14-7",
+          "title": "送王大昌齡赴江寧",
+          "titledesc": "",
+          "poemindex": 7
+        },
+        {
+          "id": 58353,
+          "uid": "poem-14-8",
+          "title": "送祁樂歸河東",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 58354,
+          "uid": "poem-14-9",
+          "title": "北亭貽宗學士道别",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 58355,
+          "uid": "poem-14-10",
+          "title": "虢州郡齋南池幽興因與閻二侍御道别",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 58356,
+          "uid": "poem-14-11",
+          "title": "送李翥遊江外",
+          "titledesc": "",
+          "poemindex": 11
+        },
+        {
+          "id": 58357,
+          "uid": "poem-14-12",
+          "title": "送顔平原〈并序〉",
+          "titledesc": "十二年春有詔補尚書十數公為郡守上親賦詩觴羣公宴於蓬萊前殿仍贈以繒帛寵餞加等參美顔公是行為寵别章句",
+          "poemindex": 12
+        },
+        {
+          "id": 58358,
+          "uid": "poem-14-13",
+          "title": "灃頭送蔣侯",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 58359,
+          "uid": "poem-14-14",
+          "title": "登嘉州凌雲寺作",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 58360,
+          "uid": "poem-14-15",
+          "title": "與髙適薛據登慈恩寺浮圖",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 58361,
+          "uid": "poem-14-16",
+          "title": "出關經華嶽寺訪法華雲公",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 58362,
+          "uid": "poem-14-17",
+          "title": "春半與羣公同遊元處士别業",
+          "titledesc": "",
+          "poemindex": 17
+        },
+        {
+          "id": 58363,
+          "uid": "poem-14-18",
+          "title": "終南山雙峯草堂作",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 58364,
+          "uid": "poem-14-19",
+          "title": "緱山西峯草堂作",
+          "titledesc": "",
+          "poemindex": 19
+        },
+        {
+          "id": 58365,
+          "uid": "poem-14-20",
+          "title": "尋鞏縣南李處士別業",
+          "titledesc": "",
+          "poemindex": 20
+        },
+        {
+          "id": 58366,
+          "uid": "poem-14-21",
+          "title": "自潘陵尖還少室居止秋夕憑眺",
+          "titledesc": "",
+          "poemindex": 21
+        },
+        {
+          "id": 58367,
+          "uid": "poem-14-22",
+          "title": "南池夜宿思王屋青蘿舊齋",
+          "titledesc": "",
+          "poemindex": 22
+        },
+        {
+          "id": 58368,
+          "uid": "poem-14-23",
+          "title": "過王判官西津所居",
+          "titledesc": "",
+          "poemindex": 23
+        },
+        {
+          "id": 58369,
+          "uid": "poem-14-24",
+          "title": "因假歸白閣西草堂",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 58370,
+          "uid": "poem-14-25",
+          "title": "楚夕旅泊古興",
+          "titledesc": "",
+          "poemindex": 25
+        },
+        {
+          "id": 58371,
+          "uid": "poem-14-26",
+          "title": "下外江舟懷終南舊居",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 58372,
+          "uid": "poem-14-27",
+          "title": "暮秋山行",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 58373,
+          "uid": "poem-14-28",
+          "title": "江上阻風雨",
+          "titledesc": "",
+          "poemindex": 28
+        },
+        {
+          "id": 58374,
+          "uid": "poem-14-29",
+          "title": "東歸發犍為至泥溪舟中作",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 58375,
+          "uid": "poem-14-30",
+          "title": "秋夕聽羅山人彈三峽流泉",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 58376,
+          "uid": "poem-14-31",
+          "title": "白雪歌送武判官歸京",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 58377,
+          "uid": "poem-14-32",
+          "title": "熱海行送崔侍御還京",
+          "titledesc": "",
+          "poemindex": 32
+        },
+        {
+          "id": 58378,
+          "uid": "poem-14-33",
+          "title": "輪臺歌奉送封大夫出師西征",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 58379,
+          "uid": "poem-14-34",
+          "title": "天山雪歌送蕭治歸京",
+          "titledesc": "",
+          "poemindex": 34
+        },
+        {
+          "id": 58380,
+          "uid": "poem-14-35",
+          "title": "青門歌送東臺張判官",
+          "titledesc": "",
+          "poemindex": 35
+        },
+        {
+          "id": 58381,
+          "uid": "poem-14-36",
+          "title": "梁園歌送河南王說判官",
+          "titledesc": "",
+          "poemindex": 36
+        },
+        {
+          "id": 58382,
+          "uid": "poem-14-37",
+          "title": "走馬川行奉送出師西征",
+          "titledesc": "",
+          "poemindex": 37
+        },
+        {
+          "id": 58383,
+          "uid": "poem-14-38",
+          "title": "函谷關歌送劉評事使關西",
+          "titledesc": "",
+          "poemindex": 38
+        },
+        {
+          "id": 58384,
+          "uid": "poem-14-39",
+          "title": "胡笳歌送顔真卿使赴河隴",
+          "titledesc": "",
+          "poemindex": 39
+        },
+        {
+          "id": 58385,
+          "uid": "poem-14-40",
+          "title": "秦箏歌送外甥蕭正歸京",
+          "titledesc": "",
+          "poemindex": 40
+        },
+        {
+          "id": 58386,
+          "uid": "poem-14-41",
+          "title": "與獨孤漸道别長句兼呈嚴八侍御",
+          "titledesc": "",
+          "poemindex": 41
+        },
+        {
+          "id": 58387,
+          "uid": "poem-14-42",
+          "title": "送費子歸武昌",
+          "titledesc": "",
+          "poemindex": 42
+        },
+        {
+          "id": 58388,
+          "uid": "poem-14-43",
+          "title": "凉州館中與諸判官夜集",
+          "titledesc": "",
+          "poemindex": 43
+        },
+        {
+          "id": 58389,
+          "uid": "poem-14-44",
+          "title": "醉題匡城周少府㕔壁",
+          "titledesc": "",
+          "poemindex": 44
+        },
+        {
+          "id": 58390,
+          "uid": "poem-14-45",
+          "title": "燉煌太守後庭歌",
+          "titledesc": "",
+          "poemindex": 45
+        },
+        {
+          "id": 58391,
+          "uid": "poem-14-46",
+          "title": "喜韓樽相過",
+          "titledesc": "",
+          "poemindex": 46
+        },
+        {
+          "id": 58392,
+          "uid": "poem-14-47",
+          "title": "太白胡僧歌〈并序〉",
+          "titledesc": "太白中峯絶頂有胡僧不知幾百歲眉長數寸身不製繒帛衣以草葉恒持楞伽經雲壁迥絶人迹罕到嘗東峰有鬬虎弱者將死僧杖而解之西湫有毒龍久而為患僧器而貯之商山趙叟前年采茯苓深入太白偶値此僧訪我而說予恒有獨往之意聞而恱之乃為歌曰",
+          "poemindex": 47
+        },
+        {
+          "id": 58393,
+          "uid": "poem-14-48",
+          "title": "衞節度赤驃馬歌",
+          "titledesc": "",
+          "poemindex": 48
+        },
+        {
+          "id": 58394,
+          "uid": "poem-14-49",
+          "title": "田使君美人舞如蓮花北鋋歌〈此曲本出北同城〉",
+          "titledesc": "",
+          "poemindex": 49
+        },
+        {
+          "id": 58395,
+          "uid": "poem-14-50",
+          "title": "裴將軍宅蘆管歌",
+          "titledesc": "",
+          "poemindex": 50
+        },
+        {
+          "id": 58396,
+          "uid": "poem-14-51",
+          "title": "韋貟外家花樹歌",
+          "titledesc": "",
+          "poemindex": 51
+        },
+        {
+          "id": 58397,
+          "uid": "poem-14-52",
+          "title": "范公叢竹歌〈并序〉",
+          "titledesc": "職方郎中兼侍御史范公乃於陜西使院内種竹新製叢竹詩以見示美范公之清致雅操遂為歌以和之",
+          "poemindex": 52
+        },
+        {
+          "id": 58398,
+          "uid": "poem-14-53",
+          "title": "玉門關蓋將軍歌",
+          "titledesc": "",
+          "poemindex": 53
+        },
+        {
+          "id": 58399,
+          "uid": "poem-14-54",
+          "title": "送魏升卿擢第歸東都因懷魏校書陸渾喬潭",
+          "titledesc": "",
+          "poemindex": 54
+        },
+        {
+          "id": 58400,
+          "uid": "poem-14-55",
+          "title": "偃師東與韓樽同詣景雲暉上人即事",
+          "titledesc": "",
+          "poemindex": 55
+        },
+        {
+          "id": 58401,
+          "uid": "poem-14-56",
+          "title": "西亭子送李司馬",
+          "titledesc": "",
+          "poemindex": 56
+        },
+        {
+          "id": 58402,
+          "uid": "poem-14-57",
+          "title": "漁父",
+          "titledesc": "",
+          "poemindex": 57
+        },
+        {
+          "id": 58403,
+          "uid": "poem-14-58",
+          "title": "登古鄴城",
+          "titledesc": "",
+          "poemindex": 58
+        },
+        {
+          "id": 58404,
+          "uid": "poem-14-59",
+          "title": "邯鄲客舍歌",
+          "titledesc": "",
+          "poemindex": 59
+        },
+        {
+          "id": 58405,
+          "uid": "poem-14-60",
+          "title": "戎葵花歌〈戎一作蜀〉",
+          "titledesc": "",
+          "poemindex": 60
+        }
+      ],
+      "近體詩": [
+        {
+          "id": 58406,
+          "uid": "poem-14-61",
+          "title": "寄左省杜拾遺",
+          "titledesc": "",
+          "poemindex": 61
+        },
+        {
+          "id": 58407,
+          "uid": "poem-14-62",
+          "title": "丘中春卧寄王子",
+          "titledesc": "",
+          "poemindex": 62
+        },
+        {
+          "id": 58408,
+          "uid": "poem-14-63",
+          "title": "漢川山行呈成少尹",
+          "titledesc": "",
+          "poemindex": 63
+        },
+        {
+          "id": 58409,
+          "uid": "poem-14-64",
+          "title": "江行夜宿龍吼灘臨眺思峩眉隱者兼寄幕中諸公",
+          "titledesc": "",
+          "poemindex": 64
+        },
+        {
+          "id": 58410,
+          "uid": "poem-14-65",
+          "title": "敬酬李判官使院即事見呈",
+          "titledesc": "",
+          "poemindex": 65
+        },
+        {
+          "id": 58411,
+          "uid": "poem-14-66",
+          "title": "酬崔十三侍御登玉壘山思故園見寄",
+          "titledesc": "",
+          "poemindex": 66
+        },
+        {
+          "id": 58412,
+          "uid": "poem-14-67",
+          "title": "崔駙馬山池重送宇文眀府〈得苖字〉",
+          "titledesc": "",
+          "poemindex": 67
+        },
+        {
+          "id": 58413,
+          "uid": "poem-14-68",
+          "title": "滻水東店送唐子歸嵩陽",
+          "titledesc": "",
+          "poemindex": 68
+        },
+        {
+          "id": 58414,
+          "uid": "poem-14-69",
+          "title": "送杜佐下第歸陸渾别業",
+          "titledesc": "",
+          "poemindex": 69
+        },
+        {
+          "id": 58415,
+          "uid": "poem-14-70",
+          "title": "送張郎中赴隴右覲省卿公〈時張卿公亦充節度留後〉",
+          "titledesc": "",
+          "poemindex": 70
+        },
+        {
+          "id": 58416,
+          "uid": "poem-14-71",
+          "title": "送鄭少府赴滏陽",
+          "titledesc": "",
+          "poemindex": 71
+        },
+        {
+          "id": 58417,
+          "uid": "poem-14-72",
+          "title": "還髙冠潭口留别舍弟",
+          "titledesc": "",
+          "poemindex": 72
+        },
+        {
+          "id": 58418,
+          "uid": "poem-14-73",
+          "title": "送張子尉南海",
+          "titledesc": "",
+          "poemindex": 73
+        },
+        {
+          "id": 58419,
+          "uid": "poem-14-74",
+          "title": "送張都尉東歸",
+          "titledesc": "",
+          "poemindex": 74
+        },
+        {
+          "id": 58420,
+          "uid": "poem-14-75",
+          "title": "趙少尹南亭送鄭侍御歸東臺",
+          "titledesc": "",
+          "poemindex": 75
+        },
+        {
+          "id": 58421,
+          "uid": "poem-14-76",
+          "title": "奉送李太保兼御史大夫充渭北節度使〈即太尉光弼弟〉",
+          "titledesc": "",
+          "poemindex": 76
+        },
+        {
+          "id": 58422,
+          "uid": "poem-14-77",
+          "title": "虢州送天平何丞入京市馬",
+          "titledesc": "",
+          "poemindex": 77
+        },
+        {
+          "id": 58423,
+          "uid": "poem-14-78",
+          "title": "送懷州吳别駕",
+          "titledesc": "",
+          "poemindex": 78
+        },
+        {
+          "id": 58424,
+          "uid": "poem-14-79",
+          "title": "送楊子",
+          "titledesc": "",
+          "poemindex": 79
+        },
+        {
+          "id": 58425,
+          "uid": "poem-14-80",
+          "title": "送人到安西",
+          "titledesc": "",
+          "poemindex": 80
+        },
+        {
+          "id": 58426,
+          "uid": "poem-14-81",
+          "title": "發臨洮將赴北庭留别",
+          "titledesc": "",
+          "poemindex": 81
+        },
+        {
+          "id": 58427,
+          "uid": "poem-14-82",
+          "title": "與鮮于庶子泛漢江",
+          "titledesc": "",
+          "poemindex": 82
+        },
+        {
+          "id": 58428,
+          "uid": "poem-14-83",
+          "title": "登總持閣",
+          "titledesc": "",
+          "poemindex": 83
+        },
+        {
+          "id": 58429,
+          "uid": "poem-14-84",
+          "title": "宿岐州北郭嚴給事别業",
+          "titledesc": "",
+          "poemindex": 84
+        },
+        {
+          "id": 58430,
+          "uid": "poem-14-85",
+          "title": "晚過盤石寺禮鄭和尚",
+          "titledesc": "",
+          "poemindex": 85
+        },
+        {
+          "id": 58431,
+          "uid": "poem-14-86",
+          "title": "虢州卧疾喜劉判官相過水亭",
+          "titledesc": "",
+          "poemindex": 86
+        },
+        {
+          "id": 58432,
+          "uid": "poem-14-87",
+          "title": "武威春暮聞宇文判官西使還已到晉昌",
+          "titledesc": "",
+          "poemindex": 87
+        },
+        {
+          "id": 58433,
+          "uid": "poem-14-88",
+          "title": "初授官題髙冠草堂",
+          "titledesc": "",
+          "poemindex": 88
+        },
+        {
+          "id": 58434,
+          "uid": "poem-14-89",
+          "title": "過酒泉憶杜陵别業",
+          "titledesc": "",
+          "poemindex": 89
+        },
+        {
+          "id": 58435,
+          "uid": "poem-14-90",
+          "title": "首秋輪臺",
+          "titledesc": "",
+          "poemindex": 90
+        },
+        {
+          "id": 58436,
+          "uid": "poem-14-91",
+          "title": "北庭作",
+          "titledesc": "",
+          "poemindex": 91
+        },
+        {
+          "id": 58437,
+          "uid": "poem-14-92",
+          "title": "晩發五渡",
+          "titledesc": "",
+          "poemindex": 92
+        },
+        {
+          "id": 58438,
+          "uid": "poem-14-93",
+          "title": "巴南舟中夜書事",
+          "titledesc": "",
+          "poemindex": 93
+        },
+        {
+          "id": 58439,
+          "uid": "poem-14-94",
+          "title": "送盧郎中除杭州赴任",
+          "titledesc": "",
+          "poemindex": 94
+        },
+        {
+          "id": 58440,
+          "uid": "poem-14-95",
+          "title": "六月三十日水亭送華陰王少府還縣",
+          "titledesc": "",
+          "poemindex": 95
+        },
+        {
+          "id": 58441,
+          "uid": "poem-14-96",
+          "title": "送郭僕射節制劍南",
+          "titledesc": "",
+          "poemindex": 96
+        },
+        {
+          "id": 58442,
+          "uid": "poem-14-97",
+          "title": "早秋與諸子登虢州西亭觀眺",
+          "titledesc": "",
+          "poemindex": 97
+        },
+        {
+          "id": 58443,
+          "uid": "poem-14-98",
+          "title": "奉和中書舍人賈至早朝大眀宫",
+          "titledesc": "",
+          "poemindex": 98
+        },
+        {
+          "id": 58444,
+          "uid": "poem-14-99",
+          "title": "和祠部王員外雪後早朝即事",
+          "titledesc": "",
+          "poemindex": 99
+        },
+        {
+          "id": 58445,
+          "uid": "poem-14-100",
+          "title": "奉和杜相公發益昌",
+          "titledesc": "",
+          "poemindex": 100
+        },
+        {
+          "id": 58446,
+          "uid": "poem-14-101",
+          "title": "秋夕讀書幽興獻兵部李侍郎",
+          "titledesc": "",
+          "poemindex": 101
+        },
+        {
+          "id": 58447,
+          "uid": "poem-14-102",
+          "title": "使君席夜送嚴河南赴長水",
+          "titledesc": "",
+          "poemindex": 102
+        },
+        {
+          "id": 58448,
+          "uid": "poem-14-103",
+          "title": "暮春虢州東亭送李司馬歸扶風别廬",
+          "titledesc": "",
+          "poemindex": 103
+        },
+        {
+          "id": 58449,
+          "uid": "poem-14-104",
+          "title": "西掖省即事",
+          "titledesc": "",
+          "poemindex": 104
+        },
+        {
+          "id": 58450,
+          "uid": "poem-14-105",
+          "title": "首春渭西郊行呈藍田張二主簿",
+          "titledesc": "",
+          "poemindex": 105
+        },
+        {
+          "id": 58451,
+          "uid": "poem-14-106",
+          "title": "赴嘉州過城固縣尋永安超禪師房",
+          "titledesc": "",
+          "poemindex": 106
+        },
+        {
+          "id": 58452,
+          "uid": "poem-14-107",
+          "title": "行軍九日思長安故園〈時未收長安〉",
+          "titledesc": "",
+          "poemindex": 107
+        },
+        {
+          "id": 58453,
+          "uid": "poem-14-108",
+          "title": "獻封大夫破播仙凱歌",
+          "titledesc": "",
+          "poemindex": 108
+        },
+        {
+          "id": 58454,
+          "uid": "poem-14-109",
+          "title": "獻封大夫破播仙凱歌",
+          "titledesc": "",
+          "poemindex": 109
+        },
+        {
+          "id": 58455,
+          "uid": "poem-14-110",
+          "title": "獻封大夫破播仙凱歌",
+          "titledesc": "",
+          "poemindex": 110
+        },
+        {
+          "id": 58456,
+          "uid": "poem-14-111",
+          "title": "獻封大夫破播仙凱歌",
+          "titledesc": "",
+          "poemindex": 111
+        },
+        {
+          "id": 58457,
+          "uid": "poem-14-112",
+          "title": "題苜蓿峯寄家人",
+          "titledesc": "",
+          "poemindex": 112
+        },
+        {
+          "id": 58458,
+          "uid": "poem-14-113",
+          "title": "玉關寄長安李主簿",
+          "titledesc": "",
+          "poemindex": 113
+        },
+        {
+          "id": 58459,
+          "uid": "poem-14-114",
+          "title": "武威送劉判官赴磧西行軍",
+          "titledesc": "",
+          "poemindex": 114
+        },
+        {
+          "id": 58460,
+          "uid": "poem-14-115",
+          "title": "虢州後亭送李判官使赴晉絳〈得秋字〉",
+          "titledesc": "",
+          "poemindex": 115
+        },
+        {
+          "id": 58461,
+          "uid": "poem-14-116",
+          "title": "奉送賈侍御使江外",
+          "titledesc": "",
+          "poemindex": 116
+        },
+        {
+          "id": 58462,
+          "uid": "poem-14-117",
+          "title": "送崔子還京",
+          "titledesc": "",
+          "poemindex": 117
+        },
+        {
+          "id": 58463,
+          "uid": "poem-14-118",
+          "title": "酒泉太守席上醉後作",
+          "titledesc": "",
+          "poemindex": 118
+        },
+        {
+          "id": 58464,
+          "uid": "poem-14-119",
+          "title": "山房春事",
+          "titledesc": "",
+          "poemindex": 119
+        },
+        {
+          "id": 58465,
+          "uid": "poem-14-120",
+          "title": "逢入京使",
+          "titledesc": "",
+          "poemindex": 120
+        },
+        {
+          "id": 58466,
+          "uid": "poem-14-121",
+          "title": "磧中作",
+          "titledesc": "",
+          "poemindex": 121
+        },
+        {
+          "id": 58467,
+          "uid": "poem-14-122",
+          "title": "赴北庭度隴思家",
+          "titledesc": "",
+          "poemindex": 122
+        },
+        {
+          "id": 58468,
+          "uid": "poem-14-123",
+          "title": "趙將軍歌",
+          "titledesc": "",
+          "poemindex": 123
+        },
+        {
+          "id": 58469,
+          "uid": "poem-14-124",
+          "title": "春夢",
+          "titledesc": "",
+          "poemindex": 124
+        }
+      ]
+    }
+  }
+}

@@ -10,7 +10,7 @@
         <div class="charstyle">{{ charstyle }}</div>
 
         <div class="poemlist" v-for="(poem, key) in poems" :key="key">
-          <a class="poemtitle" :href="`poem.html#P${poem.id}`">{{ poem.title }}</a>
+          <a class="poemtitle" :href="`poem.html#${poem.uid}`">{{ poem.title }}</a>
         </div>
       </div>
     </div>

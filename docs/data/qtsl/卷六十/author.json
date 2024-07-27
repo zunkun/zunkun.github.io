@@ -1,1 +1,479 @@
-{"白居易":{"author":"白居易","authordesc":"","charstyleMap":{"古體詩":[{"id":62998,"title":"訪陶公舊宅〈并序〉","titledesc":"予夙慕陶淵明為人徃歲渭川閒居常有傚陶體詩十六首今遊廬山經柴桑過栗里思其人訪其宅不能黙黙又題此詩云","poemindex":1},{"id":62999,"title":"北亭","titledesc":"","poemindex":2},{"id":63000,"title":"游湓水","titledesc":"","poemindex":3},{"id":63001,"title":"宿簡寂觀","titledesc":"","poemindex":4},{"id":63002,"title":"睡起晏坐","titledesc":"","poemindex":5},{"id":63003,"title":"過李生","titledesc":"","poemindex":6},{"id":63004,"title":"食笋","titledesc":"","poemindex":7},{"id":63005,"title":"香爐峰下新置草堂即事詠懐題於石上","titledesc":"","poemindex":8},{"id":63006,"title":"草堂前開一池養魚種荷日有幽趣","titledesc":"","poemindex":9},{"id":63007,"title":"登香爐峰","titledesc":"","poemindex":10},{"id":63008,"title":"弄龜羅","titledesc":"","poemindex":11},{"id":63009,"title":"截樹","titledesc":"","poemindex":12},{"id":63010,"title":"題座隅","titledesc":"","poemindex":13},{"id":63011,"title":"贖鷄","titledesc":"","poemindex":14},{"id":63012,"title":"秋日懐杓直〈時杓直出牧澧州〉","titledesc":"","poemindex":15},{"id":63013,"title":"對酒示行簡","titledesc":"","poemindex":16},{"id":63014,"title":"長慶二年七月自中書舍人出守杭州路次藍溪作","titledesc":"","poemindex":17},{"id":63015,"title":"初出城留别","titledesc":"","poemindex":18},{"id":63016,"title":"自秦望赴五松驛馬上偶睡睡覺成吟","titledesc":"","poemindex":19},{"id":63017,"title":"鄧州路中作","titledesc":"","poemindex":20},{"id":63018,"title":"山路偶興","titledesc":"","poemindex":21},{"id":63019,"title":"初領郡政衙退登東樓作","titledesc":"","poemindex":22},{"id":63020,"title":"郡亭","titledesc":"","poemindex":23},{"id":63021,"title":"郡中即事","titledesc":"","poemindex":24},{"id":63022,"title":"郡齋暇日辱常州陳郎中使君早春晩坐水西館書事詩十六韻見寄亦以十六韻酬之","titledesc":"","poemindex":25},{"id":63023,"title":"官舍","titledesc":"","poemindex":26},{"id":63024,"title":"吾雛","titledesc":"","poemindex":27},{"id":63025,"title":"題小橋前新竹招客","titledesc":"","poemindex":28},{"id":63026,"title":"病中逢秋招客夜酌","titledesc":"","poemindex":29},{"id":63027,"title":"除官去未閒","titledesc":"","poemindex":30},{"id":63028,"title":"洛下卜居","titledesc":"","poemindex":31},{"id":63029,"title":"自詠","titledesc":"","poemindex":32},{"id":63030,"title":"晏起","titledesc":"","poemindex":33},{"id":63031,"title":"春葺新居","titledesc":"","poemindex":34},{"id":63032,"title":"泛春池","titledesc":"","poemindex":35},{"id":63033,"title":"新栽竹","titledesc":"","poemindex":36},{"id":63034,"title":"寄江南兄弟","titledesc":"","poemindex":37},{"id":63035,"title":"寄題盩厔㕔前雙松〈兩松自仙遊山移植縣㕔〉","titledesc":"","poemindex":38},{"id":63036,"title":"别元九後詠所懐","titledesc":"","poemindex":39},{"id":63037,"title":"早秋曲江感懐","titledesc":"","poemindex":40},{"id":63038,"title":"寄元九","titledesc":"","poemindex":41},{"id":63039,"title":"别舍弟後月夜","titledesc":"","poemindex":42},{"id":63040,"title":"勸酒寄元九","titledesc":"","poemindex":43},{"id":63041,"title":"曲江感秋","titledesc":"","poemindex":44},{"id":63042,"title":"酬張太祝晩秋卧病見寄","titledesc":"","poemindex":45},{"id":63043,"title":"早朝賀雪寄陳山人","titledesc":"","poemindex":46},{"id":63044,"title":"初與元九别後忽夢見之及寤而書適至兼寄桐花詩悵然感懐因以此寄〈元九初謫江陵〉","titledesc":"","poemindex":47},{"id":63045,"title":"重到渭江舊居","titledesc":"","poemindex":48},{"id":63046,"title":"白髮","titledesc":"","poemindex":49},{"id":63047,"title":"酬李少府曹長官舍見贈","titledesc":"","poemindex":50},{"id":63048,"title":"曉别","titledesc":"","poemindex":51},{"id":63049,"title":"北園","titledesc":"","poemindex":52},{"id":63050,"title":"秋月","titledesc":"","poemindex":53},{"id":63051,"title":"朱陳邨","titledesc":"","poemindex":54},{"id":63052,"title":"歎老","titledesc":"","poemindex":55},{"id":63053,"title":"歎老","titledesc":"","poemindex":56},{"id":63054,"title":"歎老","titledesc":"","poemindex":57},{"id":63055,"title":"送兄弟回雪夜","titledesc":"","poemindex":58},{"id":63056,"title":"同友人尋澗花","titledesc":"","poemindex":59},{"id":63057,"title":"别行簡〈時行簡辟盧坦劍南東川府〉","titledesc":"","poemindex":60},{"id":63058,"title":"感鏡","titledesc":"","poemindex":61},{"id":63059,"title":"送春","titledesc":"","poemindex":62},{"id":63060,"title":"初出藍田路作","titledesc":"","poemindex":63},{"id":63061,"title":"仙娥峰下作","titledesc":"","poemindex":64},{"id":63062,"title":"寄微之","titledesc":"","poemindex":65},{"id":63063,"title":"寄微之","titledesc":"","poemindex":66},{"id":63064,"title":"寄微之","titledesc":"","poemindex":67}]}}}
+{
+  "白居易": {
+    "author": "白居易",
+    "authordesc": "",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 62998,
+          "uid": "poem-60-1",
+          "title": "訪陶公舊宅〈并序〉",
+          "titledesc": "予夙慕陶淵明為人徃歲渭川閒居常有傚陶體詩十六首今遊廬山經柴桑過栗里思其人訪其宅不能黙黙又題此詩云",
+          "poemindex": 1
+        },
+        {
+          "id": 62999,
+          "uid": "poem-60-2",
+          "title": "北亭",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 63000,
+          "uid": "poem-60-3",
+          "title": "游湓水",
+          "titledesc": "",
+          "poemindex": 3
+        },
+        {
+          "id": 63001,
+          "uid": "poem-60-4",
+          "title": "宿簡寂觀",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 63002,
+          "uid": "poem-60-5",
+          "title": "睡起晏坐",
+          "titledesc": "",
+          "poemindex": 5
+        },
+        {
+          "id": 63003,
+          "uid": "poem-60-6",
+          "title": "過李生",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 63004,
+          "uid": "poem-60-7",
+          "title": "食笋",
+          "titledesc": "",
+          "poemindex": 7
+        },
+        {
+          "id": 63005,
+          "uid": "poem-60-8",
+          "title": "香爐峰下新置草堂即事詠懐題於石上",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 63006,
+          "uid": "poem-60-9",
+          "title": "草堂前開一池養魚種荷日有幽趣",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 63007,
+          "uid": "poem-60-10",
+          "title": "登香爐峰",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 63008,
+          "uid": "poem-60-11",
+          "title": "弄龜羅",
+          "titledesc": "",
+          "poemindex": 11
+        },
+        {
+          "id": 63009,
+          "uid": "poem-60-12",
+          "title": "截樹",
+          "titledesc": "",
+          "poemindex": 12
+        },
+        {
+          "id": 63010,
+          "uid": "poem-60-13",
+          "title": "題座隅",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 63011,
+          "uid": "poem-60-14",
+          "title": "贖鷄",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 63012,
+          "uid": "poem-60-15",
+          "title": "秋日懐杓直〈時杓直出牧澧州〉",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 63013,
+          "uid": "poem-60-16",
+          "title": "對酒示行簡",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 63014,
+          "uid": "poem-60-17",
+          "title": "長慶二年七月自中書舍人出守杭州路次藍溪作",
+          "titledesc": "",
+          "poemindex": 17
+        },
+        {
+          "id": 63015,
+          "uid": "poem-60-18",
+          "title": "初出城留别",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 63016,
+          "uid": "poem-60-19",
+          "title": "自秦望赴五松驛馬上偶睡睡覺成吟",
+          "titledesc": "",
+          "poemindex": 19
+        },
+        {
+          "id": 63017,
+          "uid": "poem-60-20",
+          "title": "鄧州路中作",
+          "titledesc": "",
+          "poemindex": 20
+        },
+        {
+          "id": 63018,
+          "uid": "poem-60-21",
+          "title": "山路偶興",
+          "titledesc": "",
+          "poemindex": 21
+        },
+        {
+          "id": 63019,
+          "uid": "poem-60-22",
+          "title": "初領郡政衙退登東樓作",
+          "titledesc": "",
+          "poemindex": 22
+        },
+        {
+          "id": 63020,
+          "uid": "poem-60-23",
+          "title": "郡亭",
+          "titledesc": "",
+          "poemindex": 23
+        },
+        {
+          "id": 63021,
+          "uid": "poem-60-24",
+          "title": "郡中即事",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 63022,
+          "uid": "poem-60-25",
+          "title": "郡齋暇日辱常州陳郎中使君早春晩坐水西館書事詩十六韻見寄亦以十六韻酬之",
+          "titledesc": "",
+          "poemindex": 25
+        },
+        {
+          "id": 63023,
+          "uid": "poem-60-26",
+          "title": "官舍",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 63024,
+          "uid": "poem-60-27",
+          "title": "吾雛",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 63025,
+          "uid": "poem-60-28",
+          "title": "題小橋前新竹招客",
+          "titledesc": "",
+          "poemindex": 28
+        },
+        {
+          "id": 63026,
+          "uid": "poem-60-29",
+          "title": "病中逢秋招客夜酌",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 63027,
+          "uid": "poem-60-30",
+          "title": "除官去未閒",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 63028,
+          "uid": "poem-60-31",
+          "title": "洛下卜居",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 63029,
+          "uid": "poem-60-32",
+          "title": "自詠",
+          "titledesc": "",
+          "poemindex": 32
+        },
+        {
+          "id": 63030,
+          "uid": "poem-60-33",
+          "title": "晏起",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 63031,
+          "uid": "poem-60-34",
+          "title": "春葺新居",
+          "titledesc": "",
+          "poemindex": 34
+        },
+        {
+          "id": 63032,
+          "uid": "poem-60-35",
+          "title": "泛春池",
+          "titledesc": "",
+          "poemindex": 35
+        },
+        {
+          "id": 63033,
+          "uid": "poem-60-36",
+          "title": "新栽竹",
+          "titledesc": "",
+          "poemindex": 36
+        },
+        {
+          "id": 63034,
+          "uid": "poem-60-37",
+          "title": "寄江南兄弟",
+          "titledesc": "",
+          "poemindex": 37
+        },
+        {
+          "id": 63035,
+          "uid": "poem-60-38",
+          "title": "寄題盩厔㕔前雙松〈兩松自仙遊山移植縣㕔〉",
+          "titledesc": "",
+          "poemindex": 38
+        },
+        {
+          "id": 63036,
+          "uid": "poem-60-39",
+          "title": "别元九後詠所懐",
+          "titledesc": "",
+          "poemindex": 39
+        },
+        {
+          "id": 63037,
+          "uid": "poem-60-40",
+          "title": "早秋曲江感懐",
+          "titledesc": "",
+          "poemindex": 40
+        },
+        {
+          "id": 63038,
+          "uid": "poem-60-41",
+          "title": "寄元九",
+          "titledesc": "",
+          "poemindex": 41
+        },
+        {
+          "id": 63039,
+          "uid": "poem-60-42",
+          "title": "别舍弟後月夜",
+          "titledesc": "",
+          "poemindex": 42
+        },
+        {
+          "id": 63040,
+          "uid": "poem-60-43",
+          "title": "勸酒寄元九",
+          "titledesc": "",
+          "poemindex": 43
+        },
+        {
+          "id": 63041,
+          "uid": "poem-60-44",
+          "title": "曲江感秋",
+          "titledesc": "",
+          "poemindex": 44
+        },
+        {
+          "id": 63042,
+          "uid": "poem-60-45",
+          "title": "酬張太祝晩秋卧病見寄",
+          "titledesc": "",
+          "poemindex": 45
+        },
+        {
+          "id": 63043,
+          "uid": "poem-60-46",
+          "title": "早朝賀雪寄陳山人",
+          "titledesc": "",
+          "poemindex": 46
+        },
+        {
+          "id": 63044,
+          "uid": "poem-60-47",
+          "title": "初與元九别後忽夢見之及寤而書適至兼寄桐花詩悵然感懐因以此寄〈元九初謫江陵〉",
+          "titledesc": "",
+          "poemindex": 47
+        },
+        {
+          "id": 63045,
+          "uid": "poem-60-48",
+          "title": "重到渭江舊居",
+          "titledesc": "",
+          "poemindex": 48
+        },
+        {
+          "id": 63046,
+          "uid": "poem-60-49",
+          "title": "白髮",
+          "titledesc": "",
+          "poemindex": 49
+        },
+        {
+          "id": 63047,
+          "uid": "poem-60-50",
+          "title": "酬李少府曹長官舍見贈",
+          "titledesc": "",
+          "poemindex": 50
+        },
+        {
+          "id": 63048,
+          "uid": "poem-60-51",
+          "title": "曉别",
+          "titledesc": "",
+          "poemindex": 51
+        },
+        {
+          "id": 63049,
+          "uid": "poem-60-52",
+          "title": "北園",
+          "titledesc": "",
+          "poemindex": 52
+        },
+        {
+          "id": 63050,
+          "uid": "poem-60-53",
+          "title": "秋月",
+          "titledesc": "",
+          "poemindex": 53
+        },
+        {
+          "id": 63051,
+          "uid": "poem-60-54",
+          "title": "朱陳邨",
+          "titledesc": "",
+          "poemindex": 54
+        },
+        {
+          "id": 63052,
+          "uid": "poem-60-55",
+          "title": "歎老",
+          "titledesc": "",
+          "poemindex": 55
+        },
+        {
+          "id": 63053,
+          "uid": "poem-60-56",
+          "title": "歎老",
+          "titledesc": "",
+          "poemindex": 56
+        },
+        {
+          "id": 63054,
+          "uid": "poem-60-57",
+          "title": "歎老",
+          "titledesc": "",
+          "poemindex": 57
+        },
+        {
+          "id": 63055,
+          "uid": "poem-60-58",
+          "title": "送兄弟回雪夜",
+          "titledesc": "",
+          "poemindex": 58
+        },
+        {
+          "id": 63056,
+          "uid": "poem-60-59",
+          "title": "同友人尋澗花",
+          "titledesc": "",
+          "poemindex": 59
+        },
+        {
+          "id": 63057,
+          "uid": "poem-60-60",
+          "title": "别行簡〈時行簡辟盧坦劍南東川府〉",
+          "titledesc": "",
+          "poemindex": 60
+        },
+        {
+          "id": 63058,
+          "uid": "poem-60-61",
+          "title": "感鏡",
+          "titledesc": "",
+          "poemindex": 61
+        },
+        {
+          "id": 63059,
+          "uid": "poem-60-62",
+          "title": "送春",
+          "titledesc": "",
+          "poemindex": 62
+        },
+        {
+          "id": 63060,
+          "uid": "poem-60-63",
+          "title": "初出藍田路作",
+          "titledesc": "",
+          "poemindex": 63
+        },
+        {
+          "id": 63061,
+          "uid": "poem-60-64",
+          "title": "仙娥峰下作",
+          "titledesc": "",
+          "poemindex": 64
+        },
+        {
+          "id": 63062,
+          "uid": "poem-60-65",
+          "title": "寄微之",
+          "titledesc": "",
+          "poemindex": 65
+        },
+        {
+          "id": 63063,
+          "uid": "poem-60-66",
+          "title": "寄微之",
+          "titledesc": "",
+          "poemindex": 66
+        },
+        {
+          "id": 63064,
+          "uid": "poem-60-67",
+          "title": "寄微之",
+          "titledesc": "",
+          "poemindex": 67
+        }
+      ]
+    }
+  }
+}

@@ -1,1 +1,516 @@
-{"韓愈":{"author":"韓愈","authordesc":"","charstyleMap":{"古體詩":[{"id":61952,"title":"送區弘南歸","titledesc":"","poemindex":1},{"id":61953,"title":"陸渾山火和皇甫湜用其韻","titledesc":"","poemindex":2},{"id":61954,"title":"和虞部盧四〈汀〉酬翰林錢七〈徽〉赤藤杖歌","titledesc":"","poemindex":3},{"id":61955,"title":"寄盧仝","titledesc":"","poemindex":4},{"id":61956,"title":"酬司門盧四兄雲夫院長望秋作","titledesc":"","poemindex":5},{"id":61957,"title":"石鼓歌","titledesc":"","poemindex":6},{"id":61958,"title":"盧郎中雲夫寄示送盤谷子詩兩章歌以和之","titledesc":"","poemindex":7},{"id":61959,"title":"短燈檠歌","titledesc":"","poemindex":8},{"id":61960,"title":"華山女","titledesc":"","poemindex":9},{"id":61961,"title":"雪後寄崔二十六丞公","titledesc":"","poemindex":10},{"id":61962,"title":"送僧澄觀","titledesc":"","poemindex":11},{"id":61963,"title":"奉酬盧給事雲夫四兄曲江荷花行見寄并呈上錢七兄閣老張十八助敎","titledesc":"","poemindex":12},{"id":61964,"title":"記夢","titledesc":"","poemindex":13},{"id":61965,"title":"三星行","titledesc":"","poemindex":14},{"id":61966,"title":"嗟哉董生行","titledesc":"","poemindex":15},{"id":61967,"title":"利劍","titledesc":"","poemindex":16},{"id":61968,"title":"東方半明","titledesc":"","poemindex":17},{"id":61969,"title":"感春","titledesc":"","poemindex":18},{"id":61970,"title":"感春","titledesc":"","poemindex":19},{"id":61971,"title":"醉留東野","titledesc":"","poemindex":20},{"id":61972,"title":"李花","titledesc":"","poemindex":21},{"id":61973,"title":"李花","titledesc":"","poemindex":22},{"id":61974,"title":"聽頴師彈琴","titledesc":"","poemindex":23}],"近體詩":[{"id":61975,"title":"題韋氏莊","titledesc":"","poemindex":24},{"id":61976,"title":"獨釣","titledesc":"","poemindex":25},{"id":61977,"title":"獨釣","titledesc":"","poemindex":26},{"id":61978,"title":"獨釣","titledesc":"","poemindex":27},{"id":61979,"title":"獨釣","titledesc":"","poemindex":28},{"id":61980,"title":"詠燈花同侯十一","titledesc":"","poemindex":29},{"id":61981,"title":"奉和兵部張侍郎酬鄆州馬尚書祗召途中見寄開緘之日馬帥巳再領鄆州之作","titledesc":"","poemindex":30},{"id":61982,"title":"送桂州嚴大夫","titledesc":"","poemindex":31},{"id":61983,"title":"奉和僕射裴相公感恩言志","titledesc":"","poemindex":32},{"id":61984,"title":"和僕射相公朝迴見寄","titledesc":"","poemindex":33},{"id":61985,"title":"叉魚招張公曹","titledesc":"","poemindex":34},{"id":61986,"title":"和席八十二韻","titledesc":"","poemindex":35},{"id":61987,"title":"送鄭尚書赴南海","titledesc":"","poemindex":36},{"id":61988,"title":"答張十一功曹","titledesc":"","poemindex":37},{"id":61989,"title":"奉和庫部盧四兄曺長元日朝廻","titledesc":"","poemindex":38},{"id":61990,"title":"戲題牡丹","titledesc":"","poemindex":39},{"id":61991,"title":"晉公破賊回重拜台司以詩示幕中賔客愈奉和","titledesc":"","poemindex":40},{"id":61992,"title":"左遷至藍關示姪孫湘","titledesc":"","poemindex":41},{"id":61993,"title":"韶州留别張端公使君","titledesc":"","poemindex":42},{"id":61994,"title":"酒中留上襄陽李相公","titledesc":"","poemindex":43},{"id":61995,"title":"竹洞","titledesc":"","poemindex":44},{"id":61996,"title":"渚亭","titledesc":"","poemindex":45},{"id":61997,"title":"花島","titledesc":"","poemindex":46},{"id":61998,"title":"北樓","titledesc":"","poemindex":47},{"id":61999,"title":"贈同遊","titledesc":"","poemindex":48},{"id":62000,"title":"題楚昭王廟","titledesc":"","poemindex":49},{"id":62001,"title":"題木居士","titledesc":"","poemindex":50},{"id":62002,"title":"盆池","titledesc":"","poemindex":51},{"id":62003,"title":"盆池","titledesc":"","poemindex":52},{"id":62004,"title":"盆池","titledesc":"","poemindex":53},{"id":62005,"title":"盆池","titledesc":"","poemindex":54},{"id":62006,"title":"賽神","titledesc":"","poemindex":55},{"id":62007,"title":"晩春","titledesc":"","poemindex":56},{"id":62008,"title":"落花","titledesc":"","poemindex":57},{"id":62009,"title":"贈張十八助敎","titledesc":"","poemindex":58},{"id":62010,"title":"晚雨","titledesc":"","poemindex":59},{"id":62011,"title":"出城","titledesc":"","poemindex":60},{"id":62012,"title":"和李司勲過連昌宫","titledesc":"","poemindex":61},{"id":62013,"title":"次潼關先寄張十二閣老使君","titledesc":"","poemindex":62},{"id":62014,"title":"桃林夜賀晉公","titledesc":"","poemindex":63},{"id":62015,"title":"答道士寄樹雞〈樹雞木耳之大者〉","titledesc":"","poemindex":64},{"id":62016,"title":"題臨瀧寺","titledesc":"","poemindex":65},{"id":62017,"title":"晚次宣溪辱韶州張端公使君恵書叙别酬以絶句","titledesc":"","poemindex":66},{"id":62018,"title":"遊西林寺題蕭二兄郎中舊堂","titledesc":"","poemindex":67},{"id":62019,"title":"夕次夀陽驛題吳郎中詩後","titledesc":"","poemindex":68},{"id":62020,"title":"鎮州初歸","titledesc":"","poemindex":69},{"id":62021,"title":"同水部張員外曲江春遊寄白二十二舎人","titledesc":"","poemindex":70},{"id":62022,"title":"早春呈水部張十八員外","titledesc":"","poemindex":71},{"id":62023,"title":"早春呈水部張十八員外","titledesc":"","poemindex":72}]}}}
+{
+  "韓愈": {
+    "author": "韓愈",
+    "authordesc": "",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 61952,
+          "uid": "poem-49-1",
+          "title": "送區弘南歸",
+          "titledesc": "",
+          "poemindex": 1
+        },
+        {
+          "id": 61953,
+          "uid": "poem-49-2",
+          "title": "陸渾山火和皇甫湜用其韻",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 61954,
+          "uid": "poem-49-3",
+          "title": "和虞部盧四〈汀〉酬翰林錢七〈徽〉赤藤杖歌",
+          "titledesc": "",
+          "poemindex": 3
+        },
+        {
+          "id": 61955,
+          "uid": "poem-49-4",
+          "title": "寄盧仝",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 61956,
+          "uid": "poem-49-5",
+          "title": "酬司門盧四兄雲夫院長望秋作",
+          "titledesc": "",
+          "poemindex": 5
+        },
+        {
+          "id": 61957,
+          "uid": "poem-49-6",
+          "title": "石鼓歌",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 61958,
+          "uid": "poem-49-7",
+          "title": "盧郎中雲夫寄示送盤谷子詩兩章歌以和之",
+          "titledesc": "",
+          "poemindex": 7
+        },
+        {
+          "id": 61959,
+          "uid": "poem-49-8",
+          "title": "短燈檠歌",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 61960,
+          "uid": "poem-49-9",
+          "title": "華山女",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 61961,
+          "uid": "poem-49-10",
+          "title": "雪後寄崔二十六丞公",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 61962,
+          "uid": "poem-49-11",
+          "title": "送僧澄觀",
+          "titledesc": "",
+          "poemindex": 11
+        },
+        {
+          "id": 61963,
+          "uid": "poem-49-12",
+          "title": "奉酬盧給事雲夫四兄曲江荷花行見寄并呈上錢七兄閣老張十八助敎",
+          "titledesc": "",
+          "poemindex": 12
+        },
+        {
+          "id": 61964,
+          "uid": "poem-49-13",
+          "title": "記夢",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 61965,
+          "uid": "poem-49-14",
+          "title": "三星行",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 61966,
+          "uid": "poem-49-15",
+          "title": "嗟哉董生行",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 61967,
+          "uid": "poem-49-16",
+          "title": "利劍",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 61968,
+          "uid": "poem-49-17",
+          "title": "東方半明",
+          "titledesc": "",
+          "poemindex": 17
+        },
+        {
+          "id": 61969,
+          "uid": "poem-49-18",
+          "title": "感春",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 61970,
+          "uid": "poem-49-19",
+          "title": "感春",
+          "titledesc": "",
+          "poemindex": 19
+        },
+        {
+          "id": 61971,
+          "uid": "poem-49-20",
+          "title": "醉留東野",
+          "titledesc": "",
+          "poemindex": 20
+        },
+        {
+          "id": 61972,
+          "uid": "poem-49-21",
+          "title": "李花",
+          "titledesc": "",
+          "poemindex": 21
+        },
+        {
+          "id": 61973,
+          "uid": "poem-49-22",
+          "title": "李花",
+          "titledesc": "",
+          "poemindex": 22
+        },
+        {
+          "id": 61974,
+          "uid": "poem-49-23",
+          "title": "聽頴師彈琴",
+          "titledesc": "",
+          "poemindex": 23
+        }
+      ],
+      "近體詩": [
+        {
+          "id": 61975,
+          "uid": "poem-49-24",
+          "title": "題韋氏莊",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 61976,
+          "uid": "poem-49-25",
+          "title": "獨釣",
+          "titledesc": "",
+          "poemindex": 25
+        },
+        {
+          "id": 61977,
+          "uid": "poem-49-26",
+          "title": "獨釣",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 61978,
+          "uid": "poem-49-27",
+          "title": "獨釣",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 61979,
+          "uid": "poem-49-28",
+          "title": "獨釣",
+          "titledesc": "",
+          "poemindex": 28
+        },
+        {
+          "id": 61980,
+          "uid": "poem-49-29",
+          "title": "詠燈花同侯十一",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 61981,
+          "uid": "poem-49-30",
+          "title": "奉和兵部張侍郎酬鄆州馬尚書祗召途中見寄開緘之日馬帥巳再領鄆州之作",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 61982,
+          "uid": "poem-49-31",
+          "title": "送桂州嚴大夫",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 61983,
+          "uid": "poem-49-32",
+          "title": "奉和僕射裴相公感恩言志",
+          "titledesc": "",
+          "poemindex": 32
+        },
+        {
+          "id": 61984,
+          "uid": "poem-49-33",
+          "title": "和僕射相公朝迴見寄",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 61985,
+          "uid": "poem-49-34",
+          "title": "叉魚招張公曹",
+          "titledesc": "",
+          "poemindex": 34
+        },
+        {
+          "id": 61986,
+          "uid": "poem-49-35",
+          "title": "和席八十二韻",
+          "titledesc": "",
+          "poemindex": 35
+        },
+        {
+          "id": 61987,
+          "uid": "poem-49-36",
+          "title": "送鄭尚書赴南海",
+          "titledesc": "",
+          "poemindex": 36
+        },
+        {
+          "id": 61988,
+          "uid": "poem-49-37",
+          "title": "答張十一功曹",
+          "titledesc": "",
+          "poemindex": 37
+        },
+        {
+          "id": 61989,
+          "uid": "poem-49-38",
+          "title": "奉和庫部盧四兄曺長元日朝廻",
+          "titledesc": "",
+          "poemindex": 38
+        },
+        {
+          "id": 61990,
+          "uid": "poem-49-39",
+          "title": "戲題牡丹",
+          "titledesc": "",
+          "poemindex": 39
+        },
+        {
+          "id": 61991,
+          "uid": "poem-49-40",
+          "title": "晉公破賊回重拜台司以詩示幕中賔客愈奉和",
+          "titledesc": "",
+          "poemindex": 40
+        },
+        {
+          "id": 61992,
+          "uid": "poem-49-41",
+          "title": "左遷至藍關示姪孫湘",
+          "titledesc": "",
+          "poemindex": 41
+        },
+        {
+          "id": 61993,
+          "uid": "poem-49-42",
+          "title": "韶州留别張端公使君",
+          "titledesc": "",
+          "poemindex": 42
+        },
+        {
+          "id": 61994,
+          "uid": "poem-49-43",
+          "title": "酒中留上襄陽李相公",
+          "titledesc": "",
+          "poemindex": 43
+        },
+        {
+          "id": 61995,
+          "uid": "poem-49-44",
+          "title": "竹洞",
+          "titledesc": "",
+          "poemindex": 44
+        },
+        {
+          "id": 61996,
+          "uid": "poem-49-45",
+          "title": "渚亭",
+          "titledesc": "",
+          "poemindex": 45
+        },
+        {
+          "id": 61997,
+          "uid": "poem-49-46",
+          "title": "花島",
+          "titledesc": "",
+          "poemindex": 46
+        },
+        {
+          "id": 61998,
+          "uid": "poem-49-47",
+          "title": "北樓",
+          "titledesc": "",
+          "poemindex": 47
+        },
+        {
+          "id": 61999,
+          "uid": "poem-49-48",
+          "title": "贈同遊",
+          "titledesc": "",
+          "poemindex": 48
+        },
+        {
+          "id": 62000,
+          "uid": "poem-49-49",
+          "title": "題楚昭王廟",
+          "titledesc": "",
+          "poemindex": 49
+        },
+        {
+          "id": 62001,
+          "uid": "poem-49-50",
+          "title": "題木居士",
+          "titledesc": "",
+          "poemindex": 50
+        },
+        {
+          "id": 62002,
+          "uid": "poem-49-51",
+          "title": "盆池",
+          "titledesc": "",
+          "poemindex": 51
+        },
+        {
+          "id": 62003,
+          "uid": "poem-49-52",
+          "title": "盆池",
+          "titledesc": "",
+          "poemindex": 52
+        },
+        {
+          "id": 62004,
+          "uid": "poem-49-53",
+          "title": "盆池",
+          "titledesc": "",
+          "poemindex": 53
+        },
+        {
+          "id": 62005,
+          "uid": "poem-49-54",
+          "title": "盆池",
+          "titledesc": "",
+          "poemindex": 54
+        },
+        {
+          "id": 62006,
+          "uid": "poem-49-55",
+          "title": "賽神",
+          "titledesc": "",
+          "poemindex": 55
+        },
+        {
+          "id": 62007,
+          "uid": "poem-49-56",
+          "title": "晩春",
+          "titledesc": "",
+          "poemindex": 56
+        },
+        {
+          "id": 62008,
+          "uid": "poem-49-57",
+          "title": "落花",
+          "titledesc": "",
+          "poemindex": 57
+        },
+        {
+          "id": 62009,
+          "uid": "poem-49-58",
+          "title": "贈張十八助敎",
+          "titledesc": "",
+          "poemindex": 58
+        },
+        {
+          "id": 62010,
+          "uid": "poem-49-59",
+          "title": "晚雨",
+          "titledesc": "",
+          "poemindex": 59
+        },
+        {
+          "id": 62011,
+          "uid": "poem-49-60",
+          "title": "出城",
+          "titledesc": "",
+          "poemindex": 60
+        },
+        {
+          "id": 62012,
+          "uid": "poem-49-61",
+          "title": "和李司勲過連昌宫",
+          "titledesc": "",
+          "poemindex": 61
+        },
+        {
+          "id": 62013,
+          "uid": "poem-49-62",
+          "title": "次潼關先寄張十二閣老使君",
+          "titledesc": "",
+          "poemindex": 62
+        },
+        {
+          "id": 62014,
+          "uid": "poem-49-63",
+          "title": "桃林夜賀晉公",
+          "titledesc": "",
+          "poemindex": 63
+        },
+        {
+          "id": 62015,
+          "uid": "poem-49-64",
+          "title": "答道士寄樹雞〈樹雞木耳之大者〉",
+          "titledesc": "",
+          "poemindex": 64
+        },
+        {
+          "id": 62016,
+          "uid": "poem-49-65",
+          "title": "題臨瀧寺",
+          "titledesc": "",
+          "poemindex": 65
+        },
+        {
+          "id": 62017,
+          "uid": "poem-49-66",
+          "title": "晚次宣溪辱韶州張端公使君恵書叙别酬以絶句",
+          "titledesc": "",
+          "poemindex": 66
+        },
+        {
+          "id": 62018,
+          "uid": "poem-49-67",
+          "title": "遊西林寺題蕭二兄郎中舊堂",
+          "titledesc": "",
+          "poemindex": 67
+        },
+        {
+          "id": 62019,
+          "uid": "poem-49-68",
+          "title": "夕次夀陽驛題吳郎中詩後",
+          "titledesc": "",
+          "poemindex": 68
+        },
+        {
+          "id": 62020,
+          "uid": "poem-49-69",
+          "title": "鎮州初歸",
+          "titledesc": "",
+          "poemindex": 69
+        },
+        {
+          "id": 62021,
+          "uid": "poem-49-70",
+          "title": "同水部張員外曲江春遊寄白二十二舎人",
+          "titledesc": "",
+          "poemindex": 70
+        },
+        {
+          "id": 62022,
+          "uid": "poem-49-71",
+          "title": "早春呈水部張十八員外",
+          "titledesc": "",
+          "poemindex": 71
+        },
+        {
+          "id": 62023,
+          "uid": "poem-49-72",
+          "title": "早春呈水部張十八員外",
+          "titledesc": "",
+          "poemindex": 72
+        }
+      ]
+    }
+  }
+}

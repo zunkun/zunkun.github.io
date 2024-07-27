@@ -1,1 +1,911 @@
-{"張祜":{"author":"張祜","authordesc":"祜字承吉清河人初以宫詞得名五言詩善題目佳境言不可刋置他處長慶中令狐楚表薦之不報辟諸侯府多不合自劾去嘗客淮南杜牧深重之愛丹陽曲阿地築室⺊隠性嗜水石悉力致之不畜田産為身後計\n雲溪友議云祜初與徐凝同赴白居易杭州求解白試之以凝居首而次祜祜不服自述佳句及觀獵宫詞二首白云君獵詩欲以較王右丞乎宫詞四句中皆數對何足竒因太息歸自此罷舉又云祜長慶中深為令狐楚所知楚鎮天平自草薦表令以詩三百篇隨狀表進祜至京屬元稹在内庭上問之稹曰祜雕蟲小技壯夫不為或奬激之恐變陛下風教上頷之於是失意東歸有孟浩然身\n更不疑之句又云杜牧嘗論元白詩體舛雜因兹有恨守秋浦與祜為詩酒交以白有非祜之論頗不平之有詩云誰人得似張公子一首詩輕萬戸侯又云如何故國三千里虚唱歌詞滿六宫欲異於元白以曲成祜焉\n祜今多誤作祐祐有子望䖍為冬𤓰堰官祜自謔冬𤓰合出瓠子事見太平廣記此名祜之証","charstyleMap":{"古體詩":[{"id":63764,"title":"西江行","titledesc":"","poemindex":1},{"id":63765,"title":"送蜀客","titledesc":"","poemindex":2},{"id":63766,"title":"車遥遥","titledesc":"","poemindex":3}],"近體詩":[{"id":63767,"title":"吳宫曲","titledesc":"","poemindex":4},{"id":63768,"title":"公子行","titledesc":"","poemindex":5},{"id":63769,"title":"塞上曲","titledesc":"","poemindex":6},{"id":63770,"title":"塞下曲","titledesc":"","poemindex":7},{"id":63771,"title":"塞下","titledesc":"","poemindex":8},{"id":63772,"title":"秋霽","titledesc":"","poemindex":9},{"id":63773,"title":"晚夏歸别業","titledesc":"","poemindex":10},{"id":63774,"title":"憶雲陽宅","titledesc":"","poemindex":11},{"id":63775,"title":"江城晚眺","titledesc":"","poemindex":12},{"id":63776,"title":"江西道中","titledesc":"","poemindex":13},{"id":63777,"title":"江西道中","titledesc":"","poemindex":14},{"id":63778,"title":"江西道中","titledesc":"","poemindex":15},{"id":63779,"title":"夕次桐廬","titledesc":"","poemindex":16},{"id":63780,"title":"松汀驛","titledesc":"","poemindex":17},{"id":63781,"title":"洞庭南館","titledesc":"","poemindex":18},{"id":63782,"title":"入潼闗","titledesc":"","poemindex":19},{"id":63783,"title":"登廣武原","titledesc":"","poemindex":20},{"id":63784,"title":"題海鹽南館","titledesc":"","poemindex":21},{"id":63785,"title":"題曾氏園林","titledesc":"","poemindex":22},{"id":63786,"title":"題杭州孤山寺","titledesc":"","poemindex":23},{"id":63787,"title":"潤州甘露寺","titledesc":"","poemindex":24},{"id":63788,"title":"金山寺","titledesc":"","poemindex":25},{"id":63789,"title":"禪智寺","titledesc":"","poemindex":26},{"id":63790,"title":"喜王子載話舊","titledesc":"","poemindex":27},{"id":63791,"title":"途中逢李道實游蔡州","titledesc":"","poemindex":28},{"id":63792,"title":"訪許用晦","titledesc":"","poemindex":29},{"id":63793,"title":"送韋整尉長沙","titledesc":"","poemindex":30},{"id":63794,"title":"送沈下賢謫尉南康","titledesc":"","poemindex":31},{"id":63795,"title":"殘獵","titledesc":"","poemindex":32},{"id":63796,"title":"題杭州天竺寺","titledesc":"","poemindex":33},{"id":63797,"title":"公子行","titledesc":"","poemindex":34},{"id":63798,"title":"愛妾換馬","titledesc":"","poemindex":35},{"id":63799,"title":"愛妾換馬","titledesc":"","poemindex":36},{"id":63800,"title":"題干越亭","titledesc":"","poemindex":37},{"id":63801,"title":"秋夜登潤州慈和寺上方","titledesc":"","poemindex":38},{"id":63802,"title":"和杜牧之齊山登髙","titledesc":"","poemindex":39},{"id":63803,"title":"寓懷寄蘇州劉郎中","titledesc":"","poemindex":40},{"id":63804,"title":"感王將軍柘枝妓殁","titledesc":"","poemindex":41},{"id":63805,"title":"宫詞","titledesc":"","poemindex":42},{"id":63806,"title":"宫詞","titledesc":"","poemindex":43},{"id":63807,"title":"白鼻騧","titledesc":"","poemindex":44},{"id":63808,"title":"蘇小歌","titledesc":"","poemindex":45},{"id":63809,"title":"牆頭花","titledesc":"","poemindex":46},{"id":63810,"title":"穆䕶沙","titledesc":"","poemindex":47},{"id":63811,"title":"金殿樂","titledesc":"","poemindex":48},{"id":63812,"title":"長門怨","titledesc":"","poemindex":49},{"id":63813,"title":"鄴中懐古","titledesc":"","poemindex":50},{"id":63814,"title":"寧哥來","titledesc":"","poemindex":51},{"id":63815,"title":"阿䳰湯","titledesc":"","poemindex":52},{"id":63816,"title":"邠王小管","titledesc":"","poemindex":53},{"id":63817,"title":"邠娘羯鼓","titledesc":"","poemindex":54},{"id":63818,"title":"耍娘歌","titledesc":"","poemindex":55},{"id":63819,"title":"悖挐兒舞","titledesc":"","poemindex":56},{"id":63820,"title":"容兒缽頭","titledesc":"","poemindex":57},{"id":63821,"title":"李謩笛","titledesc":"","poemindex":58},{"id":63822,"title":"折楊栁枝","titledesc":"","poemindex":59},{"id":63823,"title":"折楊栁枝","titledesc":"","poemindex":60},{"id":63824,"title":"玉環琵琶","titledesc":"","poemindex":61},{"id":63825,"title":"集靈臺〈集靈臺明皇所作雍錄云在華清宫中非漢集靈宫中之臺也〉","titledesc":"","poemindex":62},{"id":63826,"title":"集靈臺〈集靈臺明皇所作雍錄云在華清宫中非漢集靈宫中之臺也〉","titledesc":"","poemindex":63},{"id":63827,"title":"華清宫","titledesc":"","poemindex":64},{"id":63828,"title":"華清宫","titledesc":"","poemindex":65},{"id":63829,"title":"華清宫","titledesc":"","poemindex":66},{"id":63830,"title":"雨淋鈴","titledesc":"","poemindex":67},{"id":63831,"title":"退宫人","titledesc":"","poemindex":68},{"id":63832,"title":"退宫人","titledesc":"","poemindex":69},{"id":63833,"title":"題金陵渡","titledesc":"","poemindex":70},{"id":63834,"title":"晚秋潼闗西門作","titledesc":"","poemindex":71},{"id":63835,"title":"題弋陽館","titledesc":"","poemindex":72},{"id":63836,"title":"獻王智興","titledesc":"","poemindex":73},{"id":63837,"title":"贈竇家小兒","titledesc":"","poemindex":74},{"id":63838,"title":"秋曉送鄭侍御","titledesc":"","poemindex":75},{"id":63839,"title":"聽崔侍御莒葉家歌","titledesc":"","poemindex":76},{"id":63840,"title":"聽箏","titledesc":"","poemindex":77},{"id":63841,"title":"耿家歌","titledesc":"","poemindex":78},{"id":63842,"title":"塞上聞笛","titledesc":"","poemindex":79},{"id":63843,"title":"平原路上題郵亭殘花","titledesc":"","poemindex":80}]}},"徐凝":{"author":"徐凝","authordesc":"凝睦州人元和中官至侍郎\n雲谿友議稱白樂天為杭州刺史凝與張祜並詣之求解凝先有題開元寺牡丹詩白到寺看花見其詩賞之命與同醉而歸試訖解送遂以凝為元祜次之祜不服自述題金山詩凝曰美則美矣爭如老夫千古長如白練飛一條界破青山色凝遂擅塲杜牧常不平之盛言祜美異於白後蘇東坡目為惡詩洪容齋以為諸絶如辭韓侍郎相思林憶揚州亦皆有情致云\n計敏夫云樂天薦凝屈祜論者至今鬱鬱或歸白之妒才祜元和中作宫體艶詩輕薄之流能其才合譟得譽其不羈之狀往往間見凝之操履不見於史然方干學詩於凝贈之詩曰吟得新詩草裏論戲反其辭謂村裏老也方干世所謂簡古者且譏凝則凝之朴畧椎魯從可知矣樂天方以實行求才故薦凝抑祜牧之少年所為亦近於祜為祜恨白理有之耳","charstyleMap":{"近體詩":[{"id":63844,"title":"題杭州開元寺牡丹","titledesc":"","poemindex":81},{"id":63845,"title":"廬山獨夜","titledesc":"","poemindex":82},{"id":63846,"title":"宫中曲","titledesc":"","poemindex":83},{"id":63847,"title":"宫中曲","titledesc":"","poemindex":84},{"id":63848,"title":"樂府新詩","titledesc":"","poemindex":85},{"id":63849,"title":"長慶春","titledesc":"","poemindex":86},{"id":63850,"title":"八月九月望日雨","titledesc":"","poemindex":87},{"id":63851,"title":"奉陪相公看花宴㑹","titledesc":"","poemindex":88},{"id":63852,"title":"奉陪相公看花宴㑹","titledesc":"","poemindex":89},{"id":63853,"title":"憶揚州","titledesc":"","poemindex":90},{"id":63854,"title":"嘉興寒食","titledesc":"","poemindex":91},{"id":63855,"title":"題縉雲山鼎池〈相傳黄帝鑄鼎處〉","titledesc":"","poemindex":92},{"id":63856,"title":"廬山瀑布","titledesc":"","poemindex":93},{"id":63857,"title":"相思林","titledesc":"","poemindex":94},{"id":63858,"title":"自鄂渚至河南將歸江外留辭韓侍郎","titledesc":"","poemindex":95},{"id":63859,"title":"古樹","titledesc":"","poemindex":96},{"id":63860,"title":"翫花","titledesc":"","poemindex":97},{"id":63861,"title":"翫花","titledesc":"","poemindex":98},{"id":63862,"title":"翫花","titledesc":"","poemindex":99},{"id":63863,"title":"翫花","titledesc":"","poemindex":100}]}},"楊凝":{"author":"楊凝","authordesc":"凝字懋功與兄憑弟凌並負詩名大厯中擢進士第歴司封員外郎為權幸所忌徙官宣武董晉表為判官攝行亳州刺史事在幕荒湎遇卒亂還京拜兵部郎中","charstyleMap":{"近體詩":[{"id":63864,"title":"送客往夏州","titledesc":"","poemindex":101},{"id":63865,"title":"柳絮","titledesc":"","poemindex":102},{"id":63866,"title":"花枕","titledesc":"","poemindex":103}]}},"楊衡":{"author":"楊衡","authordesc":"衡字仲師吳興人初與符載崔羣宋濟隠廬山號山中四友後登第官至大理評事","charstyleMap":{"古體詩":[{"id":63867,"title":"白紵辭","titledesc":"","poemindex":104}]}},"費冠卿":{"author":"費冠卿","authordesc":"冠卿字子軍池州人登元和二年進士第㑹母卒嘆曰干禄養親耳得禄而親喪何以禄為遂歸隠九華山長慶中殿院李行修舉其孝行以右拾遺召不赴","charstyleMap":{"近體詩":[{"id":63868,"title":"答蕭建問九華山","titledesc":"","poemindex":105},{"id":63869,"title":"閒居即事","titledesc":"","poemindex":106}]}},"沈亞之":{"author":"沈亞之","authordesc":"亞之字下賢吳興人元和十年舉進士辟涇原李彚幕長慶中累遷殿中丞御史内供奉太和初李同捷反副行營使栢耆為判官耆擒同捷赴京諸將害功論列耆坐貶亞之亦貶尉南康後終郢州掾亞之以文詞得名嘗遊韓愈之門當時李賀杜牧皆稱許之","charstyleMap":{"古體詩":[{"id":63870,"title":"村居","titledesc":"","poemindex":107}],"近體詩":[{"id":63871,"title":"春色滿皇州","titledesc":"","poemindex":108},{"id":63872,"title":"題𠉀仙亭","titledesc":"","poemindex":109}]}},"蔣防":{"author":"蔣防","authordesc":"防義興人官右拾遺李紳元稹保薦以司封郎中知制誥進翰林學士李逢吉逐紳因出之為汀州刺史\n常州志防年十八父友令作秋河賦援筆立就于簡遂妻以女","charstyleMap":{"近體詩":[{"id":63873,"title":"春風扇微和","titledesc":"","poemindex":110}]}},"熊孺登":{"author":"熊孺登","authordesc":"孺登鍾陵人登進士第元和中終藩鎮從事劉白俱有詩往還執易其從姪也","charstyleMap":{"近體詩":[{"id":63874,"title":"湘江夜泛","titledesc":"","poemindex":111},{"id":63875,"title":"贈靈徹上人","titledesc":"","poemindex":112},{"id":63876,"title":"與左興宗湓城别","titledesc":"","poemindex":113}]}},"于武陵":{"author":"于武陵","authordesc":"武陵㑹昌時詩人也登大中進士","charstyleMap":{"近體詩":[{"id":63877,"title":"贈賣松人","titledesc":"","poemindex":114},{"id":63878,"title":"山中桂","titledesc":"","poemindex":115},{"id":63879,"title":"西還","titledesc":"","poemindex":116},{"id":63880,"title":"夜與故人别","titledesc":"","poemindex":117},{"id":63881,"title":"孤雲","titledesc":"","poemindex":118},{"id":63882,"title":"勸酒","titledesc":"","poemindex":119}]}}}
+{
+  "張祜": {
+    "author": "張祜",
+    "authordesc": "祜字承吉清河人初以宫詞得名五言詩善題目佳境言不可刋置他處長慶中令狐楚表薦之不報辟諸侯府多不合自劾去嘗客淮南杜牧深重之愛丹陽曲阿地築室⺊隠性嗜水石悉力致之不畜田産為身後計\n雲溪友議云祜初與徐凝同赴白居易杭州求解白試之以凝居首而次祜祜不服自述佳句及觀獵宫詞二首白云君獵詩欲以較王右丞乎宫詞四句中皆數對何足竒因太息歸自此罷舉又云祜長慶中深為令狐楚所知楚鎮天平自草薦表令以詩三百篇隨狀表進祜至京屬元稹在内庭上問之稹曰祜雕蟲小技壯夫不為或奬激之恐變陛下風教上頷之於是失意東歸有孟浩然身\n更不疑之句又云杜牧嘗論元白詩體舛雜因兹有恨守秋浦與祜為詩酒交以白有非祜之論頗不平之有詩云誰人得似張公子一首詩輕萬戸侯又云如何故國三千里虚唱歌詞滿六宫欲異於元白以曲成祜焉\n祜今多誤作祐祐有子望䖍為冬𤓰堰官祜自謔冬𤓰合出瓠子事見太平廣記此名祜之証",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 63764,
+          "uid": "poem-70-1",
+          "title": "西江行",
+          "titledesc": "",
+          "poemindex": 1
+        },
+        {
+          "id": 63765,
+          "uid": "poem-70-2",
+          "title": "送蜀客",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 63766,
+          "uid": "poem-70-3",
+          "title": "車遥遥",
+          "titledesc": "",
+          "poemindex": 3
+        }
+      ],
+      "近體詩": [
+        {
+          "id": 63767,
+          "uid": "poem-70-4",
+          "title": "吳宫曲",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 63768,
+          "uid": "poem-70-5",
+          "title": "公子行",
+          "titledesc": "",
+          "poemindex": 5
+        },
+        {
+          "id": 63769,
+          "uid": "poem-70-6",
+          "title": "塞上曲",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 63770,
+          "uid": "poem-70-7",
+          "title": "塞下曲",
+          "titledesc": "",
+          "poemindex": 7
+        },
+        {
+          "id": 63771,
+          "uid": "poem-70-8",
+          "title": "塞下",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 63772,
+          "uid": "poem-70-9",
+          "title": "秋霽",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 63773,
+          "uid": "poem-70-10",
+          "title": "晚夏歸别業",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 63774,
+          "uid": "poem-70-11",
+          "title": "憶雲陽宅",
+          "titledesc": "",
+          "poemindex": 11
+        },
+        {
+          "id": 63775,
+          "uid": "poem-70-12",
+          "title": "江城晚眺",
+          "titledesc": "",
+          "poemindex": 12
+        },
+        {
+          "id": 63776,
+          "uid": "poem-70-13",
+          "title": "江西道中",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 63777,
+          "uid": "poem-70-14",
+          "title": "江西道中",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 63778,
+          "uid": "poem-70-15",
+          "title": "江西道中",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 63779,
+          "uid": "poem-70-16",
+          "title": "夕次桐廬",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 63780,
+          "uid": "poem-70-17",
+          "title": "松汀驛",
+          "titledesc": "",
+          "poemindex": 17
+        },
+        {
+          "id": 63781,
+          "uid": "poem-70-18",
+          "title": "洞庭南館",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 63782,
+          "uid": "poem-70-19",
+          "title": "入潼闗",
+          "titledesc": "",
+          "poemindex": 19
+        },
+        {
+          "id": 63783,
+          "uid": "poem-70-20",
+          "title": "登廣武原",
+          "titledesc": "",
+          "poemindex": 20
+        },
+        {
+          "id": 63784,
+          "uid": "poem-70-21",
+          "title": "題海鹽南館",
+          "titledesc": "",
+          "poemindex": 21
+        },
+        {
+          "id": 63785,
+          "uid": "poem-70-22",
+          "title": "題曾氏園林",
+          "titledesc": "",
+          "poemindex": 22
+        },
+        {
+          "id": 63786,
+          "uid": "poem-70-23",
+          "title": "題杭州孤山寺",
+          "titledesc": "",
+          "poemindex": 23
+        },
+        {
+          "id": 63787,
+          "uid": "poem-70-24",
+          "title": "潤州甘露寺",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 63788,
+          "uid": "poem-70-25",
+          "title": "金山寺",
+          "titledesc": "",
+          "poemindex": 25
+        },
+        {
+          "id": 63789,
+          "uid": "poem-70-26",
+          "title": "禪智寺",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 63790,
+          "uid": "poem-70-27",
+          "title": "喜王子載話舊",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 63791,
+          "uid": "poem-70-28",
+          "title": "途中逢李道實游蔡州",
+          "titledesc": "",
+          "poemindex": 28
+        },
+        {
+          "id": 63792,
+          "uid": "poem-70-29",
+          "title": "訪許用晦",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 63793,
+          "uid": "poem-70-30",
+          "title": "送韋整尉長沙",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 63794,
+          "uid": "poem-70-31",
+          "title": "送沈下賢謫尉南康",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 63795,
+          "uid": "poem-70-32",
+          "title": "殘獵",
+          "titledesc": "",
+          "poemindex": 32
+        },
+        {
+          "id": 63796,
+          "uid": "poem-70-33",
+          "title": "題杭州天竺寺",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 63797,
+          "uid": "poem-70-34",
+          "title": "公子行",
+          "titledesc": "",
+          "poemindex": 34
+        },
+        {
+          "id": 63798,
+          "uid": "poem-70-35",
+          "title": "愛妾換馬",
+          "titledesc": "",
+          "poemindex": 35
+        },
+        {
+          "id": 63799,
+          "uid": "poem-70-36",
+          "title": "愛妾換馬",
+          "titledesc": "",
+          "poemindex": 36
+        },
+        {
+          "id": 63800,
+          "uid": "poem-70-37",
+          "title": "題干越亭",
+          "titledesc": "",
+          "poemindex": 37
+        },
+        {
+          "id": 63801,
+          "uid": "poem-70-38",
+          "title": "秋夜登潤州慈和寺上方",
+          "titledesc": "",
+          "poemindex": 38
+        },
+        {
+          "id": 63802,
+          "uid": "poem-70-39",
+          "title": "和杜牧之齊山登髙",
+          "titledesc": "",
+          "poemindex": 39
+        },
+        {
+          "id": 63803,
+          "uid": "poem-70-40",
+          "title": "寓懷寄蘇州劉郎中",
+          "titledesc": "",
+          "poemindex": 40
+        },
+        {
+          "id": 63804,
+          "uid": "poem-70-41",
+          "title": "感王將軍柘枝妓殁",
+          "titledesc": "",
+          "poemindex": 41
+        },
+        {
+          "id": 63805,
+          "uid": "poem-70-42",
+          "title": "宫詞",
+          "titledesc": "",
+          "poemindex": 42
+        },
+        {
+          "id": 63806,
+          "uid": "poem-70-43",
+          "title": "宫詞",
+          "titledesc": "",
+          "poemindex": 43
+        },
+        {
+          "id": 63807,
+          "uid": "poem-70-44",
+          "title": "白鼻騧",
+          "titledesc": "",
+          "poemindex": 44
+        },
+        {
+          "id": 63808,
+          "uid": "poem-70-45",
+          "title": "蘇小歌",
+          "titledesc": "",
+          "poemindex": 45
+        },
+        {
+          "id": 63809,
+          "uid": "poem-70-46",
+          "title": "牆頭花",
+          "titledesc": "",
+          "poemindex": 46
+        },
+        {
+          "id": 63810,
+          "uid": "poem-70-47",
+          "title": "穆䕶沙",
+          "titledesc": "",
+          "poemindex": 47
+        },
+        {
+          "id": 63811,
+          "uid": "poem-70-48",
+          "title": "金殿樂",
+          "titledesc": "",
+          "poemindex": 48
+        },
+        {
+          "id": 63812,
+          "uid": "poem-70-49",
+          "title": "長門怨",
+          "titledesc": "",
+          "poemindex": 49
+        },
+        {
+          "id": 63813,
+          "uid": "poem-70-50",
+          "title": "鄴中懐古",
+          "titledesc": "",
+          "poemindex": 50
+        },
+        {
+          "id": 63814,
+          "uid": "poem-70-51",
+          "title": "寧哥來",
+          "titledesc": "",
+          "poemindex": 51
+        },
+        {
+          "id": 63815,
+          "uid": "poem-70-52",
+          "title": "阿䳰湯",
+          "titledesc": "",
+          "poemindex": 52
+        },
+        {
+          "id": 63816,
+          "uid": "poem-70-53",
+          "title": "邠王小管",
+          "titledesc": "",
+          "poemindex": 53
+        },
+        {
+          "id": 63817,
+          "uid": "poem-70-54",
+          "title": "邠娘羯鼓",
+          "titledesc": "",
+          "poemindex": 54
+        },
+        {
+          "id": 63818,
+          "uid": "poem-70-55",
+          "title": "耍娘歌",
+          "titledesc": "",
+          "poemindex": 55
+        },
+        {
+          "id": 63819,
+          "uid": "poem-70-56",
+          "title": "悖挐兒舞",
+          "titledesc": "",
+          "poemindex": 56
+        },
+        {
+          "id": 63820,
+          "uid": "poem-70-57",
+          "title": "容兒缽頭",
+          "titledesc": "",
+          "poemindex": 57
+        },
+        {
+          "id": 63821,
+          "uid": "poem-70-58",
+          "title": "李謩笛",
+          "titledesc": "",
+          "poemindex": 58
+        },
+        {
+          "id": 63822,
+          "uid": "poem-70-59",
+          "title": "折楊栁枝",
+          "titledesc": "",
+          "poemindex": 59
+        },
+        {
+          "id": 63823,
+          "uid": "poem-70-60",
+          "title": "折楊栁枝",
+          "titledesc": "",
+          "poemindex": 60
+        },
+        {
+          "id": 63824,
+          "uid": "poem-70-61",
+          "title": "玉環琵琶",
+          "titledesc": "",
+          "poemindex": 61
+        },
+        {
+          "id": 63825,
+          "uid": "poem-70-62",
+          "title": "集靈臺〈集靈臺明皇所作雍錄云在華清宫中非漢集靈宫中之臺也〉",
+          "titledesc": "",
+          "poemindex": 62
+        },
+        {
+          "id": 63826,
+          "uid": "poem-70-63",
+          "title": "集靈臺〈集靈臺明皇所作雍錄云在華清宫中非漢集靈宫中之臺也〉",
+          "titledesc": "",
+          "poemindex": 63
+        },
+        {
+          "id": 63827,
+          "uid": "poem-70-64",
+          "title": "華清宫",
+          "titledesc": "",
+          "poemindex": 64
+        },
+        {
+          "id": 63828,
+          "uid": "poem-70-65",
+          "title": "華清宫",
+          "titledesc": "",
+          "poemindex": 65
+        },
+        {
+          "id": 63829,
+          "uid": "poem-70-66",
+          "title": "華清宫",
+          "titledesc": "",
+          "poemindex": 66
+        },
+        {
+          "id": 63830,
+          "uid": "poem-70-67",
+          "title": "雨淋鈴",
+          "titledesc": "",
+          "poemindex": 67
+        },
+        {
+          "id": 63831,
+          "uid": "poem-70-68",
+          "title": "退宫人",
+          "titledesc": "",
+          "poemindex": 68
+        },
+        {
+          "id": 63832,
+          "uid": "poem-70-69",
+          "title": "退宫人",
+          "titledesc": "",
+          "poemindex": 69
+        },
+        {
+          "id": 63833,
+          "uid": "poem-70-70",
+          "title": "題金陵渡",
+          "titledesc": "",
+          "poemindex": 70
+        },
+        {
+          "id": 63834,
+          "uid": "poem-70-71",
+          "title": "晚秋潼闗西門作",
+          "titledesc": "",
+          "poemindex": 71
+        },
+        {
+          "id": 63835,
+          "uid": "poem-70-72",
+          "title": "題弋陽館",
+          "titledesc": "",
+          "poemindex": 72
+        },
+        {
+          "id": 63836,
+          "uid": "poem-70-73",
+          "title": "獻王智興",
+          "titledesc": "",
+          "poemindex": 73
+        },
+        {
+          "id": 63837,
+          "uid": "poem-70-74",
+          "title": "贈竇家小兒",
+          "titledesc": "",
+          "poemindex": 74
+        },
+        {
+          "id": 63838,
+          "uid": "poem-70-75",
+          "title": "秋曉送鄭侍御",
+          "titledesc": "",
+          "poemindex": 75
+        },
+        {
+          "id": 63839,
+          "uid": "poem-70-76",
+          "title": "聽崔侍御莒葉家歌",
+          "titledesc": "",
+          "poemindex": 76
+        },
+        {
+          "id": 63840,
+          "uid": "poem-70-77",
+          "title": "聽箏",
+          "titledesc": "",
+          "poemindex": 77
+        },
+        {
+          "id": 63841,
+          "uid": "poem-70-78",
+          "title": "耿家歌",
+          "titledesc": "",
+          "poemindex": 78
+        },
+        {
+          "id": 63842,
+          "uid": "poem-70-79",
+          "title": "塞上聞笛",
+          "titledesc": "",
+          "poemindex": 79
+        },
+        {
+          "id": 63843,
+          "uid": "poem-70-80",
+          "title": "平原路上題郵亭殘花",
+          "titledesc": "",
+          "poemindex": 80
+        }
+      ]
+    }
+  },
+  "徐凝": {
+    "author": "徐凝",
+    "authordesc": "凝睦州人元和中官至侍郎\n雲谿友議稱白樂天為杭州刺史凝與張祜並詣之求解凝先有題開元寺牡丹詩白到寺看花見其詩賞之命與同醉而歸試訖解送遂以凝為元祜次之祜不服自述題金山詩凝曰美則美矣爭如老夫千古長如白練飛一條界破青山色凝遂擅塲杜牧常不平之盛言祜美異於白後蘇東坡目為惡詩洪容齋以為諸絶如辭韓侍郎相思林憶揚州亦皆有情致云\n計敏夫云樂天薦凝屈祜論者至今鬱鬱或歸白之妒才祜元和中作宫體艶詩輕薄之流能其才合譟得譽其不羈之狀往往間見凝之操履不見於史然方干學詩於凝贈之詩曰吟得新詩草裏論戲反其辭謂村裏老也方干世所謂簡古者且譏凝則凝之朴畧椎魯從可知矣樂天方以實行求才故薦凝抑祜牧之少年所為亦近於祜為祜恨白理有之耳",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 63844,
+          "uid": "poem-70-81",
+          "title": "題杭州開元寺牡丹",
+          "titledesc": "",
+          "poemindex": 81
+        },
+        {
+          "id": 63845,
+          "uid": "poem-70-82",
+          "title": "廬山獨夜",
+          "titledesc": "",
+          "poemindex": 82
+        },
+        {
+          "id": 63846,
+          "uid": "poem-70-83",
+          "title": "宫中曲",
+          "titledesc": "",
+          "poemindex": 83
+        },
+        {
+          "id": 63847,
+          "uid": "poem-70-84",
+          "title": "宫中曲",
+          "titledesc": "",
+          "poemindex": 84
+        },
+        {
+          "id": 63848,
+          "uid": "poem-70-85",
+          "title": "樂府新詩",
+          "titledesc": "",
+          "poemindex": 85
+        },
+        {
+          "id": 63849,
+          "uid": "poem-70-86",
+          "title": "長慶春",
+          "titledesc": "",
+          "poemindex": 86
+        },
+        {
+          "id": 63850,
+          "uid": "poem-70-87",
+          "title": "八月九月望日雨",
+          "titledesc": "",
+          "poemindex": 87
+        },
+        {
+          "id": 63851,
+          "uid": "poem-70-88",
+          "title": "奉陪相公看花宴㑹",
+          "titledesc": "",
+          "poemindex": 88
+        },
+        {
+          "id": 63852,
+          "uid": "poem-70-89",
+          "title": "奉陪相公看花宴㑹",
+          "titledesc": "",
+          "poemindex": 89
+        },
+        {
+          "id": 63853,
+          "uid": "poem-70-90",
+          "title": "憶揚州",
+          "titledesc": "",
+          "poemindex": 90
+        },
+        {
+          "id": 63854,
+          "uid": "poem-70-91",
+          "title": "嘉興寒食",
+          "titledesc": "",
+          "poemindex": 91
+        },
+        {
+          "id": 63855,
+          "uid": "poem-70-92",
+          "title": "題縉雲山鼎池〈相傳黄帝鑄鼎處〉",
+          "titledesc": "",
+          "poemindex": 92
+        },
+        {
+          "id": 63856,
+          "uid": "poem-70-93",
+          "title": "廬山瀑布",
+          "titledesc": "",
+          "poemindex": 93
+        },
+        {
+          "id": 63857,
+          "uid": "poem-70-94",
+          "title": "相思林",
+          "titledesc": "",
+          "poemindex": 94
+        },
+        {
+          "id": 63858,
+          "uid": "poem-70-95",
+          "title": "自鄂渚至河南將歸江外留辭韓侍郎",
+          "titledesc": "",
+          "poemindex": 95
+        },
+        {
+          "id": 63859,
+          "uid": "poem-70-96",
+          "title": "古樹",
+          "titledesc": "",
+          "poemindex": 96
+        },
+        {
+          "id": 63860,
+          "uid": "poem-70-97",
+          "title": "翫花",
+          "titledesc": "",
+          "poemindex": 97
+        },
+        {
+          "id": 63861,
+          "uid": "poem-70-98",
+          "title": "翫花",
+          "titledesc": "",
+          "poemindex": 98
+        },
+        {
+          "id": 63862,
+          "uid": "poem-70-99",
+          "title": "翫花",
+          "titledesc": "",
+          "poemindex": 99
+        },
+        {
+          "id": 63863,
+          "uid": "poem-70-100",
+          "title": "翫花",
+          "titledesc": "",
+          "poemindex": 100
+        }
+      ]
+    }
+  },
+  "楊凝": {
+    "author": "楊凝",
+    "authordesc": "凝字懋功與兄憑弟凌並負詩名大厯中擢進士第歴司封員外郎為權幸所忌徙官宣武董晉表為判官攝行亳州刺史事在幕荒湎遇卒亂還京拜兵部郎中",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 63864,
+          "uid": "poem-70-101",
+          "title": "送客往夏州",
+          "titledesc": "",
+          "poemindex": 101
+        },
+        {
+          "id": 63865,
+          "uid": "poem-70-102",
+          "title": "柳絮",
+          "titledesc": "",
+          "poemindex": 102
+        },
+        {
+          "id": 63866,
+          "uid": "poem-70-103",
+          "title": "花枕",
+          "titledesc": "",
+          "poemindex": 103
+        }
+      ]
+    }
+  },
+  "楊衡": {
+    "author": "楊衡",
+    "authordesc": "衡字仲師吳興人初與符載崔羣宋濟隠廬山號山中四友後登第官至大理評事",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 63867,
+          "uid": "poem-70-104",
+          "title": "白紵辭",
+          "titledesc": "",
+          "poemindex": 104
+        }
+      ]
+    }
+  },
+  "費冠卿": {
+    "author": "費冠卿",
+    "authordesc": "冠卿字子軍池州人登元和二年進士第㑹母卒嘆曰干禄養親耳得禄而親喪何以禄為遂歸隠九華山長慶中殿院李行修舉其孝行以右拾遺召不赴",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 63868,
+          "uid": "poem-70-105",
+          "title": "答蕭建問九華山",
+          "titledesc": "",
+          "poemindex": 105
+        },
+        {
+          "id": 63869,
+          "uid": "poem-70-106",
+          "title": "閒居即事",
+          "titledesc": "",
+          "poemindex": 106
+        }
+      ]
+    }
+  },
+  "沈亞之": {
+    "author": "沈亞之",
+    "authordesc": "亞之字下賢吳興人元和十年舉進士辟涇原李彚幕長慶中累遷殿中丞御史内供奉太和初李同捷反副行營使栢耆為判官耆擒同捷赴京諸將害功論列耆坐貶亞之亦貶尉南康後終郢州掾亞之以文詞得名嘗遊韓愈之門當時李賀杜牧皆稱許之",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 63870,
+          "uid": "poem-70-107",
+          "title": "村居",
+          "titledesc": "",
+          "poemindex": 107
+        }
+      ],
+      "近體詩": [
+        {
+          "id": 63871,
+          "uid": "poem-70-108",
+          "title": "春色滿皇州",
+          "titledesc": "",
+          "poemindex": 108
+        },
+        {
+          "id": 63872,
+          "uid": "poem-70-109",
+          "title": "題𠉀仙亭",
+          "titledesc": "",
+          "poemindex": 109
+        }
+      ]
+    }
+  },
+  "蔣防": {
+    "author": "蔣防",
+    "authordesc": "防義興人官右拾遺李紳元稹保薦以司封郎中知制誥進翰林學士李逢吉逐紳因出之為汀州刺史\n常州志防年十八父友令作秋河賦援筆立就于簡遂妻以女",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 63873,
+          "uid": "poem-70-110",
+          "title": "春風扇微和",
+          "titledesc": "",
+          "poemindex": 110
+        }
+      ]
+    }
+  },
+  "熊孺登": {
+    "author": "熊孺登",
+    "authordesc": "孺登鍾陵人登進士第元和中終藩鎮從事劉白俱有詩往還執易其從姪也",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 63874,
+          "uid": "poem-70-111",
+          "title": "湘江夜泛",
+          "titledesc": "",
+          "poemindex": 111
+        },
+        {
+          "id": 63875,
+          "uid": "poem-70-112",
+          "title": "贈靈徹上人",
+          "titledesc": "",
+          "poemindex": 112
+        },
+        {
+          "id": 63876,
+          "uid": "poem-70-113",
+          "title": "與左興宗湓城别",
+          "titledesc": "",
+          "poemindex": 113
+        }
+      ]
+    }
+  },
+  "于武陵": {
+    "author": "于武陵",
+    "authordesc": "武陵㑹昌時詩人也登大中進士",
+    "charstyleMap": {
+      "近體詩": [
+        {
+          "id": 63877,
+          "uid": "poem-70-114",
+          "title": "贈賣松人",
+          "titledesc": "",
+          "poemindex": 114
+        },
+        {
+          "id": 63878,
+          "uid": "poem-70-115",
+          "title": "山中桂",
+          "titledesc": "",
+          "poemindex": 115
+        },
+        {
+          "id": 63879,
+          "uid": "poem-70-116",
+          "title": "西還",
+          "titledesc": "",
+          "poemindex": 116
+        },
+        {
+          "id": 63880,
+          "uid": "poem-70-117",
+          "title": "夜與故人别",
+          "titledesc": "",
+          "poemindex": 117
+        },
+        {
+          "id": 63881,
+          "uid": "poem-70-118",
+          "title": "孤雲",
+          "titledesc": "",
+          "poemindex": 118
+        },
+        {
+          "id": 63882,
+          "uid": "poem-70-119",
+          "title": "勸酒",
+          "titledesc": "",
+          "poemindex": 119
+        }
+      ]
+    }
+  }
+}

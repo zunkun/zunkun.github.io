@@ -1,1 +1,430 @@
-{"杜甫":{"author":"杜甫","authordesc":"","charstyleMap":{"古體詩":[{"id":59855,"title":"玄都壇歌寄元逸人","titledesc":"","poemindex":1},{"id":59856,"title":"今夕行","titledesc":"","poemindex":2},{"id":59857,"title":"貧交行","titledesc":"","poemindex":3},{"id":59858,"title":"兵車行","titledesc":"","poemindex":4},{"id":59859,"title":"髙都䕶騘馬行","titledesc":"","poemindex":5},{"id":59860,"title":"天育驃騎歌","titledesc":"","poemindex":6},{"id":59861,"title":"白絲行","titledesc":"","poemindex":7},{"id":59862,"title":"秋雨歎","titledesc":"","poemindex":8},{"id":59863,"title":"秋雨歎","titledesc":"","poemindex":9},{"id":59864,"title":"秋雨歎","titledesc":"","poemindex":10},{"id":59865,"title":"歎庭前甘菊花","titledesc":"","poemindex":11},{"id":59866,"title":"醉時歌〈贈廣文館博士鄭䖍〉","titledesc":"","poemindex":12},{"id":59867,"title":"醉歌行〈别從姪勤落第歸〉","titledesc":"","poemindex":13},{"id":59868,"title":"送孔巢父謝病歸遊江東兼呈李白","titledesc":"","poemindex":14},{"id":59869,"title":"飲中八仙歌","titledesc":"","poemindex":15},{"id":59870,"title":"曲江","titledesc":"","poemindex":16},{"id":59871,"title":"麗人行","titledesc":"","poemindex":17},{"id":59872,"title":"樂遊園歌〈晦日賀蘭楊長史筵醉中作〉","titledesc":"","poemindex":18},{"id":59873,"title":"渼陂行","titledesc":"","poemindex":19},{"id":59874,"title":"沙苑行","titledesc":"","poemindex":20},{"id":59875,"title":"騘馬行〈太常梁卿勅賜馬也李鄧公愛而有之命甫製詩〉","titledesc":"","poemindex":21},{"id":59876,"title":"奉先劉少府新畫山水障歌","titledesc":"","poemindex":22},{"id":59877,"title":"悲陳陶","titledesc":"","poemindex":23},{"id":59878,"title":"悲青坂","titledesc":"","poemindex":24},{"id":59879,"title":"哀江頭","titledesc":"","poemindex":25},{"id":59880,"title":"哀王孫","titledesc":"","poemindex":26},{"id":59881,"title":"蘇端薛復筵簡薛華醉歌","titledesc":"","poemindex":27},{"id":59882,"title":"偪仄行贈畢曜","titledesc":"","poemindex":28},{"id":59883,"title":"洗兵馬","titledesc":"","poemindex":29},{"id":59884,"title":"病後遇王倚飲贈歌","titledesc":"","poemindex":30},{"id":59885,"title":"湖城東遇孟雲卿復歸劉顥宅宿宴飲散因爲醉歌","titledesc":"","poemindex":31},{"id":59886,"title":"閿鄉姜七少府設鱠戲贈長歌","titledesc":"","poemindex":32},{"id":59887,"title":"瘦馬行","titledesc":"","poemindex":33},{"id":59888,"title":"乾元中寓居同谷縣作歌七首","titledesc":"","poemindex":34},{"id":59889,"title":"乾元中寓居同谷縣作歌七首","titledesc":"","poemindex":35},{"id":59890,"title":"乾元中寓居同谷縣作歌七首","titledesc":"","poemindex":36},{"id":59891,"title":"乾元中寓居同谷縣作歌七首","titledesc":"","poemindex":37},{"id":59892,"title":"乾元中寓居同谷縣作歌七首","titledesc":"","poemindex":38},{"id":59893,"title":"乾元中寓居同谷縣作歌七首","titledesc":"","poemindex":39},{"id":59894,"title":"乾元中寓居同谷縣作歌七首","titledesc":"","poemindex":40},{"id":59895,"title":"石笋行","titledesc":"","poemindex":41},{"id":59896,"title":"石犀行","titledesc":"","poemindex":42},{"id":59897,"title":"杜䳌行","titledesc":"","poemindex":43},{"id":59898,"title":"題壁畫馬歌","titledesc":"","poemindex":44},{"id":59899,"title":"戲題畫山水圖歌","titledesc":"","poemindex":45},{"id":59900,"title":"題李尊師松樹障子歌","titledesc":"","poemindex":46},{"id":59901,"title":"戲爲雙松圗歌","titledesc":"","poemindex":47},{"id":59902,"title":"投簡成華兩縣諸子","titledesc":"","poemindex":48},{"id":59903,"title":"百憂集行","titledesc":"","poemindex":49},{"id":59904,"title":"戲作花卿歌","titledesc":"","poemindex":50},{"id":59905,"title":"入奏行","titledesc":"","poemindex":51},{"id":59906,"title":"柟樹為風雨所拔歎","titledesc":"","poemindex":52},{"id":59907,"title":"茅屋為秋風所破歌","titledesc":"","poemindex":53},{"id":59908,"title":"天邊行","titledesc":"","poemindex":54},{"id":59909,"title":"大麥行","titledesc":"","poemindex":55},{"id":59910,"title":"觀打魚歌","titledesc":"","poemindex":56},{"id":59911,"title":"又觀打魚","titledesc":"","poemindex":57},{"id":59912,"title":"越王樓歌","titledesc":"","poemindex":58},{"id":59913,"title":"相從歌贈嚴二别駕","titledesc":"","poemindex":59},{"id":59914,"title":"光禄坂行","titledesc":"","poemindex":60}]}}}
+{
+  "杜甫": {
+    "author": "杜甫",
+    "authordesc": "",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 59855,
+          "uid": "poem-27-1",
+          "title": "玄都壇歌寄元逸人",
+          "titledesc": "",
+          "poemindex": 1
+        },
+        {
+          "id": 59856,
+          "uid": "poem-27-2",
+          "title": "今夕行",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 59857,
+          "uid": "poem-27-3",
+          "title": "貧交行",
+          "titledesc": "",
+          "poemindex": 3
+        },
+        {
+          "id": 59858,
+          "uid": "poem-27-4",
+          "title": "兵車行",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 59859,
+          "uid": "poem-27-5",
+          "title": "髙都䕶騘馬行",
+          "titledesc": "",
+          "poemindex": 5
+        },
+        {
+          "id": 59860,
+          "uid": "poem-27-6",
+          "title": "天育驃騎歌",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 59861,
+          "uid": "poem-27-7",
+          "title": "白絲行",
+          "titledesc": "",
+          "poemindex": 7
+        },
+        {
+          "id": 59862,
+          "uid": "poem-27-8",
+          "title": "秋雨歎",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 59863,
+          "uid": "poem-27-9",
+          "title": "秋雨歎",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 59864,
+          "uid": "poem-27-10",
+          "title": "秋雨歎",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 59865,
+          "uid": "poem-27-11",
+          "title": "歎庭前甘菊花",
+          "titledesc": "",
+          "poemindex": 11
+        },
+        {
+          "id": 59866,
+          "uid": "poem-27-12",
+          "title": "醉時歌〈贈廣文館博士鄭䖍〉",
+          "titledesc": "",
+          "poemindex": 12
+        },
+        {
+          "id": 59867,
+          "uid": "poem-27-13",
+          "title": "醉歌行〈别從姪勤落第歸〉",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 59868,
+          "uid": "poem-27-14",
+          "title": "送孔巢父謝病歸遊江東兼呈李白",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 59869,
+          "uid": "poem-27-15",
+          "title": "飲中八仙歌",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 59870,
+          "uid": "poem-27-16",
+          "title": "曲江",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 59871,
+          "uid": "poem-27-17",
+          "title": "麗人行",
+          "titledesc": "",
+          "poemindex": 17
+        },
+        {
+          "id": 59872,
+          "uid": "poem-27-18",
+          "title": "樂遊園歌〈晦日賀蘭楊長史筵醉中作〉",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 59873,
+          "uid": "poem-27-19",
+          "title": "渼陂行",
+          "titledesc": "",
+          "poemindex": 19
+        },
+        {
+          "id": 59874,
+          "uid": "poem-27-20",
+          "title": "沙苑行",
+          "titledesc": "",
+          "poemindex": 20
+        },
+        {
+          "id": 59875,
+          "uid": "poem-27-21",
+          "title": "騘馬行〈太常梁卿勅賜馬也李鄧公愛而有之命甫製詩〉",
+          "titledesc": "",
+          "poemindex": 21
+        },
+        {
+          "id": 59876,
+          "uid": "poem-27-22",
+          "title": "奉先劉少府新畫山水障歌",
+          "titledesc": "",
+          "poemindex": 22
+        },
+        {
+          "id": 59877,
+          "uid": "poem-27-23",
+          "title": "悲陳陶",
+          "titledesc": "",
+          "poemindex": 23
+        },
+        {
+          "id": 59878,
+          "uid": "poem-27-24",
+          "title": "悲青坂",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 59879,
+          "uid": "poem-27-25",
+          "title": "哀江頭",
+          "titledesc": "",
+          "poemindex": 25
+        },
+        {
+          "id": 59880,
+          "uid": "poem-27-26",
+          "title": "哀王孫",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 59881,
+          "uid": "poem-27-27",
+          "title": "蘇端薛復筵簡薛華醉歌",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 59882,
+          "uid": "poem-27-28",
+          "title": "偪仄行贈畢曜",
+          "titledesc": "",
+          "poemindex": 28
+        },
+        {
+          "id": 59883,
+          "uid": "poem-27-29",
+          "title": "洗兵馬",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 59884,
+          "uid": "poem-27-30",
+          "title": "病後遇王倚飲贈歌",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 59885,
+          "uid": "poem-27-31",
+          "title": "湖城東遇孟雲卿復歸劉顥宅宿宴飲散因爲醉歌",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 59886,
+          "uid": "poem-27-32",
+          "title": "閿鄉姜七少府設鱠戲贈長歌",
+          "titledesc": "",
+          "poemindex": 32
+        },
+        {
+          "id": 59887,
+          "uid": "poem-27-33",
+          "title": "瘦馬行",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 59888,
+          "uid": "poem-27-34",
+          "title": "乾元中寓居同谷縣作歌七首",
+          "titledesc": "",
+          "poemindex": 34
+        },
+        {
+          "id": 59889,
+          "uid": "poem-27-35",
+          "title": "乾元中寓居同谷縣作歌七首",
+          "titledesc": "",
+          "poemindex": 35
+        },
+        {
+          "id": 59890,
+          "uid": "poem-27-36",
+          "title": "乾元中寓居同谷縣作歌七首",
+          "titledesc": "",
+          "poemindex": 36
+        },
+        {
+          "id": 59891,
+          "uid": "poem-27-37",
+          "title": "乾元中寓居同谷縣作歌七首",
+          "titledesc": "",
+          "poemindex": 37
+        },
+        {
+          "id": 59892,
+          "uid": "poem-27-38",
+          "title": "乾元中寓居同谷縣作歌七首",
+          "titledesc": "",
+          "poemindex": 38
+        },
+        {
+          "id": 59893,
+          "uid": "poem-27-39",
+          "title": "乾元中寓居同谷縣作歌七首",
+          "titledesc": "",
+          "poemindex": 39
+        },
+        {
+          "id": 59894,
+          "uid": "poem-27-40",
+          "title": "乾元中寓居同谷縣作歌七首",
+          "titledesc": "",
+          "poemindex": 40
+        },
+        {
+          "id": 59895,
+          "uid": "poem-27-41",
+          "title": "石笋行",
+          "titledesc": "",
+          "poemindex": 41
+        },
+        {
+          "id": 59896,
+          "uid": "poem-27-42",
+          "title": "石犀行",
+          "titledesc": "",
+          "poemindex": 42
+        },
+        {
+          "id": 59897,
+          "uid": "poem-27-43",
+          "title": "杜䳌行",
+          "titledesc": "",
+          "poemindex": 43
+        },
+        {
+          "id": 59898,
+          "uid": "poem-27-44",
+          "title": "題壁畫馬歌",
+          "titledesc": "",
+          "poemindex": 44
+        },
+        {
+          "id": 59899,
+          "uid": "poem-27-45",
+          "title": "戲題畫山水圖歌",
+          "titledesc": "",
+          "poemindex": 45
+        },
+        {
+          "id": 59900,
+          "uid": "poem-27-46",
+          "title": "題李尊師松樹障子歌",
+          "titledesc": "",
+          "poemindex": 46
+        },
+        {
+          "id": 59901,
+          "uid": "poem-27-47",
+          "title": "戲爲雙松圗歌",
+          "titledesc": "",
+          "poemindex": 47
+        },
+        {
+          "id": 59902,
+          "uid": "poem-27-48",
+          "title": "投簡成華兩縣諸子",
+          "titledesc": "",
+          "poemindex": 48
+        },
+        {
+          "id": 59903,
+          "uid": "poem-27-49",
+          "title": "百憂集行",
+          "titledesc": "",
+          "poemindex": 49
+        },
+        {
+          "id": 59904,
+          "uid": "poem-27-50",
+          "title": "戲作花卿歌",
+          "titledesc": "",
+          "poemindex": 50
+        },
+        {
+          "id": 59905,
+          "uid": "poem-27-51",
+          "title": "入奏行",
+          "titledesc": "",
+          "poemindex": 51
+        },
+        {
+          "id": 59906,
+          "uid": "poem-27-52",
+          "title": "柟樹為風雨所拔歎",
+          "titledesc": "",
+          "poemindex": 52
+        },
+        {
+          "id": 59907,
+          "uid": "poem-27-53",
+          "title": "茅屋為秋風所破歌",
+          "titledesc": "",
+          "poemindex": 53
+        },
+        {
+          "id": 59908,
+          "uid": "poem-27-54",
+          "title": "天邊行",
+          "titledesc": "",
+          "poemindex": 54
+        },
+        {
+          "id": 59909,
+          "uid": "poem-27-55",
+          "title": "大麥行",
+          "titledesc": "",
+          "poemindex": 55
+        },
+        {
+          "id": 59910,
+          "uid": "poem-27-56",
+          "title": "觀打魚歌",
+          "titledesc": "",
+          "poemindex": 56
+        },
+        {
+          "id": 59911,
+          "uid": "poem-27-57",
+          "title": "又觀打魚",
+          "titledesc": "",
+          "poemindex": 57
+        },
+        {
+          "id": 59912,
+          "uid": "poem-27-58",
+          "title": "越王樓歌",
+          "titledesc": "",
+          "poemindex": 58
+        },
+        {
+          "id": 59913,
+          "uid": "poem-27-59",
+          "title": "相從歌贈嚴二别駕",
+          "titledesc": "",
+          "poemindex": 59
+        },
+        {
+          "id": 59914,
+          "uid": "poem-27-60",
+          "title": "光禄坂行",
+          "titledesc": "",
+          "poemindex": 60
+        }
+      ]
+    }
+  }
+}

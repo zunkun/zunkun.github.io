@@ -1,1 +1,346 @@
-{"杜甫":{"author":"杜甫","authordesc":"","charstyleMap":{"古體詩":[{"id":59673,"title":"水閣朝霽奉簡嚴雲安","titledesc":"","poemindex":1},{"id":59674,"title":"三韻三篇〈選一首〉","titledesc":"","poemindex":2},{"id":59675,"title":"貽華陽柳少府","titledesc":"","poemindex":3},{"id":59676,"title":"殿中楊監見示張旭草書圖","titledesc":"","poemindex":4},{"id":59677,"title":"課伐木〈幷序〉","titledesc":"課隸人伯夷辛秀信行等入谷斬陰木人日四根止維條伊枚正直挺然晨征暮返委積庭内我有藩籬是缺是補載伐篠簜伊仗支持則旅次于〈一本無于字〉小安山有虎知禁若恃爪牙之利必昏黑樘突夔人屋壁列樹白萄鏝為牆實以竹示式遏為與虎近混淪乎無良賓客憂害馬之徒茍活為幸可嘿息已作詩示宗武誦","poemindex":5},{"id":59678,"title":"園人送𤓰","titledesc":"","poemindex":6},{"id":59679,"title":"信行逺修水筒","titledesc":"","poemindex":7},{"id":59680,"title":"槐葉冷淘","titledesc":"","poemindex":8},{"id":59681,"title":"行官張望補稻畦水歸","titledesc":"","poemindex":9},{"id":59682,"title":"催宗文樹雞柵","titledesc":"","poemindex":10},{"id":59683,"title":"園官送菜〈并序〉","titledesc":"園官送菜把本數日闕矧苦苣馬齒掩乎嘉蔬傷小人妬害君子菜不足道也比而作詩","poemindex":11},{"id":59684,"title":"驅竪子摘蒼耳","titledesc":"","poemindex":12},{"id":59685,"title":"雨","titledesc":"","poemindex":13},{"id":59686,"title":"又上後園山脚","titledesc":"","poemindex":14},{"id":59687,"title":"雨","titledesc":"","poemindex":15},{"id":59688,"title":"甘林","titledesc":"","poemindex":16},{"id":59689,"title":"種萵苣〈并序〉","titledesc":"旣雨已秋堂下理小畦隔種一兩席許萵苣向二旬矣而苣不甲坼伊人莧青青傷時君子或晩得微祿轗軻不進因作此詩","poemindex":17},{"id":59690,"title":"暇日小園散病將種秋菜督勒耕牛兼書觸目","titledesc":"","poemindex":18},{"id":59691,"title":"贈司空王公思禮〈髙麗人〉","titledesc":"","poemindex":19},{"id":59692,"title":"故司徒李公光弼","titledesc":"","poemindex":20},{"id":59693,"title":"贈左僕射鄭國公嚴公武","titledesc":"","poemindex":21},{"id":59694,"title":"贈太子太師汝陽郡王璡","titledesc":"","poemindex":22},{"id":59695,"title":"贈秘書監江夏李公邕","titledesc":"","poemindex":23},{"id":59696,"title":"故秘書少監武功蘇公源明","titledesc":"","poemindex":24},{"id":59697,"title":"故著作郎貶台州司戸滎陽鄭公䖍","titledesc":"","poemindex":25},{"id":59698,"title":"故右僕射相國張公九齡","titledesc":"","poemindex":26},{"id":59699,"title":"寫懷","titledesc":"","poemindex":27},{"id":59700,"title":"寫懷","titledesc":"","poemindex":28},{"id":59701,"title":"昔逰","titledesc":"","poemindex":29},{"id":59702,"title":"壯遊","titledesc":"","poemindex":30},{"id":59703,"title":"遣懐","titledesc":"","poemindex":31},{"id":59704,"title":"同元使君舂陵行〈并序〉","titledesc":"覽道州元使君結舂陵行兼賊退後示官吏作二首志之曰當天子分憂之地效漢官良吏之目今盜賊未息知民疾苦得結輩十數公落落然參錯天下為邦伯萬物吐氣天下少安可得矣不意復見比興體制微婉頓挫之詞感而有詩增諸卷軸簡知我者不必寄元","poemindex":32},{"id":59705,"title":"聴楊氏歌","titledesc":"","poemindex":33},{"id":59706,"title":"别李義","titledesc":"","poemindex":34},{"id":59707,"title":"宿青溪驛奉懐張貟外十五兄之緒","titledesc":"","poemindex":35},{"id":59708,"title":"送重表姪王砅評事使南海","titledesc":"","poemindex":36},{"id":59709,"title":"送顧八分文學適洪吉州","titledesc":"","poemindex":37},{"id":59710,"title":"上水遣懐","titledesc":"","poemindex":38},{"id":59711,"title":"遣遇","titledesc":"","poemindex":39},{"id":59712,"title":"解憂","titledesc":"","poemindex":40},{"id":59713,"title":"宿鑿石浦","titledesc":"","poemindex":41},{"id":59714,"title":"過津口","titledesc":"","poemindex":42},{"id":59715,"title":"次空靈岸","titledesc":"","poemindex":43},{"id":59716,"title":"宿花石戍","titledesc":"","poemindex":44},{"id":59717,"title":"早發","titledesc":"","poemindex":45},{"id":59718,"title":"次晩洲","titledesc":"","poemindex":46},{"id":59719,"title":"望嶽","titledesc":"","poemindex":47},{"id":59720,"title":"蘇大侍御訪江浦賦八韻紀異〈并序〉","titledesc":"蘇大侍御渙靜者也旅於江側乃是不交州府之客人事都絶久矣肩輿江浦忽訪老夫舟檝而已茶酒内余請誦近詩𡧓吟數首才力素壯詞句動人接對明日憶其湧思雷出書箧几杖之外殷殷留金石聲賦八韻記異亦見老夫傾倒於蘇至矣","poemindex":48}]}}}
+{
+  "杜甫": {
+    "author": "杜甫",
+    "authordesc": "",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 59673,
+          "uid": "poem-26-1",
+          "title": "水閣朝霽奉簡嚴雲安",
+          "titledesc": "",
+          "poemindex": 1
+        },
+        {
+          "id": 59674,
+          "uid": "poem-26-2",
+          "title": "三韻三篇〈選一首〉",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 59675,
+          "uid": "poem-26-3",
+          "title": "貽華陽柳少府",
+          "titledesc": "",
+          "poemindex": 3
+        },
+        {
+          "id": 59676,
+          "uid": "poem-26-4",
+          "title": "殿中楊監見示張旭草書圖",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 59677,
+          "uid": "poem-26-5",
+          "title": "課伐木〈幷序〉",
+          "titledesc": "課隸人伯夷辛秀信行等入谷斬陰木人日四根止維條伊枚正直挺然晨征暮返委積庭内我有藩籬是缺是補載伐篠簜伊仗支持則旅次于〈一本無于字〉小安山有虎知禁若恃爪牙之利必昏黑樘突夔人屋壁列樹白萄鏝為牆實以竹示式遏為與虎近混淪乎無良賓客憂害馬之徒茍活為幸可嘿息已作詩示宗武誦",
+          "poemindex": 5
+        },
+        {
+          "id": 59678,
+          "uid": "poem-26-6",
+          "title": "園人送𤓰",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 59679,
+          "uid": "poem-26-7",
+          "title": "信行逺修水筒",
+          "titledesc": "",
+          "poemindex": 7
+        },
+        {
+          "id": 59680,
+          "uid": "poem-26-8",
+          "title": "槐葉冷淘",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 59681,
+          "uid": "poem-26-9",
+          "title": "行官張望補稻畦水歸",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 59682,
+          "uid": "poem-26-10",
+          "title": "催宗文樹雞柵",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 59683,
+          "uid": "poem-26-11",
+          "title": "園官送菜〈并序〉",
+          "titledesc": "園官送菜把本數日闕矧苦苣馬齒掩乎嘉蔬傷小人妬害君子菜不足道也比而作詩",
+          "poemindex": 11
+        },
+        {
+          "id": 59684,
+          "uid": "poem-26-12",
+          "title": "驅竪子摘蒼耳",
+          "titledesc": "",
+          "poemindex": 12
+        },
+        {
+          "id": 59685,
+          "uid": "poem-26-13",
+          "title": "雨",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 59686,
+          "uid": "poem-26-14",
+          "title": "又上後園山脚",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 59687,
+          "uid": "poem-26-15",
+          "title": "雨",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 59688,
+          "uid": "poem-26-16",
+          "title": "甘林",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 59689,
+          "uid": "poem-26-17",
+          "title": "種萵苣〈并序〉",
+          "titledesc": "旣雨已秋堂下理小畦隔種一兩席許萵苣向二旬矣而苣不甲坼伊人莧青青傷時君子或晩得微祿轗軻不進因作此詩",
+          "poemindex": 17
+        },
+        {
+          "id": 59690,
+          "uid": "poem-26-18",
+          "title": "暇日小園散病將種秋菜督勒耕牛兼書觸目",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 59691,
+          "uid": "poem-26-19",
+          "title": "贈司空王公思禮〈髙麗人〉",
+          "titledesc": "",
+          "poemindex": 19
+        },
+        {
+          "id": 59692,
+          "uid": "poem-26-20",
+          "title": "故司徒李公光弼",
+          "titledesc": "",
+          "poemindex": 20
+        },
+        {
+          "id": 59693,
+          "uid": "poem-26-21",
+          "title": "贈左僕射鄭國公嚴公武",
+          "titledesc": "",
+          "poemindex": 21
+        },
+        {
+          "id": 59694,
+          "uid": "poem-26-22",
+          "title": "贈太子太師汝陽郡王璡",
+          "titledesc": "",
+          "poemindex": 22
+        },
+        {
+          "id": 59695,
+          "uid": "poem-26-23",
+          "title": "贈秘書監江夏李公邕",
+          "titledesc": "",
+          "poemindex": 23
+        },
+        {
+          "id": 59696,
+          "uid": "poem-26-24",
+          "title": "故秘書少監武功蘇公源明",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 59697,
+          "uid": "poem-26-25",
+          "title": "故著作郎貶台州司戸滎陽鄭公䖍",
+          "titledesc": "",
+          "poemindex": 25
+        },
+        {
+          "id": 59698,
+          "uid": "poem-26-26",
+          "title": "故右僕射相國張公九齡",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 59699,
+          "uid": "poem-26-27",
+          "title": "寫懷",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 59700,
+          "uid": "poem-26-28",
+          "title": "寫懷",
+          "titledesc": "",
+          "poemindex": 28
+        },
+        {
+          "id": 59701,
+          "uid": "poem-26-29",
+          "title": "昔逰",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 59702,
+          "uid": "poem-26-30",
+          "title": "壯遊",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 59703,
+          "uid": "poem-26-31",
+          "title": "遣懐",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 59704,
+          "uid": "poem-26-32",
+          "title": "同元使君舂陵行〈并序〉",
+          "titledesc": "覽道州元使君結舂陵行兼賊退後示官吏作二首志之曰當天子分憂之地效漢官良吏之目今盜賊未息知民疾苦得結輩十數公落落然參錯天下為邦伯萬物吐氣天下少安可得矣不意復見比興體制微婉頓挫之詞感而有詩增諸卷軸簡知我者不必寄元",
+          "poemindex": 32
+        },
+        {
+          "id": 59705,
+          "uid": "poem-26-33",
+          "title": "聴楊氏歌",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 59706,
+          "uid": "poem-26-34",
+          "title": "别李義",
+          "titledesc": "",
+          "poemindex": 34
+        },
+        {
+          "id": 59707,
+          "uid": "poem-26-35",
+          "title": "宿青溪驛奉懐張貟外十五兄之緒",
+          "titledesc": "",
+          "poemindex": 35
+        },
+        {
+          "id": 59708,
+          "uid": "poem-26-36",
+          "title": "送重表姪王砅評事使南海",
+          "titledesc": "",
+          "poemindex": 36
+        },
+        {
+          "id": 59709,
+          "uid": "poem-26-37",
+          "title": "送顧八分文學適洪吉州",
+          "titledesc": "",
+          "poemindex": 37
+        },
+        {
+          "id": 59710,
+          "uid": "poem-26-38",
+          "title": "上水遣懐",
+          "titledesc": "",
+          "poemindex": 38
+        },
+        {
+          "id": 59711,
+          "uid": "poem-26-39",
+          "title": "遣遇",
+          "titledesc": "",
+          "poemindex": 39
+        },
+        {
+          "id": 59712,
+          "uid": "poem-26-40",
+          "title": "解憂",
+          "titledesc": "",
+          "poemindex": 40
+        },
+        {
+          "id": 59713,
+          "uid": "poem-26-41",
+          "title": "宿鑿石浦",
+          "titledesc": "",
+          "poemindex": 41
+        },
+        {
+          "id": 59714,
+          "uid": "poem-26-42",
+          "title": "過津口",
+          "titledesc": "",
+          "poemindex": 42
+        },
+        {
+          "id": 59715,
+          "uid": "poem-26-43",
+          "title": "次空靈岸",
+          "titledesc": "",
+          "poemindex": 43
+        },
+        {
+          "id": 59716,
+          "uid": "poem-26-44",
+          "title": "宿花石戍",
+          "titledesc": "",
+          "poemindex": 44
+        },
+        {
+          "id": 59717,
+          "uid": "poem-26-45",
+          "title": "早發",
+          "titledesc": "",
+          "poemindex": 45
+        },
+        {
+          "id": 59718,
+          "uid": "poem-26-46",
+          "title": "次晩洲",
+          "titledesc": "",
+          "poemindex": 46
+        },
+        {
+          "id": 59719,
+          "uid": "poem-26-47",
+          "title": "望嶽",
+          "titledesc": "",
+          "poemindex": 47
+        },
+        {
+          "id": 59720,
+          "uid": "poem-26-48",
+          "title": "蘇大侍御訪江浦賦八韻紀異〈并序〉",
+          "titledesc": "蘇大侍御渙靜者也旅於江側乃是不交州府之客人事都絶久矣肩輿江浦忽訪老夫舟檝而已茶酒内余請誦近詩𡧓吟數首才力素壯詞句動人接對明日憶其湧思雷出書箧几杖之外殷殷留金石聲賦八韻記異亦見老夫傾倒於蘇至矣",
+          "poemindex": 48
+        }
+      ]
+    }
+  }
+}

@@ -6,9 +6,9 @@
         <div class="collectiondesc" v-if="group.collectiondesc">{{ group.collectiondesc }}</div>
 
         <div v-for="poem in group.list" :key="poem.key" class="grouppoems">
-          <div class="poem" :id="`P${poem.key}`">
+          <div class="poem" :id="`${poem.uid}`">
             <div class="title">
-              <a :href="`#P${poem.key}`"
+              <a :href="`#${poem.uid}`"
                 >[{{ poem.poemindex }}]
                 <span v-if="poem.collection">{{ poem.collection }}</span>
                 {{ poem.title }}</a
@@ -23,9 +23,9 @@
         </div>
       </div>
 
-      <div class="poem" :id="`P${group.key}`" v-if="group.type === 'poem'">
+      <div class="poem" :id="`${group.uid}`" v-if="group.type === 'poem'">
         <div class="title">
-          <a :href="`#P${group.key}`">[{{ group.poemindex }}] {{ group.title }}</a>
+          <a :href="`#${group.uid}`">[{{ group.poemindex }}] {{ group.title }}</a>
         </div>
         <div class="author">
           <a :href="`author.html#${group.author}`" class="authorlink">{{ group.author }}</a>
@@ -64,7 +64,7 @@ props?.list?.forEach(poem => {
     }
 
     poem.type = 'poem';
-    poem.key = poem.id;
+    poem.key = poem.uid;
     poem.collectionnum = collectionGroup.list.length + 1;
     collectionGroup.list.push(poem);
   } else {
@@ -73,7 +73,7 @@ props?.list?.forEach(poem => {
     }
 
     poem.type = 'poem';
-    poem.key = poem.id;
+    poem.key = poem.uid;
     groups.push(poem);
   }
 });

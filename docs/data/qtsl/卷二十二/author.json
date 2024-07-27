@@ -1,1 +1,479 @@
-{"李白":{"author":"李白","authordesc":"","charstyleMap":{"古體詩":[{"id":59285,"title":"蜀道難","titledesc":"","poemindex":1},{"id":59286,"title":"梁父吟","titledesc":"","poemindex":2},{"id":59287,"title":"將進酒","titledesc":"","poemindex":3},{"id":59288,"title":"行路難","titledesc":"","poemindex":4},{"id":59289,"title":"長相思","titledesc":"","poemindex":5},{"id":59290,"title":"長相思","titledesc":"","poemindex":6},{"id":59291,"title":"春日行","titledesc":"","poemindex":7},{"id":59292,"title":"前有一樽酒行","titledesc":"","poemindex":8},{"id":59293,"title":"夜坐吟","titledesc":"","poemindex":9},{"id":59294,"title":"獨漉篇","titledesc":"","poemindex":10},{"id":59295,"title":"陽春歌","titledesc":"","poemindex":11},{"id":59296,"title":"楊叛兒","titledesc":"","poemindex":12},{"id":59297,"title":"幽澗泉","titledesc":"","poemindex":13},{"id":59298,"title":"王昭君","titledesc":"","poemindex":14},{"id":59299,"title":"中山孺子妾歌","titledesc":"","poemindex":15},{"id":59300,"title":"久別離","titledesc":"","poemindex":16},{"id":59301,"title":"白頭吟","titledesc":"","poemindex":17},{"id":59302,"title":"採蓮曲","titledesc":"","poemindex":18},{"id":59303,"title":"白紵辭","titledesc":"","poemindex":19},{"id":59304,"title":"白紵辭","titledesc":"","poemindex":20},{"id":59305,"title":"白紵辭","titledesc":"","poemindex":21},{"id":59306,"title":"擣衣篇","titledesc":"","poemindex":22},{"id":59307,"title":"襄陽歌","titledesc":"","poemindex":23},{"id":59308,"title":"江上吟","titledesc":"","poemindex":24},{"id":59309,"title":"江上吟","titledesc":"","poemindex":25},{"id":59310,"title":"玉壺吟","titledesc":"","poemindex":26},{"id":59311,"title":"西嶽雲臺歌送丹丘子","titledesc":"","poemindex":27},{"id":59312,"title":"扶風豪士歌","titledesc":"","poemindex":28},{"id":59313,"title":"梁園吟","titledesc":"","poemindex":29},{"id":59314,"title":"鳴臯歌送岑徴君","titledesc":"","poemindex":30},{"id":59315,"title":"橫江詞","titledesc":"","poemindex":31},{"id":59316,"title":"金陵城西樓月下吟","titledesc":"","poemindex":32},{"id":59317,"title":"白雲歌送劉十六歸山","titledesc":"","poemindex":33},{"id":59318,"title":"懷仙歌","titledesc":"","poemindex":34},{"id":59319,"title":"酬殷眀佐見贈五雲裘歌","titledesc":"","poemindex":35},{"id":59320,"title":"贈裴十四","titledesc":"","poemindex":36},{"id":59321,"title":"醉後贈從甥髙鎭","titledesc":"","poemindex":37},{"id":59322,"title":"贈漢陽輔錄事","titledesc":"","poemindex":38},{"id":59323,"title":"江夏贈韋南陵氷","titledesc":"","poemindex":39},{"id":59324,"title":"對雪醉後贈王歷陽","titledesc":"","poemindex":40},{"id":59325,"title":"春日獨坐寄鄭眀府","titledesc":"","poemindex":41},{"id":59326,"title":"寄王屋山人孟大融","titledesc":"","poemindex":42},{"id":59327,"title":"憶舊遊寄譙郡元參軍","titledesc":"","poemindex":43},{"id":59328,"title":"廬山謡寄盧侍御虛舟","titledesc":"","poemindex":44},{"id":59329,"title":"自漢陽病酒歸寄王明府","titledesc":"","poemindex":45},{"id":59330,"title":"早春寄王漢陽","titledesc":"","poemindex":46},{"id":59331,"title":"夢遊天姥吟留別","titledesc":"","poemindex":47},{"id":59332,"title":"金陵酒肆留別","titledesc":"","poemindex":48},{"id":59333,"title":"南陵別兒童入京","titledesc":"","poemindex":49},{"id":59334,"title":"魯郡堯祠送竇眀府薄華還西京〈時久病初起作〉","titledesc":"","poemindex":50},{"id":59335,"title":"單父東樓秋夜送族弟沈之秦","titledesc":"","poemindex":51},{"id":59336,"title":"送羽林陶將軍","titledesc":"","poemindex":52},{"id":59337,"title":"同王昌齡送族弟襄歸桂陽","titledesc":"","poemindex":53},{"id":59338,"title":"送蕭三十一之魯中兼問稚子伯禽","titledesc":"","poemindex":54},{"id":59339,"title":"宣州謝朓樓餞別校書叔雲","titledesc":"","poemindex":55},{"id":59340,"title":"酬中都吏㩦斗酒雙魚於逆旅見贈","titledesc":"","poemindex":56},{"id":59341,"title":"醉後荅丁十八以詩譏余搥碎黃鶴樓","titledesc":"","poemindex":57},{"id":59342,"title":"㩦妓登梁王棲霞山孟氏桃園中","titledesc":"","poemindex":58},{"id":59343,"title":"把酒問月","titledesc":"","poemindex":59},{"id":59344,"title":"三五七言","titledesc":"","poemindex":60},{"id":59345,"title":"寄逺","titledesc":"","poemindex":61},{"id":59346,"title":"寄逺","titledesc":"","poemindex":62},{"id":59347,"title":"寄逺","titledesc":"","poemindex":63},{"id":59348,"title":"對酒","titledesc":"","poemindex":64},{"id":59349,"title":"怨情","titledesc":"","poemindex":65},{"id":59350,"title":"思邊","titledesc":"","poemindex":66},{"id":59351,"title":"示金陵子","titledesc":"","poemindex":67}]}}}
+{
+  "李白": {
+    "author": "李白",
+    "authordesc": "",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 59285,
+          "uid": "poem-22-1",
+          "title": "蜀道難",
+          "titledesc": "",
+          "poemindex": 1
+        },
+        {
+          "id": 59286,
+          "uid": "poem-22-2",
+          "title": "梁父吟",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 59287,
+          "uid": "poem-22-3",
+          "title": "將進酒",
+          "titledesc": "",
+          "poemindex": 3
+        },
+        {
+          "id": 59288,
+          "uid": "poem-22-4",
+          "title": "行路難",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 59289,
+          "uid": "poem-22-5",
+          "title": "長相思",
+          "titledesc": "",
+          "poemindex": 5
+        },
+        {
+          "id": 59290,
+          "uid": "poem-22-6",
+          "title": "長相思",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 59291,
+          "uid": "poem-22-7",
+          "title": "春日行",
+          "titledesc": "",
+          "poemindex": 7
+        },
+        {
+          "id": 59292,
+          "uid": "poem-22-8",
+          "title": "前有一樽酒行",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 59293,
+          "uid": "poem-22-9",
+          "title": "夜坐吟",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 59294,
+          "uid": "poem-22-10",
+          "title": "獨漉篇",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 59295,
+          "uid": "poem-22-11",
+          "title": "陽春歌",
+          "titledesc": "",
+          "poemindex": 11
+        },
+        {
+          "id": 59296,
+          "uid": "poem-22-12",
+          "title": "楊叛兒",
+          "titledesc": "",
+          "poemindex": 12
+        },
+        {
+          "id": 59297,
+          "uid": "poem-22-13",
+          "title": "幽澗泉",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 59298,
+          "uid": "poem-22-14",
+          "title": "王昭君",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 59299,
+          "uid": "poem-22-15",
+          "title": "中山孺子妾歌",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 59300,
+          "uid": "poem-22-16",
+          "title": "久別離",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 59301,
+          "uid": "poem-22-17",
+          "title": "白頭吟",
+          "titledesc": "",
+          "poemindex": 17
+        },
+        {
+          "id": 59302,
+          "uid": "poem-22-18",
+          "title": "採蓮曲",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 59303,
+          "uid": "poem-22-19",
+          "title": "白紵辭",
+          "titledesc": "",
+          "poemindex": 19
+        },
+        {
+          "id": 59304,
+          "uid": "poem-22-20",
+          "title": "白紵辭",
+          "titledesc": "",
+          "poemindex": 20
+        },
+        {
+          "id": 59305,
+          "uid": "poem-22-21",
+          "title": "白紵辭",
+          "titledesc": "",
+          "poemindex": 21
+        },
+        {
+          "id": 59306,
+          "uid": "poem-22-22",
+          "title": "擣衣篇",
+          "titledesc": "",
+          "poemindex": 22
+        },
+        {
+          "id": 59307,
+          "uid": "poem-22-23",
+          "title": "襄陽歌",
+          "titledesc": "",
+          "poemindex": 23
+        },
+        {
+          "id": 59308,
+          "uid": "poem-22-24",
+          "title": "江上吟",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 59309,
+          "uid": "poem-22-25",
+          "title": "江上吟",
+          "titledesc": "",
+          "poemindex": 25
+        },
+        {
+          "id": 59310,
+          "uid": "poem-22-26",
+          "title": "玉壺吟",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 59311,
+          "uid": "poem-22-27",
+          "title": "西嶽雲臺歌送丹丘子",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 59312,
+          "uid": "poem-22-28",
+          "title": "扶風豪士歌",
+          "titledesc": "",
+          "poemindex": 28
+        },
+        {
+          "id": 59313,
+          "uid": "poem-22-29",
+          "title": "梁園吟",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 59314,
+          "uid": "poem-22-30",
+          "title": "鳴臯歌送岑徴君",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 59315,
+          "uid": "poem-22-31",
+          "title": "橫江詞",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 59316,
+          "uid": "poem-22-32",
+          "title": "金陵城西樓月下吟",
+          "titledesc": "",
+          "poemindex": 32
+        },
+        {
+          "id": 59317,
+          "uid": "poem-22-33",
+          "title": "白雲歌送劉十六歸山",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 59318,
+          "uid": "poem-22-34",
+          "title": "懷仙歌",
+          "titledesc": "",
+          "poemindex": 34
+        },
+        {
+          "id": 59319,
+          "uid": "poem-22-35",
+          "title": "酬殷眀佐見贈五雲裘歌",
+          "titledesc": "",
+          "poemindex": 35
+        },
+        {
+          "id": 59320,
+          "uid": "poem-22-36",
+          "title": "贈裴十四",
+          "titledesc": "",
+          "poemindex": 36
+        },
+        {
+          "id": 59321,
+          "uid": "poem-22-37",
+          "title": "醉後贈從甥髙鎭",
+          "titledesc": "",
+          "poemindex": 37
+        },
+        {
+          "id": 59322,
+          "uid": "poem-22-38",
+          "title": "贈漢陽輔錄事",
+          "titledesc": "",
+          "poemindex": 38
+        },
+        {
+          "id": 59323,
+          "uid": "poem-22-39",
+          "title": "江夏贈韋南陵氷",
+          "titledesc": "",
+          "poemindex": 39
+        },
+        {
+          "id": 59324,
+          "uid": "poem-22-40",
+          "title": "對雪醉後贈王歷陽",
+          "titledesc": "",
+          "poemindex": 40
+        },
+        {
+          "id": 59325,
+          "uid": "poem-22-41",
+          "title": "春日獨坐寄鄭眀府",
+          "titledesc": "",
+          "poemindex": 41
+        },
+        {
+          "id": 59326,
+          "uid": "poem-22-42",
+          "title": "寄王屋山人孟大融",
+          "titledesc": "",
+          "poemindex": 42
+        },
+        {
+          "id": 59327,
+          "uid": "poem-22-43",
+          "title": "憶舊遊寄譙郡元參軍",
+          "titledesc": "",
+          "poemindex": 43
+        },
+        {
+          "id": 59328,
+          "uid": "poem-22-44",
+          "title": "廬山謡寄盧侍御虛舟",
+          "titledesc": "",
+          "poemindex": 44
+        },
+        {
+          "id": 59329,
+          "uid": "poem-22-45",
+          "title": "自漢陽病酒歸寄王明府",
+          "titledesc": "",
+          "poemindex": 45
+        },
+        {
+          "id": 59330,
+          "uid": "poem-22-46",
+          "title": "早春寄王漢陽",
+          "titledesc": "",
+          "poemindex": 46
+        },
+        {
+          "id": 59331,
+          "uid": "poem-22-47",
+          "title": "夢遊天姥吟留別",
+          "titledesc": "",
+          "poemindex": 47
+        },
+        {
+          "id": 59332,
+          "uid": "poem-22-48",
+          "title": "金陵酒肆留別",
+          "titledesc": "",
+          "poemindex": 48
+        },
+        {
+          "id": 59333,
+          "uid": "poem-22-49",
+          "title": "南陵別兒童入京",
+          "titledesc": "",
+          "poemindex": 49
+        },
+        {
+          "id": 59334,
+          "uid": "poem-22-50",
+          "title": "魯郡堯祠送竇眀府薄華還西京〈時久病初起作〉",
+          "titledesc": "",
+          "poemindex": 50
+        },
+        {
+          "id": 59335,
+          "uid": "poem-22-51",
+          "title": "單父東樓秋夜送族弟沈之秦",
+          "titledesc": "",
+          "poemindex": 51
+        },
+        {
+          "id": 59336,
+          "uid": "poem-22-52",
+          "title": "送羽林陶將軍",
+          "titledesc": "",
+          "poemindex": 52
+        },
+        {
+          "id": 59337,
+          "uid": "poem-22-53",
+          "title": "同王昌齡送族弟襄歸桂陽",
+          "titledesc": "",
+          "poemindex": 53
+        },
+        {
+          "id": 59338,
+          "uid": "poem-22-54",
+          "title": "送蕭三十一之魯中兼問稚子伯禽",
+          "titledesc": "",
+          "poemindex": 54
+        },
+        {
+          "id": 59339,
+          "uid": "poem-22-55",
+          "title": "宣州謝朓樓餞別校書叔雲",
+          "titledesc": "",
+          "poemindex": 55
+        },
+        {
+          "id": 59340,
+          "uid": "poem-22-56",
+          "title": "酬中都吏㩦斗酒雙魚於逆旅見贈",
+          "titledesc": "",
+          "poemindex": 56
+        },
+        {
+          "id": 59341,
+          "uid": "poem-22-57",
+          "title": "醉後荅丁十八以詩譏余搥碎黃鶴樓",
+          "titledesc": "",
+          "poemindex": 57
+        },
+        {
+          "id": 59342,
+          "uid": "poem-22-58",
+          "title": "㩦妓登梁王棲霞山孟氏桃園中",
+          "titledesc": "",
+          "poemindex": 58
+        },
+        {
+          "id": 59343,
+          "uid": "poem-22-59",
+          "title": "把酒問月",
+          "titledesc": "",
+          "poemindex": 59
+        },
+        {
+          "id": 59344,
+          "uid": "poem-22-60",
+          "title": "三五七言",
+          "titledesc": "",
+          "poemindex": 60
+        },
+        {
+          "id": 59345,
+          "uid": "poem-22-61",
+          "title": "寄逺",
+          "titledesc": "",
+          "poemindex": 61
+        },
+        {
+          "id": 59346,
+          "uid": "poem-22-62",
+          "title": "寄逺",
+          "titledesc": "",
+          "poemindex": 62
+        },
+        {
+          "id": 59347,
+          "uid": "poem-22-63",
+          "title": "寄逺",
+          "titledesc": "",
+          "poemindex": 63
+        },
+        {
+          "id": 59348,
+          "uid": "poem-22-64",
+          "title": "對酒",
+          "titledesc": "",
+          "poemindex": 64
+        },
+        {
+          "id": 59349,
+          "uid": "poem-22-65",
+          "title": "怨情",
+          "titledesc": "",
+          "poemindex": 65
+        },
+        {
+          "id": 59350,
+          "uid": "poem-22-66",
+          "title": "思邊",
+          "titledesc": "",
+          "poemindex": 66
+        },
+        {
+          "id": 59351,
+          "uid": "poem-22-67",
+          "title": "示金陵子",
+          "titledesc": "",
+          "poemindex": 67
+        }
+      ]
+    }
+  }
+}

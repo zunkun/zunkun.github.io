@@ -1,1 +1,381 @@
-{"白居易":{"author":"白居易","authordesc":"","charstyleMap":{"古體詩":[{"id":63099,"title":"孟夏思渭村舊居寄舍弟","titledesc":"","poemindex":1},{"id":63100,"title":"感情","titledesc":"","poemindex":2},{"id":63101,"title":"早秋晩望兼呈韋侍郎","titledesc":"","poemindex":3},{"id":63102,"title":"夢與李七庾三十三同訪元九","titledesc":"","poemindex":4},{"id":63103,"title":"過昭君村〈邨在歸州東北四十里〉","titledesc":"","poemindex":5},{"id":63104,"title":"初到忠州登東樓寄萬州楊八使君","titledesc":"","poemindex":6},{"id":63105,"title":"西樓夜","titledesc":"","poemindex":7},{"id":63106,"title":"東樓曉","titledesc":"","poemindex":8},{"id":63107,"title":"寄王質夫","titledesc":"","poemindex":9},{"id":63108,"title":"南賓郡齋即事寄楊萬川","titledesc":"","poemindex":10},{"id":63109,"title":"招蕭處士","titledesc":"","poemindex":11},{"id":63110,"title":"庭槐","titledesc":"","poemindex":12},{"id":63111,"title":"東樓竹","titledesc":"","poemindex":13},{"id":63112,"title":"東城尋春","titledesc":"","poemindex":14},{"id":63113,"title":"花下對酒","titledesc":"","poemindex":15},{"id":63114,"title":"花下對酒","titledesc":"","poemindex":16},{"id":63115,"title":"東坡種花","titledesc":"","poemindex":17},{"id":63116,"title":"東坡種花","titledesc":"","poemindex":18},{"id":63117,"title":"步東坡","titledesc":"","poemindex":19},{"id":63118,"title":"竹窻","titledesc":"","poemindex":20},{"id":63119,"title":"曲江感秋〈并序〉","titledesc":"元和二年三年四年予每歲有曲江感秋詩凡三篇編在第七集卷是時予為左拾遺翰林學士無何貶江州司馬忠州刺史前年遷主客郎中知制誥未周歲授中書舍人今遊曲江又値秋日風物不改人事屢變况予中否後遇昔壯今衰慨然感懐復有此作噫人生多故不知明年秋又何許也時二年七月十日云耳","poemindex":21},{"id":63120,"title":"曲江感秋〈并序〉","titledesc":"元和二年三年四年予每歲有曲江感秋詩凡三篇編在第七集卷是時予為左拾遺翰林學士無何貶江州司馬忠州刺史前年遷主客郎中知制誥未周歲授中書舍人今遊曲江又値秋日風物不改人事屢變况予中否後遇昔壯今衰慨然感懐復有此作噫人生多故不知明年秋又何許也時二年七月十日云耳","poemindex":22},{"id":63121,"title":"客中月","titledesc":"","poemindex":23},{"id":63122,"title":"和錢貟外早冬翫禁中新菊","titledesc":"","poemindex":24},{"id":63123,"title":"和夢遊春詩一百韻〈并序〉","titledesc":"微之既到江陵又以夢遊春詩七十韻寄予且題其序曰斯言也不可使不知吾者知知吾者亦不可使不知樂天知吾者吾不敢不使吾子知予辱斯言三復其㫖大抵悔既徃而悟將來也然予以為茍不悔不悟則已若悔於此則宜悟於彼也反於彼而悟於妄則宜歸於眞也况與足下外服儒風内宗梵行者有日矣而今而後非覺路之返也非空門之歸也將安返乎將安歸乎今所和者其章㫖卒歸於此夫感不甚則悔不熟感不至則悟不深故廣足下七十韻為一百韻重為足下陳夢遊之中所以甚感者叙婚仕之際所以至感者欲使曲盡其妄周知其非然後返乎眞歸乎實亦猶法華經序火宅偈化城維摩經入婬舍過酒肆之義也微之微之予斯文也猶不可使不知吾者知幸藏之云爾","poemindex":25},{"id":63124,"title":"雙石","titledesc":"","poemindex":26},{"id":63125,"title":"宿東亭曉興","titledesc":"","poemindex":27},{"id":63126,"title":"秋池","titledesc":"","poemindex":28},{"id":63127,"title":"秋池","titledesc":"","poemindex":29},{"id":63128,"title":"偶作","titledesc":"","poemindex":30},{"id":63129,"title":"閒崔十八宿於新昌𡚁宅時予亦宿崔家依仁新亭一宵偶同兩興暗合因而成咏聊以寫懐","titledesc":"","poemindex":31},{"id":63130,"title":"慵不能","titledesc":"","poemindex":32},{"id":63131,"title":"解印出公府","titledesc":"","poemindex":33},{"id":63132,"title":"出府歸吾廬","titledesc":"","poemindex":34},{"id":63133,"title":"池上有小舟","titledesc":"","poemindex":35},{"id":63134,"title":"四月池水滿","titledesc":"","poemindex":36},{"id":63135,"title":"小庭亦有月","titledesc":"","poemindex":37},{"id":63136,"title":"秋涼閒卧","titledesc":"","poemindex":38},{"id":63137,"title":"山遊示小妓","titledesc":"","poemindex":39},{"id":63138,"title":"裴侍中晉公以集賢林亭即事詩二十六韻見贈猥蒙徴和才拙詞繁輙廣為五百言以申酬獻","titledesc":"","poemindex":40},{"id":63139,"title":"晩歸香山寺因詠所懐","titledesc":"","poemindex":41},{"id":63140,"title":"送吕漳州","titledesc":"","poemindex":42},{"id":63141,"title":"洛陽有愚叟","titledesc":"","poemindex":43},{"id":63142,"title":"和裴侍中南園靜興見示","titledesc":"","poemindex":44},{"id":63143,"title":"睡後茶興憶楊同州","titledesc":"","poemindex":45},{"id":63144,"title":"旱熱","titledesc":"","poemindex":46},{"id":63145,"title":"旱熱","titledesc":"","poemindex":47},{"id":63146,"title":"春遊","titledesc":"","poemindex":48},{"id":63147,"title":"題天竺南院贈閒元旻清四上人","titledesc":"","poemindex":49},{"id":63148,"title":"飲後戲示弟子","titledesc":"","poemindex":50},{"id":63149,"title":"晩起閒行","titledesc":"","poemindex":51},{"id":63150,"title":"二年三月五日齋畢開素當食偶吟贈妻弘農郡君","titledesc":"","poemindex":52},{"id":63151,"title":"不出門","titledesc":"","poemindex":53}]}}}
+{
+  "白居易": {
+    "author": "白居易",
+    "authordesc": "",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 63099,
+          "uid": "poem-61-1",
+          "title": "孟夏思渭村舊居寄舍弟",
+          "titledesc": "",
+          "poemindex": 1
+        },
+        {
+          "id": 63100,
+          "uid": "poem-61-2",
+          "title": "感情",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 63101,
+          "uid": "poem-61-3",
+          "title": "早秋晩望兼呈韋侍郎",
+          "titledesc": "",
+          "poemindex": 3
+        },
+        {
+          "id": 63102,
+          "uid": "poem-61-4",
+          "title": "夢與李七庾三十三同訪元九",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 63103,
+          "uid": "poem-61-5",
+          "title": "過昭君村〈邨在歸州東北四十里〉",
+          "titledesc": "",
+          "poemindex": 5
+        },
+        {
+          "id": 63104,
+          "uid": "poem-61-6",
+          "title": "初到忠州登東樓寄萬州楊八使君",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 63105,
+          "uid": "poem-61-7",
+          "title": "西樓夜",
+          "titledesc": "",
+          "poemindex": 7
+        },
+        {
+          "id": 63106,
+          "uid": "poem-61-8",
+          "title": "東樓曉",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 63107,
+          "uid": "poem-61-9",
+          "title": "寄王質夫",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 63108,
+          "uid": "poem-61-10",
+          "title": "南賓郡齋即事寄楊萬川",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 63109,
+          "uid": "poem-61-11",
+          "title": "招蕭處士",
+          "titledesc": "",
+          "poemindex": 11
+        },
+        {
+          "id": 63110,
+          "uid": "poem-61-12",
+          "title": "庭槐",
+          "titledesc": "",
+          "poemindex": 12
+        },
+        {
+          "id": 63111,
+          "uid": "poem-61-13",
+          "title": "東樓竹",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 63112,
+          "uid": "poem-61-14",
+          "title": "東城尋春",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 63113,
+          "uid": "poem-61-15",
+          "title": "花下對酒",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 63114,
+          "uid": "poem-61-16",
+          "title": "花下對酒",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 63115,
+          "uid": "poem-61-17",
+          "title": "東坡種花",
+          "titledesc": "",
+          "poemindex": 17
+        },
+        {
+          "id": 63116,
+          "uid": "poem-61-18",
+          "title": "東坡種花",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 63117,
+          "uid": "poem-61-19",
+          "title": "步東坡",
+          "titledesc": "",
+          "poemindex": 19
+        },
+        {
+          "id": 63118,
+          "uid": "poem-61-20",
+          "title": "竹窻",
+          "titledesc": "",
+          "poemindex": 20
+        },
+        {
+          "id": 63119,
+          "uid": "poem-61-21",
+          "title": "曲江感秋〈并序〉",
+          "titledesc": "元和二年三年四年予每歲有曲江感秋詩凡三篇編在第七集卷是時予為左拾遺翰林學士無何貶江州司馬忠州刺史前年遷主客郎中知制誥未周歲授中書舍人今遊曲江又値秋日風物不改人事屢變况予中否後遇昔壯今衰慨然感懐復有此作噫人生多故不知明年秋又何許也時二年七月十日云耳",
+          "poemindex": 21
+        },
+        {
+          "id": 63120,
+          "uid": "poem-61-22",
+          "title": "曲江感秋〈并序〉",
+          "titledesc": "元和二年三年四年予每歲有曲江感秋詩凡三篇編在第七集卷是時予為左拾遺翰林學士無何貶江州司馬忠州刺史前年遷主客郎中知制誥未周歲授中書舍人今遊曲江又値秋日風物不改人事屢變况予中否後遇昔壯今衰慨然感懐復有此作噫人生多故不知明年秋又何許也時二年七月十日云耳",
+          "poemindex": 22
+        },
+        {
+          "id": 63121,
+          "uid": "poem-61-23",
+          "title": "客中月",
+          "titledesc": "",
+          "poemindex": 23
+        },
+        {
+          "id": 63122,
+          "uid": "poem-61-24",
+          "title": "和錢貟外早冬翫禁中新菊",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 63123,
+          "uid": "poem-61-25",
+          "title": "和夢遊春詩一百韻〈并序〉",
+          "titledesc": "微之既到江陵又以夢遊春詩七十韻寄予且題其序曰斯言也不可使不知吾者知知吾者亦不可使不知樂天知吾者吾不敢不使吾子知予辱斯言三復其㫖大抵悔既徃而悟將來也然予以為茍不悔不悟則已若悔於此則宜悟於彼也反於彼而悟於妄則宜歸於眞也况與足下外服儒風内宗梵行者有日矣而今而後非覺路之返也非空門之歸也將安返乎將安歸乎今所和者其章㫖卒歸於此夫感不甚則悔不熟感不至則悟不深故廣足下七十韻為一百韻重為足下陳夢遊之中所以甚感者叙婚仕之際所以至感者欲使曲盡其妄周知其非然後返乎眞歸乎實亦猶法華經序火宅偈化城維摩經入婬舍過酒肆之義也微之微之予斯文也猶不可使不知吾者知幸藏之云爾",
+          "poemindex": 25
+        },
+        {
+          "id": 63124,
+          "uid": "poem-61-26",
+          "title": "雙石",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 63125,
+          "uid": "poem-61-27",
+          "title": "宿東亭曉興",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 63126,
+          "uid": "poem-61-28",
+          "title": "秋池",
+          "titledesc": "",
+          "poemindex": 28
+        },
+        {
+          "id": 63127,
+          "uid": "poem-61-29",
+          "title": "秋池",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 63128,
+          "uid": "poem-61-30",
+          "title": "偶作",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 63129,
+          "uid": "poem-61-31",
+          "title": "閒崔十八宿於新昌𡚁宅時予亦宿崔家依仁新亭一宵偶同兩興暗合因而成咏聊以寫懐",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 63130,
+          "uid": "poem-61-32",
+          "title": "慵不能",
+          "titledesc": "",
+          "poemindex": 32
+        },
+        {
+          "id": 63131,
+          "uid": "poem-61-33",
+          "title": "解印出公府",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 63132,
+          "uid": "poem-61-34",
+          "title": "出府歸吾廬",
+          "titledesc": "",
+          "poemindex": 34
+        },
+        {
+          "id": 63133,
+          "uid": "poem-61-35",
+          "title": "池上有小舟",
+          "titledesc": "",
+          "poemindex": 35
+        },
+        {
+          "id": 63134,
+          "uid": "poem-61-36",
+          "title": "四月池水滿",
+          "titledesc": "",
+          "poemindex": 36
+        },
+        {
+          "id": 63135,
+          "uid": "poem-61-37",
+          "title": "小庭亦有月",
+          "titledesc": "",
+          "poemindex": 37
+        },
+        {
+          "id": 63136,
+          "uid": "poem-61-38",
+          "title": "秋涼閒卧",
+          "titledesc": "",
+          "poemindex": 38
+        },
+        {
+          "id": 63137,
+          "uid": "poem-61-39",
+          "title": "山遊示小妓",
+          "titledesc": "",
+          "poemindex": 39
+        },
+        {
+          "id": 63138,
+          "uid": "poem-61-40",
+          "title": "裴侍中晉公以集賢林亭即事詩二十六韻見贈猥蒙徴和才拙詞繁輙廣為五百言以申酬獻",
+          "titledesc": "",
+          "poemindex": 40
+        },
+        {
+          "id": 63139,
+          "uid": "poem-61-41",
+          "title": "晩歸香山寺因詠所懐",
+          "titledesc": "",
+          "poemindex": 41
+        },
+        {
+          "id": 63140,
+          "uid": "poem-61-42",
+          "title": "送吕漳州",
+          "titledesc": "",
+          "poemindex": 42
+        },
+        {
+          "id": 63141,
+          "uid": "poem-61-43",
+          "title": "洛陽有愚叟",
+          "titledesc": "",
+          "poemindex": 43
+        },
+        {
+          "id": 63142,
+          "uid": "poem-61-44",
+          "title": "和裴侍中南園靜興見示",
+          "titledesc": "",
+          "poemindex": 44
+        },
+        {
+          "id": 63143,
+          "uid": "poem-61-45",
+          "title": "睡後茶興憶楊同州",
+          "titledesc": "",
+          "poemindex": 45
+        },
+        {
+          "id": 63144,
+          "uid": "poem-61-46",
+          "title": "旱熱",
+          "titledesc": "",
+          "poemindex": 46
+        },
+        {
+          "id": 63145,
+          "uid": "poem-61-47",
+          "title": "旱熱",
+          "titledesc": "",
+          "poemindex": 47
+        },
+        {
+          "id": 63146,
+          "uid": "poem-61-48",
+          "title": "春遊",
+          "titledesc": "",
+          "poemindex": 48
+        },
+        {
+          "id": 63147,
+          "uid": "poem-61-49",
+          "title": "題天竺南院贈閒元旻清四上人",
+          "titledesc": "",
+          "poemindex": 49
+        },
+        {
+          "id": 63148,
+          "uid": "poem-61-50",
+          "title": "飲後戲示弟子",
+          "titledesc": "",
+          "poemindex": 50
+        },
+        {
+          "id": 63149,
+          "uid": "poem-61-51",
+          "title": "晩起閒行",
+          "titledesc": "",
+          "poemindex": 51
+        },
+        {
+          "id": 63150,
+          "uid": "poem-61-52",
+          "title": "二年三月五日齋畢開素當食偶吟贈妻弘農郡君",
+          "titledesc": "",
+          "poemindex": 52
+        },
+        {
+          "id": 63151,
+          "uid": "poem-61-53",
+          "title": "不出門",
+          "titledesc": "",
+          "poemindex": 53
+        }
+      ]
+    }
+  }
+}

@@ -1,1 +1,248 @@
-{"白居易":{"author":"白居易","authordesc":"","charstyleMap":{"古體詩":[{"id":63065,"title":"醉後走筆酬劉五主簿長句之贈兼簡張大賈二十四先輩昆季","titledesc":"","poemindex":1},{"id":63066,"title":"江南遇天寶樂叟","titledesc":"","poemindex":2},{"id":63067,"title":"送張山人歸嵩陽","titledesc":"","poemindex":3},{"id":63068,"title":"放旅雁","titledesc":"","poemindex":4},{"id":63069,"title":"畫竹歌〈并序〉","titledesc":"協律郎蕭恱善畫竹舉時無倫蕭亦甚自秘重有終歲求其一竿一枝而不得者知予天與好事忽寫一十五竿惠然見投予厚其意髙其藝無以答貺作歌以報之凡一百八十六字云","poemindex":5},{"id":63070,"title":"長恨歌","titledesc":"","poemindex":6},{"id":63071,"title":"琵琶引〈并序〉","titledesc":"元和十年予左遷九江郡司馬明年秋送客湓浦口聞舟中夜彈琵琶者聴其音錚錚然有京都聲問其人本長安娼女嘗學琵琶於穆曹二善才年長色衰委身為賈人婦遂命酒使快彈數曲曲罷憫然自叙少小時歡樂事今漂淪憔悴轉徙於江湖間予出官二年恬然自安感斯人言是夕始覺有遷謫意因為長句歌以贈之凡六百一十二言命曰琵琶行","poemindex":7},{"id":63072,"title":"簡簡吟","titledesc":"","poemindex":8},{"id":63073,"title":"霓裳羽衣歌〈和微之〉","titledesc":"","poemindex":9},{"id":63074,"title":"小童薛陽陶吹觱篥歌〈和浙西李大夫作〉","titledesc":"","poemindex":10},{"id":63075,"title":"舒貟外遊香山寺數日不歸兼辱尺書大誇勝事時正値坐衙慮囚之際走筆題長句以贈之","titledesc":"","poemindex":11},{"id":63076,"title":"蘇州李中丞以元日郡齋感懐詩寄微之及余輙依來篇七言八韻走筆奉答兼呈微之","titledesc":"","poemindex":12},{"id":63077,"title":"秋日與張賔客舒著作同遊龍門醉中狂歌凡二百三十八字","titledesc":"","poemindex":13},{"id":63078,"title":"達哉樂天行","titledesc":"","poemindex":14},{"id":63079,"title":"海漫漫 戒求仙也","titledesc":"","poemindex":15},{"id":63080,"title":"華原磬 刺樂工非其人也〈天寶中始廢泗濵磬用華原石代之詢諸磬人則曰故老云泗濵磬下調之不能和得華原石考之乃和由是不改〉","titledesc":"","poemindex":16},{"id":63081,"title":"上陽白髮人 愍怨曠也〈天寶五載已後楊貴妃專寵後宮人無復進幸矣六宫有美色者輙置别所上陽是其一也貞元中尚存焉〉","titledesc":"","poemindex":17},{"id":63082,"title":"胡旋女 戒近習也〈天寶末康居國獻之〉","titledesc":"","poemindex":18},{"id":63083,"title":"新豐折臂翁 戒邉功也","titledesc":"","poemindex":19},{"id":63084,"title":"縛戎人 達窮民之情也","titledesc":"","poemindex":20},{"id":63085,"title":"百錬鏡 美皇王鑒也","titledesc":"","poemindex":21},{"id":63086,"title":"青石 激忠烈也","titledesc":"","poemindex":22},{"id":63087,"title":"西涼伎 刺封疆之臣也","titledesc":"","poemindex":23},{"id":63088,"title":"八駿圖 戒竒物懲佚遊也","titledesc":"","poemindex":24},{"id":63089,"title":"澗底松 念寒儁也","titledesc":"","poemindex":25},{"id":63090,"title":"繚綾 念女工之勞也","titledesc":"","poemindex":26},{"id":63091,"title":"賣炭翁 苦官市也","titledesc":"","poemindex":27},{"id":63092,"title":"官牛 諷執政也","titledesc":"","poemindex":28},{"id":63093,"title":"秦吉了 哀寃民也","titledesc":"","poemindex":29},{"id":63094,"title":"眞娘墓〈墓在虎丘寺〉","titledesc":"","poemindex":30},{"id":63095,"title":"寒食野望吟","titledesc":"","poemindex":31},{"id":63096,"title":"醉歌〈示妓人商玲瓏〉","titledesc":"","poemindex":32},{"id":63097,"title":"憶舊遊〈寄劉蘇州〉","titledesc":"","poemindex":33},{"id":63098,"title":"履信池櫻桃島上醉後走筆送别舒貟外兼寄宗正李卿考功崔郎中","titledesc":"","poemindex":34}]}}}
+{
+  "白居易": {
+    "author": "白居易",
+    "authordesc": "",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 63065,
+          "uid": "poem-62-1",
+          "title": "醉後走筆酬劉五主簿長句之贈兼簡張大賈二十四先輩昆季",
+          "titledesc": "",
+          "poemindex": 1
+        },
+        {
+          "id": 63066,
+          "uid": "poem-62-2",
+          "title": "江南遇天寶樂叟",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 63067,
+          "uid": "poem-62-3",
+          "title": "送張山人歸嵩陽",
+          "titledesc": "",
+          "poemindex": 3
+        },
+        {
+          "id": 63068,
+          "uid": "poem-62-4",
+          "title": "放旅雁",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 63069,
+          "uid": "poem-62-5",
+          "title": "畫竹歌〈并序〉",
+          "titledesc": "協律郎蕭恱善畫竹舉時無倫蕭亦甚自秘重有終歲求其一竿一枝而不得者知予天與好事忽寫一十五竿惠然見投予厚其意髙其藝無以答貺作歌以報之凡一百八十六字云",
+          "poemindex": 5
+        },
+        {
+          "id": 63070,
+          "uid": "poem-62-6",
+          "title": "長恨歌",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 63071,
+          "uid": "poem-62-7",
+          "title": "琵琶引〈并序〉",
+          "titledesc": "元和十年予左遷九江郡司馬明年秋送客湓浦口聞舟中夜彈琵琶者聴其音錚錚然有京都聲問其人本長安娼女嘗學琵琶於穆曹二善才年長色衰委身為賈人婦遂命酒使快彈數曲曲罷憫然自叙少小時歡樂事今漂淪憔悴轉徙於江湖間予出官二年恬然自安感斯人言是夕始覺有遷謫意因為長句歌以贈之凡六百一十二言命曰琵琶行",
+          "poemindex": 7
+        },
+        {
+          "id": 63072,
+          "uid": "poem-62-8",
+          "title": "簡簡吟",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 63073,
+          "uid": "poem-62-9",
+          "title": "霓裳羽衣歌〈和微之〉",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 63074,
+          "uid": "poem-62-10",
+          "title": "小童薛陽陶吹觱篥歌〈和浙西李大夫作〉",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 63075,
+          "uid": "poem-62-11",
+          "title": "舒貟外遊香山寺數日不歸兼辱尺書大誇勝事時正値坐衙慮囚之際走筆題長句以贈之",
+          "titledesc": "",
+          "poemindex": 11
+        },
+        {
+          "id": 63076,
+          "uid": "poem-62-12",
+          "title": "蘇州李中丞以元日郡齋感懐詩寄微之及余輙依來篇七言八韻走筆奉答兼呈微之",
+          "titledesc": "",
+          "poemindex": 12
+        },
+        {
+          "id": 63077,
+          "uid": "poem-62-13",
+          "title": "秋日與張賔客舒著作同遊龍門醉中狂歌凡二百三十八字",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 63078,
+          "uid": "poem-62-14",
+          "title": "達哉樂天行",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 63079,
+          "uid": "poem-62-15",
+          "title": "海漫漫 戒求仙也",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 63080,
+          "uid": "poem-62-16",
+          "title": "華原磬 刺樂工非其人也〈天寶中始廢泗濵磬用華原石代之詢諸磬人則曰故老云泗濵磬下調之不能和得華原石考之乃和由是不改〉",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 63081,
+          "uid": "poem-62-17",
+          "title": "上陽白髮人 愍怨曠也〈天寶五載已後楊貴妃專寵後宮人無復進幸矣六宫有美色者輙置别所上陽是其一也貞元中尚存焉〉",
+          "titledesc": "",
+          "poemindex": 17
+        },
+        {
+          "id": 63082,
+          "uid": "poem-62-18",
+          "title": "胡旋女 戒近習也〈天寶末康居國獻之〉",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 63083,
+          "uid": "poem-62-19",
+          "title": "新豐折臂翁 戒邉功也",
+          "titledesc": "",
+          "poemindex": 19
+        },
+        {
+          "id": 63084,
+          "uid": "poem-62-20",
+          "title": "縛戎人 達窮民之情也",
+          "titledesc": "",
+          "poemindex": 20
+        },
+        {
+          "id": 63085,
+          "uid": "poem-62-21",
+          "title": "百錬鏡 美皇王鑒也",
+          "titledesc": "",
+          "poemindex": 21
+        },
+        {
+          "id": 63086,
+          "uid": "poem-62-22",
+          "title": "青石 激忠烈也",
+          "titledesc": "",
+          "poemindex": 22
+        },
+        {
+          "id": 63087,
+          "uid": "poem-62-23",
+          "title": "西涼伎 刺封疆之臣也",
+          "titledesc": "",
+          "poemindex": 23
+        },
+        {
+          "id": 63088,
+          "uid": "poem-62-24",
+          "title": "八駿圖 戒竒物懲佚遊也",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 63089,
+          "uid": "poem-62-25",
+          "title": "澗底松 念寒儁也",
+          "titledesc": "",
+          "poemindex": 25
+        },
+        {
+          "id": 63090,
+          "uid": "poem-62-26",
+          "title": "繚綾 念女工之勞也",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 63091,
+          "uid": "poem-62-27",
+          "title": "賣炭翁 苦官市也",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 63092,
+          "uid": "poem-62-28",
+          "title": "官牛 諷執政也",
+          "titledesc": "",
+          "poemindex": 28
+        },
+        {
+          "id": 63093,
+          "uid": "poem-62-29",
+          "title": "秦吉了 哀寃民也",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 63094,
+          "uid": "poem-62-30",
+          "title": "眞娘墓〈墓在虎丘寺〉",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 63095,
+          "uid": "poem-62-31",
+          "title": "寒食野望吟",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 63096,
+          "uid": "poem-62-32",
+          "title": "醉歌〈示妓人商玲瓏〉",
+          "titledesc": "",
+          "poemindex": 32
+        },
+        {
+          "id": 63097,
+          "uid": "poem-62-33",
+          "title": "憶舊遊〈寄劉蘇州〉",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 63098,
+          "uid": "poem-62-34",
+          "title": "履信池櫻桃島上醉後走筆送别舒貟外兼寄宗正李卿考功崔郎中",
+          "titledesc": "",
+          "poemindex": 34
+        }
+      ]
+    }
+  }
+}

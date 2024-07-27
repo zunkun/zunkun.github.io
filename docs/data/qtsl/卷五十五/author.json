@@ -1,1 +1,635 @@
-{"王建":{"author":"王建","authordesc":"建字仲初潁州人大歴十年登進士第辟魏博幕府入朝官昭應縣丞太和中轉太常寺丞終陜州司馬建與張籍同時相友善工為樂府歌行思逺格幽宮詞百首天下傳播傚此體者後雖有數家而建為之祖","charstyleMap":{"古體詩":[{"id":62719,"title":"元日早朝","titledesc":"","poemindex":1},{"id":62720,"title":"早發金堤驛","titledesc":"","poemindex":2},{"id":62721,"title":"七泉寺上方","titledesc":"","poemindex":3},{"id":62722,"title":"温門山","titledesc":"","poemindex":4},{"id":62723,"title":"將歸故山留别杜侍御","titledesc":"","poemindex":5},{"id":62724,"title":"送張籍歸江東","titledesc":"","poemindex":6},{"id":62725,"title":"送韋處士老舅","titledesc":"","poemindex":7},{"id":62726,"title":"送人","titledesc":"","poemindex":8},{"id":62727,"title":"白紵歌二首","titledesc":"","poemindex":9},{"id":62728,"title":"白紵歌二首","titledesc":"","poemindex":10},{"id":62729,"title":"温泉宮行","titledesc":"","poemindex":11},{"id":62730,"title":"隴頭水","titledesc":"","poemindex":12},{"id":62731,"title":"荆門行","titledesc":"","poemindex":13},{"id":62732,"title":"田家行","titledesc":"","poemindex":14},{"id":62733,"title":"田家留客","titledesc":"","poemindex":15},{"id":62734,"title":"賽神曲","titledesc":"","poemindex":16},{"id":62735,"title":"當窓織","titledesc":"","poemindex":17},{"id":62736,"title":"織錦曲","titledesc":"","poemindex":18},{"id":62737,"title":"羽林行","titledesc":"","poemindex":19},{"id":62738,"title":"水運行","titledesc":"","poemindex":20},{"id":62739,"title":"水夫謡","titledesc":"","poemindex":21},{"id":62740,"title":"夢看梨花雲歌","titledesc":"","poemindex":22},{"id":62741,"title":"春詞","titledesc":"","poemindex":23},{"id":62742,"title":"失釵怨","titledesc":"","poemindex":24},{"id":62743,"title":"寄逺曲","titledesc":"","poemindex":25},{"id":62744,"title":"鏡聽詞","titledesc":"","poemindex":26},{"id":62745,"title":"北邙行","titledesc":"","poemindex":27},{"id":62746,"title":"精衛詞","titledesc":"","poemindex":28},{"id":62747,"title":"鞦韆詞","titledesc":"","poemindex":29},{"id":62748,"title":"題天台隱静寺","titledesc":"","poemindex":30},{"id":62749,"title":"望夫石","titledesc":"","poemindex":31},{"id":62750,"title":"雉將雛","titledesc":"","poemindex":32},{"id":62751,"title":"短歌行","titledesc":"","poemindex":33},{"id":62752,"title":"飲馬長城窟","titledesc":"","poemindex":34},{"id":62753,"title":"行見月","titledesc":"","poemindex":35},{"id":62754,"title":"逺将歸","titledesc":"","poemindex":36},{"id":62755,"title":"烏夜啼","titledesc":"","poemindex":37},{"id":62756,"title":"簇蠶辭","titledesc":"","poemindex":38},{"id":62757,"title":"促刺詞","titledesc":"","poemindex":39},{"id":62758,"title":"銅雀臺","titledesc":"","poemindex":40}],"近體詩":[{"id":62759,"title":"昭應官舍","titledesc":"","poemindex":41},{"id":62760,"title":"長安春遊","titledesc":"","poemindex":42},{"id":62761,"title":"閒居即事","titledesc":"","poemindex":43},{"id":62762,"title":"貧居","titledesc":"","poemindex":44},{"id":62763,"title":"山居","titledesc":"","poemindex":45},{"id":62764,"title":"新修道居","titledesc":"","poemindex":46},{"id":62765,"title":"原上新居","titledesc":"","poemindex":47},{"id":62766,"title":"原上新居","titledesc":"","poemindex":48},{"id":62767,"title":"原上新居","titledesc":"","poemindex":49},{"id":62768,"title":"原上新居","titledesc":"","poemindex":50},{"id":62769,"title":"原上新居","titledesc":"","poemindex":51},{"id":62770,"title":"原上新居","titledesc":"","poemindex":52},{"id":62771,"title":"原上新居","titledesc":"","poemindex":53},{"id":62772,"title":"原上新居","titledesc":"","poemindex":54},{"id":62773,"title":"原上新居","titledesc":"","poemindex":55},{"id":62774,"title":"原上新居","titledesc":"","poemindex":56},{"id":62775,"title":"原上新居","titledesc":"","poemindex":57},{"id":62776,"title":"原上新居","titledesc":"","poemindex":58},{"id":62777,"title":"冬夜感懐","titledesc":"","poemindex":59},{"id":62778,"title":"惜懽","titledesc":"","poemindex":60},{"id":62779,"title":"照鏡","titledesc":"","poemindex":61},{"id":62780,"title":"南中","titledesc":"","poemindex":62},{"id":62781,"title":"醉後憶故人山中","titledesc":"","poemindex":63},{"id":62782,"title":"送李評事使蜀","titledesc":"","poemindex":64},{"id":62783,"title":"送呉郎中赴忠州","titledesc":"","poemindex":65},{"id":62784,"title":"杜中丞書院新移小竹","titledesc":"","poemindex":66},{"id":62785,"title":"上陽宮","titledesc":"","poemindex":67},{"id":62786,"title":"聞説","titledesc":"","poemindex":68},{"id":62787,"title":"初授大府丞言懐","titledesc":"","poemindex":69},{"id":62788,"title":"晩秋病中","titledesc":"","poemindex":70},{"id":62789,"title":"嵗晩自感","titledesc":"","poemindex":71},{"id":62790,"title":"自傷","titledesc":"","poemindex":72},{"id":62791,"title":"春日五門西望","titledesc":"","poemindex":73},{"id":62792,"title":"武陵春日","titledesc":"","poemindex":74},{"id":62793,"title":"江陵即事","titledesc":"","poemindex":75},{"id":62794,"title":"題元郎中新宅","titledesc":"","poemindex":76},{"id":62795,"title":"薛二十池亭〈一作姚合詩〉","titledesc":"","poemindex":77},{"id":62796,"title":"郭家溪亭","titledesc":"","poemindex":78},{"id":62797,"title":"題金家竹溪","titledesc":"","poemindex":79},{"id":62798,"title":"逍遥翁溪亭","titledesc":"","poemindex":80},{"id":62799,"title":"故梁園公主池亭〈一作姚合詩〉","titledesc":"","poemindex":81},{"id":62800,"title":"題柱國寺","titledesc":"","poemindex":82},{"id":62801,"title":"題石甕寺","titledesc":"","poemindex":83},{"id":62802,"title":"上杜元頴相公","titledesc":"","poemindex":84},{"id":62803,"title":"閻少保","titledesc":"","poemindex":85},{"id":62804,"title":"贈崔禮駙馬","titledesc":"","poemindex":86},{"id":62805,"title":"贈王樞密","titledesc":"","poemindex":87},{"id":62806,"title":"寄楊十二袐書","titledesc":"","poemindex":88},{"id":62807,"title":"送宮人入道","titledesc":"","poemindex":89}]}}}
+{
+  "王建": {
+    "author": "王建",
+    "authordesc": "建字仲初潁州人大歴十年登進士第辟魏博幕府入朝官昭應縣丞太和中轉太常寺丞終陜州司馬建與張籍同時相友善工為樂府歌行思逺格幽宮詞百首天下傳播傚此體者後雖有數家而建為之祖",
+    "charstyleMap": {
+      "古體詩": [
+        {
+          "id": 62719,
+          "uid": "poem-55-1",
+          "title": "元日早朝",
+          "titledesc": "",
+          "poemindex": 1
+        },
+        {
+          "id": 62720,
+          "uid": "poem-55-2",
+          "title": "早發金堤驛",
+          "titledesc": "",
+          "poemindex": 2
+        },
+        {
+          "id": 62721,
+          "uid": "poem-55-3",
+          "title": "七泉寺上方",
+          "titledesc": "",
+          "poemindex": 3
+        },
+        {
+          "id": 62722,
+          "uid": "poem-55-4",
+          "title": "温門山",
+          "titledesc": "",
+          "poemindex": 4
+        },
+        {
+          "id": 62723,
+          "uid": "poem-55-5",
+          "title": "將歸故山留别杜侍御",
+          "titledesc": "",
+          "poemindex": 5
+        },
+        {
+          "id": 62724,
+          "uid": "poem-55-6",
+          "title": "送張籍歸江東",
+          "titledesc": "",
+          "poemindex": 6
+        },
+        {
+          "id": 62725,
+          "uid": "poem-55-7",
+          "title": "送韋處士老舅",
+          "titledesc": "",
+          "poemindex": 7
+        },
+        {
+          "id": 62726,
+          "uid": "poem-55-8",
+          "title": "送人",
+          "titledesc": "",
+          "poemindex": 8
+        },
+        {
+          "id": 62727,
+          "uid": "poem-55-9",
+          "title": "白紵歌二首",
+          "titledesc": "",
+          "poemindex": 9
+        },
+        {
+          "id": 62728,
+          "uid": "poem-55-10",
+          "title": "白紵歌二首",
+          "titledesc": "",
+          "poemindex": 10
+        },
+        {
+          "id": 62729,
+          "uid": "poem-55-11",
+          "title": "温泉宮行",
+          "titledesc": "",
+          "poemindex": 11
+        },
+        {
+          "id": 62730,
+          "uid": "poem-55-12",
+          "title": "隴頭水",
+          "titledesc": "",
+          "poemindex": 12
+        },
+        {
+          "id": 62731,
+          "uid": "poem-55-13",
+          "title": "荆門行",
+          "titledesc": "",
+          "poemindex": 13
+        },
+        {
+          "id": 62732,
+          "uid": "poem-55-14",
+          "title": "田家行",
+          "titledesc": "",
+          "poemindex": 14
+        },
+        {
+          "id": 62733,
+          "uid": "poem-55-15",
+          "title": "田家留客",
+          "titledesc": "",
+          "poemindex": 15
+        },
+        {
+          "id": 62734,
+          "uid": "poem-55-16",
+          "title": "賽神曲",
+          "titledesc": "",
+          "poemindex": 16
+        },
+        {
+          "id": 62735,
+          "uid": "poem-55-17",
+          "title": "當窓織",
+          "titledesc": "",
+          "poemindex": 17
+        },
+        {
+          "id": 62736,
+          "uid": "poem-55-18",
+          "title": "織錦曲",
+          "titledesc": "",
+          "poemindex": 18
+        },
+        {
+          "id": 62737,
+          "uid": "poem-55-19",
+          "title": "羽林行",
+          "titledesc": "",
+          "poemindex": 19
+        },
+        {
+          "id": 62738,
+          "uid": "poem-55-20",
+          "title": "水運行",
+          "titledesc": "",
+          "poemindex": 20
+        },
+        {
+          "id": 62739,
+          "uid": "poem-55-21",
+          "title": "水夫謡",
+          "titledesc": "",
+          "poemindex": 21
+        },
+        {
+          "id": 62740,
+          "uid": "poem-55-22",
+          "title": "夢看梨花雲歌",
+          "titledesc": "",
+          "poemindex": 22
+        },
+        {
+          "id": 62741,
+          "uid": "poem-55-23",
+          "title": "春詞",
+          "titledesc": "",
+          "poemindex": 23
+        },
+        {
+          "id": 62742,
+          "uid": "poem-55-24",
+          "title": "失釵怨",
+          "titledesc": "",
+          "poemindex": 24
+        },
+        {
+          "id": 62743,
+          "uid": "poem-55-25",
+          "title": "寄逺曲",
+          "titledesc": "",
+          "poemindex": 25
+        },
+        {
+          "id": 62744,
+          "uid": "poem-55-26",
+          "title": "鏡聽詞",
+          "titledesc": "",
+          "poemindex": 26
+        },
+        {
+          "id": 62745,
+          "uid": "poem-55-27",
+          "title": "北邙行",
+          "titledesc": "",
+          "poemindex": 27
+        },
+        {
+          "id": 62746,
+          "uid": "poem-55-28",
+          "title": "精衛詞",
+          "titledesc": "",
+          "poemindex": 28
+        },
+        {
+          "id": 62747,
+          "uid": "poem-55-29",
+          "title": "鞦韆詞",
+          "titledesc": "",
+          "poemindex": 29
+        },
+        {
+          "id": 62748,
+          "uid": "poem-55-30",
+          "title": "題天台隱静寺",
+          "titledesc": "",
+          "poemindex": 30
+        },
+        {
+          "id": 62749,
+          "uid": "poem-55-31",
+          "title": "望夫石",
+          "titledesc": "",
+          "poemindex": 31
+        },
+        {
+          "id": 62750,
+          "uid": "poem-55-32",
+          "title": "雉將雛",
+          "titledesc": "",
+          "poemindex": 32
+        },
+        {
+          "id": 62751,
+          "uid": "poem-55-33",
+          "title": "短歌行",
+          "titledesc": "",
+          "poemindex": 33
+        },
+        {
+          "id": 62752,
+          "uid": "poem-55-34",
+          "title": "飲馬長城窟",
+          "titledesc": "",
+          "poemindex": 34
+        },
+        {
+          "id": 62753,
+          "uid": "poem-55-35",
+          "title": "行見月",
+          "titledesc": "",
+          "poemindex": 35
+        },
+        {
+          "id": 62754,
+          "uid": "poem-55-36",
+          "title": "逺将歸",
+          "titledesc": "",
+          "poemindex": 36
+        },
+        {
+          "id": 62755,
+          "uid": "poem-55-37",
+          "title": "烏夜啼",
+          "titledesc": "",
+          "poemindex": 37
+        },
+        {
+          "id": 62756,
+          "uid": "poem-55-38",
+          "title": "簇蠶辭",
+          "titledesc": "",
+          "poemindex": 38
+        },
+        {
+          "id": 62757,
+          "uid": "poem-55-39",
+          "title": "促刺詞",
+          "titledesc": "",
+          "poemindex": 39
+        },
+        {
+          "id": 62758,
+          "uid": "poem-55-40",
+          "title": "銅雀臺",
+          "titledesc": "",
+          "poemindex": 40
+        }
+      ],
+      "近體詩": [
+        {
+          "id": 62759,
+          "uid": "poem-55-41",
+          "title": "昭應官舍",
+          "titledesc": "",
+          "poemindex": 41
+        },
+        {
+          "id": 62760,
+          "uid": "poem-55-42",
+          "title": "長安春遊",
+          "titledesc": "",
+          "poemindex": 42
+        },
+        {
+          "id": 62761,
+          "uid": "poem-55-43",
+          "title": "閒居即事",
+          "titledesc": "",
+          "poemindex": 43
+        },
+        {
+          "id": 62762,
+          "uid": "poem-55-44",
+          "title": "貧居",
+          "titledesc": "",
+          "poemindex": 44
+        },
+        {
+          "id": 62763,
+          "uid": "poem-55-45",
+          "title": "山居",
+          "titledesc": "",
+          "poemindex": 45
+        },
+        {
+          "id": 62764,
+          "uid": "poem-55-46",
+          "title": "新修道居",
+          "titledesc": "",
+          "poemindex": 46
+        },
+        {
+          "id": 62765,
+          "uid": "poem-55-47",
+          "title": "原上新居",
+          "titledesc": "",
+          "poemindex": 47
+        },
+        {
+          "id": 62766,
+          "uid": "poem-55-48",
+          "title": "原上新居",
+          "titledesc": "",
+          "poemindex": 48
+        },
+        {
+          "id": 62767,
+          "uid": "poem-55-49",
+          "title": "原上新居",
+          "titledesc": "",
+          "poemindex": 49
+        },
+        {
+          "id": 62768,
+          "uid": "poem-55-50",
+          "title": "原上新居",
+          "titledesc": "",
+          "poemindex": 50
+        },
+        {
+          "id": 62769,
+          "uid": "poem-55-51",
+          "title": "原上新居",
+          "titledesc": "",
+          "poemindex": 51
+        },
+        {
+          "id": 62770,
+          "uid": "poem-55-52",
+          "title": "原上新居",
+          "titledesc": "",
+          "poemindex": 52
+        },
+        {
+          "id": 62771,
+          "uid": "poem-55-53",
+          "title": "原上新居",
+          "titledesc": "",
+          "poemindex": 53
+        },
+        {
+          "id": 62772,
+          "uid": "poem-55-54",
+          "title": "原上新居",
+          "titledesc": "",
+          "poemindex": 54
+        },
+        {
+          "id": 62773,
+          "uid": "poem-55-55",
+          "title": "原上新居",
+          "titledesc": "",
+          "poemindex": 55
+        },
+        {
+          "id": 62774,
+          "uid": "poem-55-56",
+          "title": "原上新居",
+          "titledesc": "",
+          "poemindex": 56
+        },
+        {
+          "id": 62775,
+          "uid": "poem-55-57",
+          "title": "原上新居",
+          "titledesc": "",
+          "poemindex": 57
+        },
+        {
+          "id": 62776,
+          "uid": "poem-55-58",
+          "title": "原上新居",
+          "titledesc": "",
+          "poemindex": 58
+        },
+        {
+          "id": 62777,
+          "uid": "poem-55-59",
+          "title": "冬夜感懐",
+          "titledesc": "",
+          "poemindex": 59
+        },
+        {
+          "id": 62778,
+          "uid": "poem-55-60",
+          "title": "惜懽",
+          "titledesc": "",
+          "poemindex": 60
+        },
+        {
+          "id": 62779,
+          "uid": "poem-55-61",
+          "title": "照鏡",
+          "titledesc": "",
+          "poemindex": 61
+        },
+        {
+          "id": 62780,
+          "uid": "poem-55-62",
+          "title": "南中",
+          "titledesc": "",
+          "poemindex": 62
+        },
+        {
+          "id": 62781,
+          "uid": "poem-55-63",
+          "title": "醉後憶故人山中",
+          "titledesc": "",
+          "poemindex": 63
+        },
+        {
+          "id": 62782,
+          "uid": "poem-55-64",
+          "title": "送李評事使蜀",
+          "titledesc": "",
+          "poemindex": 64
+        },
+        {
+          "id": 62783,
+          "uid": "poem-55-65",
+          "title": "送呉郎中赴忠州",
+          "titledesc": "",
+          "poemindex": 65
+        },
+        {
+          "id": 62784,
+          "uid": "poem-55-66",
+          "title": "杜中丞書院新移小竹",
+          "titledesc": "",
+          "poemindex": 66
+        },
+        {
+          "id": 62785,
+          "uid": "poem-55-67",
+          "title": "上陽宮",
+          "titledesc": "",
+          "poemindex": 67
+        },
+        {
+          "id": 62786,
+          "uid": "poem-55-68",
+          "title": "聞説",
+          "titledesc": "",
+          "poemindex": 68
+        },
+        {
+          "id": 62787,
+          "uid": "poem-55-69",
+          "title": "初授大府丞言懐",
+          "titledesc": "",
+          "poemindex": 69
+        },
+        {
+          "id": 62788,
+          "uid": "poem-55-70",
+          "title": "晩秋病中",
+          "titledesc": "",
+          "poemindex": 70
+        },
+        {
+          "id": 62789,
+          "uid": "poem-55-71",
+          "title": "嵗晩自感",
+          "titledesc": "",
+          "poemindex": 71
+        },
+        {
+          "id": 62790,
+          "uid": "poem-55-72",
+          "title": "自傷",
+          "titledesc": "",
+          "poemindex": 72
+        },
+        {
+          "id": 62791,
+          "uid": "poem-55-73",
+          "title": "春日五門西望",
+          "titledesc": "",
+          "poemindex": 73
+        },
+        {
+          "id": 62792,
+          "uid": "poem-55-74",
+          "title": "武陵春日",
+          "titledesc": "",
+          "poemindex": 74
+        },
+        {
+          "id": 62793,
+          "uid": "poem-55-75",
+          "title": "江陵即事",
+          "titledesc": "",
+          "poemindex": 75
+        },
+        {
+          "id": 62794,
+          "uid": "poem-55-76",
+          "title": "題元郎中新宅",
+          "titledesc": "",
+          "poemindex": 76
+        },
+        {
+          "id": 62795,
+          "uid": "poem-55-77",
+          "title": "薛二十池亭〈一作姚合詩〉",
+          "titledesc": "",
+          "poemindex": 77
+        },
+        {
+          "id": 62796,
+          "uid": "poem-55-78",
+          "title": "郭家溪亭",
+          "titledesc": "",
+          "poemindex": 78
+        },
+        {
+          "id": 62797,
+          "uid": "poem-55-79",
+          "title": "題金家竹溪",
+          "titledesc": "",
+          "poemindex": 79
+        },
+        {
+          "id": 62798,
+          "uid": "poem-55-80",
+          "title": "逍遥翁溪亭",
+          "titledesc": "",
+          "poemindex": 80
+        },
+        {
+          "id": 62799,
+          "uid": "poem-55-81",
+          "title": "故梁園公主池亭〈一作姚合詩〉",
+          "titledesc": "",
+          "poemindex": 81
+        },
+        {
+          "id": 62800,
+          "uid": "poem-55-82",
+          "title": "題柱國寺",
+          "titledesc": "",
+          "poemindex": 82
+        },
+        {
+          "id": 62801,
+          "uid": "poem-55-83",
+          "title": "題石甕寺",
+          "titledesc": "",
+          "poemindex": 83
+        },
+        {
+          "id": 62802,
+          "uid": "poem-55-84",
+          "title": "上杜元頴相公",
+          "titledesc": "",
+          "poemindex": 84
+        },
+        {
+          "id": 62803,
+          "uid": "poem-55-85",
+          "title": "閻少保",
+          "titledesc": "",
+          "poemindex": 85
+        },
+        {
+          "id": 62804,
+          "uid": "poem-55-86",
+          "title": "贈崔禮駙馬",
+          "titledesc": "",
+          "poemindex": 86
+        },
+        {
+          "id": 62805,
+          "uid": "poem-55-87",
+          "title": "贈王樞密",
+          "titledesc": "",
+          "poemindex": 87
+        },
+        {
+          "id": 62806,
+          "uid": "poem-55-88",
+          "title": "寄楊十二袐書",
+          "titledesc": "",
+          "poemindex": 88
+        },
+        {
+          "id": 62807,
+          "uid": "poem-55-89",
+          "title": "送宮人入道",
+          "titledesc": "",
+          "poemindex": 89
+        }
+      ]
+    }
+  }
+}
