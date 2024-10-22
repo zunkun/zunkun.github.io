@@ -236,6 +236,24 @@
 			"link": "/categories/前端/09-前端控制重复请求"
 		}
 	],
+	"/topics/LeetCode/": [
+		{
+			"text": "[189] 轮转数组",
+			"link": "/topics/LeetCode/[189] 轮转数组"
+		},
+		{
+			"text": "[1] 两数之和",
+			"link": "/topics/LeetCode/[1] 两数之和"
+		},
+		{
+			"text": "[3184] 构成整天的下标对数目 I",
+			"link": "/topics/LeetCode/[3184] 构成整天的下标对数目 I"
+		},
+		{
+			"text": "[351] 两个数组交集",
+			"link": "/topics/LeetCode/[351] 两个数组交集"
+		}
+	],
 	"/topics/React/": [
 		{
 			"text": "01-Antd InputTextArea联想输入",
@@ -304,25 +322,6 @@
 		{
 			"text": "Diff算法",
 			"link": "/topics/基础算法/Diff算法"
-		},
-		{
-			"text": "LeetCode",
-			"link": "/topics/基础算法/LeetCode/",
-			"collapsed": true,
-			"items": [
-				{
-					"text": "3184",
-					"link": "/topics/基础算法/LeetCode/3184"
-				},
-				{
-					"text": "Leetcode1-两数之和",
-					"link": "/topics/基础算法/LeetCode/Leetcode1-两数之和"
-				},
-				{
-					"text": "Leetcode351-两个数组交集",
-					"link": "/topics/基础算法/LeetCode/Leetcode351-两个数组交集"
-				}
-			]
 		},
 		{
 			"text": "堆Heap",

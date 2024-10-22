@@ -1,5 +1,9 @@
 [
 	{
+		"name": "LeetCode",
+		"link": "/topics/LeetCode/"
+	},
+	{
 		"name": "React",
 		"link": "/topics/React/"
 	},
