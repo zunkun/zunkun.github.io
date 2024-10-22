@@ -311,6 +311,10 @@
 			"collapsed": true,
 			"items": [
 				{
+					"text": "3184",
+					"link": "/topics/基础算法/LeetCode/3184"
+				},
+				{
 					"text": "Leetcode1-两数之和",
 					"link": "/topics/基础算法/LeetCode/Leetcode1-两数之和"
 				},
