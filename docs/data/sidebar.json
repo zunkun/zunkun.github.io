@@ -238,20 +238,55 @@
 	],
 	"/topics/LeetCode/": [
 		{
-			"text": "[189] 轮转数组",
-			"link": "/topics/LeetCode/[189] 轮转数组"
-		},
-		{
 			"text": "[1] 两数之和",
 			"link": "/topics/LeetCode/[1] 两数之和"
 		},
 		{
-			"text": "[3184] 构成整天的下标对数目 I",
-			"link": "/topics/LeetCode/[3184] 构成整天的下标对数目 I"
-		},
-		{
 			"text": "[351] 两个数组交集",
 			"link": "/topics/LeetCode/[351] 两个数组交集"
+		},
+		{
+			"text": "数组",
+			"link": "/topics/LeetCode/数组/",
+			"collapsed": true,
+			"items": [
+				{
+					"text": "[189] 轮转数组",
+					"link": "/topics/LeetCode/数组/[189] 轮转数组"
+				},
+				{
+					"text": "[238] 除自身以外数组的乘积",
+					"link": "/topics/LeetCode/数组/[238] 除自身以外数组的乘积"
+				},
+				{
+					"text": "[3184] 构成整天的下标对数目 I",
+					"link": "/topics/LeetCode/数组/[3184] 构成整天的下标对数目 I"
+				},
+				{
+					"text": "[485] 最大连续为1的个数",
+					"link": "/topics/LeetCode/数组/[485] 最大连续为1的个数"
+				},
+				{
+					"text": "[498] 对角线遍历",
+					"link": "/topics/LeetCode/数组/[498] 对角线遍历"
+				},
+				{
+					"text": "[54] 旋转矩阵",
+					"link": "/topics/LeetCode/数组/[54] 旋转矩阵"
+				},
+				{
+					"text": "[66] 加一",
+					"link": "/topics/LeetCode/数组/[66] 加一"
+				},
+				{
+					"text": "[724] 寻找数组的中心下标",
+					"link": "/topics/LeetCode/数组/[724] 寻找数组的中心下标"
+				},
+				{
+					"text": "[73] 矩阵置零",
+					"link": "/topics/LeetCode/数组/[73] 矩阵置零"
+				}
+			]
 		}
 	],
 	"/topics/React/": [
