@@ -5,6 +5,8 @@ import qtslchapters from './qtslchapters';
 const qtslDir = 'docs/data/qtsl';
 const qtslTargetDir = 'docs/qtsl/traditional';
 
+const dateStr = '2024-07-27' || getDateStr();
+
 const qtslService = {
   start() {
     const fileNames = readdirSync(qtslDir);
@@ -33,7 +35,7 @@ const qtslService = {
 
   poemFileCreate(chapterDir, chapter, chapternum) {
     const filePath = `${chapterDir}/poem.md`;
-    const dateStr = getDateStr();
+
     const title = `御定全唐詩錄${chapter}诗歌列表`;
 
     const content = `---
@@ -85,7 +87,7 @@ import authorMap from '/data/qtsl/${chapter}/author.json'
 
   lineFileCreate(chapterDir, chapter, chapternum) {
     const filePath = `${chapterDir}/line.md`;
-    const dateStr = getDateStr();
+
     const title = `御定全唐詩錄${chapter}按行分析`;
 
     const content = `---
@@ -109,7 +111,7 @@ import lines from '/data/qtsl/${chapter}/lines.json'
 
   authorFileCreate(chapterDir, chapter, chapternum) {
     const filePath = `${chapterDir}/author.md`;
-    const dateStr = getDateStr();
+
     const title = `御定全唐詩錄${chapter}诗人作者`;
 
     const content = `---
