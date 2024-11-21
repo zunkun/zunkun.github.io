@@ -234,6 +234,10 @@
 		{
 			"text": "09-前端控制重复请求",
 			"link": "/categories/前端/09-前端控制重复请求"
+		},
+		{
+			"text": "10-比较html",
+			"link": "/categories/前端/10-比较html"
 		}
 	],
 	"/topics/LeetCode/": [
