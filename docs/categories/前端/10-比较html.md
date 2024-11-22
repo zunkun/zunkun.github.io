@@ -5,7 +5,7 @@ udate: '2024-11-21'
 ---
 # 比较HTML
 
-说明：本文部分参考过 github 上代码 https://github.com/zhoujq/htmldiff， 特别感谢。
+说明：本算法开发時部分参考过 github 上代码 https://github.com/zhoujq/htmldiff， 特别感谢。
 
 ## 背景
 在做富文本内容编辑的时候，有时需要比较两次编辑内容差异，需要通过前端页面显示出来。
@@ -30,6 +30,10 @@ udate: '2024-11-21'
 ```js
 
 /**
+ * @typedef {insert|del|equal} action
+ */
+
+/**
  * html1 and html2 same parts info
  * @typedef {Object} Match
  * @property {number} html1Start
@@ -43,15 +47,26 @@ udate: '2024-11-21'
 /**
  * Operation Part
  * @typedef {Object} Operation
- * @property {insert|del|equal} action
+ * @property {action} action
  * @property {string} text
- * @property {string[]} list
+ * @property {Word[]} list
+ */
+
+/**
+ * Word
+ * @typedef {Object} Word
+ * @property {string} value
+ * @property {boolean} isOpeningTag
+ * @property {boolean} isClosingTag
+ * @property {boolean} isHtmlTag
+ * @property {string} [tagName]
+ * @property {string} [content]
  */
 
 const cssStrMap = {
-  insert: 'diff-added',
-  del: 'diff-removed',
-  equal: 'diff-equal',
+  insert: "diff-added",
+  del: "diff-removed",
+  equal: "diff-equal",
 };
 
 /**
@@ -72,17 +87,17 @@ class HtmlDiff {
     /**
      * @type {string}
      */
-    this.html = '';
+    this.html = "";
 
     /**
      * html1 split words
-     * @type {string[]}
+     * @type {Word[]}
      */
     this.html1Words = [];
 
     /**
      * html2 split words
-     * @type {string[]}
+     * @type {Word[]}
      */
     this.html2Words = [];
 
@@ -105,7 +120,7 @@ class HtmlDiff {
       0,
       this.html1Words.length - 1,
       0,
-      this.html2Words.length - 1,
+      this.html2Words.length - 1
     );
 
     this.computeOperations();
@@ -119,10 +134,10 @@ class HtmlDiff {
    */
   // eslint-disable-next-line class-methods-use-this
   preParseHtml(html) {
-    html = html || '<p></br></p>';
+    html = html || "<p></br></p>";
     html = html.trim();
 
-    if (html && (html[0] !== '<' || html[html.length - 1] !== '>')) {
+    if (html && (html[0] !== "<" || html[html.length - 1] !== ">")) {
       html = `<p>${html}</p>`;
     }
 
@@ -133,9 +148,47 @@ class HtmlDiff {
    * splitHtmlToWords
    * @param {string} html
    */
-  // eslint-disable-next-line his
+  // eslint-disable-next-line class-methods-use-this
   splitHtmlToWords(html) {
-    return html.match(/<[^>]+>|[^<|>|\w]|\w+\b|\s+/gm);
+    const wordValues = html.match(/<[^>]+>|[^<|>|\w]|\w+\b|\s+/gm);
+    const tagNameReg = /\w+\b/;
+    const contentReg = /(href|src)="[^"]*"/;
+
+    const hasContentTagNames = ["img", "a", "video"];
+
+    const words = [];
+
+    // eslint-disable-next-line no-unused-vars
+    for (const value of wordValues) {
+      const isOpeningTag = this.isOpeningTag(value);
+      const isClosingTag = this.isClosingTag(value);
+      const isHtmlTag = isOpeningTag || isClosingTag;
+
+      let content = value;
+      let tagName = "";
+
+      if (isHtmlTag) {
+        // eslint-disable-next-line prefer-destructuring
+        tagName = value.match(tagNameReg)[0];
+
+        if (hasContentTagNames.includes(tagName)) {
+          // eslint-disable-next-line prefer-destructuring
+          content = value.match(contentReg)[0];
+        }
+      }
+
+      const word = {
+        value,
+        isOpeningTag,
+        isClosingTag,
+        isHtmlTag,
+        tagName,
+        content,
+      };
+
+      words.push(word);
+    }
+    return words;
   }
 
   /**
@@ -157,7 +210,7 @@ class HtmlDiff {
         match.html1Start - 1,
         html2Start,
         match.html2Start - 1,
-        matches,
+        matches
       );
     }
 
@@ -169,7 +222,7 @@ class HtmlDiff {
         html1End,
         match.html2End + 1,
         html2End,
-        matches,
+        matches
       );
     }
 
@@ -200,8 +253,15 @@ class HtmlDiff {
 
     for (let i = 1; i <= m; i++) {
       for (let j = 1; j <= n; j++) {
-        // TODO: 此处比较可以优化
-        if (html1WordsParts[i - 1] === html2WordsParts[j - 1]) {
+        // <img src="aaa" />
+        // <img src="bbb" />
+        // <div class="a1">
+        // <div class="a2">
+        // <hr /> <table>
+        // </table>
+        // <br /> <br/>
+        // html1WordsParts[i - 1] === html2WordsParts[j - 1]
+        if (this.isWordEqual(html1WordsParts[i - 1], html2WordsParts[j - 1])) {
           dp[i][j] = dp[i - 1][j - 1] + 1;
 
           if (dp[i][j] > maxLength) {
@@ -223,10 +283,12 @@ class HtmlDiff {
 
     const html1PartStr = html1WordsParts
       .slice(html1StartPos, html1EndPos + 1)
-      .join('');
+      .map((item) => item.value)
+      .join("");
     const html2PartStr = html2WordsParts
       .slice(html2StartPos, html2EndPos + 1)
-      .join('');
+      .map((item) => item.value)
+      .join("");
 
     const match = {
       html1Start: html1Start + html1StartPos,
@@ -241,6 +303,39 @@ class HtmlDiff {
   }
 
   /**
+   * isWordEqual
+   * @param {Word} word1
+   * @param {Word} word2
+   * @returns {boolean}
+   */
+  // eslint-disable-next-line class-methods-use-this
+  isWordEqual(word1, word2) {
+    // <div> 和 <div class="aaa"> 相同
+    // <a href="a" /> 跟 <a href="b" /> 不同
+    // <img src="a" /> 跟 <img src="b" /> 不同
+
+    const hasContentTagNames = ["img", "a", "video"];
+
+    if (word1.value == word2.value) return true;
+
+    // 同时是html标签可以比较
+    if (
+      (word1.isOpeningTag && word2.isOpeningTag) ||
+      (word1.isClosingTag && word2.isClosingTag)
+    ) {
+      const isSameTag = word1.tagName == word2.tagName;
+
+      if (isSameTag && hasContentTagNames.includes(word1.tagName)) {
+        return word1.content == word2.content;
+      }
+
+      return isSameTag;
+    }
+
+    return false;
+  }
+
+  /**
    * get operations
    */
   computeOperations() {
@@ -252,9 +347,9 @@ class HtmlDiff {
       if (p < match.html1Start - 1) {
         const list = this.html1Words.slice(p + 1, match.html1Start);
         const operation1 = {
-          action: 'del',
+          action: "del",
           list,
-          text: list.join(''),
+          text: list.map((item) => item.value).join(""),
         };
 
         this.operations.push(operation1);
@@ -263,9 +358,9 @@ class HtmlDiff {
       if (q < match.html2Start - 1) {
         const list = this.html2Words.slice(q + 1, match.html2Start);
         const operation2 = {
-          action: 'insert',
+          action: "insert",
           list,
-          text: list.join(''),
+          text: list.map((item) => item.value).join(""),
         };
 
         this.operations.push(operation2);
@@ -273,9 +368,9 @@ class HtmlDiff {
 
       const list = this.html2Words.slice(match.html2Start, match.html2End + 1);
       const operation = {
-        action: 'equal',
+        action: "equal",
         list,
-        text: list.join(),
+        text: list.map((item) => item.value).join(""),
       };
       this.operations.push(operation);
 
@@ -286,9 +381,9 @@ class HtmlDiff {
     if (p < this.html1Words.length - 1) {
       const list = this.html1Words.slice(p + 1, this.html1Words.length);
       const operation1 = {
-        action: 'del',
+        action: "del",
         list,
-        text: list.join(''),
+        text: list.map((item) => item.value).join(""),
       };
 
       this.operations.push(operation1);
@@ -297,9 +392,9 @@ class HtmlDiff {
     if (q < this.html2Words.length - 1) {
       const list = this.html2Words.slice(q + 1, this.html2Words.length);
       const operation2 = {
-        action: 'insert',
+        action: "insert",
         list,
-        text: list.join(''),
+        text: list.map((item) => item.value).join(""),
       };
 
       this.operations.push(operation2);
@@ -314,7 +409,7 @@ class HtmlDiff {
       this.insertContent(operation);
     });
 
-    this.html = this.contents.join('');
+    this.html = this.contents.join("");
   }
 
   /**
@@ -323,12 +418,12 @@ class HtmlDiff {
    */
   insertContent(operation) {
     const { action, list } = operation;
-    const cssStr = cssStrMap[action] || '';
+    const cssStr = cssStrMap[action] || "";
 
-    let text = list.join('');
-    if (['insert', 'del'].includes(action)) {
-      const newList = this.wrapTextList(list, cssStr);
-      text = newList.join('');
+    let text = list.map((item) => item.value).join("");
+    if (["insert", "del"].includes(action)) {
+      const newList = this.wrapTextList(list, cssStr, action);
+      text = newList.join("");
 
       text = this.wrapBlockContent(text, cssStr);
     }
@@ -338,35 +433,54 @@ class HtmlDiff {
 
   /**
    * 查找非标签字符列表
-   * @param {string[]} list
+   * @param {Word[]} list
    * @param {string} cssStr
+   * @param {string} action
+   * @returns {string[]}
    */
-  wrapTextList(list, cssStr) {
+  // eslint-disable-next-line class-methods-use-this
+  wrapTextList(list, cssStr, action) {
     const parts = [];
-
-    const newList = [];
+    let newList = [];
+    let hasContent = false;
 
     // eslint-disable-next-line no-unused-vars
     for (const word of list) {
-      if (this.isHtmlTag(word)) {
+      const { value, isHtmlTag } = word;
+      if (isHtmlTag) {
         if (parts.length) {
-          let textPart = parts.join('');
+          let textPart = parts.join("");
           textPart = `<span class="${cssStr}">${textPart}</span>`;
           newList.push(textPart);
           parts.length = 0;
         }
 
-        newList.push(word);
+        // 下面的标签，即使删除也要占位
+        if (
+          !hasContent &&
+          (value.indexOf("<img") > -1 ||
+            value.indexOf("<a") > -1 ||
+            value.indexOf("<table")) > -1
+        ) {
+          hasContent = true;
+        }
+
+        newList.push(value);
         continue;
       }
 
-      parts.push(word);
+      hasContent = true;
+      parts.push(value);
     }
 
     if (parts.length) {
-      let textPart = parts.join('');
+      let textPart = parts.join("");
       textPart = `<span class="${cssStr}">${textPart}</span>`;
       newList.push(textPart);
+    }
+
+    if (!hasContent && action === "del") {
+      newList = [];
     }
     return newList;
   }
@@ -386,11 +500,11 @@ class HtmlDiff {
       // eslint-disable-next-line no-unused-vars
       for (const item of list) {
         if (set.has(item)) continue;
-      const regex2 = new RegExp(item, 'g');
+        const regex2 = new RegExp(item, "g");
 
         text = text.replace(
           regex2,
-          `<div class="${cssStr} block-content">${item}</div>`,
+          `<div class="${cssStr} diff-block">${item}</div>`
         );
         set.add(item);
       }
@@ -406,12 +520,9 @@ class HtmlDiff {
       // eslint-disable-next-line no-unused-vars
       for (const item of list) {
         if (set.has(item)) continue;
-        const regex2 = new RegExp(item, 'g');
+        const regex2 = new RegExp(item, "g");
 
-        text = text.replace(
-          regex2,
-          `<div class="${cssStr} block-content">${item}`,
-        );
+        text = text.replace(regex2, `<div class="${cssStr}">${item}`);
         set.add(item);
       }
     }
@@ -422,7 +533,7 @@ class HtmlDiff {
       // eslint-disable-next-line no-unused-vars
       for (const item of list) {
         if (set.has(item)) continue;
-        const regex2 = new RegExp(item, 'g');
+        const regex2 = new RegExp(item, "g");
 
         text = text.replace(regex2, `${item}</div>`);
         set.add(item);
@@ -439,7 +550,7 @@ class HtmlDiff {
    */
   // eslint-disable-next-line class-methods-use-this
   isOpeningTag(str) {
-    return /^\s*<[^>]+>\s*$/gi.test(str);
+    return /^\s*<\s*[a-zA-Z]+[^>]*[/]?\s*>\s*$/gi.test(str);
   }
 
   /**
@@ -449,11 +560,11 @@ class HtmlDiff {
    */
   // eslint-disable-next-line class-methods-use-this
   isClosingTag(str) {
-    return /^\s*<\/[^>]+>\s*/gi.test(str);
+    return /^\s*<\s*\/[^>]+>\s*/gi.test(str);
   }
 
   /**
-   * isHmtlTag
+   * isHtmlTag
    * @param {string} str
    * @returns {boolean}
    */
