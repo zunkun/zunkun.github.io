@@ -1,15 +1,21 @@
 {
-	"/ideas/02-人生笑话": [],
 	"/ideas/": [
 		{
-			"text": "02-人生笑话",
-			"link": "/ideas/02-人生笑话"
+			"text": "生活感悟",
+			"link": "/ideas/",
+			"items": [
+				{
+					"text": "01-人生笑话.md",
+					"link": "/ideas/01-人生笑话",
+					"items": []
+				}
+			]
 		}
 	],
-	"/qtsl/traditional/": [
+	"/qtsl/": [
 		{
 			"text": "御定全唐詩錄",
-			"link": "/qtsl/traditional/",
+			"link": "/qtsl/",
 			"items": [
 				{
 					"text": "统计数据",
@@ -17,11 +23,11 @@
 					"items": [
 						{
 							"text": "数据总览",
-							"link": "/qtsl/traditional/statistics/"
+							"link": "/qtsl/statistics/"
 						},
 						{
 							"text": "章节详细",
-							"link": "/qtsl/traditional/statistics/章节详细统计"
+							"link": "/qtsl/statistics/章节统计"
 						}
 					]
 				},
@@ -32,19 +38,19 @@
 					"items": [
 						{
 							"text": "卷一诗歌列表",
-							"link": "/qtsl/traditional/chapter1/poem"
+							"link": "/qtsl//read/chapter1/poem"
 						},
 						{
 							"text": "卷一按行分析",
-							"link": "/qtsl/traditional/chapter1/line"
+							"link": "/qtsl//read/chapter1/line"
 						},
 						{
 							"text": "卷一诗人作者",
-							"link": "/qtsl/traditional/chapter1/author"
+							"link": "/qtsl//read/chapter1/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter1/notmarked"
+							"link": "/qtsl//read/chapter1/notmarked"
 						}
 					]
 				},
@@ -55,15 +61,15 @@
 					"items": [
 						{
 							"text": "卷二诗歌列表",
-							"link": "/qtsl/traditional/chapter2/poem"
+							"link": "/qtsl//read/chapter2/poem"
 						},
 						{
 							"text": "卷二按行分析",
-							"link": "/qtsl/traditional/chapter2/line"
+							"link": "/qtsl//read/chapter2/line"
 						},
 						{
 							"text": "卷二诗人作者",
-							"link": "/qtsl/traditional/chapter2/author"
+							"link": "/qtsl//read/chapter2/author"
 						}
 					]
 				},
@@ -74,19 +80,19 @@
 					"items": [
 						{
 							"text": "卷三诗歌列表",
-							"link": "/qtsl/traditional/chapter3/poem"
+							"link": "/qtsl//read/chapter3/poem"
 						},
 						{
 							"text": "卷三按行分析",
-							"link": "/qtsl/traditional/chapter3/line"
+							"link": "/qtsl//read/chapter3/line"
 						},
 						{
 							"text": "卷三诗人作者",
-							"link": "/qtsl/traditional/chapter3/author"
+							"link": "/qtsl//read/chapter3/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter3/notmarked"
+							"link": "/qtsl//read/chapter3/notmarked"
 						}
 					]
 				},
@@ -97,19 +103,19 @@
 					"items": [
 						{
 							"text": "卷四诗歌列表",
-							"link": "/qtsl/traditional/chapter4/poem"
+							"link": "/qtsl//read/chapter4/poem"
 						},
 						{
 							"text": "卷四按行分析",
-							"link": "/qtsl/traditional/chapter4/line"
+							"link": "/qtsl//read/chapter4/line"
 						},
 						{
 							"text": "卷四诗人作者",
-							"link": "/qtsl/traditional/chapter4/author"
+							"link": "/qtsl//read/chapter4/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter4/notmarked"
+							"link": "/qtsl//read/chapter4/notmarked"
 						}
 					]
 				},
@@ -120,19 +126,19 @@
 					"items": [
 						{
 							"text": "卷五诗歌列表",
-							"link": "/qtsl/traditional/chapter5/poem"
+							"link": "/qtsl//read/chapter5/poem"
 						},
 						{
 							"text": "卷五按行分析",
-							"link": "/qtsl/traditional/chapter5/line"
+							"link": "/qtsl//read/chapter5/line"
 						},
 						{
 							"text": "卷五诗人作者",
-							"link": "/qtsl/traditional/chapter5/author"
+							"link": "/qtsl//read/chapter5/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter5/notmarked"
+							"link": "/qtsl//read/chapter5/notmarked"
 						}
 					]
 				},
@@ -143,15 +149,15 @@
 					"items": [
 						{
 							"text": "卷六诗歌列表",
-							"link": "/qtsl/traditional/chapter6/poem"
+							"link": "/qtsl//read/chapter6/poem"
 						},
 						{
 							"text": "卷六按行分析",
-							"link": "/qtsl/traditional/chapter6/line"
+							"link": "/qtsl//read/chapter6/line"
 						},
 						{
 							"text": "卷六诗人作者",
-							"link": "/qtsl/traditional/chapter6/author"
+							"link": "/qtsl//read/chapter6/author"
 						}
 					]
 				},
@@ -162,19 +168,19 @@
 					"items": [
 						{
 							"text": "卷七诗歌列表",
-							"link": "/qtsl/traditional/chapter7/poem"
+							"link": "/qtsl//read/chapter7/poem"
 						},
 						{
 							"text": "卷七按行分析",
-							"link": "/qtsl/traditional/chapter7/line"
+							"link": "/qtsl//read/chapter7/line"
 						},
 						{
 							"text": "卷七诗人作者",
-							"link": "/qtsl/traditional/chapter7/author"
+							"link": "/qtsl//read/chapter7/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter7/notmarked"
+							"link": "/qtsl//read/chapter7/notmarked"
 						}
 					]
 				},
@@ -185,19 +191,19 @@
 					"items": [
 						{
 							"text": "卷八诗歌列表",
-							"link": "/qtsl/traditional/chapter8/poem"
+							"link": "/qtsl//read/chapter8/poem"
 						},
 						{
 							"text": "卷八按行分析",
-							"link": "/qtsl/traditional/chapter8/line"
+							"link": "/qtsl//read/chapter8/line"
 						},
 						{
 							"text": "卷八诗人作者",
-							"link": "/qtsl/traditional/chapter8/author"
+							"link": "/qtsl//read/chapter8/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter8/notmarked"
+							"link": "/qtsl//read/chapter8/notmarked"
 						}
 					]
 				},
@@ -208,15 +214,15 @@
 					"items": [
 						{
 							"text": "卷九诗歌列表",
-							"link": "/qtsl/traditional/chapter9/poem"
+							"link": "/qtsl//read/chapter9/poem"
 						},
 						{
 							"text": "卷九按行分析",
-							"link": "/qtsl/traditional/chapter9/line"
+							"link": "/qtsl//read/chapter9/line"
 						},
 						{
 							"text": "卷九诗人作者",
-							"link": "/qtsl/traditional/chapter9/author"
+							"link": "/qtsl//read/chapter9/author"
 						}
 					]
 				},
@@ -227,19 +233,19 @@
 					"items": [
 						{
 							"text": "卷十诗歌列表",
-							"link": "/qtsl/traditional/chapter10/poem"
+							"link": "/qtsl//read/chapter10/poem"
 						},
 						{
 							"text": "卷十按行分析",
-							"link": "/qtsl/traditional/chapter10/line"
+							"link": "/qtsl//read/chapter10/line"
 						},
 						{
 							"text": "卷十诗人作者",
-							"link": "/qtsl/traditional/chapter10/author"
+							"link": "/qtsl//read/chapter10/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter10/notmarked"
+							"link": "/qtsl//read/chapter10/notmarked"
 						}
 					]
 				},
@@ -250,19 +256,19 @@
 					"items": [
 						{
 							"text": "卷十一诗歌列表",
-							"link": "/qtsl/traditional/chapter11/poem"
+							"link": "/qtsl//read/chapter11/poem"
 						},
 						{
 							"text": "卷十一按行分析",
-							"link": "/qtsl/traditional/chapter11/line"
+							"link": "/qtsl//read/chapter11/line"
 						},
 						{
 							"text": "卷十一诗人作者",
-							"link": "/qtsl/traditional/chapter11/author"
+							"link": "/qtsl//read/chapter11/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter11/notmarked"
+							"link": "/qtsl//read/chapter11/notmarked"
 						}
 					]
 				},
@@ -273,15 +279,15 @@
 					"items": [
 						{
 							"text": "卷十二诗歌列表",
-							"link": "/qtsl/traditional/chapter12/poem"
+							"link": "/qtsl//read/chapter12/poem"
 						},
 						{
 							"text": "卷十二按行分析",
-							"link": "/qtsl/traditional/chapter12/line"
+							"link": "/qtsl//read/chapter12/line"
 						},
 						{
 							"text": "卷十二诗人作者",
-							"link": "/qtsl/traditional/chapter12/author"
+							"link": "/qtsl//read/chapter12/author"
 						}
 					]
 				},
@@ -292,19 +298,19 @@
 					"items": [
 						{
 							"text": "卷十三诗歌列表",
-							"link": "/qtsl/traditional/chapter13/poem"
+							"link": "/qtsl//read/chapter13/poem"
 						},
 						{
 							"text": "卷十三按行分析",
-							"link": "/qtsl/traditional/chapter13/line"
+							"link": "/qtsl//read/chapter13/line"
 						},
 						{
 							"text": "卷十三诗人作者",
-							"link": "/qtsl/traditional/chapter13/author"
+							"link": "/qtsl//read/chapter13/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter13/notmarked"
+							"link": "/qtsl//read/chapter13/notmarked"
 						}
 					]
 				},
@@ -315,19 +321,19 @@
 					"items": [
 						{
 							"text": "卷十四诗歌列表",
-							"link": "/qtsl/traditional/chapter14/poem"
+							"link": "/qtsl//read/chapter14/poem"
 						},
 						{
 							"text": "卷十四按行分析",
-							"link": "/qtsl/traditional/chapter14/line"
+							"link": "/qtsl//read/chapter14/line"
 						},
 						{
 							"text": "卷十四诗人作者",
-							"link": "/qtsl/traditional/chapter14/author"
+							"link": "/qtsl//read/chapter14/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter14/notmarked"
+							"link": "/qtsl//read/chapter14/notmarked"
 						}
 					]
 				},
@@ -338,19 +344,19 @@
 					"items": [
 						{
 							"text": "卷十五诗歌列表",
-							"link": "/qtsl/traditional/chapter15/poem"
+							"link": "/qtsl//read/chapter15/poem"
 						},
 						{
 							"text": "卷十五按行分析",
-							"link": "/qtsl/traditional/chapter15/line"
+							"link": "/qtsl//read/chapter15/line"
 						},
 						{
 							"text": "卷十五诗人作者",
-							"link": "/qtsl/traditional/chapter15/author"
+							"link": "/qtsl//read/chapter15/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter15/notmarked"
+							"link": "/qtsl//read/chapter15/notmarked"
 						}
 					]
 				},
@@ -361,19 +367,19 @@
 					"items": [
 						{
 							"text": "卷十六诗歌列表",
-							"link": "/qtsl/traditional/chapter16/poem"
+							"link": "/qtsl//read/chapter16/poem"
 						},
 						{
 							"text": "卷十六按行分析",
-							"link": "/qtsl/traditional/chapter16/line"
+							"link": "/qtsl//read/chapter16/line"
 						},
 						{
 							"text": "卷十六诗人作者",
-							"link": "/qtsl/traditional/chapter16/author"
+							"link": "/qtsl//read/chapter16/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter16/notmarked"
+							"link": "/qtsl//read/chapter16/notmarked"
 						}
 					]
 				},
@@ -384,19 +390,19 @@
 					"items": [
 						{
 							"text": "卷十七诗歌列表",
-							"link": "/qtsl/traditional/chapter17/poem"
+							"link": "/qtsl//read/chapter17/poem"
 						},
 						{
 							"text": "卷十七按行分析",
-							"link": "/qtsl/traditional/chapter17/line"
+							"link": "/qtsl//read/chapter17/line"
 						},
 						{
 							"text": "卷十七诗人作者",
-							"link": "/qtsl/traditional/chapter17/author"
+							"link": "/qtsl//read/chapter17/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter17/notmarked"
+							"link": "/qtsl//read/chapter17/notmarked"
 						}
 					]
 				},
@@ -407,19 +413,19 @@
 					"items": [
 						{
 							"text": "卷十八诗歌列表",
-							"link": "/qtsl/traditional/chapter18/poem"
+							"link": "/qtsl//read/chapter18/poem"
 						},
 						{
 							"text": "卷十八按行分析",
-							"link": "/qtsl/traditional/chapter18/line"
+							"link": "/qtsl//read/chapter18/line"
 						},
 						{
 							"text": "卷十八诗人作者",
-							"link": "/qtsl/traditional/chapter18/author"
+							"link": "/qtsl//read/chapter18/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter18/notmarked"
+							"link": "/qtsl//read/chapter18/notmarked"
 						}
 					]
 				},
@@ -430,19 +436,19 @@
 					"items": [
 						{
 							"text": "卷十九诗歌列表",
-							"link": "/qtsl/traditional/chapter19/poem"
+							"link": "/qtsl//read/chapter19/poem"
 						},
 						{
 							"text": "卷十九按行分析",
-							"link": "/qtsl/traditional/chapter19/line"
+							"link": "/qtsl//read/chapter19/line"
 						},
 						{
 							"text": "卷十九诗人作者",
-							"link": "/qtsl/traditional/chapter19/author"
+							"link": "/qtsl//read/chapter19/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter19/notmarked"
+							"link": "/qtsl//read/chapter19/notmarked"
 						}
 					]
 				},
@@ -453,19 +459,19 @@
 					"items": [
 						{
 							"text": "卷二十诗歌列表",
-							"link": "/qtsl/traditional/chapter20/poem"
+							"link": "/qtsl//read/chapter20/poem"
 						},
 						{
 							"text": "卷二十按行分析",
-							"link": "/qtsl/traditional/chapter20/line"
+							"link": "/qtsl//read/chapter20/line"
 						},
 						{
 							"text": "卷二十诗人作者",
-							"link": "/qtsl/traditional/chapter20/author"
+							"link": "/qtsl//read/chapter20/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter20/notmarked"
+							"link": "/qtsl//read/chapter20/notmarked"
 						}
 					]
 				},
@@ -476,19 +482,19 @@
 					"items": [
 						{
 							"text": "卷二十一诗歌列表",
-							"link": "/qtsl/traditional/chapter21/poem"
+							"link": "/qtsl//read/chapter21/poem"
 						},
 						{
 							"text": "卷二十一按行分析",
-							"link": "/qtsl/traditional/chapter21/line"
+							"link": "/qtsl//read/chapter21/line"
 						},
 						{
 							"text": "卷二十一诗人作者",
-							"link": "/qtsl/traditional/chapter21/author"
+							"link": "/qtsl//read/chapter21/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter21/notmarked"
+							"link": "/qtsl//read/chapter21/notmarked"
 						}
 					]
 				},
@@ -499,19 +505,19 @@
 					"items": [
 						{
 							"text": "卷二十二诗歌列表",
-							"link": "/qtsl/traditional/chapter22/poem"
+							"link": "/qtsl//read/chapter22/poem"
 						},
 						{
 							"text": "卷二十二按行分析",
-							"link": "/qtsl/traditional/chapter22/line"
+							"link": "/qtsl//read/chapter22/line"
 						},
 						{
 							"text": "卷二十二诗人作者",
-							"link": "/qtsl/traditional/chapter22/author"
+							"link": "/qtsl//read/chapter22/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter22/notmarked"
+							"link": "/qtsl//read/chapter22/notmarked"
 						}
 					]
 				},
@@ -522,15 +528,15 @@
 					"items": [
 						{
 							"text": "卷二十三诗歌列表",
-							"link": "/qtsl/traditional/chapter23/poem"
+							"link": "/qtsl//read/chapter23/poem"
 						},
 						{
 							"text": "卷二十三按行分析",
-							"link": "/qtsl/traditional/chapter23/line"
+							"link": "/qtsl//read/chapter23/line"
 						},
 						{
 							"text": "卷二十三诗人作者",
-							"link": "/qtsl/traditional/chapter23/author"
+							"link": "/qtsl//read/chapter23/author"
 						}
 					]
 				},
@@ -541,15 +547,15 @@
 					"items": [
 						{
 							"text": "卷二十四诗歌列表",
-							"link": "/qtsl/traditional/chapter24/poem"
+							"link": "/qtsl//read/chapter24/poem"
 						},
 						{
 							"text": "卷二十四按行分析",
-							"link": "/qtsl/traditional/chapter24/line"
+							"link": "/qtsl//read/chapter24/line"
 						},
 						{
 							"text": "卷二十四诗人作者",
-							"link": "/qtsl/traditional/chapter24/author"
+							"link": "/qtsl//read/chapter24/author"
 						}
 					]
 				},
@@ -560,19 +566,19 @@
 					"items": [
 						{
 							"text": "卷二十五诗歌列表",
-							"link": "/qtsl/traditional/chapter25/poem"
+							"link": "/qtsl//read/chapter25/poem"
 						},
 						{
 							"text": "卷二十五按行分析",
-							"link": "/qtsl/traditional/chapter25/line"
+							"link": "/qtsl//read/chapter25/line"
 						},
 						{
 							"text": "卷二十五诗人作者",
-							"link": "/qtsl/traditional/chapter25/author"
+							"link": "/qtsl//read/chapter25/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter25/notmarked"
+							"link": "/qtsl//read/chapter25/notmarked"
 						}
 					]
 				},
@@ -583,19 +589,19 @@
 					"items": [
 						{
 							"text": "卷二十六诗歌列表",
-							"link": "/qtsl/traditional/chapter26/poem"
+							"link": "/qtsl//read/chapter26/poem"
 						},
 						{
 							"text": "卷二十六按行分析",
-							"link": "/qtsl/traditional/chapter26/line"
+							"link": "/qtsl//read/chapter26/line"
 						},
 						{
 							"text": "卷二十六诗人作者",
-							"link": "/qtsl/traditional/chapter26/author"
+							"link": "/qtsl//read/chapter26/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter26/notmarked"
+							"link": "/qtsl//read/chapter26/notmarked"
 						}
 					]
 				},
@@ -606,19 +612,19 @@
 					"items": [
 						{
 							"text": "卷二十七诗歌列表",
-							"link": "/qtsl/traditional/chapter27/poem"
+							"link": "/qtsl//read/chapter27/poem"
 						},
 						{
 							"text": "卷二十七按行分析",
-							"link": "/qtsl/traditional/chapter27/line"
+							"link": "/qtsl//read/chapter27/line"
 						},
 						{
 							"text": "卷二十七诗人作者",
-							"link": "/qtsl/traditional/chapter27/author"
+							"link": "/qtsl//read/chapter27/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter27/notmarked"
+							"link": "/qtsl//read/chapter27/notmarked"
 						}
 					]
 				},
@@ -629,15 +635,15 @@
 					"items": [
 						{
 							"text": "卷二十八诗歌列表",
-							"link": "/qtsl/traditional/chapter28/poem"
+							"link": "/qtsl//read/chapter28/poem"
 						},
 						{
 							"text": "卷二十八按行分析",
-							"link": "/qtsl/traditional/chapter28/line"
+							"link": "/qtsl//read/chapter28/line"
 						},
 						{
 							"text": "卷二十八诗人作者",
-							"link": "/qtsl/traditional/chapter28/author"
+							"link": "/qtsl//read/chapter28/author"
 						}
 					]
 				},
@@ -648,15 +654,15 @@
 					"items": [
 						{
 							"text": "卷二十九诗歌列表",
-							"link": "/qtsl/traditional/chapter29/poem"
+							"link": "/qtsl//read/chapter29/poem"
 						},
 						{
 							"text": "卷二十九按行分析",
-							"link": "/qtsl/traditional/chapter29/line"
+							"link": "/qtsl//read/chapter29/line"
 						},
 						{
 							"text": "卷二十九诗人作者",
-							"link": "/qtsl/traditional/chapter29/author"
+							"link": "/qtsl//read/chapter29/author"
 						}
 					]
 				},
@@ -667,15 +673,15 @@
 					"items": [
 						{
 							"text": "卷三十诗歌列表",
-							"link": "/qtsl/traditional/chapter30/poem"
+							"link": "/qtsl//read/chapter30/poem"
 						},
 						{
 							"text": "卷三十按行分析",
-							"link": "/qtsl/traditional/chapter30/line"
+							"link": "/qtsl//read/chapter30/line"
 						},
 						{
 							"text": "卷三十诗人作者",
-							"link": "/qtsl/traditional/chapter30/author"
+							"link": "/qtsl//read/chapter30/author"
 						}
 					]
 				},
@@ -686,15 +692,15 @@
 					"items": [
 						{
 							"text": "卷三十一诗歌列表",
-							"link": "/qtsl/traditional/chapter31/poem"
+							"link": "/qtsl//read/chapter31/poem"
 						},
 						{
 							"text": "卷三十一按行分析",
-							"link": "/qtsl/traditional/chapter31/line"
+							"link": "/qtsl//read/chapter31/line"
 						},
 						{
 							"text": "卷三十一诗人作者",
-							"link": "/qtsl/traditional/chapter31/author"
+							"link": "/qtsl//read/chapter31/author"
 						}
 					]
 				},
@@ -705,15 +711,15 @@
 					"items": [
 						{
 							"text": "卷三十二诗歌列表",
-							"link": "/qtsl/traditional/chapter32/poem"
+							"link": "/qtsl//read/chapter32/poem"
 						},
 						{
 							"text": "卷三十二按行分析",
-							"link": "/qtsl/traditional/chapter32/line"
+							"link": "/qtsl//read/chapter32/line"
 						},
 						{
 							"text": "卷三十二诗人作者",
-							"link": "/qtsl/traditional/chapter32/author"
+							"link": "/qtsl//read/chapter32/author"
 						}
 					]
 				},
@@ -724,15 +730,15 @@
 					"items": [
 						{
 							"text": "卷三十三诗歌列表",
-							"link": "/qtsl/traditional/chapter33/poem"
+							"link": "/qtsl//read/chapter33/poem"
 						},
 						{
 							"text": "卷三十三按行分析",
-							"link": "/qtsl/traditional/chapter33/line"
+							"link": "/qtsl//read/chapter33/line"
 						},
 						{
 							"text": "卷三十三诗人作者",
-							"link": "/qtsl/traditional/chapter33/author"
+							"link": "/qtsl//read/chapter33/author"
 						}
 					]
 				},
@@ -743,15 +749,15 @@
 					"items": [
 						{
 							"text": "卷三十四诗歌列表",
-							"link": "/qtsl/traditional/chapter34/poem"
+							"link": "/qtsl//read/chapter34/poem"
 						},
 						{
 							"text": "卷三十四按行分析",
-							"link": "/qtsl/traditional/chapter34/line"
+							"link": "/qtsl//read/chapter34/line"
 						},
 						{
 							"text": "卷三十四诗人作者",
-							"link": "/qtsl/traditional/chapter34/author"
+							"link": "/qtsl//read/chapter34/author"
 						}
 					]
 				},
@@ -762,15 +768,15 @@
 					"items": [
 						{
 							"text": "卷三十五诗歌列表",
-							"link": "/qtsl/traditional/chapter35/poem"
+							"link": "/qtsl//read/chapter35/poem"
 						},
 						{
 							"text": "卷三十五按行分析",
-							"link": "/qtsl/traditional/chapter35/line"
+							"link": "/qtsl//read/chapter35/line"
 						},
 						{
 							"text": "卷三十五诗人作者",
-							"link": "/qtsl/traditional/chapter35/author"
+							"link": "/qtsl//read/chapter35/author"
 						}
 					]
 				},
@@ -781,19 +787,19 @@
 					"items": [
 						{
 							"text": "卷三十六诗歌列表",
-							"link": "/qtsl/traditional/chapter36/poem"
+							"link": "/qtsl//read/chapter36/poem"
 						},
 						{
 							"text": "卷三十六按行分析",
-							"link": "/qtsl/traditional/chapter36/line"
+							"link": "/qtsl//read/chapter36/line"
 						},
 						{
 							"text": "卷三十六诗人作者",
-							"link": "/qtsl/traditional/chapter36/author"
+							"link": "/qtsl//read/chapter36/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter36/notmarked"
+							"link": "/qtsl//read/chapter36/notmarked"
 						}
 					]
 				},
@@ -804,19 +810,19 @@
 					"items": [
 						{
 							"text": "卷三十七诗歌列表",
-							"link": "/qtsl/traditional/chapter37/poem"
+							"link": "/qtsl//read/chapter37/poem"
 						},
 						{
 							"text": "卷三十七按行分析",
-							"link": "/qtsl/traditional/chapter37/line"
+							"link": "/qtsl//read/chapter37/line"
 						},
 						{
 							"text": "卷三十七诗人作者",
-							"link": "/qtsl/traditional/chapter37/author"
+							"link": "/qtsl//read/chapter37/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter37/notmarked"
+							"link": "/qtsl//read/chapter37/notmarked"
 						}
 					]
 				},
@@ -827,19 +833,19 @@
 					"items": [
 						{
 							"text": "卷三十八诗歌列表",
-							"link": "/qtsl/traditional/chapter38/poem"
+							"link": "/qtsl//read/chapter38/poem"
 						},
 						{
 							"text": "卷三十八按行分析",
-							"link": "/qtsl/traditional/chapter38/line"
+							"link": "/qtsl//read/chapter38/line"
 						},
 						{
 							"text": "卷三十八诗人作者",
-							"link": "/qtsl/traditional/chapter38/author"
+							"link": "/qtsl//read/chapter38/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter38/notmarked"
+							"link": "/qtsl//read/chapter38/notmarked"
 						}
 					]
 				},
@@ -850,19 +856,19 @@
 					"items": [
 						{
 							"text": "卷三十九诗歌列表",
-							"link": "/qtsl/traditional/chapter39/poem"
+							"link": "/qtsl//read/chapter39/poem"
 						},
 						{
 							"text": "卷三十九按行分析",
-							"link": "/qtsl/traditional/chapter39/line"
+							"link": "/qtsl//read/chapter39/line"
 						},
 						{
 							"text": "卷三十九诗人作者",
-							"link": "/qtsl/traditional/chapter39/author"
+							"link": "/qtsl//read/chapter39/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter39/notmarked"
+							"link": "/qtsl//read/chapter39/notmarked"
 						}
 					]
 				},
@@ -873,15 +879,15 @@
 					"items": [
 						{
 							"text": "卷四十诗歌列表",
-							"link": "/qtsl/traditional/chapter40/poem"
+							"link": "/qtsl//read/chapter40/poem"
 						},
 						{
 							"text": "卷四十按行分析",
-							"link": "/qtsl/traditional/chapter40/line"
+							"link": "/qtsl//read/chapter40/line"
 						},
 						{
 							"text": "卷四十诗人作者",
-							"link": "/qtsl/traditional/chapter40/author"
+							"link": "/qtsl//read/chapter40/author"
 						}
 					]
 				},
@@ -892,15 +898,15 @@
 					"items": [
 						{
 							"text": "卷四十一诗歌列表",
-							"link": "/qtsl/traditional/chapter41/poem"
+							"link": "/qtsl//read/chapter41/poem"
 						},
 						{
 							"text": "卷四十一按行分析",
-							"link": "/qtsl/traditional/chapter41/line"
+							"link": "/qtsl//read/chapter41/line"
 						},
 						{
 							"text": "卷四十一诗人作者",
-							"link": "/qtsl/traditional/chapter41/author"
+							"link": "/qtsl//read/chapter41/author"
 						}
 					]
 				},
@@ -911,19 +917,19 @@
 					"items": [
 						{
 							"text": "卷四十二诗歌列表",
-							"link": "/qtsl/traditional/chapter42/poem"
+							"link": "/qtsl//read/chapter42/poem"
 						},
 						{
 							"text": "卷四十二按行分析",
-							"link": "/qtsl/traditional/chapter42/line"
+							"link": "/qtsl//read/chapter42/line"
 						},
 						{
 							"text": "卷四十二诗人作者",
-							"link": "/qtsl/traditional/chapter42/author"
+							"link": "/qtsl//read/chapter42/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter42/notmarked"
+							"link": "/qtsl//read/chapter42/notmarked"
 						}
 					]
 				},
@@ -934,19 +940,19 @@
 					"items": [
 						{
 							"text": "卷四十三诗歌列表",
-							"link": "/qtsl/traditional/chapter43/poem"
+							"link": "/qtsl//read/chapter43/poem"
 						},
 						{
 							"text": "卷四十三按行分析",
-							"link": "/qtsl/traditional/chapter43/line"
+							"link": "/qtsl//read/chapter43/line"
 						},
 						{
 							"text": "卷四十三诗人作者",
-							"link": "/qtsl/traditional/chapter43/author"
+							"link": "/qtsl//read/chapter43/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter43/notmarked"
+							"link": "/qtsl//read/chapter43/notmarked"
 						}
 					]
 				},
@@ -957,15 +963,15 @@
 					"items": [
 						{
 							"text": "卷四十四诗歌列表",
-							"link": "/qtsl/traditional/chapter44/poem"
+							"link": "/qtsl//read/chapter44/poem"
 						},
 						{
 							"text": "卷四十四按行分析",
-							"link": "/qtsl/traditional/chapter44/line"
+							"link": "/qtsl//read/chapter44/line"
 						},
 						{
 							"text": "卷四十四诗人作者",
-							"link": "/qtsl/traditional/chapter44/author"
+							"link": "/qtsl//read/chapter44/author"
 						}
 					]
 				},
@@ -976,19 +982,19 @@
 					"items": [
 						{
 							"text": "卷四十五诗歌列表",
-							"link": "/qtsl/traditional/chapter45/poem"
+							"link": "/qtsl//read/chapter45/poem"
 						},
 						{
 							"text": "卷四十五按行分析",
-							"link": "/qtsl/traditional/chapter45/line"
+							"link": "/qtsl//read/chapter45/line"
 						},
 						{
 							"text": "卷四十五诗人作者",
-							"link": "/qtsl/traditional/chapter45/author"
+							"link": "/qtsl//read/chapter45/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter45/notmarked"
+							"link": "/qtsl//read/chapter45/notmarked"
 						}
 					]
 				},
@@ -999,19 +1005,19 @@
 					"items": [
 						{
 							"text": "卷四十六诗歌列表",
-							"link": "/qtsl/traditional/chapter46/poem"
+							"link": "/qtsl//read/chapter46/poem"
 						},
 						{
 							"text": "卷四十六按行分析",
-							"link": "/qtsl/traditional/chapter46/line"
+							"link": "/qtsl//read/chapter46/line"
 						},
 						{
 							"text": "卷四十六诗人作者",
-							"link": "/qtsl/traditional/chapter46/author"
+							"link": "/qtsl//read/chapter46/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter46/notmarked"
+							"link": "/qtsl//read/chapter46/notmarked"
 						}
 					]
 				},
@@ -1022,15 +1028,15 @@
 					"items": [
 						{
 							"text": "卷四十七诗歌列表",
-							"link": "/qtsl/traditional/chapter47/poem"
+							"link": "/qtsl//read/chapter47/poem"
 						},
 						{
 							"text": "卷四十七按行分析",
-							"link": "/qtsl/traditional/chapter47/line"
+							"link": "/qtsl//read/chapter47/line"
 						},
 						{
 							"text": "卷四十七诗人作者",
-							"link": "/qtsl/traditional/chapter47/author"
+							"link": "/qtsl//read/chapter47/author"
 						}
 					]
 				},
@@ -1041,19 +1047,19 @@
 					"items": [
 						{
 							"text": "卷四十八诗歌列表",
-							"link": "/qtsl/traditional/chapter48/poem"
+							"link": "/qtsl//read/chapter48/poem"
 						},
 						{
 							"text": "卷四十八按行分析",
-							"link": "/qtsl/traditional/chapter48/line"
+							"link": "/qtsl//read/chapter48/line"
 						},
 						{
 							"text": "卷四十八诗人作者",
-							"link": "/qtsl/traditional/chapter48/author"
+							"link": "/qtsl//read/chapter48/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter48/notmarked"
+							"link": "/qtsl//read/chapter48/notmarked"
 						}
 					]
 				},
@@ -1064,19 +1070,19 @@
 					"items": [
 						{
 							"text": "卷四十九诗歌列表",
-							"link": "/qtsl/traditional/chapter49/poem"
+							"link": "/qtsl//read/chapter49/poem"
 						},
 						{
 							"text": "卷四十九按行分析",
-							"link": "/qtsl/traditional/chapter49/line"
+							"link": "/qtsl//read/chapter49/line"
 						},
 						{
 							"text": "卷四十九诗人作者",
-							"link": "/qtsl/traditional/chapter49/author"
+							"link": "/qtsl//read/chapter49/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter49/notmarked"
+							"link": "/qtsl//read/chapter49/notmarked"
 						}
 					]
 				},
@@ -1087,19 +1093,19 @@
 					"items": [
 						{
 							"text": "卷五十诗歌列表",
-							"link": "/qtsl/traditional/chapter50/poem"
+							"link": "/qtsl//read/chapter50/poem"
 						},
 						{
 							"text": "卷五十按行分析",
-							"link": "/qtsl/traditional/chapter50/line"
+							"link": "/qtsl//read/chapter50/line"
 						},
 						{
 							"text": "卷五十诗人作者",
-							"link": "/qtsl/traditional/chapter50/author"
+							"link": "/qtsl//read/chapter50/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter50/notmarked"
+							"link": "/qtsl//read/chapter50/notmarked"
 						}
 					]
 				},
@@ -1110,19 +1116,19 @@
 					"items": [
 						{
 							"text": "卷五十一诗歌列表",
-							"link": "/qtsl/traditional/chapter51/poem"
+							"link": "/qtsl//read/chapter51/poem"
 						},
 						{
 							"text": "卷五十一按行分析",
-							"link": "/qtsl/traditional/chapter51/line"
+							"link": "/qtsl//read/chapter51/line"
 						},
 						{
 							"text": "卷五十一诗人作者",
-							"link": "/qtsl/traditional/chapter51/author"
+							"link": "/qtsl//read/chapter51/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter51/notmarked"
+							"link": "/qtsl//read/chapter51/notmarked"
 						}
 					]
 				},
@@ -1133,19 +1139,19 @@
 					"items": [
 						{
 							"text": "卷五十二诗歌列表",
-							"link": "/qtsl/traditional/chapter52/poem"
+							"link": "/qtsl//read/chapter52/poem"
 						},
 						{
 							"text": "卷五十二按行分析",
-							"link": "/qtsl/traditional/chapter52/line"
+							"link": "/qtsl//read/chapter52/line"
 						},
 						{
 							"text": "卷五十二诗人作者",
-							"link": "/qtsl/traditional/chapter52/author"
+							"link": "/qtsl//read/chapter52/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter52/notmarked"
+							"link": "/qtsl//read/chapter52/notmarked"
 						}
 					]
 				},
@@ -1156,15 +1162,15 @@
 					"items": [
 						{
 							"text": "卷五十三诗歌列表",
-							"link": "/qtsl/traditional/chapter53/poem"
+							"link": "/qtsl//read/chapter53/poem"
 						},
 						{
 							"text": "卷五十三按行分析",
-							"link": "/qtsl/traditional/chapter53/line"
+							"link": "/qtsl//read/chapter53/line"
 						},
 						{
 							"text": "卷五十三诗人作者",
-							"link": "/qtsl/traditional/chapter53/author"
+							"link": "/qtsl//read/chapter53/author"
 						}
 					]
 				},
@@ -1175,19 +1181,19 @@
 					"items": [
 						{
 							"text": "卷五十四诗歌列表",
-							"link": "/qtsl/traditional/chapter54/poem"
+							"link": "/qtsl//read/chapter54/poem"
 						},
 						{
 							"text": "卷五十四按行分析",
-							"link": "/qtsl/traditional/chapter54/line"
+							"link": "/qtsl//read/chapter54/line"
 						},
 						{
 							"text": "卷五十四诗人作者",
-							"link": "/qtsl/traditional/chapter54/author"
+							"link": "/qtsl//read/chapter54/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter54/notmarked"
+							"link": "/qtsl//read/chapter54/notmarked"
 						}
 					]
 				},
@@ -1198,19 +1204,19 @@
 					"items": [
 						{
 							"text": "卷五十五诗歌列表",
-							"link": "/qtsl/traditional/chapter55/poem"
+							"link": "/qtsl//read/chapter55/poem"
 						},
 						{
 							"text": "卷五十五按行分析",
-							"link": "/qtsl/traditional/chapter55/line"
+							"link": "/qtsl//read/chapter55/line"
 						},
 						{
 							"text": "卷五十五诗人作者",
-							"link": "/qtsl/traditional/chapter55/author"
+							"link": "/qtsl//read/chapter55/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter55/notmarked"
+							"link": "/qtsl//read/chapter55/notmarked"
 						}
 					]
 				},
@@ -1221,15 +1227,15 @@
 					"items": [
 						{
 							"text": "卷五十六诗歌列表",
-							"link": "/qtsl/traditional/chapter56/poem"
+							"link": "/qtsl//read/chapter56/poem"
 						},
 						{
 							"text": "卷五十六按行分析",
-							"link": "/qtsl/traditional/chapter56/line"
+							"link": "/qtsl//read/chapter56/line"
 						},
 						{
 							"text": "卷五十六诗人作者",
-							"link": "/qtsl/traditional/chapter56/author"
+							"link": "/qtsl//read/chapter56/author"
 						}
 					]
 				},
@@ -1240,19 +1246,19 @@
 					"items": [
 						{
 							"text": "卷五十七诗歌列表",
-							"link": "/qtsl/traditional/chapter57/poem"
+							"link": "/qtsl//read/chapter57/poem"
 						},
 						{
 							"text": "卷五十七按行分析",
-							"link": "/qtsl/traditional/chapter57/line"
+							"link": "/qtsl//read/chapter57/line"
 						},
 						{
 							"text": "卷五十七诗人作者",
-							"link": "/qtsl/traditional/chapter57/author"
+							"link": "/qtsl//read/chapter57/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter57/notmarked"
+							"link": "/qtsl//read/chapter57/notmarked"
 						}
 					]
 				},
@@ -1263,19 +1269,19 @@
 					"items": [
 						{
 							"text": "卷五十八诗歌列表",
-							"link": "/qtsl/traditional/chapter58/poem"
+							"link": "/qtsl//read/chapter58/poem"
 						},
 						{
 							"text": "卷五十八按行分析",
-							"link": "/qtsl/traditional/chapter58/line"
+							"link": "/qtsl//read/chapter58/line"
 						},
 						{
 							"text": "卷五十八诗人作者",
-							"link": "/qtsl/traditional/chapter58/author"
+							"link": "/qtsl//read/chapter58/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter58/notmarked"
+							"link": "/qtsl//read/chapter58/notmarked"
 						}
 					]
 				},
@@ -1286,15 +1292,15 @@
 					"items": [
 						{
 							"text": "卷五十九诗歌列表",
-							"link": "/qtsl/traditional/chapter59/poem"
+							"link": "/qtsl//read/chapter59/poem"
 						},
 						{
 							"text": "卷五十九按行分析",
-							"link": "/qtsl/traditional/chapter59/line"
+							"link": "/qtsl//read/chapter59/line"
 						},
 						{
 							"text": "卷五十九诗人作者",
-							"link": "/qtsl/traditional/chapter59/author"
+							"link": "/qtsl//read/chapter59/author"
 						}
 					]
 				},
@@ -1305,19 +1311,19 @@
 					"items": [
 						{
 							"text": "卷六十诗歌列表",
-							"link": "/qtsl/traditional/chapter60/poem"
+							"link": "/qtsl//read/chapter60/poem"
 						},
 						{
 							"text": "卷六十按行分析",
-							"link": "/qtsl/traditional/chapter60/line"
+							"link": "/qtsl//read/chapter60/line"
 						},
 						{
 							"text": "卷六十诗人作者",
-							"link": "/qtsl/traditional/chapter60/author"
+							"link": "/qtsl//read/chapter60/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter60/notmarked"
+							"link": "/qtsl//read/chapter60/notmarked"
 						}
 					]
 				},
@@ -1328,19 +1334,19 @@
 					"items": [
 						{
 							"text": "卷六十一诗歌列表",
-							"link": "/qtsl/traditional/chapter61/poem"
+							"link": "/qtsl//read/chapter61/poem"
 						},
 						{
 							"text": "卷六十一按行分析",
-							"link": "/qtsl/traditional/chapter61/line"
+							"link": "/qtsl//read/chapter61/line"
 						},
 						{
 							"text": "卷六十一诗人作者",
-							"link": "/qtsl/traditional/chapter61/author"
+							"link": "/qtsl//read/chapter61/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter61/notmarked"
+							"link": "/qtsl//read/chapter61/notmarked"
 						}
 					]
 				},
@@ -1351,19 +1357,19 @@
 					"items": [
 						{
 							"text": "卷六十二诗歌列表",
-							"link": "/qtsl/traditional/chapter62/poem"
+							"link": "/qtsl//read/chapter62/poem"
 						},
 						{
 							"text": "卷六十二按行分析",
-							"link": "/qtsl/traditional/chapter62/line"
+							"link": "/qtsl//read/chapter62/line"
 						},
 						{
 							"text": "卷六十二诗人作者",
-							"link": "/qtsl/traditional/chapter62/author"
+							"link": "/qtsl//read/chapter62/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter62/notmarked"
+							"link": "/qtsl//read/chapter62/notmarked"
 						}
 					]
 				},
@@ -1374,19 +1380,19 @@
 					"items": [
 						{
 							"text": "卷六十三诗歌列表",
-							"link": "/qtsl/traditional/chapter63/poem"
+							"link": "/qtsl//read/chapter63/poem"
 						},
 						{
 							"text": "卷六十三按行分析",
-							"link": "/qtsl/traditional/chapter63/line"
+							"link": "/qtsl//read/chapter63/line"
 						},
 						{
 							"text": "卷六十三诗人作者",
-							"link": "/qtsl/traditional/chapter63/author"
+							"link": "/qtsl//read/chapter63/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter63/notmarked"
+							"link": "/qtsl//read/chapter63/notmarked"
 						}
 					]
 				},
@@ -1397,15 +1403,15 @@
 					"items": [
 						{
 							"text": "卷六十四诗歌列表",
-							"link": "/qtsl/traditional/chapter64/poem"
+							"link": "/qtsl//read/chapter64/poem"
 						},
 						{
 							"text": "卷六十四按行分析",
-							"link": "/qtsl/traditional/chapter64/line"
+							"link": "/qtsl//read/chapter64/line"
 						},
 						{
 							"text": "卷六十四诗人作者",
-							"link": "/qtsl/traditional/chapter64/author"
+							"link": "/qtsl//read/chapter64/author"
 						}
 					]
 				},
@@ -1416,15 +1422,15 @@
 					"items": [
 						{
 							"text": "卷六十五诗歌列表",
-							"link": "/qtsl/traditional/chapter65/poem"
+							"link": "/qtsl//read/chapter65/poem"
 						},
 						{
 							"text": "卷六十五按行分析",
-							"link": "/qtsl/traditional/chapter65/line"
+							"link": "/qtsl//read/chapter65/line"
 						},
 						{
 							"text": "卷六十五诗人作者",
-							"link": "/qtsl/traditional/chapter65/author"
+							"link": "/qtsl//read/chapter65/author"
 						}
 					]
 				},
@@ -1435,15 +1441,15 @@
 					"items": [
 						{
 							"text": "卷六十六诗歌列表",
-							"link": "/qtsl/traditional/chapter66/poem"
+							"link": "/qtsl//read/chapter66/poem"
 						},
 						{
 							"text": "卷六十六按行分析",
-							"link": "/qtsl/traditional/chapter66/line"
+							"link": "/qtsl//read/chapter66/line"
 						},
 						{
 							"text": "卷六十六诗人作者",
-							"link": "/qtsl/traditional/chapter66/author"
+							"link": "/qtsl//read/chapter66/author"
 						}
 					]
 				},
@@ -1454,15 +1460,15 @@
 					"items": [
 						{
 							"text": "卷六十七诗歌列表",
-							"link": "/qtsl/traditional/chapter67/poem"
+							"link": "/qtsl//read/chapter67/poem"
 						},
 						{
 							"text": "卷六十七按行分析",
-							"link": "/qtsl/traditional/chapter67/line"
+							"link": "/qtsl//read/chapter67/line"
 						},
 						{
 							"text": "卷六十七诗人作者",
-							"link": "/qtsl/traditional/chapter67/author"
+							"link": "/qtsl//read/chapter67/author"
 						}
 					]
 				},
@@ -1473,19 +1479,19 @@
 					"items": [
 						{
 							"text": "卷六十八诗歌列表",
-							"link": "/qtsl/traditional/chapter68/poem"
+							"link": "/qtsl//read/chapter68/poem"
 						},
 						{
 							"text": "卷六十八按行分析",
-							"link": "/qtsl/traditional/chapter68/line"
+							"link": "/qtsl//read/chapter68/line"
 						},
 						{
 							"text": "卷六十八诗人作者",
-							"link": "/qtsl/traditional/chapter68/author"
+							"link": "/qtsl//read/chapter68/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter68/notmarked"
+							"link": "/qtsl//read/chapter68/notmarked"
 						}
 					]
 				},
@@ -1496,19 +1502,19 @@
 					"items": [
 						{
 							"text": "卷六十九诗歌列表",
-							"link": "/qtsl/traditional/chapter69/poem"
+							"link": "/qtsl//read/chapter69/poem"
 						},
 						{
 							"text": "卷六十九按行分析",
-							"link": "/qtsl/traditional/chapter69/line"
+							"link": "/qtsl//read/chapter69/line"
 						},
 						{
 							"text": "卷六十九诗人作者",
-							"link": "/qtsl/traditional/chapter69/author"
+							"link": "/qtsl//read/chapter69/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter69/notmarked"
+							"link": "/qtsl//read/chapter69/notmarked"
 						}
 					]
 				},
@@ -1519,15 +1525,15 @@
 					"items": [
 						{
 							"text": "卷七十诗歌列表",
-							"link": "/qtsl/traditional/chapter70/poem"
+							"link": "/qtsl//read/chapter70/poem"
 						},
 						{
 							"text": "卷七十按行分析",
-							"link": "/qtsl/traditional/chapter70/line"
+							"link": "/qtsl//read/chapter70/line"
 						},
 						{
 							"text": "卷七十诗人作者",
-							"link": "/qtsl/traditional/chapter70/author"
+							"link": "/qtsl//read/chapter70/author"
 						}
 					]
 				},
@@ -1538,15 +1544,15 @@
 					"items": [
 						{
 							"text": "卷七十一诗歌列表",
-							"link": "/qtsl/traditional/chapter71/poem"
+							"link": "/qtsl//read/chapter71/poem"
 						},
 						{
 							"text": "卷七十一按行分析",
-							"link": "/qtsl/traditional/chapter71/line"
+							"link": "/qtsl//read/chapter71/line"
 						},
 						{
 							"text": "卷七十一诗人作者",
-							"link": "/qtsl/traditional/chapter71/author"
+							"link": "/qtsl//read/chapter71/author"
 						}
 					]
 				},
@@ -1557,15 +1563,15 @@
 					"items": [
 						{
 							"text": "卷七十二诗歌列表",
-							"link": "/qtsl/traditional/chapter72/poem"
+							"link": "/qtsl//read/chapter72/poem"
 						},
 						{
 							"text": "卷七十二按行分析",
-							"link": "/qtsl/traditional/chapter72/line"
+							"link": "/qtsl//read/chapter72/line"
 						},
 						{
 							"text": "卷七十二诗人作者",
-							"link": "/qtsl/traditional/chapter72/author"
+							"link": "/qtsl//read/chapter72/author"
 						}
 					]
 				},
@@ -1576,19 +1582,19 @@
 					"items": [
 						{
 							"text": "卷七十三诗歌列表",
-							"link": "/qtsl/traditional/chapter73/poem"
+							"link": "/qtsl//read/chapter73/poem"
 						},
 						{
 							"text": "卷七十三按行分析",
-							"link": "/qtsl/traditional/chapter73/line"
+							"link": "/qtsl//read/chapter73/line"
 						},
 						{
 							"text": "卷七十三诗人作者",
-							"link": "/qtsl/traditional/chapter73/author"
+							"link": "/qtsl//read/chapter73/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter73/notmarked"
+							"link": "/qtsl//read/chapter73/notmarked"
 						}
 					]
 				},
@@ -1599,15 +1605,15 @@
 					"items": [
 						{
 							"text": "卷七十四诗歌列表",
-							"link": "/qtsl/traditional/chapter74/poem"
+							"link": "/qtsl//read/chapter74/poem"
 						},
 						{
 							"text": "卷七十四按行分析",
-							"link": "/qtsl/traditional/chapter74/line"
+							"link": "/qtsl//read/chapter74/line"
 						},
 						{
 							"text": "卷七十四诗人作者",
-							"link": "/qtsl/traditional/chapter74/author"
+							"link": "/qtsl//read/chapter74/author"
 						}
 					]
 				},
@@ -1618,19 +1624,19 @@
 					"items": [
 						{
 							"text": "卷七十五诗歌列表",
-							"link": "/qtsl/traditional/chapter75/poem"
+							"link": "/qtsl//read/chapter75/poem"
 						},
 						{
 							"text": "卷七十五按行分析",
-							"link": "/qtsl/traditional/chapter75/line"
+							"link": "/qtsl//read/chapter75/line"
 						},
 						{
 							"text": "卷七十五诗人作者",
-							"link": "/qtsl/traditional/chapter75/author"
+							"link": "/qtsl//read/chapter75/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter75/notmarked"
+							"link": "/qtsl//read/chapter75/notmarked"
 						}
 					]
 				},
@@ -1641,19 +1647,19 @@
 					"items": [
 						{
 							"text": "卷七十六诗歌列表",
-							"link": "/qtsl/traditional/chapter76/poem"
+							"link": "/qtsl//read/chapter76/poem"
 						},
 						{
 							"text": "卷七十六按行分析",
-							"link": "/qtsl/traditional/chapter76/line"
+							"link": "/qtsl//read/chapter76/line"
 						},
 						{
 							"text": "卷七十六诗人作者",
-							"link": "/qtsl/traditional/chapter76/author"
+							"link": "/qtsl//read/chapter76/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter76/notmarked"
+							"link": "/qtsl//read/chapter76/notmarked"
 						}
 					]
 				},
@@ -1664,15 +1670,15 @@
 					"items": [
 						{
 							"text": "卷七十七诗歌列表",
-							"link": "/qtsl/traditional/chapter77/poem"
+							"link": "/qtsl//read/chapter77/poem"
 						},
 						{
 							"text": "卷七十七按行分析",
-							"link": "/qtsl/traditional/chapter77/line"
+							"link": "/qtsl//read/chapter77/line"
 						},
 						{
 							"text": "卷七十七诗人作者",
-							"link": "/qtsl/traditional/chapter77/author"
+							"link": "/qtsl//read/chapter77/author"
 						}
 					]
 				},
@@ -1683,19 +1689,19 @@
 					"items": [
 						{
 							"text": "卷七十八诗歌列表",
-							"link": "/qtsl/traditional/chapter78/poem"
+							"link": "/qtsl//read/chapter78/poem"
 						},
 						{
 							"text": "卷七十八按行分析",
-							"link": "/qtsl/traditional/chapter78/line"
+							"link": "/qtsl//read/chapter78/line"
 						},
 						{
 							"text": "卷七十八诗人作者",
-							"link": "/qtsl/traditional/chapter78/author"
+							"link": "/qtsl//read/chapter78/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter78/notmarked"
+							"link": "/qtsl//read/chapter78/notmarked"
 						}
 					]
 				},
@@ -1706,15 +1712,15 @@
 					"items": [
 						{
 							"text": "卷七十九诗歌列表",
-							"link": "/qtsl/traditional/chapter79/poem"
+							"link": "/qtsl//read/chapter79/poem"
 						},
 						{
 							"text": "卷七十九按行分析",
-							"link": "/qtsl/traditional/chapter79/line"
+							"link": "/qtsl//read/chapter79/line"
 						},
 						{
 							"text": "卷七十九诗人作者",
-							"link": "/qtsl/traditional/chapter79/author"
+							"link": "/qtsl//read/chapter79/author"
 						}
 					]
 				},
@@ -1725,15 +1731,15 @@
 					"items": [
 						{
 							"text": "卷八十诗歌列表",
-							"link": "/qtsl/traditional/chapter80/poem"
+							"link": "/qtsl//read/chapter80/poem"
 						},
 						{
 							"text": "卷八十按行分析",
-							"link": "/qtsl/traditional/chapter80/line"
+							"link": "/qtsl//read/chapter80/line"
 						},
 						{
 							"text": "卷八十诗人作者",
-							"link": "/qtsl/traditional/chapter80/author"
+							"link": "/qtsl//read/chapter80/author"
 						}
 					]
 				},
@@ -1744,15 +1750,15 @@
 					"items": [
 						{
 							"text": "卷八十一诗歌列表",
-							"link": "/qtsl/traditional/chapter81/poem"
+							"link": "/qtsl//read/chapter81/poem"
 						},
 						{
 							"text": "卷八十一按行分析",
-							"link": "/qtsl/traditional/chapter81/line"
+							"link": "/qtsl//read/chapter81/line"
 						},
 						{
 							"text": "卷八十一诗人作者",
-							"link": "/qtsl/traditional/chapter81/author"
+							"link": "/qtsl//read/chapter81/author"
 						}
 					]
 				},
@@ -1763,15 +1769,15 @@
 					"items": [
 						{
 							"text": "卷八十二诗歌列表",
-							"link": "/qtsl/traditional/chapter82/poem"
+							"link": "/qtsl//read/chapter82/poem"
 						},
 						{
 							"text": "卷八十二按行分析",
-							"link": "/qtsl/traditional/chapter82/line"
+							"link": "/qtsl//read/chapter82/line"
 						},
 						{
 							"text": "卷八十二诗人作者",
-							"link": "/qtsl/traditional/chapter82/author"
+							"link": "/qtsl//read/chapter82/author"
 						}
 					]
 				},
@@ -1782,19 +1788,19 @@
 					"items": [
 						{
 							"text": "卷八十三诗歌列表",
-							"link": "/qtsl/traditional/chapter83/poem"
+							"link": "/qtsl//read/chapter83/poem"
 						},
 						{
 							"text": "卷八十三按行分析",
-							"link": "/qtsl/traditional/chapter83/line"
+							"link": "/qtsl//read/chapter83/line"
 						},
 						{
 							"text": "卷八十三诗人作者",
-							"link": "/qtsl/traditional/chapter83/author"
+							"link": "/qtsl//read/chapter83/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter83/notmarked"
+							"link": "/qtsl//read/chapter83/notmarked"
 						}
 					]
 				},
@@ -1805,19 +1811,19 @@
 					"items": [
 						{
 							"text": "卷八十四诗歌列表",
-							"link": "/qtsl/traditional/chapter84/poem"
+							"link": "/qtsl//read/chapter84/poem"
 						},
 						{
 							"text": "卷八十四按行分析",
-							"link": "/qtsl/traditional/chapter84/line"
+							"link": "/qtsl//read/chapter84/line"
 						},
 						{
 							"text": "卷八十四诗人作者",
-							"link": "/qtsl/traditional/chapter84/author"
+							"link": "/qtsl//read/chapter84/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter84/notmarked"
+							"link": "/qtsl//read/chapter84/notmarked"
 						}
 					]
 				},
@@ -1828,19 +1834,19 @@
 					"items": [
 						{
 							"text": "卷八十五诗歌列表",
-							"link": "/qtsl/traditional/chapter85/poem"
+							"link": "/qtsl//read/chapter85/poem"
 						},
 						{
 							"text": "卷八十五按行分析",
-							"link": "/qtsl/traditional/chapter85/line"
+							"link": "/qtsl//read/chapter85/line"
 						},
 						{
 							"text": "卷八十五诗人作者",
-							"link": "/qtsl/traditional/chapter85/author"
+							"link": "/qtsl//read/chapter85/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter85/notmarked"
+							"link": "/qtsl//read/chapter85/notmarked"
 						}
 					]
 				},
@@ -1851,19 +1857,19 @@
 					"items": [
 						{
 							"text": "卷八十六诗歌列表",
-							"link": "/qtsl/traditional/chapter86/poem"
+							"link": "/qtsl//read/chapter86/poem"
 						},
 						{
 							"text": "卷八十六按行分析",
-							"link": "/qtsl/traditional/chapter86/line"
+							"link": "/qtsl//read/chapter86/line"
 						},
 						{
 							"text": "卷八十六诗人作者",
-							"link": "/qtsl/traditional/chapter86/author"
+							"link": "/qtsl//read/chapter86/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter86/notmarked"
+							"link": "/qtsl//read/chapter86/notmarked"
 						}
 					]
 				},
@@ -1874,19 +1880,19 @@
 					"items": [
 						{
 							"text": "卷八十七诗歌列表",
-							"link": "/qtsl/traditional/chapter87/poem"
+							"link": "/qtsl//read/chapter87/poem"
 						},
 						{
 							"text": "卷八十七按行分析",
-							"link": "/qtsl/traditional/chapter87/line"
+							"link": "/qtsl//read/chapter87/line"
 						},
 						{
 							"text": "卷八十七诗人作者",
-							"link": "/qtsl/traditional/chapter87/author"
+							"link": "/qtsl//read/chapter87/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter87/notmarked"
+							"link": "/qtsl//read/chapter87/notmarked"
 						}
 					]
 				},
@@ -1897,19 +1903,19 @@
 					"items": [
 						{
 							"text": "卷八十八诗歌列表",
-							"link": "/qtsl/traditional/chapter88/poem"
+							"link": "/qtsl//read/chapter88/poem"
 						},
 						{
 							"text": "卷八十八按行分析",
-							"link": "/qtsl/traditional/chapter88/line"
+							"link": "/qtsl//read/chapter88/line"
 						},
 						{
 							"text": "卷八十八诗人作者",
-							"link": "/qtsl/traditional/chapter88/author"
+							"link": "/qtsl//read/chapter88/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter88/notmarked"
+							"link": "/qtsl//read/chapter88/notmarked"
 						}
 					]
 				},
@@ -1920,19 +1926,19 @@
 					"items": [
 						{
 							"text": "卷八十九诗歌列表",
-							"link": "/qtsl/traditional/chapter89/poem"
+							"link": "/qtsl//read/chapter89/poem"
 						},
 						{
 							"text": "卷八十九按行分析",
-							"link": "/qtsl/traditional/chapter89/line"
+							"link": "/qtsl//read/chapter89/line"
 						},
 						{
 							"text": "卷八十九诗人作者",
-							"link": "/qtsl/traditional/chapter89/author"
+							"link": "/qtsl//read/chapter89/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter89/notmarked"
+							"link": "/qtsl//read/chapter89/notmarked"
 						}
 					]
 				},
@@ -1943,15 +1949,15 @@
 					"items": [
 						{
 							"text": "卷九十诗歌列表",
-							"link": "/qtsl/traditional/chapter90/poem"
+							"link": "/qtsl//read/chapter90/poem"
 						},
 						{
 							"text": "卷九十按行分析",
-							"link": "/qtsl/traditional/chapter90/line"
+							"link": "/qtsl//read/chapter90/line"
 						},
 						{
 							"text": "卷九十诗人作者",
-							"link": "/qtsl/traditional/chapter90/author"
+							"link": "/qtsl//read/chapter90/author"
 						}
 					]
 				},
@@ -1962,19 +1968,19 @@
 					"items": [
 						{
 							"text": "卷九十一诗歌列表",
-							"link": "/qtsl/traditional/chapter91/poem"
+							"link": "/qtsl//read/chapter91/poem"
 						},
 						{
 							"text": "卷九十一按行分析",
-							"link": "/qtsl/traditional/chapter91/line"
+							"link": "/qtsl//read/chapter91/line"
 						},
 						{
 							"text": "卷九十一诗人作者",
-							"link": "/qtsl/traditional/chapter91/author"
+							"link": "/qtsl//read/chapter91/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter91/notmarked"
+							"link": "/qtsl//read/chapter91/notmarked"
 						}
 					]
 				},
@@ -1985,19 +1991,19 @@
 					"items": [
 						{
 							"text": "卷九十二诗歌列表",
-							"link": "/qtsl/traditional/chapter92/poem"
+							"link": "/qtsl//read/chapter92/poem"
 						},
 						{
 							"text": "卷九十二按行分析",
-							"link": "/qtsl/traditional/chapter92/line"
+							"link": "/qtsl//read/chapter92/line"
 						},
 						{
 							"text": "卷九十二诗人作者",
-							"link": "/qtsl/traditional/chapter92/author"
+							"link": "/qtsl//read/chapter92/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter92/notmarked"
+							"link": "/qtsl//read/chapter92/notmarked"
 						}
 					]
 				},
@@ -2008,19 +2014,19 @@
 					"items": [
 						{
 							"text": "卷九十三诗歌列表",
-							"link": "/qtsl/traditional/chapter93/poem"
+							"link": "/qtsl//read/chapter93/poem"
 						},
 						{
 							"text": "卷九十三按行分析",
-							"link": "/qtsl/traditional/chapter93/line"
+							"link": "/qtsl//read/chapter93/line"
 						},
 						{
 							"text": "卷九十三诗人作者",
-							"link": "/qtsl/traditional/chapter93/author"
+							"link": "/qtsl//read/chapter93/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter93/notmarked"
+							"link": "/qtsl//read/chapter93/notmarked"
 						}
 					]
 				},
@@ -2031,19 +2037,19 @@
 					"items": [
 						{
 							"text": "卷九十四诗歌列表",
-							"link": "/qtsl/traditional/chapter94/poem"
+							"link": "/qtsl//read/chapter94/poem"
 						},
 						{
 							"text": "卷九十四按行分析",
-							"link": "/qtsl/traditional/chapter94/line"
+							"link": "/qtsl//read/chapter94/line"
 						},
 						{
 							"text": "卷九十四诗人作者",
-							"link": "/qtsl/traditional/chapter94/author"
+							"link": "/qtsl//read/chapter94/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter94/notmarked"
+							"link": "/qtsl//read/chapter94/notmarked"
 						}
 					]
 				},
@@ -2054,15 +2060,15 @@
 					"items": [
 						{
 							"text": "卷九十五诗歌列表",
-							"link": "/qtsl/traditional/chapter95/poem"
+							"link": "/qtsl//read/chapter95/poem"
 						},
 						{
 							"text": "卷九十五按行分析",
-							"link": "/qtsl/traditional/chapter95/line"
+							"link": "/qtsl//read/chapter95/line"
 						},
 						{
 							"text": "卷九十五诗人作者",
-							"link": "/qtsl/traditional/chapter95/author"
+							"link": "/qtsl//read/chapter95/author"
 						}
 					]
 				},
@@ -2073,19 +2079,19 @@
 					"items": [
 						{
 							"text": "卷九十六诗歌列表",
-							"link": "/qtsl/traditional/chapter96/poem"
+							"link": "/qtsl//read/chapter96/poem"
 						},
 						{
 							"text": "卷九十六按行分析",
-							"link": "/qtsl/traditional/chapter96/line"
+							"link": "/qtsl//read/chapter96/line"
 						},
 						{
 							"text": "卷九十六诗人作者",
-							"link": "/qtsl/traditional/chapter96/author"
+							"link": "/qtsl//read/chapter96/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter96/notmarked"
+							"link": "/qtsl//read/chapter96/notmarked"
 						}
 					]
 				},
@@ -2096,19 +2102,19 @@
 					"items": [
 						{
 							"text": "卷九十七诗歌列表",
-							"link": "/qtsl/traditional/chapter97/poem"
+							"link": "/qtsl//read/chapter97/poem"
 						},
 						{
 							"text": "卷九十七按行分析",
-							"link": "/qtsl/traditional/chapter97/line"
+							"link": "/qtsl//read/chapter97/line"
 						},
 						{
 							"text": "卷九十七诗人作者",
-							"link": "/qtsl/traditional/chapter97/author"
+							"link": "/qtsl//read/chapter97/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter97/notmarked"
+							"link": "/qtsl//read/chapter97/notmarked"
 						}
 					]
 				},
@@ -2119,19 +2125,19 @@
 					"items": [
 						{
 							"text": "卷九十八诗歌列表",
-							"link": "/qtsl/traditional/chapter98/poem"
+							"link": "/qtsl//read/chapter98/poem"
 						},
 						{
 							"text": "卷九十八按行分析",
-							"link": "/qtsl/traditional/chapter98/line"
+							"link": "/qtsl//read/chapter98/line"
 						},
 						{
 							"text": "卷九十八诗人作者",
-							"link": "/qtsl/traditional/chapter98/author"
+							"link": "/qtsl//read/chapter98/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter98/notmarked"
+							"link": "/qtsl//read/chapter98/notmarked"
 						}
 					]
 				},
@@ -2142,19 +2148,19 @@
 					"items": [
 						{
 							"text": "卷九十九诗歌列表",
-							"link": "/qtsl/traditional/chapter99/poem"
+							"link": "/qtsl//read/chapter99/poem"
 						},
 						{
 							"text": "卷九十九按行分析",
-							"link": "/qtsl/traditional/chapter99/line"
+							"link": "/qtsl//read/chapter99/line"
 						},
 						{
 							"text": "卷九十九诗人作者",
-							"link": "/qtsl/traditional/chapter99/author"
+							"link": "/qtsl//read/chapter99/author"
 						},
 						{
 							"text": "未注标点诗歌",
-							"link": "/qtsl/traditional/chapter99/notmarked"
+							"link": "/qtsl//read/chapter99/notmarked"
 						}
 					]
 				},
@@ -2165,15 +2171,15 @@
 					"items": [
 						{
 							"text": "卷一百诗歌列表",
-							"link": "/qtsl/traditional/chapter100/poem"
+							"link": "/qtsl//read/chapter100/poem"
 						},
 						{
 							"text": "卷一百按行分析",
-							"link": "/qtsl/traditional/chapter100/line"
+							"link": "/qtsl//read/chapter100/line"
 						},
 						{
 							"text": "卷一百诗人作者",
-							"link": "/qtsl/traditional/chapter100/author"
+							"link": "/qtsl//read/chapter100/author"
 						}
 					]
 				}

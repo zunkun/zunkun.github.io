@@ -12,7 +12,7 @@ hero:
       text: 文章列表
       link: /posts/
     - theme: alt
-      text: 专题列表
-      link: /topics/
+      text: 全唐诗录
+      link: /qtsl/
 ---
 

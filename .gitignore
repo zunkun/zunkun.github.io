@@ -28,5 +28,5 @@ docs/.vitepress/cache/*
 
 test/*
 code/*
-docs/qtsl/traditional/chapter*
+docs/qtsl/read/chapter*
 docs/qtsl/simplified/chapter*

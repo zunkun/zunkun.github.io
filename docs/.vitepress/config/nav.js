@@ -4,8 +4,8 @@
 const nav = [
   {
     text: '全唐诗录',
-    link: '/qtsl/traditional/',
-    activeMatch: '/qtsl/traditional/',
+    link: '/qtsl/',
+    activeMatch: '/qtsl/',
   },
   {
     text: '生活感悟',

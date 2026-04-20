@@ -44,14 +44,39 @@ const ideaService = {
 
   // 获取专题sidebar
   getSidebarMap() {
-    const ideaSidebarMap = {};
+    const prePath = '/ideas/';
+
     const ideas = this.getIdeas();
 
+    const ideaList = [];
+
     ideas.forEach(idea => {
-      ideaSidebarMap[idea.link] = getSidebarLists(idea.link);
+      if (idea.link === '/ideas/') return;
+
+      const sidebarList = getSidebarLists(idea.link);
+
+      const item = {
+        text: idea.name,
+        link: idea.link,
+        items: sidebarList,
+      };
+      ideaList.push(item);
     });
 
-    return ideaSidebarMap;
+    const sidebarMap = {
+      [prePath]: [
+        {
+          text: '生活感悟',
+          link: prePath,
+          items: ideaList,
+        },
+      ],
+    };
+
+    console.log({ sidebarMap });
+    console.log({ ideaList });
+
+    return sidebarMap;
   },
 };
 
