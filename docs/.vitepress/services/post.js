@@ -24,7 +24,7 @@ const postService = {
     });
 
     entries.forEach(entry => {
-      console.log(`检查文章 ${entry.path}`);
+      // console.log(`检查文章 ${entry.path}`);
 
       const mtObj = matter.read(entry.path);
       if (!mtObj) return;

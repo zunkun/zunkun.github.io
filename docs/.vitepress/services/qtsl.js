@@ -27,7 +27,7 @@ const qtslService = {
   },
   createChpterDir(chapterDir) {
     try {
-      console.log(`创建目录：${chapterDir}`);
+      // console.log(`创建目录：${chapterDir}`);
       mkdirSync(chapterDir, { recursive: true });
     } catch (error) {
       console.log(`创建目录失败：${error}`);

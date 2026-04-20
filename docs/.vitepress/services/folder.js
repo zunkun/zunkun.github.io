@@ -33,7 +33,7 @@ const folderService = {
    * @param {string} param1 title
    */
   checkFolderDesc(entry) {
-    console.log(`检查文件夹：${entry.path}`);
+    // console.log(`检查文件夹：${entry.path}`);
     const filepath = `${entry.path}index.md`;
     const title = entry.name;
 

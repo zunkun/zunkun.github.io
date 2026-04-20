@@ -73,9 +73,6 @@ const ideaService = {
       ],
     };
 
-    console.log({ sidebarMap });
-    console.log({ ideaList });
-
     return sidebarMap;
   },
 };

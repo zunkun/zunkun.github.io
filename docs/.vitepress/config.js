@@ -1,8 +1,10 @@
-import './services/initialization';
 import mathjax3 from 'markdown-it-mathjax3';
+import initService from './services/initialization';
 // import markdownItMermaid from '@wekanteam/markdown-it-mermaid';
 
 import themeConfig from './config/themeConfig';
+
+initService.start();
 
 const customElements = ['mjx-container', 'mo', 'math', 'mn', 'mi', 'mjx-assistive-mml', 'mrow'];
 

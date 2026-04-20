@@ -24,12 +24,11 @@ const initService = {
       // idea整理
       ideaService,
     ];
+
     services.forEach(async service => {
       await service.start();
     });
   },
 };
-
-initService.start();
 
 export default initService;
