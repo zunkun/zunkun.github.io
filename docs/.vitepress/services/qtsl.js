@@ -218,6 +218,10 @@ import authorMap from '/data/qtsl/${chapter}/author.json'
 
     const title = `御定全唐詩錄${chapter}`;
 
+    const notMarkedFilePath = `docs/data/qtsl/${chapter}/poems.notmarked.json`;
+    // 处理未标注标点的诗句
+    const notMarkedExist = existsSync(notMarkedFilePath);
+
     const content = `---
 title: ${title}
 date: '${dateStr}'
@@ -229,7 +233,7 @@ aside: false
 1. [诗歌列表](poem.md)
 2. [按行分析](line.md)
 3. [诗人作者](author.md)
-4. [未标注标点诗歌列表](notmarked.md)
+${notMarkedExist ? '4. [未标注标点诗歌列表](notmarked.md)' : ''}
 
 `;
 
