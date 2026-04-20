@@ -1,9 +1,7 @@
-import categoryService from './category';
 import folderService from './folder';
 import ideaService from './idea';
 import postService from './post';
 import sidebarService from './sidebar';
-import topicService from './topic';
 import qtslService from './qtsl';
 
 /**
@@ -18,10 +16,7 @@ const initService = {
       folderService,
       // 检查文件文档
       postService,
-      // 检查专题文档列表
-      topicService,
-      // 分类整理
-      categoryService,
+
       // sidebar整理
       sidebarService,
       // idea整理
